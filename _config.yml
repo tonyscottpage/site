@@ -1,0 +1,4 @@
+name: Page Consulting
+markdown: redcarpet
+pygments: true
+permalink: /:title
