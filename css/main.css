@@ -13,10 +13,14 @@
 html, body { height: 100%; }
 
 body {
+
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
   font-size: small;
-  text-align: center;
+  margin-left: 100px;
+  text-align: justify;
+  padding-left: 5px;
+  padding-right: 5px
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -46,7 +50,7 @@ a:visited { color: #a0a; }
   font-size: 115%;
   text-align: justify;
   width: 42em;
-  margin: 3em auto 2em;
+  margin: 10em auto 2em;
   line-height: 1.5em;
 }
 
@@ -54,8 +58,9 @@ a:visited { color: #a0a; }
 aside {
   position: fixed;
   left: 0; top: 0;
-  width: 300px;
+  width: 100px;
   height: 100%;
+  text-align: center;
   background: silver;
 }
 
