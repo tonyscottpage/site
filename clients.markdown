@@ -1,7 +1,9 @@
 ---
+id: clients
 layout: page
-name: "Clients"
-title:  "What sort of clients work with us?"
+title: "Clients"
+page-title:  "What sort of clients work with us?"
+permalink: /clients/
 ---
 
 Our CLIENTS are women or men on the move, younger or older, from any background and country. You emerge in unexpected places, as individuals, leadership teams and cross-organisational groups. You are different in how you are facing challenges, and in how you give and get power. You are not big or crushing. You work across more than top down, influencing at boundaries, embracing differences.

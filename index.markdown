@@ -1,4 +1,5 @@
 ---
+id: home
 layout: page
 title:  "Welcome and thank you for visiting!"
 ---

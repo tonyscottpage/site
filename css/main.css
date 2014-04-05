@@ -42,7 +42,8 @@ a { color: inherit; }
   left: 0; top: 0;
   width: 300px;
   height: 100%;
-  background: silver;
+  padding: 20px 0;
+  background: #ddd;
 }
 
 .site_sidebar ul {
@@ -53,7 +54,7 @@ a { color: inherit; }
  ---------------------------------------------------------*/
 
 .site_sidebar .logo {
-  margin: 10px;
+  margin: 0 20px 20px;
   padding-bottom: 60%;
   background: #fff;
 }
@@ -61,10 +62,17 @@ a { color: inherit; }
 /** Nav
  ---------------------------------------------------------*/
 
-.nav {}
+.nav {
+  font-size: 16px;
+}
 
 /** Nav Sub Menus
  ---------------------------------------------------------*/
+
+.nav > ul {
+  padding-left: 20px;
+  /*display: none;*/
+}
 
 .nav > ul {
   display: none;
@@ -74,16 +82,35 @@ a { color: inherit; }
  * Show when current section matches
  */
 
+.page-services ul.services,
+.page-whoweare ul.whoweare,
 .section-services ul.services,
 .section-whoweare ul.whoweare {
   display: block;
 }
 
-.nav li {
-  padding: 10px;
+.nav li a {
+  display: block;
+  padding: 10px 20px;
+}
+
+.nav li a:hover {
+  background: rgba(0,0,0,0.02);
 }
 
 
+.nav li.current a {
+  background: rgba(0,0,0,0.03);
+}
+
+.page-home li.home a,
+.page-services li.services a,
+.page-stories li.stories a,
+.page-clients li.clients a,
+.page-whoweare li.whoweare a,
+.page-contact li.contact a {
+  background: rgba(0,0,0,0.03);
+}
 
 .nav a {
   text-decoration: none;
@@ -100,15 +127,23 @@ a { color: inherit; }
  ---------------------------------------------------------*/
 
 .page {
+  font-size: 17px;
   padding: 20px;
 }
 
 .page_title {
-  margin-bottom: 1em;
+  font-size: 36px;
+  margin-bottom: 16px;
 }
 
-.page p {
-  margin-bottom: 1em;
+.page p,
+.page ul {
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
+
+.page ul {
+  margin-left: 1em;
 }
 
 .page :last-child {

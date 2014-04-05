@@ -1,7 +1,10 @@
 ---
+id: whoweare
 layout: page
 name: "Who we are"
 title:  "Who we are"
+navigation: [colleagues, helen, tony, inspirations, library]
+permalink: /who-we-are/
 ---
 
 Page Consulting, were just taunting words on an engraved brass plaque for a couple of years before first signs of life in 1988! The founder Tony Page is a 59 year old father of two grown up children and a partner for 34 years to Helen.

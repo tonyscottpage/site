@@ -1,7 +1,10 @@
 ---
+id: stories
 layout: page
-name: "Stories"
-title:  "What is a new story you can create?"
+title: "Stories"
+page-title:  "What is a new story you can create?"
+permalink: /stories/
+index: 1
 ---
 
 STORIES move people. Right now the leaders and teams we are woking with - in Vienna, South Africa, Botswana, Scotland and London - are creating new stories towards different outcomes. Enrolled purposefully people step up to challenges, produce more and everyone's stock rises.

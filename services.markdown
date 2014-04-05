@@ -1,9 +1,11 @@
 ---
 id: services
 layout: page
-
-name: "Services"
-title:  "What SERVICES can you draw from?"
+title: "Services"
+page-title:  "What SERVICES can you draw from?"
+navigation: [coaching, facilitation]
+permalink: /services/
+index: 10
 ---
 
 Service can be an act or an attitude, a duty or a gift. Our SERVICE is

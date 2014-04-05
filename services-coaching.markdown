@@ -2,9 +2,9 @@
 id: coaching
 section: services
 layout: page
-
-name: "Coaching"
-title:  "How does the Coaching work?"
+title: "Coaching"
+page-title:  "How does the Coaching work?"
+permalink: /services/coaching/
 ---
 
 Coaching gives leaders a way to change their results and opportunities. For example:
