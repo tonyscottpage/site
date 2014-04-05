@@ -1,5 +1,6 @@
 ---
 layout: page
+name: "Who we are"
 title:  "Who we are"
 ---
 

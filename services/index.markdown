@@ -1,5 +1,6 @@
 ---
 layout: page
+name: "Services"
 title:  "What SERVICES can you draw from?"
 ---
 <br>

@@ -1,5 +1,6 @@
 ---
 layout: page
+name: "Stories"
 title:  "What is a new story you can create?"
 ---
 

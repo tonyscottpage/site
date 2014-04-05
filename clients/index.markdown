@@ -1,5 +1,6 @@
 ---
 layout: page
+name: "Clients"
 title:  "What sort of clients work with us?"
 ---
 
