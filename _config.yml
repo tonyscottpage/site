@@ -2,3 +2,4 @@ name: Page Consulting
 markdown: redcarpet
 pygments: true
 baseurl: "https://tonyscottpage.github.io/site"
+exclude: [serve.sh, README.md, .gitignore]

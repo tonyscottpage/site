@@ -1,38 +1,25 @@
-/*****************************************************************************/
-/*
-/* Common
-/*
-/*****************************************************************************/
 
-/* Global Reset */
 * {
   margin: 0;
   padding: 0;
 }
 
-html, body { height: 100%; }
-
+html,
 body {
-
-  background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  margin-left: 100px;
-  text-align: justify;
-  padding-left: 5px;
-  padding-right: 5px
+  height: 100%;
+  font-family: Helvetica, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+}
 
-h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
-
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
-
+a { color: inherit; }
 
 .posts span {
   color: #aaa;
@@ -40,31 +27,92 @@ a:visited { color: #a0a; }
   font-size: 80%;
 }
 
-/*****************************************************************************/
-/*
-/* Site
-/*
-/*****************************************************************************/
+/** Site
+ ---------------------------------------------------------*/
 
 .site {
-  font-size: 115%;
-  text-align: justify;
-  width: 42em;
-  margin: 10em auto 2em;
-  line-height: 1.5em;
+
 }
 
+/** Site Sidebar
+ ---------------------------------------------------------*/
 
-aside {
+.site_sidebar {
   position: fixed;
   left: 0; top: 0;
-  width: 100px;
+  width: 300px;
   height: 100%;
-  text-align: center;
   background: silver;
 }
 
+.site_sidebar ul {
+  list-style-type: none;
+}
 
-aside a {
+/** Logo
+ ---------------------------------------------------------*/
+
+.site_sidebar .logo {
+  margin: 10px;
+  padding-bottom: 60%;
+  background: #fff;
+}
+
+/** Nav
+ ---------------------------------------------------------*/
+
+.nav {}
+
+/** Nav Sub Menus
+ ---------------------------------------------------------*/
+
+.nav > ul {
+  display: none;
+}
+
+/**
+ * Show when current section matches
+ */
+
+.section-services ul.services,
+.section-whoweare ul.whoweare {
   display: block;
 }
+
+.nav li {
+  padding: 10px;
+}
+
+
+
+.nav a {
+  text-decoration: none;
+}
+
+/** Site Content
+ ---------------------------------------------------------*/
+
+.site_content {
+  margin-left: 300px;
+}
+
+/** Page
+ ---------------------------------------------------------*/
+
+.page {
+  padding: 20px;
+}
+
+.page_title {
+  margin-bottom: 1em;
+}
+
+.page p {
+  margin-bottom: 1em;
+}
+
+.page :last-child {
+  margin-bottom: 0;
+}
+
+
