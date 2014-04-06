@@ -9,7 +9,7 @@ index: 10
 ---
 
 SERVICE can be an act or an attitude, a duty or a gift. Our service is
-towards your purpose and challenge. At the heart is a question: how to spread trust and accountability much wider? We bring our "living systems" approach to build "enabling environments", release
+towards your purpose and challenge. At the heart is a question: how to spread trust and accountability much wider? We bring our "living systems" approach to build "enabling environments" that release
 ripples and shift systems.
 
 You can draw our services individually as [Coaching]({{ site.baseurl}}/services/coaching), or with your team as [Facilitation]({{ site.baseurl }}/services/facilitation) or as programmes with [MiDDLEGROUND](http://www.middle-ground.co.uk) or [CIPD](http://www.cipd.co.uk/training/ORDDTC). Whether it's pressing or more distant, we bring focus to who and what really matters.
