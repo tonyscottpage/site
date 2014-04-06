@@ -1,0 +1,55 @@
+<div class="logo"></div>
+<ul class="nav page-{{ page.id }} section-{{ page.section }}">
+
+<!-- {% for p in site.pages | order:"index" %}
+  {% if site.navigation contains p.id %}
+    <li class="{% if p.id == page.id %} current{% endif%}"><a href="{{ p.url }}">{{ p.title }}</a></li>
+    <ul>
+    {% for p2 in site.pages %}
+      {% if p.navigation contains p2.id %}
+        <li><a href="{{ p2.url }}">{{ p2.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %} -->
+
+<!--
+  {% for id in site.navigation %}
+    {% for p in site.pages %}
+      {% if p.id == id %}
+        <li><a class="{% if p.id == page.id %} current{% endif%}" href="{{ p.url }}">{{ p.title }}</a></li>
+        {% if page.id == 'services' %}
+          <ul>
+          {% for id2 in p.navigation %}
+            {% for p2 in site.pages %}
+              {% if p2.id == id2 %}
+                <li><a class="{% if p2.id == page.id %} current{% endif%}" href="{{ p2.url }}">{{ p2.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          </ul>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+ -->
+
+  <li class="home"><a href="{{ site.baseurl }}/">Home</a></li>
+  <li class="services"><a href="{{ site.baseurl }}/services">Services</a></li>
+  <ul class="services">
+    <li class="coaching"><a href="{{ site.baseurl }}/services/coaching">Coaching</a></li>
+    <li class="facilitation"><a href="{{ site.baseurl }}/services/facilitation">Facilitation</a></li>
+  </ul>
+  <li class="stories"><a href="{{ site.baseurl }}/stories">Stories</a></li>
+  <li class="clients"><a href="{{ site.baseurl }}/clients">Clients</a></li>
+  <li class="whoweare"><a href="{{ site.baseurl }}/who-we-are">Who We Are</a></li>
+  <ul class="whoweare">
+    <li class="tony"><a href="{{ site.baseurl }}/who-we-are/tony">Tony</a></li>
+    <li class="helen"><a href="{{ site.baseurl }}/who-we-are/helen">Helen</a></li>
+    <li class="inspirations"><a href="{{ site.baseurl }}/who-we-are/inspirations">Inspirations</a></li>
+    <li class="colleagues"><a href="{{ site.baseurl }}/who-we-are/colleagues">Colleagues</a></li>
+    <li class="library"><a href="{{ site.baseurl }}/who-we-are/library">Library</a></li>
+  </ul>
+  <li class="contact"><a href="{{ site.baseurl }}/contact">Contact</a></li>
+</ul>

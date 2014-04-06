@@ -1,0 +1,153 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+}
+
+a { color: inherit; }
+
+.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
+
+/** Site
+ ---------------------------------------------------------*/
+
+.site {
+
+}
+
+/** Site Sidebar
+ ---------------------------------------------------------*/
+
+.site_sidebar {
+  position: fixed;
+  left: 0; top: 0;
+  width: 300px;
+  height: 100%;
+  padding: 20px 0;
+  background: #ddd;
+}
+
+.site_sidebar ul {
+  list-style-type: none;
+}
+
+/** Logo
+ ---------------------------------------------------------*/
+
+.site_sidebar .logo {
+  margin: 0 20px 20px;
+  padding-bottom: 60%;
+  background: #fff;
+}
+
+/** Nav
+ ---------------------------------------------------------*/
+
+.nav {
+  font-size: 16px;
+}
+
+/** Nav Sub Menus
+ ---------------------------------------------------------*/
+
+.nav > ul {
+  padding-left: 20px;
+  /*display: none;*/
+}
+
+.nav > ul {
+  display: none;
+}
+
+/**
+ * Show when current section matches
+ */
+
+.page-services ul.services,
+.page-whoweare ul.whoweare,
+.section-services ul.services,
+.section-whoweare ul.whoweare {
+  display: block;
+}
+
+.nav li a {
+  display: block;
+  padding: 10px 20px;
+}
+
+.nav li a:hover {
+  background: rgba(0,0,0,0.02);
+}
+
+
+.nav li.current a {
+  background: rgba(0,0,0,0.03);
+}
+
+.page-home li.home a,
+.page-services li.services a,
+.page-stories li.stories a,
+.page-clients li.clients a,
+.page-whoweare li.whoweare a,
+.page-contact li.contact a {
+  background: rgba(0,0,0,0.03);
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+/** Site Content
+ ---------------------------------------------------------*/
+
+.site_content {
+  margin-left: 300px;
+}
+
+/** Page
+ ---------------------------------------------------------*/
+
+.page {
+  font-size: 17px;
+  padding: 20px;
+}
+
+.page_title {
+  font-size: 36px;
+  margin-bottom: 16px;
+}
+
+.page p,
+.page ul {
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
+
+.page ul {
+  margin-left: 1em;
+}
+
+.page :last-child {
+  margin-bottom: 0;
+}
+
+
