@@ -8,7 +8,7 @@ permalink: /services/
 index: 10
 ---
 
-Service can be an act or an attitude, a duty or a gift. Our SERVICE is
+SERVICE can be an act or an attitude, a duty or a gift. Our service is
 towards your purpose and challenge. At the heart is a question: how to spread trust and accountability much wider? We bring our "living systems" approach to build "enabling environments", release
 ripples and shift systems.
 
