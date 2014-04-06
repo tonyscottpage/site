@@ -10,4 +10,4 @@ New Leaders are those who are finding better ways to enrol others in the pressin
 
 Here you will find SERVICES you can draw on to help with this, inspiration to create new and better STORIES, plus a bit about our CLIENTS, and WHO we are.
 
-We can work with you to enrol people, speeding up results AND creating capacity for even greater impact in your team or organisation. [Drop us a line]({{ site.baserl }}/contact) to discover more.
+We can work with you to enrol people, speeding up results AND creating capacity for even greater impact in your team or organisation. [Drop us a line]({{ site.baserl }}/contact) to find out more.
