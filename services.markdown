@@ -16,5 +16,3 @@ You can draw our services individually as [Coaching]({{ site.baseurl}}/services/
 
 We talk reality: "relational" (who do you depend on?), "personal" (what is frustrating?) and "strategic"
 (what is your business goal?). With powerful questions, you grapple, reflect and stretch your skills. You get purposeful to create new options and forge new commitments. You speed up learning and the delivery of results. And we can stick around to sustain the benefits.
-
-[Coaching](/coaching)
