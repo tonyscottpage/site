@@ -11,6 +11,6 @@ STORIES move people. Right now the leaders and teams we are woking with - in Vie
 
 The meaningful story your team creates enables them to enjoy making a difference, and transparently holds you all to account. In this work we see mood shifts: frustration may transform into insight as truth is at last spoken, and into excitement as a different future starts to unfold. The team gets the inspiration of awakenings, pennies dropping, eyes lighting up!
 
-A positive forward-reaching story gives people a purpose, brings them to face the challenges, records their actions, installs new behaviour patterns and habits. And as they produce results, collective cofidence and reputation rises. 
+A positive forward-reaching story gives people a purpose, brings them to face the challenges, records their actions, installs new behaviour patterns and habits. And as they produce results, collective confidence and reputation rises. 
 
 What new story could light your people up?
