@@ -1,0 +1,1 @@
+Service can be an act or an attitude, a duty or a gift. Our SERVICE is
