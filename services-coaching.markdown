@@ -21,4 +21,4 @@ Typically we coach face to face, for 3-6 sessions lasting 90 minutes, spaced by 
 
 We also offer coaching as a form of supervision to professional colleagues.
 
-The Financial Times quotes us in their investigation "Can coaching make the difference?" .
+The Financial Times [Financial Times]({{ site.baseurl}}/financialtimes) quotes us in their investigation "Can coaching make the difference?" .
