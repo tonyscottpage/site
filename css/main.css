@@ -19,7 +19,13 @@ h6 {
   font-size: 100%;
 }
 
-a { color: inherit; }
+a { color: #254b6b;
+text-decoration: none; 
+}
+
+a:hover {
+  text-decoration: underline;
+}
 
 .posts span {
   color: #aaa;
@@ -69,25 +75,6 @@ a { color: inherit; }
 /** Nav Sub Menus
  ---------------------------------------------------------*/
 
-.nav > ul {
-  padding-left: 20px;
-  /*display: none;*/
-}
-
-.nav > ul {
-  display: none;
-}
-
-/**
- * Show when current section matches
- */
-
-.page-services ul.services,
-.page-whoweare ul.whoweare,
-.section-services ul.services,
-.section-whoweare ul.whoweare {
-  display: block;
-}
 
 .nav li a {
   display: block;
@@ -105,7 +92,6 @@ a { color: inherit; }
 
 .page-home li.home a,
 .page-services li.services a,
-.page-stories li.stories a,
 .page-clients li.clients a,
 .page-whoweare li.whoweare a,
 .page-contact li.contact a {
