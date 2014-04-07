@@ -4,5 +4,3 @@ pygments: true
 baseurl: "https://tonyscottpage.github.io/site"
 exclude: [serve.sh, README.md, .gitignore]
 navigation: [ services, stories, clients, whoweare, contact ]
-
-
