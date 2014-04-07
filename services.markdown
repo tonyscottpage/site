@@ -10,8 +10,7 @@ index: 10
 
 Our SERVICE can be [Facilitation]({{ site.baseurl}}/services/facilitation) to your team, or [Coaching]({{ site.baseurl}}/services/coaching) to you as an individual, or it could be a programme with [MiDDLEGROUND](http://www.middle-ground.co.uk) or [CIPD](http://www.cipd.co.uk/training/ORDDTC).
 
-Whichever route you take we bring to your challenge a "living system" informed by a crucial question: how can you spread trust and accountability much wider? We ask you to begin by listening, to share key information, and to make your sphere of influence an "enabling environment" in which ripples spread quickly and easily.
-
+Whichever route you take we bring to your challenge a crucial question: how can you spread trust and accountability much wider? We invite you to begin by listening, to share key information, and to make an "enabling environment" inspired by a "living system" from which ripples can spread quickly and easily.
 
 Facilitation
 ============
