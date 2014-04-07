@@ -2,15 +2,15 @@
 id: stories
 layout: page
 title: "Stories"
-page-title:  "What is a new story you can create?"
+page-title:  "What new story could light your people up?"
 permalink: /stories/
 index: 1
 ---
 
-STORIES move people. Right now the leaders and teams we are woking with - in Vienna, South Africa, Botswana, Scotland and London - are creating new stories towards different needed outcomes. Have you heard the story where a man says "I am laying bricks to earn a wage" but his more inspired colleague says: "We are building a school that will transform the lives of thousands of families over the next 50 years!".
+STORIES move people's heads, hearts and feet. Right now the leaders we are working with - in Vienna, South Africa, Botswana, Scotland, Bristol and London - are creating new stories towards different needed outcomes.
 
-The meaningful story your team creates enables them to enjoy making a difference, and transparently holds you all to account. In this work we see mood shifts: frustration may transform into insight as truth is at last spoken, and into excitement as a different future starts to unfold. The team gets the inspiration of awakenings, pennies dropping, eyes lighting up!
+Each story began with "what is" and asked powerful questions to unearth the "strategic" (what is your business goal?), alongside the "relational" (who do you depend on?) and the "personal" (what is frustrating?). The underlying thinking shows the intent, and feedback lets you adjust the impact. 
 
-A positive forward-reaching story gives people a purpose, brings them to face the challenges, records their actions, installs new behaviour patterns and habits. And as they produce results, collective confidence and reputation rises. 
+People unite in a common purpose: they enjoy transparency and being held to account, in a good way! Frustration reduces as a different future starts to unfold. Pennies drop and eyes light up! Stronger action speeds up results and learning, so steadily confidence and reputation rises. 
 
 What new story could light your people up?

@@ -7,16 +7,30 @@
 html,
 body {
   height: 100%;
-  font-family: Helvetica, sans-serif;
+  font-family: Georgia, serif;
+  line-height: 1.4;
+  color: #333;
 }
 
-h1,
-h2,
+h1{
+  height: 100%;
+  font-family: Helvetica, sans-serif;
+  font-size: 100%;
+  color: #333;
+}
+
+h2{
+  height: 100%;
+  font-family: Helvetica, sans-serif;
+  font-size: 100%;
+  color: #333;
+}
+
 h3,
 h4,
 h5,
 h6 {
-  font-size: 100%;
+  font-size: 80%;
 }
 
 a { color: #254b6b;
@@ -111,18 +125,17 @@ a:hover {
 
 /** Page
  ---------------------------------------------------------*/
-.page {
-  font-size: 17px;
-  padding: 20px;
-}
-
 .page_title {
   font-size: 36px;
   margin-bottom: 16px;
 }
+.page {
+  font-size: 20px;
+  padding: 20px;
+}
 
 .page p,
-.page ul {
+.page ul {font-size: 17px;
   margin-bottom: 16px;
   line-height: 1.5;
 }
