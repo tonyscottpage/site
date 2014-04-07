@@ -11,7 +11,7 @@ Coaching gives leaders a way to change their results and opportunities. For exam
 
 - Darren a Country Director in Asia wants to lead creative projects rather than for headcount reduction.
 - Alison is a director frustrated at the sexist behaviour of colleagues in board meetings
--Pierre has two years to make his mark, mobilising a leadership team to address a few big challenges.
+- Pierre has two years to make his mark, mobilising a leadership team to address a few big challenges.
 
 Typically we coach face to face, for 3-6 sessions lasting 90 minutes, spaced by 4 weeks, with "homework" in between, but there is no fixed formula. Some key elements to success are:
 
