@@ -6,9 +6,9 @@ page-title:  "What sort of clients work with us?"
 permalink: /clients/
 ---
 
-CLIENTS are women or men on the move, who gain advantage by working with us. You can be younger or older, from any background and country. You emerge in unexpected places, as individuals, leadership teams and cross-organisational groups. 
+CLIENTS are women or men on the move, who gain advantage by working with us. You can be younger or older, from any background and country. You emerge in unexpected places, as individuals, leadership teams and cross-organisational groups. You are dynamic and different in how you are facing challenges, in how you gain and share power to extend your sphere of influence. You are not big or crushing. 
 
-In recent years we have worked intensively with the British Council (cultural relations, particularly in Africa), Borealis (petrochemicals HQ Vienna), BG (oil and gas, globally) and Tree Aid (forestry NGO, UK and West Africa). We have noticed power shifting from few to many, and with traditional ways becoming costly and harder for leaders to sustain, new paths open for you as "new leaders". You are dynamic and different in how you are facing challenges, in how you gain and share power to extend your sphere of influence. You are not big or crushing. 
+In recent years we have worked intensively with the British Council (cultural relations, particularly in Africa), Borealis (petrochemicals HQ Vienna), BG (oil and gas, globally) and Tree Aid (forestry NGO, UK and West Africa). We have noticed power shifting from few to many, and with traditional ways becoming costly and harder for leaders to sustain, new paths open for you as "new leaders". 
 
 You work "across" more than "top down", influencing at boundaries, embracing differences. You want to bring people to participate and mobilise with greater trust, transparency and accountability. You believe people can discover the capacity to deliver extraordinary results together. Over the last 25 years we now realise we worked with New Leaders in all these organisations:
 
