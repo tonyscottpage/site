@@ -10,12 +10,10 @@ index: 10
 
 Our SERVICE can be [Facilitation](#Facilitation) to your team, or [Coaching](#Coaching) to you as an individual, or it could be a programme with [MiDDLEGROUND](http://www.middle-ground.co.uk) or [CIPD](http://www.cipd.co.uk/training/ORDDTC).
 
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 Whichever route you take we bring to your challenge a crucial question: how can you spread trust and accountability much wider? We invite you to begin by listening, to share key information, and to make an "enabling environment" inspired by a "living system" from which ripples can spread quickly and easily.
 
