@@ -6,7 +6,7 @@ title:  "Library"
 permalink: /who-we-are/library/
 ---
 
-Here are a series of writings reflecting on work with clients and colleagues gathered over the years. 
+Here are a series of writings that reflect on work with clients and colleagues over the years. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
