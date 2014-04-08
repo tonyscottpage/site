@@ -33,11 +33,11 @@ h6 {
   font-size: 80%;
 }
 
-a { color: #4C5366;
+a { color: #1D3A58;
 text-decoration: none; 
 }
 
-a:hover {color: #FA5A6C;
+a:hover {color: #F03E55;
   text-decoration: underline;
 }
 
@@ -100,11 +100,11 @@ a:hover {color: #FA5A6C;
 }
 
 .nav li a:hover {
-  background: #E3E7E7;
+  background: #E1E3E6;
 }
 
 .nav li.current a {
-  background: #93B5B2;
+  background: #CCCCCC;
 }
 
 .page-home li.home a,
@@ -113,7 +113,7 @@ a:hover {color: #FA5A6C;
 .page-stories li.stories a,
 .page-whoweare li.whoweare a,
 .page-contact li.contact a {
-  background: #93B5B2;
+  background: #CCCCCC;
 }
 
 
