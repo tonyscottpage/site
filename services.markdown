@@ -8,7 +8,7 @@ permalink: /services/
 index: 10
 ---
 
-Our SERVICE can be [Facilitation](#Facilitation) to your team, or [Coaching](#Coaching) to you as an individual, or it could be a programme with [MiDDLEGROUND](http://www.middle-ground.co.uk) or [CIPD](http://www.cipd.co.uk/training/ORDDTC). 
+Our SERVICE can be [Facilitation](#Facilitation) to your team, or [Coaching](#Coaching) to you as an individual, or it could be a programme with <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC"; target="_blank">CIPD</a>. 
 
 Whichever route you take we bring to your challenge a crucial question: how can you spread trust and accountability much wider? We invite you to begin by listening, to share key information, and to make an "enabling environment" inspired by a "living system" from which ripples can spread quickly and easily.
 
