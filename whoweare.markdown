@@ -7,7 +7,7 @@ navigation: [colleagues, helen, tony, inspirations, library]
 permalink: /who-we-are/
 ---
 
-Page Consulting? These words on a brass began as a joke, but not long after, the company was born in 198! Over the next 25 years working with leaders on their challenges in over 80 organisations and 40 countries we notice leaders have become less trusted. If today you say "I am a leader!", people move away, but when you ask "What should be different round here?", they get interested. 
+Page Consulting? These words on a brass plaque began as a joke, but soon after the company was born in 198! Over the next 25 years working with leaders on their challenges in over 80 organisations and 40 countries we notice leaders have become less trusted. If today you say "I am a leader!", people move away, but when you ask "What should be different round here?", they get interested. 
 
 Since 2010 we have built a small leadership development school in partnership with the MiDDLEGROUND team, running pop-up events across four continents. Born of this experience our "living systems" perspective unlocks practical leadership towards pressing problems. 
 
