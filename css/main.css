@@ -33,11 +33,11 @@ h6 {
   font-size: 80%;
 }
 
-a { color: #254b6b;
+a { color: #4C5366;
 text-decoration: none; 
 }
 
-a:hover {
+a:hover {color: #FA5A6C;
   text-decoration: underline;
 }
 
@@ -62,8 +62,9 @@ a:hover {
   left: 0; top: 0;
   width: 150px;
   height: 100%;
+  border-right: 1px solid #333; 
   padding: 20px 0;
-  background: #ddd;
+  background: #fff;
 }
 
 .site_sidebar ul {
@@ -84,6 +85,11 @@ a:hover {
   font-size: 16px;
 }
 
+.nav a {
+  text-decoration: none;
+  color: #333;
+}
+
 /** Nav Sub Menus
  ---------------------------------------------------------*/
 
@@ -94,25 +100,23 @@ a:hover {
 }
 
 .nav li a:hover {
-  background: rgba(0,0,0,0.02);
+  background: #E3E7E7;
 }
 
-
 .nav li.current a {
-  background: rgba(0,0,0,0.03);
+  background: #93B5B2;
 }
 
 .page-home li.home a,
 .page-services li.services a,
 .page-clients li.clients a,
+.page-stories li.stories a,
 .page-whoweare li.whoweare a,
 .page-contact li.contact a {
-  background: rgba(0,0,0,0.03);
+  background: #93B5B2;
 }
 
-.nav a {
-  text-decoration: none;
-}
+
 
 /** Site Content
  ---------------------------------------------------------*/

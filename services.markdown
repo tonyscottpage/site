@@ -8,10 +8,11 @@ permalink: /services/
 index: 10
 ---
 
-Our SERVICE can be [Facilitation]({{ site.baseurl}}/services/facilitation) to your team, or [Coaching]({{ site.baseurl}}/services/coaching) to you as an individual, or it could be a programme with [MiDDLEGROUND](http://www.middle-ground.co.uk) or [CIPD](http://www.cipd.co.uk/training/ORDDTC).
+Our SERVICE can be [Facilitation](#Facilitation) to your team, or [Coaching](#Coaching) to you as an individual, or it could be a programme with [MiDDLEGROUND](http://www.middle-ground.co.uk) or [CIPD](http://www.cipd.co.uk/training/ORDDTC).
 
 Whichever route you take we bring to your challenge a crucial question: how can you spread trust and accountability much wider? We invite you to begin by listening, to share key information, and to make an "enabling environment" inspired by a "living system" from which ripples can spread quickly and easily.
 
+<a name="Facilitation"></a>
 Facilitation
 ============
 
@@ -19,6 +20,7 @@ If, like us, you think a leadership team's "real work" is to benefit the outside
 
 When ask what outcomes you are looking for, we find most teams need to bring life to their crucial work projects by connecting better. We work on this live with your team as in this example of the [Dialogue Workshop ]({{ site.baseurl}}/dialogue). We walk with you step by step as your team grows clearer in purpose, energy and impact.
 
+<a name="Coaching"></a>
 Coaching
 ========
 
@@ -29,3 +31,10 @@ Coaching gives individuals a way to shift their own behaviour, towards required 
 - Darren typecast as headcount reduction supremo, can show himself as a remarkbly creative leader.
 
 Typically we coach face to face, for 3-6 sessions lasting 90 minutes, spaced by 4 weeks, with "homework" in between. But there is no fixed formula: we fit it to you.  
+
+
+
+
+
+
+
