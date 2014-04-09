@@ -15,8 +15,15 @@ Here are some of the people who have inspired our ways of working...
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-031e">Sandra Janoff &amp; Marvin Weisbord: an interview<br></th>
-    <td class="tg-031e">Timothy Gallwey: The Inner Game of Work</th>
+    <td class="tg-031e">Jan Jacob Stam: Trauma in Organizations<br></td>
+    <td class="tg-031e">John Whittington: Systemic Coaching and Constellations<br></td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Dr Monica Sharma: Conscious Leadership at the Crossroads of Change<br></td>
+    <td class="tg-031e">David Cooperider: On Appreciative Inquiry (AI)<br></td>
+  </tr><tr>
+    <td class="tg-031e">Sandra Janoff &amp; Marvin Weisbord: On Future Search<br></td>
+    <td class="tg-031e">Timothy Gallwey: The Inner Game of Work</td>
   </tr>
   <tr>
     <td class="tg-031e">Peter Block: Six Conversations<br></td>
