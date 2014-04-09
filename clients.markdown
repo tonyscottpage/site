@@ -10,7 +10,7 @@ CLIENTS are women or men on the move, younger or older, from any background, rol
 
 As power is shifting from few to many, your traditional ways of leadership become costly and harder to sustain, so new paths beckon to "new leaders": different in how you face challenges and share power. You are not big or crushing. You work "across" more than "top down", influencing at boundaries, embracing differences. 
 
-You want to bring people to participate and mobilise with greater trust, transparency and accountability. You believe people can discover the capacity to deliver extraordinary results together. 
+You want to bring people to participate and mobilise with greater trust, transparency and accountability. You believe people can discover the capacity to deliver extraordinary results together.
 
 In recent years we found you in the British Council (cultural relations, particularly in Africa), Borealis (petrochemicals HQ Vienna), BG (oil and gas, globally) and Tree Aid (forestry NGO, UK and West Africa). Over the last 25 years we now realise we worked with New Leaders in all these organisations:
 
