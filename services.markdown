@@ -1,7 +1,7 @@
 ---
 id: services
 layout: page
-title: "SERVICES"
+title: "Services"
 page-title:  "What SERVICES can you draw from?"
 navigation: [coaching, facilitation]
 permalink: /services/

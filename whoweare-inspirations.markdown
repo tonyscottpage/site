@@ -15,8 +15,8 @@ Here are some of the people who have inspired our ways of working...
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-031e">Jan Jacob Stam: Trauma in Organizations<br></td>
     <td class="tg-031e">John Whittington: Systemic Coaching and Constellations<br></td>
+    <td class="tg-031e">Jan Jacob Stam: Trauma in Organizations<br></td>
   </tr>
   <tr>
     <td class="tg-031e">Dr Monica Sharma: Conscious Leadership at the Crossroads of Change<br></td>
@@ -45,8 +45,5 @@ Here are some of the people who have inspired our ways of working...
     <td class="tg-031e">Amy and Arnie Mindell: Deep Democracy</td>
     <td class="tg-031e">United Nations: Universal Declaration of Human Rights</td>
   </tr>
-  <tr>
-    <td class="tg-031e">Jan Jacob Stam: Trauma in Organizations<br></td>
-    <td class="tg-031e">John Whittington: Systemic Coaching and Constellations<br></td>
-  </tr>
+
 </table>

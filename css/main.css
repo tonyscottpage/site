@@ -7,14 +7,14 @@
 html,
 body {
   height: 100%;
-  font-family: Georgia, serif;
+  font-family: Baskerville, serif;
   line-height: 1.4;
   color: #333;
 }
 
 h1{
   height: 100%;
-  font-family: Helvetica, sans-serif;
+  font-family: Palatino, serif;
   font-size: 100%;
   color: #333;
 }
@@ -82,7 +82,7 @@ a:hover {color: #F03E55;
  ---------------------------------------------------------*/
 
 .nav {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .nav a {
@@ -100,11 +100,11 @@ a:hover {color: #F03E55;
 }
 
 .nav li a:hover {
-  background: #E1E3E6;
+  background: #F1F4F4;
 }
 
 .nav li.current a {
-  background: #CCCCCC;
+  background: #E1E3E6;
 }
 
 .page-home li.home a,
@@ -113,7 +113,7 @@ a:hover {color: #F03E55;
 .page-stories li.stories a,
 .page-whoweare li.whoweare a,
 .page-contact li.contact a {
-  background: #CCCCCC;
+  background: #E1E3E6;
 }
 
 
@@ -132,12 +132,12 @@ a:hover {color: #F03E55;
   margin-bottom: 16px;
 }
 .page {
-  font-size: 20px;
+  font-size: 18px;
   padding: 20px;
 }
 
 .page p,
-.page ul {font-size: 17px;
+.page ul {font-size: 18px;
   margin-bottom: 16px;
   line-height: 1.5;
 }
