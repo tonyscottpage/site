@@ -8,6 +8,6 @@ At Page Consulting 'we call you a leader'. If you want to make a difference with
 
 We will work with you to enrol people in your challenges, speeding up results and creating capacity for greater impact. Here you will find the SERVICES new leaders are drawing on. Also a bit about our CLIENTS, and our approach.
 
-[Drop us a line]({{ site.baserl }}/contact) to find out more. And thank you for visiting!
+[Drop us a line]({{ site.baserl }}/contact) to find out more.
 
 
