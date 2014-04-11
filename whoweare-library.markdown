@@ -42,6 +42,30 @@ Here are a series of writings that reflect on work with clients and colleagues o
 	<td class="tg-031e">Facilitation and change<br></td>
 		<td class="tg-031e">How can Developers run workshops with lasting benefit? We look at what anthropology has to teach us about transformations to make ‘after’ fundamentally different than ‘before’..<br></td>
 </tr>
+
+<tr>
+	 <td class="tg-031e">Virginia Merritt & Tony Page<br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Voice%20Arising.htm">Developing the Executive Team at Edexcel</a><br></td>
+	<td class="tg-031e">2008<br></td>
+	<td class="tg-031e">Facilitation<br></td>
+		<td class="tg-031e">How do you help a group of talented, senior executive directors in a top business become a world-class leadership team? The answer in this major assignment with Edexcel lies with a clear role and purpose, a watchful eye and practical tools to sharpen their decisionmaking – including a golden thread.<br></td>
+</tr>
+
+<tr>
+	 <td class="tg-031e">Tony Page & Annette Broerse-Nijsen<br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Voice%20Arising.htm">Breakout Stories</a><br></td>
+	<td class="tg-031e">2006<br></td>
+	<td class="tg-031e">Storytelling<br></td>
+		<td class="tg-031e">A collection of 50 breakout stories by several authors. This completes a research project into the two-sided power of stories (both the sense-making effect of writing/telling one's own story and the inspiring effect of hearing another's story).<br></td>
+</tr>
+
+<tr>
+ <td class="tg-031e">New Intermediaries<br></td>
+	<td class="tg-031e"><a href="http://www.newintermediaries.co.uk/knowledgepoolFS.htm">Knowledge Pool</a><br></td>
+	<td class="tg-031e">2004<br></td>
+	<td class="tg-031e">Organisation<br></td>
+	<td class="tg-031e">Further articles and material (including Fun stuff) submitted in the New Intermediaries Community of Practice.<br></td>
+</tr>
 <tr>
 	 <td class="tg-031e">Tony Page<br></td>
 	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Voice%20Arising.htm">Voice Arising</a><br></td>
@@ -49,20 +73,31 @@ Here are a series of writings that reflect on work with clients and colleagues o
 	<td class="tg-031e">Facilitation<br></td>
 		<td class="tg-031e">Three real cases show how “facilitator work” with voices, can transform the “big work” of institutions which suffer difficulty with change.<br></td>
 </tr>
+
 <tr>
-	<td class="tg-031e">Julian Burton<br></td>
-	<td class="tg-031e"><a href="http://www.delta7.com/voice">Visual Dialogue pictures</a><br></td>
-	<td class="tg-031e">2002<br></td>
-	<td class="tg-031e">Dialogue<br></td>
-	<td class="tg-031e">Visual support for meetings, workshops, awaydays.<br></td>
+	 <td class="tg-031e">Tony Page<br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Voice%20Arising.htm">A Facilitation Example, Language and a Checklist</a><br></td>
+	<td class="tg-031e">2003<br></td>
+	<td class="tg-031e">Facilitation<br></td>
+		<td class="tg-031e">Explores the question "What makes a conversation productive?" by analysing a real conversation to identify participant needs and best facilitator interventions.<br></td>
 </tr>
+
 <tr>
- <td class="tg-031e">New Intermediaries<br></td>
-	<td class="tg-031e"><a href="http://www.newintermediaries.co.uk/knowledgepoolFS.htm">Knowledge Pool</a><br></td>
-	<td class="tg-031e">2002<br></td>
-	<td class="tg-031e">Organisation<br></td>
-	<td class="tg-031e">Further articles and material (including Fun stuff) submitted in the New Intermediaries Community of Practice.<br></td>
+	 <td class="tg-031e">Tony Page<br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Voice%20Arising.htm">Freeing Our Vpoices - a Facilitator's Way of Leading</a><br></td>
+	<td class="tg-031e">2001<br></td>
+	<td class="tg-031e">Facilitation and Leadership<br></td>
+		<td class="tg-031e">Unpublished book draft.<br></td>
 </tr>
+
+<tr>
+	 <td class="tg-031e">Tony Page<br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Voice%20Arising.htm">Voice Poems</a><br></td>
+	<td class="tg-031e">2001<br></td>
+	<td class="tg-031e">Facilitation and Leadership<br></td>
+		<td class="tg-031e">A selection of poems written to accompany the "Freeing Our Voices" book draft above.<br></td>
+</tr>
+
 <tr>      
     <td class="tg-031e">Tony Page<br></td>
 	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Bloody%20Well.htm">Don't try to shut me up</a><br></td>
@@ -72,11 +107,20 @@ Here are a series of writings that reflect on work with clients and colleagues o
 </tr>
 <tr>         
 	<td class="tg-031e">Fiona Coffey &amp; Tony Page<br></td>
-	<td class="tg-031e"><<a href="http://pageconsulting.co.uk/archive/Beyondlll.htm">Beyond Leaders, Luddites and Lackeys - Creating Conditions for Spontaneous Change.</a><br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/archive/Beyondlll.htm">Beyond Leaders, Luddites and Lackeys - Creating Conditions for Spontaneous Change.</a><br></td>
 	<td class="tg-031e">2000<br></td>
 	<td class="tg-031e">Leadership<br></td>
 	<td class="tg-031e">This article, written at the start of a new millennium, sets out a new, different, humane and exciting, less mechanistic and confrontational approach to change.<br></td>
 </tr>
+
+<tr>         
+	<td class="tg-031e">Eli Rana<br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/archive/Beyondlll.htm">Corridor of Empowerment.</a><br></td>
+	<td class="tg-031e">2000<br></td>
+	<td class="tg-031e">Organisaiton Development<br></td>
+	<td class="tg-031e">Article in People Management describing work by Fiona Coffey and Tony Page with Sue Street, Tony Williams and around 200 staff in the Home Office.<br></td>
+</tr>
+
 <tr>   
 	<td class="tg-031e">Wendy Hirsch<br></td>
 	<td class="tg-031e"><a href="http://pageconsulting.co.uk/archive/roffeycase.htm">New Intermediaries - A Learning Alliance</a><br></td>
@@ -164,7 +208,7 @@ Here are a series of writings that reflect on work with clients and colleagues o
 </tr>
 <tr>  
 	<td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><<a href="http://pageconsulting.co.uk/Archive/BtrstScrpt0996.doc">The Secret World of a Change Management Consultant</a><br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/BtrstScrpt0996.doc">The Secret World of a Change Management Consultant</a><br></td>
 	<td class="tg-031e">1996<br></td>
 	<td class="tg-031e">Change<br></td>
 	<td class="tg-031e">Just suppose there was a simple, practical, yet powerful method for continuous learning which individuals could adopt without fear, and
