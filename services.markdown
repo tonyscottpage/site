@@ -22,8 +22,8 @@ When ask what outcomes you are looking for, most teams need to bring life to the
 
 Coaching gives individuals a way to shift their own behaviour, towards required results and opportunities. The [Financial Times]({{ site.baseurl}}/financialtimes) quotes us in their investigation "Can coaching make the difference?", and our answer is yes. For example:
 
-- Having taken up her new role as CEO, Jessica can focus on how to transform her organisation
-- Miguel frustrated at lack of progress can discover how differently to enrol his team
+- Jessica, settled into her new role as CEO, can focus on how to transform her organisation
+- Miguel, frustrated at lack of progress, can discover how differently to enrol his leadership team
 - Darren, typecast as cost reduction supremo, can get himself known as a remarkably creative leader.
 
 Typically we coach face to face, for 3-6 sessions lasting 90 minutes, spaced by 4 weeks, with "homework" in between. But there is no fixed formula: we fit it to you.

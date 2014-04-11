@@ -7,7 +7,7 @@ permalink: /stories/
 index: 1
 ---
 
-STORIES move people's heads, hearts and feet. Right now the leaders we are working with - in Vienna, South Africa, Botswana, Scotland, Bristol and London - are creating new stories towards different needed outcomes.
+Stories move people's heads, hearts and feet. Right now the leaders we are working with - in Vienna, South Africa, Botswana, Scotland, Bristol and London - are creating new stories towards different needed outcomes.
 
 Each story begins with "what is" and asks powerful questions to unearth the "strategic" (what is your business goal?), alongside the "relational" (who do you depend on?) and the "personal" (what is frustrating?). The underlying thinking shows the intent, and feedback lets you adjust the impact. 
 
