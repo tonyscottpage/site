@@ -52,6 +52,13 @@ Here are a series of writings that reflect on work with clients and colleagues o
 </tr>
 
 <tr>
+	 <td class="tg-031e">Philip Goodwin & Tony Page<br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Voice%20Arising.htm">For Hippos to Gazelles: how leaders create leaders</a><br></td>
+	<td class="tg-031e">2008<br></td>
+	<td class="tg-031e">Leadership<br></td>
+		<td class="tg-031e">A story of a creating and transforming a leadership team for leaders and consultants. Contains tools for enrolling people in change and spreading out the leadership.<br></td>
+</tr>
+<tr>
 	 <td class="tg-031e">Tony Page & Annette Broerse-Nijsen<br></td>
 	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/Voice%20Arising.htm">Breakout Stories</a><br></td>
 	<td class="tg-031e">2006<br></td>
@@ -208,11 +215,17 @@ Here are a series of writings that reflect on work with clients and colleagues o
 </tr>
 <tr>  
 	<td class="tg-031e">Tony Page<br></td>
+	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/BtrstScrpt0996.doc">Diary of a Change Agent</a><br></td>
+	<td class="tg-031e">1996<br></td>
+	<td class="tg-031e">Change<br></td>
+	<td class="tg-031e">Book published by Gower containing reflections over three years of work and life as a consultant, deepening through real life application the understanding of the process of change,  adding up to a journey of personal transformation.<br></td>
+</tr>
+<tr>  
+	<td class="tg-031e">Tony Page<br></td>
 	<td class="tg-031e"><a href="http://pageconsulting.co.uk/Archive/BtrstScrpt0996.doc">The Secret World of a Change Management Consultant</a><br></td>
 	<td class="tg-031e">1996<br></td>
 	<td class="tg-031e">Change<br></td>
-	<td class="tg-031e">Just suppose there was a simple, practical, yet powerful method for continuous learning which individuals could adopt without fear, and
-                    embrace with pleasure.<br></td>
+	<td class="tg-031e">Just suppose there was a simple, practical, yet powerful method for continuous learning which individuals could adopt without fear, and embrace with pleasure.<br></td>
 </tr>
 <tr>     
 	<td class="tg-031e">Tony Coyle &amp; Tony Page<br></td>

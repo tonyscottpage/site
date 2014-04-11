@@ -7,7 +7,7 @@ navigation: [colleagues, helen, tony, inspirations, library]
 permalink: /who-we-are/
 ---
 
-Page Consulting? These words on a brass plaque began as a joke, but, very soon after this the company was born! Over the next 25 years we notice leaders have become less and less trusted. If today you say "I am a leader!", people move away, but when you ask "What should be different round here?", they get interested. 
+Page Consulting? These words on a brass plaque began as a joke, but, very soon,the company was born! Over 25 years of practice we notice leaders have become less and less trusted. If today you say "I am a leader!", people move away, but when you ask "What should be different round here?", they get interested. 
 
 [Tony Page ]({{ site.baseurl}}/who-we-are/tony) who started this is a 59 year old father of two grown up children, and a partner for 34 years to [Helen]({{ site.baseurl}}/who-we-are/helen). 
 
