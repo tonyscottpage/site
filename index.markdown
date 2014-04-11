@@ -10,6 +10,5 @@ New Leaders notice their challenge is more complex and demands a different start
 
 We will work with you to enrol people in your challenges, speeding up results and creating capacity for greater impact. Here you will find the services new leaders are drawing on. Also a bit about our clients, and our approach.
 
-[Drop us a line]({{ site.baserl }}/contact) to find out more.
 
 

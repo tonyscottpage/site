@@ -20,7 +20,7 @@ When ask what outcomes you are looking for, most teams need to bring life to the
 
 <h2 id="coaching">Coaching</h2>
 
-Coaching gives individuals a way to shift their own behaviour, enabling others others tp produce required results. The [Financial Times]({{ site.baseurl}}/financialtimes) quotes us in their investigation "Can coaching make the difference?", and our answer is yes. For example:
+Coaching gives individuals a way to shift their own behaviour, enabling others others to produce required results. The [Financial Times]({{ site.baseurl}}/financialtimes) quotes us in their investigation "Can coaching make the difference?", and our answer is yes. For example:
 
 - Jessica, settled into her new role as CEO, can focus on how to transform her organisation
 - Miguel, frustrated at lack of progress, can discover how differently to enrol his leadership team
