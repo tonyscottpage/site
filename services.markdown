@@ -16,7 +16,7 @@ We invite you to begin by listening, to share key information, and to make an "e
 
 If, like us, you think a leadership team's "real work" is to benefit the outside (customers and stakeholders) through enabling people inside, then most teams have work to do. One team may be challenged by being dispersed across many countries. Another in this example ([Edexcel Story]({{ site.baseurl}}/edexcel)) is working to unite an organisation post-merger.
 
-When ask what outcomes you are looking for, most teams need to bring life to their crucial work projects by connecting better. We work on this live with your team as in this example ([Dialogue Workshop]({{ site.baseurl}}/dialogue)). We walk with you step by step as your team grows clearer in purpose, energy and impact.
+When we ask what outcomes you are looking for, teams want to bring life to their crucial work projects by connecting better. We work on this live with your team as in this example ([Dialogue Workshop]({{ site.baseurl}}/dialogue)). We walk with you step by step as your team grows clearer in purpose, energy and impact.
 
 <h2 id="coaching">Coaching</h2>
 
