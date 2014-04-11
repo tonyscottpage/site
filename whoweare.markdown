@@ -9,7 +9,7 @@ permalink: /who-we-are/
 
 Page Consulting? These words on a brass plaque began as a joke, but, very soon,the company was born! [Tony Page ]({{ site.baseurl}}/who-we-are/tony) who started this is a 59 year old father of two grown up children, and a partner for 34 years to [Helen]({{ site.baseurl}}/who-we-are/helen). 
 
-If today you say "I am a leader!", people will move away, but if instead you ask "What should be different round here?", they get interested. Over 25 years of practice we notice leaders becoming less trusted. Our "living systems" approach is to bring practical leadership towards pressing problems. 
+If today you say "I am a leader!", people will move away, but if instead you ask "What should be different round here?", they get interested. Over 25 years of practice we notice leaders becoming less trusted. Our "living systems" approach builds trust and joint action towards pressing problems. 
 
 The approach is both born of our own experience and [inspired by others]({{ site.baseurl}}/who-we-are/inspirations). To pass our learning on, we make  collected writings available in the [library]({{ site.baseurl}}/who-we-are/library).
 
