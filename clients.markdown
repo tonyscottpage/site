@@ -6,9 +6,9 @@ page-title:  "What sort of clients work with us?"
 permalink: /clients/
 ---
 
-Our clients are women or men on the move, younger or older, from any background, role or country. You emerge in unexpected places, as individuals, leadership teams and cross-organisational groups. 
+Our clients are women or men on the move, younger or older, from any background, role or country. You emerge in unexpected places, as individuals, leadership teams and cross-organisational groups. You are not big or crushing.
 
-As power is shifting from few to many, your traditional ways of leadership become costly and harder to sustain, so new paths beckon to "new leaders": different in how you face challenges and share power. You are not big or crushing. You work "across" more than "top down", influencing at boundaries, embracing differences. 
+As power is shifting from few to many, traditional ways of leadership become costly and harder to sustain, so new paths beckon to "new leaders". Being different in how you face challenges and share power, you work "across" more than "top down", influencing at boundaries, embracing differences. 
 
 You want to bring people to participate and mobilise with greater trust, transparency and accountability. You believe people can discover the capacity to deliver extraordinary results together.
 
