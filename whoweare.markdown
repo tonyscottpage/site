@@ -11,7 +11,7 @@ Page Consulting? These words on a brass plaque began as just a joke, but, very s
 
 Over 25 years of practice we notice leaders becoming less trusted. If today you say "I am a leader!", will people be interested? But if instead you ask "What should be different round here?", they willingly take joint action towards a pressing problem. 
 
-Our 'living systems' approach is both born of our own experience and [inspired by others]({{ site.baseurl}}/who-we-are/inspirations). To pass our learning on, we make collected writings available in the [library]({{ site.baseurl}}/who-we-are/library).
+We do not favour the individual nor the team to which they belong - we stand for both. Our 'living system' approach is both born of our own experience and [inspired by others]({{ site.baseurl}}/who-we-are/inspirations). To pass our learning on, we make collected writings available in the [library]({{ site.baseurl}}/who-we-are/library).
 
 Working with leaders on challenges in over 80 organisations and 40 countries we have collaborated with many [colleagues]({{ site.baseurl}}/who-we-are/colleagues) to deliver and and gather the learning. Since 2010 we have been building a small leadership development school in partnership with the <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> team, running pop-up events across four continents. 
 
