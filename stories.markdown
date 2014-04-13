@@ -7,10 +7,10 @@ permalink: /stories/
 index: 1
 ---
 
-Stories move people's heads, hearts and feet. Right now the leaders we are working with - in Vienna, South Africa, Botswana, Scotland, Bristol and London - are creating new stories towards different needed outcomes.
+Right now leaders we are working with - in Vienna, South Africa, Botswana, Scotland, Bristol and London - are creating new stories towards different needed outcomes, because stories can move heads, hearts and feet. What new story could light your people up?
 
-Each story begins with 'what is' and asks powerful questions to unearth the 'strategic' (what is your business goal?), alongside the 'relational' (who do you depend on?) and the 'personal' (what is frustrating?). The underlying thinking shows the intent, and feedback lets you adjust the impact. 
+Like the bricklayer inspired by his building a school to educate thousands, your people can light up in a common purpose and a shared journey. Their dynamic exchanges with fellow travellers bring a healthy kind of accountability. This enabling environment unlocks a greater team intelligence.
 
-Like the bricklayer who is not just earning a crust but inspired to be building a school to educate thousands, people can be inspired by a common purpose. Then we find they come to enjoy transparency and being held to account. Frustration reduces as a different future starts to arrive. Pennies drop and eyes light up! Stronger action speeds up results and learning, so steadily we see confidence and reputation rise. 
+A story begins with 'what is' and asks powerful questions to find the facts including the 'relational' (who do you depend on?) and the 'personal' (what is frustrating?). Through this we clarify your intent, and we bring you feedback to sharpen person to person links towards impact. 
 
-What new story could light your people up?
+First we see pennies drop and eyes light up, then stronger action, increasing results and insight. Reputations and confidence rise. 
