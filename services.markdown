@@ -14,9 +14,9 @@ How? We focus you differently towards sharing facts and making links. How you li
 
 <h2 id="facilitation">Facilitation</h2>
 
-If you believe a leadership team's 'real work' is to impact the outside (customers and stakeholders) through enabling people inside, then most teams have work to do. One team may be challenged by being dispersed across many countries, and another in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) by uniting an organisation post-merger.
+If your leadership team's 'real work' is to impact the outside (customers and stakeholders) through enabling people inside, then it is likely you have work to do. A team may be challenged by being dispersed across many countries, or in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) to unit their organisation post-acquisition.
 
-When we ask what outcomes are needed, teams want to advance crucial work projects. So we work live with them as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step your team grows clearer in purpose, connection and impact.
+We will ask you what outcomes are needed, and most want to advance crucial work projects. So we work live with your team as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step they grow clearer in purpose, connection and impact.
 
 <h2 id="coaching">Coaching</h2>
 
