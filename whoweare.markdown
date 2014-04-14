@@ -7,13 +7,13 @@ navigation: [colleagues, helen, tony, inspirations, library]
 permalink: /who-we-are/
 ---
 
-Page Consulting? These words on a brass plaque began as just a joke, but, very soon, a small company was born! [Tony Page ]({{ site.baseurl}}/who-we-are/tony) who started this is a 59 year old father of two grown up children, and a partner for 34 years to [Helen]({{ site.baseurl}}/who-we-are/helen). 
+Over 25 years of practice we notice leaders becoming less trusted. If today you say "I am a leader!", will people be interested? But if instead you ask "What should be different round here?", we notice they move into joint action. 
 
-Over 25 years of practice we notice leaders becoming less trusted. If today you say "I am a leader!", will people be interested? But if instead you ask "What should be different round here?", they willingly take joint action towards a pressing problem. 
+Page Consulting? These words on a plaque were just a joke, until this small company was born! The founder Tony Page [CV]({{ site.baseurl}}/documents/tonypagecv.pdf) is a 59 year old father of two grown up children, and a partner for 34 years to [Helen]({{ site.baseurl}}/who-we-are/helen). We have worked with leaders on their challenges in over 80 organisations and 40 countries, creating enabling environments that unlock the power of their team.
 
-We do not favour the individual nor the team to which they belong - we stand for both. Our 'living system' approach is both born of our own experience and [inspired by others]({{ site.baseurl}}/who-we-are/inspirations). To pass our learning on, we make collected writings available in the [library]({{ site.baseurl}}/who-we-are/library).
+Our 'living system' approach draws from many collaborations with [colleagues]({{ site.baseurl}}/who-we-are/colleagues) and from [others who inspired us]({{ site.baseurl}}/who-we-are/inspirations). We share our knowhow through collected writings in the [library]({{ site.baseurl}}/who-we-are/library) and a leadership development school we run in partnership with the <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> team, running pop-up events across four continents. 
 
-Working with leaders on challenges in over 80 organisations and 40 countries we have collaborated with many [colleagues]({{ site.baseurl}}/who-we-are/colleagues) to deliver and and gather the learning. Since 2010 we have been building a small leadership development school in partnership with the <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> team, running pop-up events across four continents. 
+But what do we really stand for? For you AND your team - not favouring either. For joining the dots. For decluttering towards purpose. For self-organising as in the Occupy movement after Hurricane Sandy, and the Linux operating system. We radically enable you to link, build trust and take accountability. 
 
 [Drop us a line]({{ site.baserl }}/contact) to find out more. 
 
