@@ -1,0 +1,21 @@
+BODY {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Arial
+}
+.formatted {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Arial
+}
+H1 {
+	FONT-SIZE: 16pt; COLOR: #333399; FONT-FAMILY: Arial
+}
+H2 {
+	FONT-SIZE: 12pt; COLOR: #ff6600; FONT-FAMILY: Arial
+}
+H3 {
+	FONT-SIZE: 12pt; COLOR: #333399; FONT-STYLE: italic; FONT-FAMILY: Arial
+}
+H4 {
+	FONT-WEIGHT: lighter; FONT-SIZE: 8pt; COLOR: #ff6600; FONT-FAMILY: Arial; TEXT-ALIGN: center
+}
+normal {
+	FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Arial
+}

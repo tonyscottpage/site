@@ -1,0 +1,51 @@
+BODY {
+	FONT-SIZE: 13px; COLOR: black; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial,helvetica,sans-serif
+}
+P {
+	FONT-SIZE: 13px; COLOR: black; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial,helvetica,sans-serif
+}
+LI {
+	FONT-SIZE: 13px; COLOR: black; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial,helvetica,sans-serif
+}
+UL {
+	FONT-SIZE: 13px; COLOR: black; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial,helvetica,sans-serif
+}
+P.frontpage {
+	MARGIN-TOP: 16px; FONT-SIZE: 13px; MARGIN-BOTTOM: 0px; COLOR: black; LINE-HEIGHT: 18px; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+}
+P.frontpage_title {
+	MARGIN-TOP: 1px; FONT-SIZE: 17px; MARGIN-BOTTOM: 0px; COLOR: black; FONT-FAMILY: arial, tahoma, verdana
+}
+P.note {
+	FONT-SIZE: 10px; COLOR: black; LINE-HEIGHT: 14px; FONT-FAMILY: verdana, arial,helvetica,sans-serif
+}
+H1 {
+	FONT-SIZE: 19px; COLOR: black; FONT-FAMILY: arial, tahoma, verdana
+}
+H2 {
+	FONT-SIZE: 17px; COLOR: black; FONT-FAMILY: arial, tahoma, verdana
+}
+H3 {
+	FONT-SIZE: 14px; COLOR: black; FONT-FAMILY: arial, tahoma, verdana
+}
+A:link {
+	FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-SIZE: 13px; COLOR: #000000; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 13px; COLOR: #ff0000; LINE-HEIGHT: 18px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+TD {
+	FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: verdana, arial,helvetica,sans-serif
+}
+DD {
+	FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: verdana, arial,helvetica,sans-serif
+}
+DT {
+	FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: verdana, arial,helvetica,sans-serif
+}

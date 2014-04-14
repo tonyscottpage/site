@@ -1,0 +1,764 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=PowerPoint.Slide>
+<meta name=Generator content="Microsoft PowerPoint 10">
+<link id=Main-File rel=Main-File href="../WSBPres.htm">
+<link rel=Preview href=preview.wmf>
+<meta name=Robots content=NoIndex>
+<script src=script.js></script><script><!--
+if( !(IsWin("PPTOtl")||IsWin("PPTNav")||IsWin("PPTOtlNav")) )
+{
+	obj = GetObj("Main-File")
+	parent.location.href=obj.href
+}
+var gOtlHiliteClr="#ffffff",gOtlNormalClr="#000000",gOtlActiveClr="#ffff00",gSelected="",gTxtState=false,gChildEntryTable=new Array()
+function Load()
+{
+	if( IsWin("PPTOtl" ) ){ LoadOtl(); parent.gOtlLoaded=true; return }
+	if( g_supportsPPTHTML ) {
+		if( IsWin("PPTNav" ) ){ LoadNav("NavObj",UpdNav); parent.gNavLoaded=true; return }
+		if( IsWin("PPTOtlNav" ) ){ LoadNav("OtlNavObj",UpdOtlNav); parent.gOtlNavLoaded=true; return }
+	}
+}
+function Upd(){ if( IsWin("PPTNav") ) LoadNav("NavObj",UpdNav) }
+function LoadNav( oId,UpdFunc )
+{
+	document.ondragstart=CancelDrag
+	document.onselectstart=CancelDrag
+	document.body.style.margin=2
+	UpdFunc()
+	obj=document.all.item(oId)
+	obj.style.display="block"
+	obj.style.visibility="visible"
+	document.bgColor="threedface"
+	if( parent.frames["PPTNts"] )
+		notesBtn.style.display = ""
+	if( parent.gHasNarration )
+		nb_voiceBorder.style.display = ""
+}
+function LoadOtl()
+{
+	var otl=GetObj("OtlObj")
+	otl.style.display="block"
+	otl.style.visibility="visible"
+	if( gOtlActiveClr == "" ) gOtlActiveClr=document.linkColor
+	if( gOtlHiliteClr == "" ) gOtlHiliteClr=document.fgColor
+	if( gOtlNormalClr == "" )
+		gOtlNormalClr=document.bgColor
+	else
+		document.bgColor=gOtlNormalClr
+	InitArray()
+	if( ObjExists( parent.gCurSld ) ) {
+		ChangeState( parent.gCurSld,gOtlNormalClr,gOtlHiliteClr )
+		gSelected=parent.gCurSld
+	}
+	else gSelected = -1
+	UpdOtl()
+}
+function UpdOtl(){ UpdIdx(parent.gCurSld) }
+function UpdIdx( idx )
+{
+	if( gSelected != idx ) {
+		if( gSelected > 0 )
+			ChangeState( gSelected,gOtlHiliteClr,gOtlNormalClr )
+		if( ObjExists( idx ) ) {
+			gSelected = idx
+			ChangeState( gSelected,gOtlNormalClr,gOtlHiliteClr )
+		}
+		else gSelected = -1
+	}
+	if( gTxtState != parent.gOtlTxtExp ) {
+		state = "block"
+		if( !parent.gOtlTxtExp )
+			state="none"
+		for(ii=0; ii<gChildEntryTable.length; ii++) {
+			obj=gChildEntryTable[ii];
+			if( obj.id == null ) continue;
+			if( obj.id.indexOf("PPTC") >= 0 )
+				obj.style.display=state;
+		}
+		gTxtState=parent.gOtlTxtExp
+		if( ObjExists( gSelected ) )
+			ChangeState( gSelected,gOtlNormalClr,gOtlHiliteClr )
+	}
+}
+function InitArray()
+{
+	count=0
+	var list=GetTags(document,"DIV");
+	for(ii=0; ii<list.length; ii++) {
+		obj=list.item(ii)
+		if( obj.id == null ) continue
+		if( obj.id.indexOf("PPTC") >= 0 )
+			gChildEntryTable[count++]=obj
+	}
+}
+function ChangeState( idx,fgColor,bgColor )
+{
+	obj=GetObj("PPTL"+idx)
+	obj.style.color=fgColor
+	obj=GetObj("PPTP"+idx)
+	obj.style.backgroundColor=bgColor
+}
+function ChgClr( o,clr ){ if( o.id != "PPTL"+gSelected ) o.style.color=clr }
+function Over( src ){ ChgClr(GetLink(src),gOtlActiveClr) }
+function Out( src ){ ChgClr(GetLink(src),gOtlHiliteClr) }
+function Follow(src){ window.location.href = GetLink(src).href; }
+function ObjExists( ii ) { obj=GetObj("PPTP"+ii ); return( obj ) }
+function GoToSld( href ){ UpdIdx(parent.GetSldNum(href)); parent.GoToSld( href ) }
+function CancelDrag(){ window.event.cancelBubble=true;window.event.returnValue=false}
+function GetLink(src)
+{
+   if(src.tagName=="A") return src
+   else return GetTags(src,"A").item(0)
+}
+function UpdNav()
+{
+	txt = "<center>";
+	if( parent.GetHrefObj( parent.gCurSld ).mOrigVis == 1 )
+		txt += "Slide " + parent.GetCurSldNum() + " of " + parent.GetNumSlds()
+	else
+		txt += "Hidden Slide"
+	txt += "</center>";
+	nav_text.innerHTML = txt;
+	if( !parent.HasPrevSld() )
+		gBtnArr["nb_prev"].Enabled(0)
+	else
+		gBtnArr["nb_prev"].Enabled(1)
+	if( !parent.HasNextSld() )
+		gBtnArr["nb_next"].Enabled(0)
+	else
+		gBtnArr["nb_next"].Enabled(1)
+	gBtnArr["nb_nts"].SetEnabled()
+	gBtnArr["nb_nts"].SetFlag( parent.gHasNts )
+	gBtnArr["nb_sldshw"].Enabled(1)
+	gBtnArr["nb_voice"].Enabled(1)
+}
+function UpdOtlNav()
+{
+	gBtnArr["nb_otl"].SetEnabled();
+	if( parent.gOtlOpen )
+		gBtnArr["nb_otlTxt"].Enabled( true );
+	else
+		document.all.item("nb_otlTxtBorder").style.visibility = "hidden";
+}
+
+//--></script>
+<style>
+<!--.PTxt
+	{position:relative;
+	width:100%;
+	margin-top:5px;
+	padding-left:2px;
+	font-weight:bold;}
+.CTxt
+	{position:relative;
+	width:100%;
+	margin-top:5px;}
+a
+	{color:white;
+	text-decoration:none;}
+ul
+	{color:white;
+	margin-bottom:0px;
+	margin-left:20px;}
+.sldNum
+	{margin-top:5px;
+	color:white;}
+.button
+	{position:absolute;
+	width:32px;
+	height:20px;
+	border-style:solid;
+	border-width:1px;
+	border-color:threedface;}
+-->
+</style>
+</head>
+
+<body onload="Load()" style='margin:2px'>
+
+<div id=NavObj onload="Load()" onmouseover="BtnOnOver()"
+onmousedown="BtnOnDown()" onmouseout="BtnOnOut()" onmouseup="BtnOnUp()"
+onkeypress="_KPH()" style='display:none;visibility:hidden'>
+<table id="notesBtn" style='position:absolute;display:none;width:70px' align=left cellpadding=0
+ cellspacing=0>
+ <td nowrap>
+ <div id="nb_ntsElem" align=center style='position:relative;padding:3px;
+ font-family:Arial;color:buttontext;font-size:9pt'><img src="notes_flag.gif"
+ border=0 id="notes_flag" style='display:none'><span
+style='mso-spacerun:yes'>  </span>Notes</div>
+ <div title="Show/Hide Notes" id="nb_nts" style='position:absolute;top:0%;
+ left:0%;width:100%;height:100%'></div>
+ </td>
+</table>
+
+<table style='position:relative;width:70px' align=right cellpadding=0 cellspacing=0>
+ <td nowrap>
+ <div id="nb_sldshwText" title="Full
+Screen Slide Show" align=center style='position:relative;margin-left:20px;padding:3px;
+ font-family:Arial;color:buttontext;font-size:9pt;cursor:default'>Slide
+Show</div>
+ <div id="nb_sldshwBorder" title="Full Screen Slide Show" style='position:absolute;top:0%;left:0%;width:100%;height:20px'>
+ <div style='position:absolute;clip:rect(0px, 18px, 18px, 0px)'><img
+ src="buttons.gif" id="nb_sldshw" style='position:relative;left:-254px'></div>
+ </div>
+ </td>
+ <td>
+ <div id="nb_voiceBorder" style='display:none;position:absolute;top:0;left:-40px;
+ width:20px;height:20px'>
+ <div style='position:absolute;clip:rect(0px, 18px, 18px, 0px)'><img
+ src="buttons.gif" id="nb_voice" title="Pause/Play Narration" style='position:
+ relative;left:-290px'></div>
+ </div>
+ </td>
+</table>
+
+<table style='position:relative' align=center cellpadding=0 cellspacing=0>
+ <td nowrap>
+ <div id="nb_prevBorder" class=button style='left:-30px'>
+ <div style='position:absolute;clip:rect(0px, 30px, 18px, 0px)'><img
+ src="buttons.gif" id="nb_prev" title="Previous Slide" style='position:relative;
+ left:0px'></div>
+ </div>
+ <span id="nav_text" style='position:relative;top:3px;width:100px;font-family:
+ Arial;color:buttontext;font-size:9pt'></span>
+ <div id="nb_nextBorder" class=button>
+ <div style='position:absolute;clip:rect(0px, 30px, 18px, 0px)'><img
+ src="buttons.gif" id="nb_next" title="Next Slide" style='position:relative;
+ left:-90px'></div>
+ </div>
+ </td>
+</table>
+</div>
+
+<div id=OtlNavObj onload="Load()" onmouseover="BtnOnOver()"
+onmousedown="BtnOnDown()" onmouseout="BtnOnOut()" onmouseup="BtnOnUp()"
+onkeypress="_KPH()" style='display:none;visibility:hidden'>
+
+<table style='position:relative;width:70px' align=left cellpadding=0 cellspacing=0>
+ <td nowrap><div title="Show/Hide
+Outline" id="nb_otl"
+ style='position:absolute;top:0%;left:0%;width:100%;height:100%;cursor:default'>
+ <div id="nb_otlElem" align=center style='position:relative;padding:3px;font-family:Arial;
+ color:buttontext;font-size:9pt'>Outline</div></div>
+ </td>
+</table>
+
+<table style='position:relative' align=center cellpadding=0 cellspacing=0>
+ <td>
+ <div style='position:absolute;left:-18px;width:24px;height:20px;border-style:
+ solid;border-width:1px;border-color:threedface' id="nb_otlTxtBorder">
+ <div style='position:absolute;clip:rect(0px, 22px, 18px, 0px)'><img
+ src=buttons.gif id="nb_otlTxt" title="Expand/Collapse Outline"
+ style='position:relative;left:-157px'></div>
+ </div>
+ </td>
+</table>
+
+</div>
+
+<div id=OtlObj style='display:none;visibility:hidden;'>
+
+
+<table width="100%" style='font-family:Arial;font-size:9pt'>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>1</font></div>
+  </td>
+  <td width="100%">
+  <div id=PPTP1 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0001.htm');" id=PPTL1>Imagine <br>
+    the <br>
+    WORKING<br>
+    SOLUTIONS<br>
+    BOWL…</a></font></div>
+  <div id=PPTC1 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>… as a Unique Development Experience</li>
+   <li>for Leaders</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>2</font></div>
+  </td>
+  <td>
+  <div id=PPTP2 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0005.htm');" id=PPTL2>This is a bowl…</a></font></div>
+  <div id=PPTC2 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>It is a safe and separate place, with clear rules, permissions,
+       boundaries and roles.</li>
+   <br>
+   <br>
+   <li>In the bowl our techniques can quickly reveal subtle patterns (without
+       judging or blaming) that characterise your approach and impact.</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>3</font></div>
+  </td>
+  <td>
+  <div id=PPTP3 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0002.htm');" id=PPTL3>&quot;“Opening your soul
+  to...&quot;</a></font></div>
+  <div id=PPTC3 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>“Opening your soul to three complete strangers is not easy…</li>
+   <br>
+   <br>
+   <li>	…however the approach used worked well</li>
+   <li>	…and gave me the opportunity to see my problem through a completely
+       different lens.</li>
+   <li></li>
+   <li>	Did this help me? Absolutely!”</li>
+   <br>
+   <br>
+   <li>Andy, Supply Chain Development Director</li>
+   <li>Sainsbury’s Supermarkets Ltd</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>4</font></div>
+  </td>
+  <td>
+  <div id=PPTP4 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0006.htm');" id=PPTL4>Like a mirror…</a></font></div>
+  <div id=PPTC4 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>… which offers the gift of reflection, clients feel seen and experienced
+       freshly, perhaps as never before, in the presence of three perceptive
+       coaches</li>
+   <li>There is no past or future relationship, so nothing to filter, no big
+       effort to create empathy, no translating or hiding.</li>
+   <li>What is communicated right here, right now in the room is all there is</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>5</font></div>
+  </td>
+  <td>
+  <div id=PPTP5 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0003.htm');" id=PPTL5>Picture yourself in a
+  room…</a></font></div>
+  <div id=PPTC5 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>… exploring an important work-related issue in the presence of three
+       experienced coaches. They give you a way to take your blinkers off and
+       experience yourself in a new way, that is, directly, as they experience
+       you. This special attention begins to shift your view of the issue and
+       shows you how to move things forward</li>
+   <br>
+   <br>
+   <li>The value to you is deep and multi-layered</li>
+   <ul>
+    <li>First you unblock the specific issue you brought</li>
+    <li>Second you gain new knowledge about yourself, your unique strengths and
+        impact as a leader</li>
+    <li>Third you can develop a powerful new skill: by returning for a second
+        session as one of the three coaches, you learn a special way to empower
+        others (colleagues, staff and business partners) to tackle their own
+        issues and grow themselves as leaders</li>
+   </ul>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>6</font></div>
+  </td>
+  <td>
+  <div id=PPTP6 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0004.htm');" id=PPTL6>Working Solutions Bowl
+  is powerful, quick and safe</a></font></div>
+  <div id=PPTC6 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>This is a unique, intense leadership development opportunity which is:</li>
+   <ul>
+    <li>confidential (not a word goes back)</li>
+    <li>with no strings attached (no selling on)</li>
+   </ul>
+   <br>
+   <br>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>7</font></div>
+  </td>
+  <td>
+  <div id=PPTP7 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0007.htm');" id=PPTL7>Want to find out more?</a></font></div>
+  <div id=PPTC7 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>Who comes to the bowl?</li>
+   <li>What’s the deal?</li>
+   <li>How does it work?</li>
+   <li>Are you ready for this?</li>
+   <li>How do you enrol someone else?</li>
+   <li>When can you do it?</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>8</font></div>
+  </td>
+  <td>
+  <div id=PPTP8 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0008.htm');" id=PPTL8>Who comes to the bowl?</a></font></div>
+  <div id=PPTC8 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>“Be clear about your issue.</li>
+   <li>Possibly come with a colleague</li>
+   <li>and share the issue”</li>
+   <br>
+   <br>
+   <li>All sorts of people, male and female, come to the bowl, typically in
+       senior executive roles, from any kind of organisation including
+       telecoms, logistics, recruitment, web design, publishing, charities,
+       central government</li>
+   <li>Usually one person at a time, but sometimes work colleagues in pairs and
+       trios</li>
+   <li>See some case examples</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>9</font></div>
+  </td>
+  <td>
+  <div id=PPTP9 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0009.htm');" id=PPTL9>What’s the deal?</a></font></div>
+  <div id=PPTC9 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>You take away…</li>
+   <ul>
+    <li>Clarity on your real issue/opportunity, a solution and a clear set of
+        actions</li>
+    <li>New knowledge about yourself, your unique strengths, your way of
+        thinking and impact as a leader</li>
+    <li>A way to coach others to tackle their issues and grow themselves as
+        leaders</li>
+   </ul>
+   <li>In return, for the two session programme you pay a single, one-off fee
+       of £2000.</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>10</font></div>
+  </td>
+  <td>
+  <div id=PPTP10 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0010.htm');" id=PPTL10>How does it work?</a></font></div>
+  <div id=PPTC10 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>Turn up at a pre-arranged time and place, with your chosen issue in
+       mind. They’ll be three coaches in the room. They engage you in a
+       searching inquiry, asking you questions, challenging you to explain your
+       issue and reflecting their direct experience of being with you</li>
+   <br>
+   <br>
+   <li>The process is clearly directed and enables you to discover how/why your
+       issue is gripping you. You find keys to a different set of thoughts,
+       feelings and action possibilities. The releasing effect typically leaves
+       you feeling energetic, resourceful, more confident to be yourself in the
+       world… and with plenty to think about!</li>
+   <br>
+   <br>
+   <li>Each session takes only half a day. The second session, in which you can
+       elect to operate as one of the three coaches, begins with a personal
+       briefing to frame your development objectives and ends with a review and
+       feedback discussion with you.</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>11</font></div>
+  </td>
+  <td>
+  <div id=PPTP11 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0011.htm');" id=PPTL11>Click below to find out
+  more…</a></font></div>
+  <div id=PPTC11 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>Are you ready for this?</li>
+   <li>How do you enrol someone else?</li>
+   <li>When can you do it?</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>12</font></div>
+  </td>
+  <td>
+  <div id=PPTP12 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0012.htm');" id=PPTL12>Are you ready for this?</a></font></div>
+  <div id=PPTC12 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>“If you feel uneasy about anything at work</li>
+   <li>but can’t put your finger on it …this session would help.”</li>
+   <br>
+   <br>
+   <li>Check yourself out.</li>
+   <li>Working Solutions Bowl is a process which helps to get to the root of
+       your struggle with an issue or opportunity and then to&nbsp;achieve a
+       significant shift in your thinking in a very short timescale.</li>
+   <li>To assure the best possible results we are careful about who we work
+       with.</li>
+   <li>To verify your readiness for the session, you need to answer YES to the
+       following five questions….</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>13</font></div>
+  </td>
+  <td>
+  <div id=PPTP13 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0013.htm');" id=PPTL13>Readiness Checklist</a></font></div>
+  <div id=PPTC13 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>Do you have an issue or opportunity which is:</li>
+   <ul>
+    <li>Real and complicated</li>
+    <li>Involves you significantly</li>
+    <li>Current and unresolved</li>
+   </ul>
+   <li>Are you open to different ways of addressing the issue?</li>
+   <li>Are you willing to take full responsibility for your own insights and
+       conclusions?</li>
+   <li>Is the possibility of resolving the&nbsp;issue worth it enough to
+       justify the cost in time and fees?</li>
+   <li>Are you happy to travel to the IOD in Pall Mall, London?</li>
+   <br>
+   <br>
+   <li>And NO to this question</li>
+   <li>Do you know or need to work with one or more of the three coaches now or
+       in the future? (If yes, speak to us and we’ll seek a way round).</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>14</font></div>
+  </td>
+  <td>
+  <div id=PPTP14 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0014.htm');" id=PPTL14>How do you enrol
+  someone else?</a></font></div>
+  <div id=PPTC14 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>Why on earth would you refer one of your clients or colleagues to us?</li>
+   <li>Answer...simply because you want them to succeed in resolving their
+       issues or realising their opportunities&nbsp;AND…</li>
+   <li><span style='mso-spacerun:yes'> </span>… you are confident enough in
+       your relationship with them and in your own skills that you see this as
+       a positive opportunity.</li>
+   <li>The Bowl can add positively to your future working relationship with
+       this person.</li>
+   <br>
+   <br>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>15</font></div>
+  </td>
+  <td>
+  <div id=PPTP15 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0015.htm');" id=PPTL15>The Client’s
+  Relationship with YOU</a></font></div>
+  <div id=PPTC15 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>“It is easy to get caught up in the issue of the moment.</li>
+   <li>It is important to spend time reflecting and thinking.”</li>
+   <br>
+   <br>
+   <li>Things don’t always happen as they should. Leaders get stuck.
+       Consultants and colleagues can get narrowly typecast or trusted too
+       much. Relationships get rigid or confused. People resist solutions that
+       make perfect sense.</li>
+   <li>We can promise that the Bowl tends to free things up, opening new
+       avenues and creating receptiveness to feedback and learning.</li>
+   <li>We hope you&nbsp;might see the Bowl as contributing to your business and
+       your relationship with your client.</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>16</font></div>
+  </td>
+  <td>
+  <div id=PPTP16 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0016.htm');" id=PPTL16>The Client’s
+  Relationship with US</a></font></div>
+  <div id=PPTC16 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>A deliberate (and unusual!)&nbsp;factor in the Bowl is that&nbsp;no
+       ongoing relationship is formed with the client. So you need have no
+       concern about disruption to your ongoing relationship with the client.</li>
+   <li>After a session the client walks away on their own, with no further
+       support or contact from the Bowl's coaches.</li>
+   <li>The Bowl is a reliable process derived by Jeremy Keeley and Tony Page
+       from best practice in the development arena. We draw from Gestalt and
+       Tavistock traditions.</li>
+   <li>Our deep experience of coaching, facilitating and consulting, to
+       individual leaders and groups has been blended with practice together
+       since 1996 of robust challenge yielding rich insights in a learning set.</li>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>17</font></div>
+  </td>
+  <td>
+  <div id=PPTP17 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0017.htm');" id=PPTL17>The Referral Fee</a></font></div>
+  <div id=PPTC17 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>The fee to the client is £2000 covering the two sessions, the first as
+       client, the second either as client or coach.</li>
+   <li>When you refer a client to us you benefit in one of three ways:</li>
+   <ul>
+    <li>We pay you 10% of the fee as commission or</li>
+    <li>We discount the fee by 10% or</li>
+    <li>We donate 10% of the fee to a charity of your choice.</li>
+   </ul>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>18</font></div>
+  </td>
+  <td>
+  <div id=PPTP18 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0018.htm');" id=PPTL18>When can you do it?</a></font></div>
+  <div id=PPTC18 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>If you’ve checked the Readiness Checklist and you fit the bill, your
+       next step is to book your session.</li>
+   <li>Sessions usually start at 10am and run through to around 1.30pm.</li>
+   <li>Contact us to arrange a date.</li>
+   <br>
+   <br>
+   <li>For those wanting to find out more before referring clients or
+       colleagues ask about our Open Evenings.</li>
+   <br>
+   <br>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+ <tr onmouseover="Over(this)" onmouseout="Out(this)" onclick="Follow(this)"
+  style='cursor:hand'>
+  <td align=right valign=top>
+  <div class=sldNum><font size=2>19</font></div>
+  </td>
+  <td>
+  <div id=PPTP19 class=PTxt><font size=2><a
+  href="javascript:GoToSld('slide0019.htm');" id=PPTL19>Contact details</a></font></div>
+  <div id=PPTC19 class=CTxt style='display:none'><font size=2>
+  <ul>
+   <li>To reserve your date, contact:</li>
+   <li></li>
+   <ul>
+    <li>Tony Page&nbsp;0044 (0)797 123 9529</li>
+    <li>or</li>
+    <li>Jeremy Keeley 0044 (0)793 035 5593</li>
+   </ul>
+  </ul>
+  </font></div>
+  </td>
+ </tr>
+</table>
+
+
+
+</div>
+
+<div style='display:none'><a href=master03.htm></a><a href=master03.xml></a><a
+href=preview.wmf></a><a href="master03_image001.gif"></a><a href=pres.xml></a><a
+href=slide0001.htm></a><a href="master03_image002.jpg"></a><a
+href=slide0005.htm></a><a href=slide0002.htm></a><a href=slide0006.htm></a><a
+href=slide0003.htm></a><a href=slide0004.htm></a><a href=slide0007.htm></a><a
+href=slide0008.htm></a><a href=slide0009.htm></a><a href=slide0010.htm></a><a
+href=slide0011.htm></a><a href=slide0012.htm></a><a href=slide0013.htm></a><a
+href="slide0013_image003.gif"></a><a href=slide0014.htm></a><a
+href=slide0015.htm></a><a href=slide0016.htm></a><a href=slide0017.htm></a><a
+href=slide0018.htm></a><a href=slide0019.htm></a><a href=master01.htm></a><a
+href="master03_stylesheet.css"></a><a href=script.js></a><a
+href=fullscreen.htm></a><a href=buttons.gif></a><a href=frame.htm></a><a
+href=outline.htm></a><a href=filelist.xml></a><a href=master03.htm></a><a
+href=master03.xml></a><a href=preview.wmf></a><a href="master03_image001.gif"></a><a
+href=pres.xml></a><a href=slide0001.htm></a><a href="master03_image002.jpg"></a><a
+href=slide0005.htm></a><a href=slide0002.htm></a><a href=slide0006.htm></a><a
+href=slide0003.htm></a><a href=slide0004.htm></a><a href=slide0007.htm></a><a
+href=slide0008.htm></a><a href=slide0009.htm></a><a href=slide0010.htm></a><a
+href=slide0011.htm></a><a href=slide0012.htm></a><a href=slide0013.htm></a><a
+href="slide0013_image003.gif"></a><a href=slide0014.htm></a><a
+href=slide0015.htm></a><a href=slide0016.htm></a><a href=slide0017.htm></a><a
+href=slide0018.htm></a><a href=slide0019.htm></a><a href=master01.htm></a><a
+href="master03_stylesheet.css"></a><a href=script.js></a><a
+href="../WSBPres.htm"></a><a href=fullscreen.htm></a><a href=buttons.gif></a><a
+href=frame.htm></a><a href=outline.htm></a></div>
+
+</body>
+
+</html>

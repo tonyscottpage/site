@@ -1,0 +1,93 @@
+<html>
+<head>
+<title>New Intermediaries - Who (menu)</title>
+<base target="content">
+<script language="JavaScript">
+<!--
+imgArray = new Array();
+imgArrayOver = new Array();
+imgArraySel = new Array();
+
+for(i=2; i < 5; i++) {
+ imgArray[i-2] = new Image();
+ imgArray[i-2].src = "images/WhoNI-0" + i + "-01.gif";
+ imgArraySel[i-2] = new Image();
+ imgArraySel[i-2].src = "images/WhoNISel-0" + i + "-01.gif";
+ imgArrayOver[i-2] = new Image();
+ imgArrayOver[i-2].src = "images/WhoNIOver-0" + i + "-01.gif";
+}
+
+var nCurrentImage = 0;
+function setImage(n) {
+  //alert(top.frames.length);
+  if (top.frames.length > 1)
+    top.frames[1].focus();
+  if (nCurrentImage == n)
+    return false; // do nothing if this image is already active
+  if (nCurrentImage >= 0) {
+    document.images["Img" + nCurrentImage].src = imgArray[nCurrentImage].src;
+  }
+  nCurrentImage = n;
+  document.images["Img" + n].src = imgArraySel[n].src;
+  return false;
+}
+
+function mouseOver(n) {
+  if (nCurrentImage == n)
+    return; // do nothing if this image is already active
+  document.images["Img" + n].src = imgArrayOver[n].src;
+}
+function mouseOut(n) {
+  if (nCurrentImage == n)
+    return; // do nothing if this image is already active
+  document.images["Img" + n].src = imgArray[n].src;
+}
+// -->
+</script>
+</head>
+
+<body bgcolor="#6699CC">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=197 height=100%>
+<tr><td height=80% valign=top>
+  <TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=193 height=1>
+  <TR>
+    <TD>
+    <IMG SRC="images/WhoNI-01-01.gif" WIDTH="193" HEIGHT="116" BORDER="0"></TD>
+  </TR>
+  <TR>
+    <TD> <a href=ANetwork.htm
+       onclick="setImage(0)"
+       onMouseover="mouseOver(0);"
+       onMouseout="mouseOut(0);"> <IMG name="Img0" SRC="images/WhoNISel-02-01.gif" WIDTH="193" HEIGHT="19" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD> <a href=KPpeople.htm
+       onclick="setImage(1)"
+       onMouseover="mouseOver(1);"
+       onMouseout="mouseOut(1);"> <IMG name="Img1" SRC="images/WhoNI-03-01.gif" WIDTH="193" HEIGHT="21" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=20>
+    <!-- IMG SRC="images/WhoNI-04-01.gif" WIDTH="193" HEIGHT="116" BORDER="0" -->
+    </TD>
+  </TR>
+  </TABLE>
+</td></tr>
+<tr><td height=20%>
+  <table cellpadding=0 cellspacing=0 height=100%>
+  <TR>
+    <TD height=100% valign=bottom>
+    <MAP NAME="ImageMap155">
+      	<AREA SHAPE="RECT" ALT="How" COORDS="37,2,66,22" HREF="how.htm" target="_top">
+      	<AREA SHAPE="RECT" ALT="Why" COORDS="36,23,57,38" HREF="why.htm" target="_top">
+    </MAP>
+    <IMG SRC="images/WhoNI-05-01.gif" WIDTH="193" HEIGHT="90" BORDER="0" usemap="#ImageMap155"></TD>
+  </TR>
+  </table>
+</td></tr>
+
+
+</table>
+
+</body>
+</html>

@@ -6,10 +6,10 @@ page-title:  "What sort of clients work with us?"
 permalink: /clients/
 ---
 
-Our clients are individuals, leadership teams and cross-organisational groups. You are women and men on the move, young and old, from any background, role or country. As New Leaders you are different in how you face challenges, gain and share power: you work "across", influencing and being influenced at boundaries, embracing differences.
+Our clients are individuals, leadership teams and cross-organisational groups. As New Leaders you are different in how you face challenges, gain and share power: you work "across", influencing and being influenced at boundaries, embracing differences.
 
 
-New paths beckon because the old ways of commanding and controlling don't work: they are either not available, or too costly to sustain. You believe people can deliver extraordinary results together. So you need them to buy-in, to participate and mobilise with greater trust, transparency and accountability. 
+ You are women and men on the move, young and old, from any background, role or country. New paths beckon because the old ways of commanding and controlling don't work: they are not available, or too costly to sustain. You believe people can deliver extraordinary results together. So you need them to buy-in, to participate and mobilise, with more trust, transparency and accountability. 
 
 In recent years we found New Leaders in the British Council (cultural relations, particularly in Africa), Borealis (petrochemicals HQ Vienna), BG (oil and gas, globally) and Tree Aid (forestry NGO, UK and West Africa). And over the last 25 years we now realise we worked with you in all these organisations:
 

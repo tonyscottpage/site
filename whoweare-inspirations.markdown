@@ -1,9 +1,8 @@
 ---
 id: inspirations
-section: whoweare
 layout: page
 title:  "Inspirations"
-permalink: /who-we-are/inspirations/
+permalink: /documents/inspirations/
 ---
 
 Here are some of the people who have inspired our ways of working...
@@ -15,35 +14,35 @@ Here are some of the people who have inspired our ways of working...
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-031e">John Whittington: Systemic Coaching and Constellations<br></td>
-    <td class="tg-031e">Jan Jacob Stam: Trauma in Organizations<br></td>
+    <td class="tg-031e">John Whittington: <a href="johnwhittington.html">Placemaking</a></td>
+    <td class="tg-031e">Jan Jacob Stam: <a href="janjacobtrauma.html">Trauma in Organizations</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">Dr Monica Sharma: Conscious Leadership at the Crossroads of Change<br></td>
-    <td class="tg-031e">David Cooperider: On Appreciative Inquiry (AI)<br></td>
+    <td class="tg-031e">Dr Monica Sharma: <a href="monicasharma.pdf">Conscious Leadership</td>
+    <td class="tg-031e">David Cooperider: <a href="davidcooperider.pdf">Appreciative Inqury (AI)</a></td>
   </tr><tr>
-    <td class="tg-031e">Sandra Janoff &amp; Marvin Weisbord: On Future Search<br></td>
-    <td class="tg-031e">Timothy Gallwey: The Inner Game of Work</td>
+    <td class="tg-031e">Marvin Weisbord: <a href="Marvin%20Weisbord%20Interview.htm">Future Search</a></td>
+    <td class="tg-031e">Timothy Gallwey: <a href="The%20Inner%20Game%20of%20Work,%20Timothy%20Gallwey.htm">The Inner Game of Work</td>
   </tr>
   <tr>
-    <td class="tg-031e">Peter Block: Six Conversations<br></td>
-    <td class="tg-031e">Nancy Kline: Time to Think</td>
+    <td class="tg-031e">Peter Block: <a href="Block%206%20conversations.htm">Six Conversations</a><br></td>
+    <td class="tg-031e">Nancy Kline: <a href="NK%20Time%20to%20think.htm">Time to Think</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">Meg Wheatley: Bringing Life to Organizational Change<br></td>
-    <td class="tg-031e">Henry Mintzberg: Managing Quietly</td>
+    <td class="tg-031e">Meg Wheatley: <a href="margaretwheatley.pdf">Community is the answer</a></td>
+    <td class="tg-031e">Henry Mintzberg: <a href="Managing%20Quietly.htm">Managing Quietly</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">David Bohm et al: Dialogue - a Proposal<br></td>
-    <td class="tg-031e">Peter Senge: Too Late to Wait</td>
+    <td class="tg-031e">David Bohm et al: <a href="davidbohm.htm">Dialogue - a Proposal</a></td>
+    <td class="tg-031e">Peter Senge: <a href="Peter%20Senge.htm">Too Late to Wait</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">Harrison Owen: Open Space and Spirit Shows up<br></td>
-    <td class="tg-031e">Carl Rogers: The Essence of Therapy</td>
+    <td class="tg-031e">Harrison Owen: <a href="Open%20Space%20Spirit.htm">Open Space and Spirit Shows up</a></td>
+    <td class="tg-031e">Carl Rogers: <a href="RogersEssence.htm">The Essence of Therapy</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">Amy and Arnie Mindell: Deep Democracy</td>
-    <td class="tg-031e">United Nations: Universal Declaration of Human Rights</td>
+    <td class="tg-031e">Amy and Arnie Mindell: <a href="mindells%20deep%20democracy.htm">Deep Democracy</a></td>
+    <td class="tg-031e">United Nations: <a href="Universal%20Declaration%20of%20Human%20Rights.htm">Universal Declaration of Human Rights</a></td>
   </tr>
 
 </table>

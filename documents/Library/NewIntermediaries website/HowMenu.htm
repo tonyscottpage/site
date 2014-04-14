@@ -1,0 +1,134 @@
+<html>
+<head>
+<title>New Intermediaries - How (old menu)</title>
+<base target="content">
+<script language="JavaScript">
+<!--
+imgArray = new Array();
+imgArrayOver = new Array();
+imgArraySel = new Array();
+
+for(i=2; i < 12; i++) {
+ imgArray[i-2] = new Image();
+ if (i < 11) {
+   imgArray[i-2].src = "images/HowNI-0" + i + "-01.gif";
+   imgArraySel[i-2] = new Image();
+   imgArraySel[i-2].src = "images/HowNIsel-0" + i + "-01.gif";
+   imgArrayOver[i-2] = new Image();
+   imgArrayOver[i-2].src = "images/HowNIover-0" + i + "-01.gif";
+ } else {
+   imgArray[i-2].src = "images/HowNI-" + i + "-01.gif";
+   imgArraySel[i-2] = new Image();
+   imgArraySel[i-2].src = "images/HowNIsel-" + i + "-01.gif";
+   imgArrayOver[i-2] = new Image();
+   imgArrayOver[i-2].src = "images/HowNIover-" + i + "-01.gif";
+ }
+}
+
+var nCurrentImage = 0;
+function setImage(n) {
+  //alert(top.frames.length);
+  if (top.frames.length > 1)
+    top.frames[1].focus();
+  if (nCurrentImage == n)
+    return false; // do nothing if this image is already active
+  if (nCurrentImage >= 0) {
+    document.images["Img" + nCurrentImage].src = imgArray[nCurrentImage].src;
+  }
+  nCurrentImage = n;
+  document.images["Img" + n].src = imgArraySel[n].src;
+  return false;
+}
+
+function mouseOver(n) {
+  if (nCurrentImage == n)
+    return; // do nothing if this image is already active
+  document.images["Img" + n].src = imgArrayOver[n].src;
+}
+function mouseOut(n) {
+  if (nCurrentImage == n)
+    return; // do nothing if this image is already active
+  document.images["Img" + n].src = imgArray[n].src;
+}
+// -->
+</script>
+</head>
+
+<body bgcolor="#6699CC">
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=197 height=100%>
+<tr><td height=80% valign=top>
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=197 height=1>
+  <TR>
+    <TD height=98>
+    <IMG SRC="images/HowNI-01-01.gif"></TD>
+  </TR>
+  <TR>
+    <TD height=24> <a href=artisan.htm 
+       onclick="setImage(0)"
+       onMouseover="mouseOver(0);"
+       onMouseout="mouseOut(0);"> <IMG name="Img0" SRC="images/HowNIsel-02-01.gif" WIDTH="197" HEIGHT="24" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=37><a href=insideroutsider.htm
+       onclick="setImage(1)"
+       onMouseover="mouseOver(1);"
+       onMouseout="mouseOut(1);"> <IMG name="Img1" SRC="images/HowNI-03-01.gif" WIDTH="197" HEIGHT="37" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=15><a href=changesponsor.htm
+       onclick="setImage(2)"
+       onMouseover="mouseOver(2);"
+       onMouseout="mouseOut(2);"> <img name="Img2" SRC="images/HowNI-04-01.gif" WIDTH="197" HEIGHT="15" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=15><a href=homeoffice.htm
+       onclick="setImage(3)"
+       onMouseover="mouseOver(3);"
+       onMouseout="mouseOut(3);"> <img name="Img3" SRC="images/HowNI-05-01.gif" WIDTH="197" HEIGHT="15" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=35><a href=meetingbound.htm
+       onclick="setImage(4)"
+       onMouseover="mouseOver(4);"
+       onMouseout="mouseOut(4);"> <IMG name="Img4" SRC="images/HowNI-06-01.gif" WIDTH="197" HEIGHT="35" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=14><a href=researchwrtg.htm
+       onclick="setImage(5)"
+       onMouseover="mouseOver(5);"
+       onMouseout="mouseOut(5);"> <IMG name="Img5" SRC="images/HowNI-07-01.gif" WIDTH="197" HEIGHT="14" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=15><a href=onlinecon.htm
+       onclick="setImage(6)"
+       onMouseover="mouseOver(6);"
+       onMouseout="mouseOut(6);"> <IMG name="Img6" SRC="images/HowNI-08-01.gif" WIDTH="197" HEIGHT="15" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=15><a href=orgconsult.htm
+       onclick="setImage(7)"
+       onMouseover="mouseOver(7);"
+       onMouseout="mouseOut(7);"> <IMG name="Img7" SRC="images/HowNI-09-01.gif" WIDTH="197" HEIGHT="15" BORDER="0"></a></TD>
+  </TR>
+  <TR>
+    <TD height=20>
+    <!-- IMG SRC="images/HowNI-10-01.gif" WIDTH="197" HEIGHT="70" BORDER="0" -->
+    </TD>
+  </TR>
+</TABLE>
+</td></tr>
+<tr><td height=20%>
+<table cellpadding=0 cellspacing=0 height=100%>
+  <TR>
+    <TD height=100% valign=bottom>
+    <MAP NAME="ImageMap9819">
+      	<AREA SHAPE="RECT" ALT="Why" COORDS="37,1,66,21" HREF="why.htm" target="_top">
+      	<AREA SHAPE="RECT" ALT="Who" COORDS="36,22,57,37" HREF="who.htm" target="_top">
+
+    </MAP>
+    <IMG SRC="images/HowNI-11-01.gif" WIDTH="197" HEIGHT="89" BORDER="0" usemap="#ImageMap9819">
+    </TD>
+  </TR>
+</table>
+
+</table></body></html>

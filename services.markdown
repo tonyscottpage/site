@@ -20,7 +20,7 @@ We will ask you what outcomes are needed. If you want to advance crucial work pr
 
 <h2 id="coaching">Coaching</h2>
 
-Coaching gives you a way to shift so that others can produce the required results. The FT quotes us in ["Can coaching make the difference?"]({{ site.baseurl}}/documents/ftcoaching.pdf), and our answer is yes. Yes:
+Coaching gives you a way to shift so that others can produce the required results. The FT quotes us in ["Can coaching make the difference?"]({{ site.baseurl}}/documents/ftcoaching.pdf), and our answer is "yes". Yes:
 
 - Jessica a new CEO can focus on how to transform her organisation
 - Miguel can discover how differently to enrol his jaded leadership team
