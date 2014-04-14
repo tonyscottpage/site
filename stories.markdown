@@ -13,4 +13,4 @@ Like the bricklayer inspired by his building a school to educate thousands, your
 
 Your team's story begins with 'what is' and raises powerful questions including the 'relational' (who do you depend on?) and the 'personal' (what is frustrating?). It clarifies the intent, provides an energy source, and brings feedback that sharpens key person to person links. 
 
-Pennies drop and eyes light up! What follows is stronger action, more results, greater insight and impact. Reputations and confidence rise. 
+Pennies drop and eyes light up! What follows is tighter action, better results, greater insight and impact. Confidence and reputation rises. 
