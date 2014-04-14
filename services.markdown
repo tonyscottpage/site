@@ -16,7 +16,7 @@ How? We focus you differently, towards sharing facts and making links. How you l
 
 If your leadership team's 'real work' is to impact the outside (customers and stakeholders) through enabling people inside, then it is likely you have work to do. A team may be challenged by being dispersed across many countries, or in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) by a need to unite their organisation post-acquisition.
 
-We ask you what outcomes are needed, and if you want to advance crucial work projects we work 'live' with your team, as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step they grow clearer in purpose, connection and impact.
+We ask you what outcomes are needed, and, if you want to advance crucial work projects, we work 'live' with your team, as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step they grow clearer in purpose, connection and impact.
 
 <h2 id="coaching">Coaching</h2>
 
