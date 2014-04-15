@@ -7,7 +7,7 @@ navigation: [colleagues, helen, tony, inspirations, library]
 permalink: /who-we-are/
 ---
 
-Over 25 years of practice we notice leaders becoming less trusted. If today you say "I am a leader!", who will be interested? But if instead you ask "What could be different round here?", they can move into action... together. 
+Over 25 years of practice we notice leaders becoming less trusted. If today you say "I am a leader!", who will be interested? But if instead you ask "What could be different round here?", others will move into action... together. 
 
 Page Consulting? Two words - a joke on a brass plaque that brought life to this small company! The founder Tony Page ([CV here]({{ site.baseurl}}/documents/tonypagecv.pdf)) is a 59 year old father of two grown up children, and a partner for 34 years to [Helen]({{ site.baseurl}}/who-we-are/helen). The company has worked with leaders on their challenges in 80 organisations and 40 countries, to create enabling environments that unlock the power of their teams.
 
