@@ -6,8 +6,7 @@ page-title:  "What sort of clients work with us?"
 permalink: /clients/
 ---
 
-Our clients are individuals, leadership teams and cross-organisational groups. As New Leaders you are different in how you face challenges, gain and share power: you work "across", influencing and being influenced at boundaries, embracing differences.
-
+Our clients are individuals, leadership teams and system-wide groups. As New Leaders you are different in how you face challenges, gain and share power: you work "across", influencing and being influenced at boundaries.
 
  You are women and men on the move, young and old, from all backgrounds, roles or countries. New paths beckon because the old ways of commanding and controlling no longer work: they are not available, or too costly to sustain. You believe people can deliver extraordinary results together. So you need them to buy-in, to participate and mobilise, with more trust, transparency and accountability. 
 
