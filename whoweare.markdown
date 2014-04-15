@@ -13,7 +13,7 @@ Page Consulting? Two words - a joke on a brass plaque that brought life to this 
 
 Our 'living system' approach draws from collaborations with clients and [colleagues]({{ site.baseurl}}/who-we-are/colleagues) and from [others who inspired us]({{ site.baseurl}}/documents/inspirations). Access our knowhow through the [library]({{ site.baseurl}}/documents/library), and our <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> school for leaders with its pop-up events across four continents. 
 
-But what do we stand for? For you AND your team - not favouring one or the other. For joining the dots. For 'decluttering' towards purpose. For 'self-organising' as in Occupy Sandy, and Linux (see [inspirations]({{ site.baseurl}}/documents/inspirations). We radically enable you to link, build trust and take accountability. 
+But what do we stand for? For you AND your team - not favouring one or the other. For joining the dots. For 'decluttering' towards purpose. For 'self-organising' as in Occupy Sandy, and Linux (see [inspirations]({{ site.baseurl}}/documents/inspirations)). We radically enable you to link, build trust and take accountability. 
 
 [Drop us a line]({{ site.baserl }}/contact) to find out more. 
 
