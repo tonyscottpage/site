@@ -6,7 +6,7 @@ title:  "Colleagues"
 permalink: /who-we-are/colleagues/
 ---
 
-Here are some colleagues with whom we have been creating ideas, delivering exciting programmes, reflecting and writing:
+Here are some colleagues with whom we created ideas, delivered exciting programmes, reflected or wrote:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -15,20 +15,20 @@ Here are some colleagues with whom we have been creating ideas, delivering excit
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-031e">Alan Addison - Brtish Council</th>
+    <td class="tg-031e">Alan Addison - British Council</th>
     <td class="tg-031e">Umar Kawu - MiDDLEGROUND</th>
   </tr>
   <tr>
     <td class="tg-031e">Lindy Bossenger</td>
-    <td class="tg-031e">Eve Mitleton-Kelly - London School of Economics, Complexity Group</td>
+    <td class="tg-031e">Eve Mitleton-Kelly - LSE Complexity Group</td>
   </tr>
   <tr>
     <td class="tg-031e">Tessa Bradon - The Coaching team</td>
-    <td class="tg-031e">Jeremy Keeley - Keeley Carlisle</td>
+    <td class="tg-031e">Jeremy Keeley - Keeley Carlisle, Sadler Heath</td>
   </tr>
   <tr>
     <td class="tg-031e">Vicky Cosstick - ChangeAware</td>
-    <td class="tg-031e">Gordon Lyle</td>
+    <td class="tg-031e">Gordon Lyle - Gordon Lyle Associates</td>
   </tr>
   <tr>
     <td class="tg-031e">Andrea Davy</td>
@@ -40,34 +40,35 @@ Here are some colleagues with whom we have been creating ideas, delivering excit
   </tr>
   <tr>
     <td class="tg-031e">Twalib Ebrahim - MiDDLEGROUND</td>
-    <td class="tg-031e">Annika Ratcliffe</td>
+    <td class="tg-031e">Annika Ratcliffe - CGI</td>
   </tr>
   <tr>
-    <td class="tg-031e">Jill Fairbairns</td>
+    <td class="tg-031e">Jill Fairbairns - Executive Coach and Supervisor</td>
     <td class="tg-031e">Kate Renshaw - Kate Renshaw Associates</td>
   </tr>
   <tr>
-    <td class="tg-031e">Elana Friedman,- MiDDLEGROUND</td>
-    <td class="tg-031e">Ben Smithies</td>
+    <td class="tg-031e">Elana Friedman - MiDDLEGROUND</td>
+    <td class="tg-031e">Ben Smithies - Verismo Consulting</td>
   </tr>
   <tr>
-    <td class="tg-031e">Philip Goodwin - Tree Aid, formerly British Council</td>
+    <td class="tg-031e">Philip Goodwin - Tree Aid, British Council</td>
     <td class="tg-031e">Tim Savage - T Solutions</td>
   </tr>
   <tr>
-    <td class="tg-031e">Andy Harmon,- Actors Mind</td>
-    <td class="tg-031e">Chiara Vascotto<br></td>
+    <td class="tg-031e">Andy Harmon - Actors Mind</td>
+    <td class="tg-031e">Malcolm Tulloch - BG Group<br></td>
   </tr>
   <tr>
-    <td class="tg-031e">Pattie Horrocks</td>
-    <td class="tg-031e">David Webster - Centre for Teams<br></td>
+    <td class="tg-031e">Pattie Horrocks - Executive Coach</td>
+    <td class="tg-031e">Chiara Vascotto - Insight Hunter<br></td>
   </tr>
   <tr>
-    <td class="tg-031e">Myrna Roselind Jelman - Ashridge</td>
-    <td class="tg-031e">Philippa Williams - Practive<br></td>
+    <td class="tg-031e">Myrna Roselind Jelman - Ashridge, Spring Film</td>
+    <td class="tg-031e">David Webster - The Centre for Teams<br></td>
   </tr>
   <tr>
-    <td class="tg-031e">Mary Joyce - Leading Minds</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e">Mary Joyce - Leading Minds Consulting</td>
+    <td class="tg-031e">Philippa Williams - Practive</td>
   </tr>
+
 </table>
