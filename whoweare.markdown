@@ -9,7 +9,7 @@ permalink: /who-we-are/
 
 Over 25 years of practice we notice leaders becoming less trusted. If today you say "I am a leader!", who is interested? But if instead you ask "What could be different round here?", others will move into action... together. 
 
-Our company has worked with leaders on their challenges in 80 organisations and 40 countries, to create enabling environments that unlock the power of their teams. Page Consulting? Two words - a joke on a brass plaque that brought life to this small company! The founder Tony Page ([CV here]({{ site.baseurl}}/documents/tonypagecv.pdf)) is a 59 year old father with two grown up children, and a partner for 34 years to [Helen]({{ site.baseurl}}/who-we-are/helen). 
+Our company has worked with leaders on their challenges in 80 organisations and 40 countries, to create enabling environments that unlock the power of their teams. Page Consulting? Two words - a joke on a brass plaque that brought life to this enterprise! The founder Tony Page ([CV here]({{ site.baseurl}}/documents/tonypagecv.pdf)) is a 59 year old father with two grown up children, and a partner for 34 years to [Helen]({{ site.baseurl}}/who-we-are/helen). 
 
 So what do we stand for? For you AND your team - not favouring one over the other. For 'decluttering' towards purpose. For joining the dots. For 'self-organising' as in Occupy Sandy, and Linux (see [inspirations]({{ site.baseurl}}/documents/inspirations)). We want to radically enable you to link, build trust and take accountability. 
 
