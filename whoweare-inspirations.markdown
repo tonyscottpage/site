@@ -5,7 +5,7 @@ title:  "Inspirations"
 permalink: /documents/inspirations/
 ---
 
-Here are some of the people who have inspired our ways of working...
+Here are some people and organisations who have inspired our ways of working...
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -13,6 +13,10 @@ Here are some of the people who have inspired our ways of working...
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 </style>
 <table class="tg">
+  <tr>
+    <td class="tg-031e">New York Times: <a href="http://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html?pagewanted=all&_r=0">Occupy Sandy</a></td>
+    <td class="tg-031e">BBC News: <a href="http://www.bbc.co.uk/news/technology-18419231">Why Linux succeeded</a></td>
+  </tr>
   <tr>
     <td class="tg-031e">John Whittington: <a href="johnwhittington.html">Placemaking</a></td>
     <td class="tg-031e">Jan Jacob Stam: <a href="janjacobtrauma.html">Trauma in Organizations</a></td>
