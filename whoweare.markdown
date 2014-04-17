@@ -3,7 +3,7 @@ id: whoweare
 layout: page
 name: "Who we are"
 title:  "Who we are"
-navigation: [colleagues, helen, tony, inspirations, library]
+navigation: [colleagues, helen]
 permalink: /who-we-are/
 ---
 
