@@ -15,7 +15,7 @@ How? We focus you from a different angle, towards enabling outcomes by sharing f
 
 If your leadership team's 'real work' is to impact the outside (customers and stakeholders) through enabling people inside, then how can you make this happen as an everyday way of life? Your team may be challenged by being dispersed across many countries, or as in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) by a need to unite their organisation post-acquisition.
 
-We ask you what outcomes are needed. You can advance crucial work projects, and at trhe same time "shift your system" when we work 'live' with your team, as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step they grow clearer in purpose, connection and impact.
+We ask you what outcomes are needed. You can advance crucial work projects, and at the same time "shift your system" when we work 'live' with your team, as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step they grow clearer in purpose, connection and impact.
 
 <h2 id="coaching">Coaching</h2>
 
