@@ -52,7 +52,7 @@ img {
 .site_sidebar {
   position: fixed;
   left: 0; top: 0;
-  width: 190px;
+  width: 180px;
   height: 100%;
   background: #F6F6F6;
   text-align: left;
@@ -60,7 +60,12 @@ img {
     inset -1px -1px 10px rgba(0, 0, 0, 0.05),
     inset -1px 1px 2px rgba(0, 0, 0, 0.05);
   overflow: hidden;
+}
 
+@media (max-width: 600px) {
+  .site_sidebar {
+    left: -180px;
+  }
 }
 
 .site_sidebar ul {
@@ -71,9 +76,16 @@ img {
  ---------------------------------------------------------*/
 
 .site_sidebar .logo {
-  display: block;
-  margin: 22px;
+  display: table;
+  width: 180px;
+  height: 180px;
   opacity: 0.92;
+}
+
+.site_sidebar .logo .inner {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
 }
 
 .site_sidebar .logo:hover {
@@ -81,7 +93,8 @@ img {
 }
 
 .site_sidebar .logo img {
-  width: 100%;
+  margin: 0 auto;
+  width: 60%;
 }
 
 /** Nav
@@ -116,12 +129,12 @@ img {
   background: rgba(0,0,0,0.03);
 }
 
-.page-home li.home a,
-.page-services li.services a,
-.page-clients li.clients a,
-.page-stories li.stories a,
-.page-whoweare li.whoweare a,
-.page-contact li.contact a {
+.home li.home a,
+.services li.services a,
+.clients li.clients a,
+.stories li.stories a,
+.whoweare li.whoweare a,
+.contact li.contact a {
   background: #FFF;
   border-bottom: 0;
   box-shadow:
@@ -133,7 +146,13 @@ img {
  ---------------------------------------------------------*/
 
 .site_content {
-  margin-left: 190px;
+  margin-left: 180px;
+}
+
+@media (max-width: 600px) {
+  .site_content {
+    margin-left: 0;
+  }
 }
 
 /** Page
@@ -176,7 +195,7 @@ img {
 }
 
 .page p,
-.page ul {
+.page_content ul {
   font-size: 18px;
   margin-bottom: 24px;
   margin-top: -0.25em;
@@ -193,19 +212,171 @@ img {
   font-family: georgia;
 }
 
-.page ul {
+.page_content ul {
   margin-left: 1em;
 }
 
-.page a {
+/** Page Links
+ ---------------------------------------------------------*/
+
+.page_content a {
   color: #F03E55;
 }
 
-.page a:hover {
+.page_content a:hover {
   text-decoration: underline;
 }
 
-.page :last-child {
-  margin-bottom: 0;
+.page_content {
+  border-bottom: solid 1px #eee;
+  margin-bottom: 20px;
 }
 
+/** Footer
+ ---------------------------------------------------------*/
+
+.footer {
+  color: #CCC;
+  font-size: 14px;
+  /*font-style: italic;*/
+  /*font-family: georgia;*/
+}
+
+/** Footer Contact
+ ---------------------------------------------------------*/
+
+.footer ul {
+  margin-bottom: 20px;
+  list-style: none;
+  line-height: 1;
+}
+
+.footer li {
+  /*display: inline-block;*/
+  margin-right: 1em;
+  font-family: georgia;
+  font-style: italic;
+}
+
+.footer_nav {
+  font-size: 15px;
+  padding-bottom: 20px;
+  border-bottom: solid 1px #eee;
+}
+
+.footer_nav a {
+  /*color: #F03E55;*/
+}
+
+.footer a:hover {
+  color: #F03E55;
+  /*text-decoration: underline;*/
+}
+
+.footer_contact {
+  /*border-top: solid 1px #eee;*/
+}
+
+.footer_nav li {
+  display: inline-block;
+}
+
+.footer_contact li {
+  margin-bottom: 10px;
+}
+
+.footer_contact .icon {
+  display: none;
+  vertical-align: middle;
+  margin-right: 10px;
+  font-size: 1.3em;
+}
+
+.footer_contact .text {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.footer_contact .icon-phone {
+  font-size: 1.6em;
+}
+
+.footer_contact .icon-twitter {
+  font-size: 1.5em;
+}
+
+.footer nav {
+
+}
+
+.footer nav a {
+  display: block;
+}
+
+/** Icons
+ ---------------------------------------------------------*/
+
+@font-face {
+  font-family: 'icomoon';
+  src:url('fonts/icomoon.eot?-d6j1hh');
+  src:url('fonts/icomoon.eot?#iefix-d6j1hh') format('embedded-opentype'),
+    url('fonts/icomoon.woff?-d6j1hh') format('woff'),
+    url('fonts/icomoon.ttf?-d6j1hh') format('truetype'),
+    url('fonts/icomoon.svg?-d6j1hh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gear:before {
+  content: "\f013";
+}
+.icon-home:before {
+  content: "\f015";
+}
+.icon-book:before {
+  content: "\f02d";
+}
+.icon-map-marker:before {
+  content: "\f041";
+}
+.icon-comments:before {
+  content: "\f086";
+}
+.icon-phone:before {
+  content: "\f095";
+}
+.icon-twitter:before {
+  content: "\f099";
+}
+.icon-facebook:before {
+  content: "\f09a";
+}
+.icon-group:before {
+  content: "\f0c0";
+}
+.icon-bars:before {
+  content: "\f0c9";
+}
+.icon-caret-left:before {
+  content: "\f0d9";
+}
+.icon-envelope:before {
+  content: "\f0e0";
+}
+.icon-quote-left:before {
+  content: "\f10d";
+}
