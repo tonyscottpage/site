@@ -204,7 +204,7 @@ img {
 
 .page p:first-of-type {
   padding: 24px 0;
-  font-size: 20px;
+  font-size: 21px;
   line-height: 1.4;
   border: solid 1px #eee;
   border-width: 1px 0;
@@ -229,7 +229,7 @@ img {
 
 .page_content {
   border-bottom: solid 1px #eee;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 
 /** Footer
@@ -246,9 +246,13 @@ img {
  ---------------------------------------------------------*/
 
 .footer ul {
-  margin-bottom: 20px;
+  margin-bottom: 24px;
   list-style: none;
   line-height: 1;
+}
+
+.footer img {
+  width: 20px;
 }
 
 .footer li {
@@ -259,9 +263,10 @@ img {
 }
 
 .footer_nav {
+  display: none;
   font-size: 15px;
-  padding-bottom: 20px;
-  border-bottom: solid 1px #eee;
+  /*padding-bottom: 20px;*/
+  /*border-bottom: solid 1px #eee;*/
 }
 
 .footer_nav a {
@@ -274,15 +279,16 @@ img {
 }
 
 .footer_contact {
+  /*display: none;*/
   /*border-top: solid 1px #eee;*/
 }
 
-.footer_nav li {
-  display: inline-block;
+.footer li {
+  /*display: inline-block;*/
 }
 
-.footer_contact li {
-  margin-bottom: 10px;
+.footer li {
+  margin-bottom: 12px;
 }
 
 .footer_contact .icon {
