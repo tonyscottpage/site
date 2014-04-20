@@ -71,8 +71,11 @@ img {
  ---------------------------------------------------------*/
 
 .site_sidebar .logo {
-  float: right;
-  margin: 0 24px;
+  margin: 24px;
+}
+
+.site_sidebar .logo img {
+  width: 100%;
 }
 
 /** Nav
