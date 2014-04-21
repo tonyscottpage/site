@@ -111,8 +111,25 @@ img {
   overflow: auto;
 }
 
+.site_sidebar > .inner {
+  min-height: 100%;
+  position: relative;
+}
+
 .site_sidebar ul {
   list-style-type: none;
+}
+
+/**
+ * 1. .sidebar_contact height
+ */
+
+@media all and (max-width: 600px) {
+  .site_sidebar > .inner {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-bottom: 76px; /* 1 */
+  }
 }
 
 /** Sidebar Contact
@@ -131,12 +148,6 @@ img {
 
 .sidebar_contact a:hover {
   color: #ed1345;
-}
-
-@media all and (max-width: 600px) {
-  .sidebar_contact {
-    position: static;
-  }
 }
 
 /** Logo
