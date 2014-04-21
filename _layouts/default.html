@@ -4,11 +4,31 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{% if page.name %}{{ page.name }} | {% endif %} {{ site.name }}</title>
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
   </head>
   <body class="site">
     <div class="site_sidebar">{% include sidebar.html %}</div>
-    <div class="site_content">{{ content }}</div>
+    <div class="site_content js-site-content">
+      <a class="site_logo" href="{{ site.baseurl }}/" title="Home"><img src="{{ site.baseurl}}/images/logo.svg" alt="Page Consulting"></a>
+      {{ content }}
+    </div>
+    <script>
+      (function() {
+        var classes = document.body.classList;
+        var toggleMenu = document.querySelector('.js-toggle-menu');
+        var siteContent = document.querySelector('.js-site-content');
+
+        toggleMenu.addEventListener('click', function(e) {
+          if (classes.contains('menu-open')) return;
+          e.stopPropagation();
+          classes.add('menu-open');
+        });
+
+        siteContent.addEventListener('click', function(e) {
+          classes.remove('menu-open');
+        });
+      })();
+    </script>
   </body>
 </html>
