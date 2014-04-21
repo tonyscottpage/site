@@ -7,7 +7,7 @@ permalink: /services/
 index: 10
 ---
 
-Our services are [Facilitation](#facilitation) to your team, [Coaching](#coaching) to you as an individual, and programmes with <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC" target="_blank">CIPD</a>. Each can unlock a more powerful response to your challenge. 
+Our services are [Facilitation](#facilitation) to your team, [Coaching](#coaching) to you as an individual, and programmes with <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC" target="_blank">CIPD</a>. Each can unlock a more powerful response to your challenge, and capture this in a sustaining [story](#stories). 
 
 How? We focus you from a different angle, towards enabling outcomes by sharing facts and linking people. From here your listening can enrich the factual flow in all directions. When linked to an enriched picture, individuals can contribute at a higher level. 
 
@@ -15,7 +15,7 @@ How? We focus you from a different angle, towards enabling outcomes by sharing f
 
 If your leadership team's 'real work' is to impact the outside (customers and stakeholders) through enabling people inside, then how can you make this happen as an everyday way of life? Your team may be challenged by being dispersed across many countries, or as in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) by a need to unite their organisation post-acquisition.
 
-We ask you what outcomes are needed. You can advance crucial work projects, and at the same time "shift your system" when we work 'live' with your team, as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step they grow clearer in purpose, connection and impact.
+We ask you what outcomes are needed. We work 'live' with your team to advance crucial work projects, and at the same time to "shift your system", as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step you all grow clearer in purpose, connection and impact.
 
 <h2 id="coaching">Coaching</h2>
 
@@ -26,6 +26,18 @@ The FT asked us ["Can coaching make the difference?"]({{ site.baseurl}}/document
 - Darren can get himself known as a creative leader, not just a cost-cutter
 
 Usually it is face to face, three or six sessions of 90 minutes, spaced by four weeks, with 'homework' in between. But we fit it to suit you.
+
+<h2 id="stories">Stories</h2>
+
+Right now leaders we are working with - from Vienna to London, Scotland to South Africa, and Botswana to Bristol - are creating new stories towards different needed outcomes, because stories can move heads, hearts and feet. 
+
+Your team's new story begins from 'what is' and raises powerful questions including the 'relational' (who do you depend on?) and the 'personal' (what is frustrating?). Like a bricklayer inspired by building a school to improve lives, your people can get inspired by travelling to a common purpose.
+
+This is not about fluffy "teaminess", and begins selfishly: each asks directly of colleagues what they need and each benefits when it is delivered. As this new way takes hold the team becomes more confident and purposeful. 
+
+A team's story clarifies its purpose, creates a strong base and an energy source, then brings feedback that sharpens each contribution. We see pennies drop and eyes light up! Action is tighter yielding better results, greater insight and impact. Trust and reputation grow.
+
+So what new story could light your people up?
 
 
 

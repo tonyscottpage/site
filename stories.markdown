@@ -14,4 +14,4 @@ This is not about fluffy "teaminess", and begins selfishly: each asks colleagues
 
 A team's story clarifies its purpose, creates a strong base and an energy source, then brings feedback that sharpens each contribution. We see pennies drop and eyes light up! Action is tighter yielding better results, greater insight and impact. Trust and reputation grow.
 
-So what new story could light your people up? 
+So what new story could light your people up?
