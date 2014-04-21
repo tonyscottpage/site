@@ -23,6 +23,7 @@
   background: transparent;
   overflow: visible;
   font: inherit;
+  outline: none;
   #vertical-align: middle; /* IE6,IE7 */
 }
 
@@ -241,6 +242,7 @@ img {
   box-shadow:
     -1px 2px 10px 0px rgba(0,0,0,0.05),
     0px 1px 1px 0px rgba(0,0,0,0.23);
+  -webkit-transition: -webkit-transform 300ms;
   transition: transform 300ms;
 }
 
@@ -251,10 +253,12 @@ img {
 @media (max-width: 600px) {
   .site_content {
     margin-left: 0;
+    -webkit-transform: translate3d(0, 0, 1px);
     transform: translate3d(0, 0, 1px);
   }
 
   .menu-open .site_content {
+    -webkit-transform: translate3d(206px, 0, 1px);
     transform: translate3d(206px, 0, 1px);
   }
 }
