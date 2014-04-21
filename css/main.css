@@ -43,12 +43,15 @@ body {
   line-height: 1.4;
   color: #444;
   background: #FFF;
-  -webkit-text-size-adjust: 100%; /* 1 */
 }
 
 html.menu-opened,
 html.menu-opened body {
   overflow-x: hidden
+}
+
+body {
+  -webkit-text-size-adjust: none; /* 1 */
 }
 
 /** Titles
