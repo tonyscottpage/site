@@ -5,7 +5,7 @@ title:  "Library"
 permalink: /documents/library/
 ---
 
-We give you access below to a series of writings that reflect on work with clients and colleagues over the years. 
+We give you access below to articles that reflect on work with clients and colleagues over the years. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

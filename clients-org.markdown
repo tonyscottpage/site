@@ -6,43 +6,42 @@ title:  "Impact in Organisations"
 permalink: /clients/org/
 ---
 
-What is the impact you can gain from working with us? 
+What impact can you and your organisation gain? 
 
-Here is what some of our clients are saying:
+<em><strong>“We are accelerating away from the competition....</strong> The impact of having gone through a structured development programme has been enormous, particularly in bringing purpose, focus and discipline to the way we work together as a senior leadership team. If I had to put a hard value on what it has helped us achieve, simply look at our 12-month growth, product innovation, customer engagement and staff impact. ”</em> Jerry Jarvis, Managing Director, Edexcel
 
-<em>“We are accelerating away from the competition.... The impact of having gone through a structured development programme has been enormous, particularly in bringing purpose, focus and discipline to the way we work together as a senior leadership team. If I had to put a hard value on what it has helped us achieve, simply look at our 12-month growth, product innovation, customer engagement and staff impact. ”</em> Jerry Jarvis, Managing Director, Edexcel
+<em><strong>"The whole project has been extremely positive.... </strong>My senior team has now experienced for themselves the contribution front-line practitioners can make to the policy process in the Criminal Justice System. Through very open discussions with stakeholders which you facilitated they identified how their work links with others across the directorate, and with the seven principal aims of the Home Office."</em> Sue Street, Director, Home Office, British government.
 
-<em>"The whole project has been extremely positive.... My senior team has now experienced for themselves the contribution front-line practitioners can make to the policy process in the Criminal Justice System. Through very open discussions with stakeholders which you facilitated they identified how their work links with others across the directorate, and with the seven principal aims of the Home Office."</em> Sue Street, Director, Home Office, British government.
+<em><strong>"In Japanese terms you are a true 'sensei.... </strong>Yesterday with the executive board you topped your usual performance and showed me exactly what in our coaching session you titled 'jiu jitsu' deflection of energy. I saw you bring us a difficult topic, de-personalise it, make it relevant to the team and turn it into something positive. Very impressive!" </em> Dr Alfred Stern, Executive Vice President
 
-<em>"In Japanese terms you are a true 'sensei.... Yesterday with the executive board you topped your usual performance and showed me exactly what in our coaching session you titled 'jiu jitsu' deflection of energy. I was impressed to see you take a difficult topic, de-personalise it, make it relevant to the team and turn it into something positive. Very impressive!" </em> Dr Alfred Stern, Executive Vice President
+<em><strong>"There are 'facilitators' and facilitators.... </strong>You give support before and after as well. You transform our objectives into a tangible programme that is both enjoyable and challenging. You demonstrate enormous versatility in rethinking in response to the needs of the group. This takes a great load from my shoulders making this both developmental as well as instrumental towards tangible objectives. It really is a pleasure to work with you both."</em> Philip Goodwin, Regional Director, Sub-Saharan Africa, British Council
 
-<em>"There are “facilitators” and facilitators.... You give support before and after as well. You transform our objectives into a tangible programme that is both enjoyable and challenging. You demonstrate enormous versatility in rethinking in response to the needs of the group. This takes a great load from my shoulders making this both developmental as well as instrumental towards tangible objectives. It really is a pleasure to work with you both."</em> Philip Goodwin, Regional Director, Sub-Saharan Africa, British Council
+<em><strong>"You made us the architects.... </strong>Your unique facilitation style is understated and enabling, allowing the team to be in control but within a context and framework that he provides. Tony worked with Hilton after merging with Stakis plc. He helped the Executive Team articulate our vision and mission, and the creation of a clear business plan using a method by which we ourselves could cascade this throughout the business. He is also an excellent coach, to some of our senior people, helping them add value and make the most of their talents."</em> Gordon Lyle, HR Director, Hilton plc
 
-<em>"You made us the architects.... Your unique facilitation style is understated and enabling, allowing the team to be in control but within a context and framework that he provides. Tony worked with Hilton after merging with Stakis plc. He helped the Executive Team articulate our vision and mission, and the creation of a clear business plan using a method by which we ourselves could cascade this throughout the business. He is also an excellent coach, to some of our senior people, helping them add value and make the most of their talents."</em> Gordon Lyle, HR Director, Hilton plc
+<em><strong>“Effortlessly you guided us to achieve the agreed objectives...</strong> Tony had a very personable approach getting close to the heart of our organization. The individuals were left with an aligned vision and a real belief in the team’s ability to deliver their goals”.</em> Cliff Burrows, President EMEA, Starbucks plc
 
-<em>“Effortlessly he guided us to achieve the agreed objectives... Tony had a very personable approach getting close to the heart of our organization. The individuals were left with an aligned vision and a real belief in the team’s ability to deliver their goals”.</em> Cliff Burrows, President EMEA, Starbucks plc
 
-<strong>Middleground leadership programmes</strong>
+<strong>Middleground Leadership Programmes</strong>
 
-<em>"Not your ordinary leadership course. It is different, it is motivational and it is output oriented. Surpassed expectations – drilled down to very meaningful and realistic issues of what leadership requires.""
+<em>"Not your ordinary leadership course. It is different, it is motivational and it is output oriented. Surpassed expectations – drilled down to very meaningful and realistic issues of what leadership requires."</em>
 
-"So much powerful content covered in these three days. Very very helpful. Stretched and energised me – very well paced.""
+<em>"So much powerful content covered in these three days. Very very helpful. Stretched and energised me – very well paced."</em>
 
-"This was an excellent course that took me by surprise. There is a lot to be gained by taking time out to reflect a deeper understanding about leadership and give due attention to action by others in different places and spaces.""
+<em>"This was an excellent course that took me by surprise. There is a lot to be gained by taking time out to reflect a deeper understanding about leadership and give due attention to action by others in different places and spaces."</em>
 
-"Really analysing the values of leadership and testing these against different, diverse perspectives. I can apply this as a leader and be sure to get positive results – practical examples were used together with experienced presenters. Any person interested in looking into leadership will find great value in it.""
+<em>"Really analysing the values of leadership and testing these against different, diverse perspectives. I can apply this as a leader and be sure to get positive results – practical examples were used together with experienced presenters. Any person interested in looking into leadership will find great value in it."</em>
 
-"Equips me to take on a new leadership challenge and have some concrete tools at my disposal. The tools help me to see deep into things.""
+<em>"Equips me to take on a new leadership challenge and have some concrete tools at my disposal. The tools help me to see deep into things."</em>
 
-"The lens I will use after this and the angle from which I look, it changed my perspective, therefore I will be the change! A new perspective on how I bring my leadership in combination with my purpose, and the inspiration to do it.""
+<em>"The lens I will use after this and the angle from which I look, it changed my perspective, therefore I will be the change! A new perspective on how I bring my leadership in combination with my purpose, and the inspiration to do it."</em>
 
-"A perfect balance of head, heart and feet."" 
+<em>"A perfect balance of head, heart and feet."</em> 
 
-"I feel brand new and prepared to immediately implement my new learning as soon as I get back to the office! I will be a different leader because I have great tools and with questions will mentor my team to greater insight."" 
+<em>"I feel brand new and prepared to immediately implement my new learning as soon as I get back to the office! I will be a different leader because Ihave great tools and with questions will mentor my team to greater insight."</em> 
 
-"A golden nugget I take away is to polish people until they shine, and to trust people to deliver the outputs."</em>
+<em>"A golden nugget I take away is to polish people until they shine, and to trust people to deliver the outputs."</em>
 
-CIPD
+
 
 We have worked with clients in over 80 organisations spread across the globe:
 

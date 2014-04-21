@@ -7,15 +7,15 @@ permalink: /services/
 index: 10
 ---
 
-Our services are [Facilitation](#facilitation) to your team, [Coaching](#coaching) to you as an individual, and programmes with <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC" target="_blank">CIPD</a>. Each can unlock a more powerful response to your challenge, and capture this in a sustaining [story](#stories). 
+Our services are [Facilitation](#facilitation) to your team, [Coaching](#coaching) to you as an individual, and programmes with <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC" target="_blank">CIPD</a>. Each can unlock a more powerful response to your challenge, and capture improved ways of working in a sustaining [story](#stories). 
 
-How? We focus you from a different angle, towards enabling outcomes by sharing facts and linking people. From here your listening can enrich the factual flow in all directions. When linked to an enriched picture, individuals can contribute at a higher level. 
+How? We focus you from a different angle, towards sharing the facts and linking people to enable better outcomes. From this angle your listening can enrich the factual flow. Your people add more when they are linked to a bigger picture that really means something to them. 
 
 <h2 id="facilitation">Facilitation</h2>
 
-If your leadership team's 'real work' is to impact the outside (customers and stakeholders) through enabling people inside, then how can you make this happen as an everyday way of life? Your team may be challenged by being dispersed across many countries, or as in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) by a need to unite their organisation post-acquisition.
+If your leadership team's 'real work' is to impact the outside (customers and stakeholders) through the people inside, then how can you make this happen better as an everyday way of life? Whether your team is challenged by being dispersed across many countries, or as in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) by a need to unite their organisation post-acquisition, we begin by clarifying what outcomes are needed. 
 
-We ask you what outcomes are needed. We work 'live' with your team to advance crucial work projects, and at the same time to "shift your system", as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step you all grow clearer in purpose, connection and impact.
+We work 'live' with your team to advance crucial work projects, and at the same time to "shift your system", as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step you all grow clearer in purpose, connection and impact.
 
 <h2 id="coaching">Coaching</h2>
 
