@@ -30,6 +30,12 @@
 /** Canvas
  ---------------------------------------------------------*/
 
+
+/**
+ * 1. Prevent font-size changes in
+ *    landscape orientation on iOS
+ */
+
 html,
 body {
   height: 100%;
@@ -37,6 +43,7 @@ body {
   line-height: 1.4;
   color: #444;
   background: #FFF;
+  -webkit-text-size-adjust: 100%; /* 1 */
 }
 
 html.menu-opened,
