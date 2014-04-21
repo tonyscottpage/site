@@ -15,7 +15,7 @@
     </div>
     <script>
       (function() {
-        var classes = document.body.classList;
+        var classes = document.documentElement.classList;
         var toggleMenu = document.querySelector('.js-toggle-menu');
         var siteContent = document.querySelector('.js-site-content');
 
@@ -27,6 +27,11 @@
 
         siteContent.addEventListener('click', function(e) {
           classes.remove('menu-open');
+        });
+
+        siteContent.addEventListener('transitionend', function() {
+          if (classes.contains('menu-open')) classes.add('menu-opened');
+          else classes.remove('menu-opened');
         });
       })();
     </script>

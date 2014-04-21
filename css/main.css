@@ -37,7 +37,11 @@ body {
   line-height: 1.4;
   color: #444;
   background: #FFF;
-  /*overflow-x: hidden*/
+}
+
+html.menu-opened,
+html.menu-opened body {
+  overflow-x: hidden
 }
 
 /** Titles
@@ -108,7 +112,7 @@ img {
   right: 0; bottom: 0;
   padding: 20px 24px;
   font-size: 13px;
-  font-family: georgia;
+  font-family: Georgia, serif;
   font-style: italic;
   text-align: right;
   color: #9C9C9C;
@@ -276,7 +280,6 @@ img {
   max-width: 650px;
   padding-top: 28px;
   padding-right: 124px;
-  padding-bottom: 112px
 }
 
 /**
@@ -370,7 +373,7 @@ h1.page_title {
   border: solid 1px #eee;
   border-width: 1px 0;
   font-style: italic;
-  font-family: georgia;
+  font-family: Georgia, serif;
 }
 
 /** Bulleted Lists
@@ -392,7 +395,6 @@ h1.page_title {
 }
 
 .page_content {
-  /*border-bottom: solid 1px #eee;*/
   margin-bottom: 28px;
 }
 
@@ -422,7 +424,7 @@ h1.page_title {
 .footer li {
   /*display: inline-block;*/
   margin-right: 1em;
-  font-family: georgia;
+  font-family: Georgia, serif;
   font-style: italic;
 }
 
