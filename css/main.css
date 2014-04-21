@@ -108,7 +108,7 @@ img {
   height: 100%;
   background: #F6F6F6;
   text-align: left;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .site_sidebar ul {
@@ -131,6 +131,12 @@ img {
 
 .sidebar_contact a:hover {
   color: #ed1345;
+}
+
+@media all and (max-width: 600px) {
+  .sidebar_contact {
+    position: static;
+  }
 }
 
 /** Logo
@@ -191,7 +197,7 @@ img {
 
 @media all and (max-width: 600px) {
   .nav {
-    padding-top: 34px;
+    padding-top: 0;
   }
 }
 
