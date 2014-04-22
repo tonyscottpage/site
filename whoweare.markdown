@@ -7,14 +7,12 @@ navigation: [colleagues, helen]
 permalink: /who-we-are/
 ---
 
-Over 25 years of practice we notice leaders becoming less trusted. If today you say "I am a leader!", who is interested? But if instead you ask "What could be different round here?", others will move into action... together. 
+We notice leaders becoming less trusted. If today you say "I am a leader!", who is interested? But if instead you ask "What could be different round here?", others will move into action... together. 
 
-Our company has worked with leaders on their challenges in 80 organisations and 40 countries, to create 'enabling environments' that unlock the power of their teams. Page Consulting? These two words from a joke on a brass plaque soon brought life to this enterprise! The founder Tony Page ([CV here]({{ site.baseurl}}/documents/tonypagecv.pdf)) is a 59 year old father with two grown up children, and a partner for 34 years to [Helen]({{ site.baseurl}}/who-we-are/helen). 
+Founded 25 years ago by Tony Page ([CV here]({{ site.baseurl}}/documents/tonypagecv.pdf)) a father of two grown up children, and partner to [Helen]({{ site.baseurl}}/who-we-are/helen). Working with leaders in 80 organisations and 40 countries, we create the 'good bubble' that unlocks the power of the team. We 'radically' enable you to link, trust, be accountable, and 'shift the system'! 
 
-So what do we stand for? For you AND your team - not favouring one over the other. For 'decluttering' towards purpose. For joining the dots. For 'self-organising' as in Occupy Sandy, and Linux (see [inspirations]({{ site.baseurl}}/documents/inspirations)). We want to radically enable you to link, build trust, take accountability, and 'shift the system'! 
+So what do we stand for? For you AND your team - giving place to both. For 'decluttering' towards purpose. For joining dots. For the 'open source' values of sharing, using and improving, and 'self-organising' as exemplified by Occupy Sandy, and Linux. This 'living system' approach draws from clients and [colleagues]({{ site.baseurl}}/who-we-are/colleagues) and [others who inspired us]({{ site.baseurl}}/documents/inspirations). Access it in our [writing]({{ site.baseurl}}/documents/writings), and from the <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> leadership school with its pop-up events across four continents. 
 
-Our 'living system' approach draws from work with clients and [colleagues]({{ site.baseurl}}/who-we-are/colleagues) and from [others who inspired us]({{ site.baseurl}}/documents/inspirations). Access our knowhow through the [library]({{ site.baseurl}}/documents/library), and from our <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> leadership school with its pop-up events across four continents. 
-
-<a href="mailto:info@pageconsulting.co.uk">Drop us a line</a> to find out more. 
+<a href="mailto:info@pageconsulting.co.uk">Or drop us a line</a> to find out more. 
 
 
