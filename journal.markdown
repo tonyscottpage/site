@@ -1,8 +1,8 @@
 ---
-id: stories
+id: journal
 layout: page
-title: "Stories"
-permalink: /stories/
+title: "Journal"
+permalink: /journal/
 index: 1
 ---
 

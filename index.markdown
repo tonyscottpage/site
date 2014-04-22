@@ -4,7 +4,7 @@ layout: page
 title:  "Page Consulting"
 ---
 
-At Page Consulting we call you a 'leader' if you want to make a difference with your team, and with others who share your pressing challenge. But are you a 'new leader'? 
+At Page Consulting we call you a 'leader' if you want to make a difference with a group or team that shares your pressing challenge. But are you a 'new leader'? 
 
 New Leaders notice their challenge is more complex today, and that it demands a different starting point, because people are more connected, better informed, and a tad more sceptical. But all depends on HOW they link and combine.
 
