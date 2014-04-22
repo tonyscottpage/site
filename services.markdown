@@ -13,13 +13,13 @@ How? We focus you from a different angle, towards sharing the facts and linking 
 
 <h2 id="facilitation">Facilitation</h2>
 
-If your leadership team's 'real work' is to impact the outside (customers and stakeholders) via those inside, how can you secure improvements? Whether are challenged by being spread across countries, or as in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) by a need to unite post-acquisition, we begin by clarifying the outcomes you need. 
+If your leadership team's 'real work' is to impact the outside (customers and stakeholders) via those inside, how can you secure improvements? Whether they are challenged by being spread across countries, or as in this example ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) by a need to unite post-acquisition, we begin by clarifying the outcomes you need. 
 
 We work 'live' with your team to advance crucial work projects, and at the same time to "shift your system", as in this example ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). Step by step you all grow clearer in purpose, connection and impact.
 
 <h2 id="coaching">Coaching</h2>
 
-The FT asked us ["Can coaching make the difference?"]({{ site.baseurl}}/documents/ftcoaching.pdf), and we said "yes". Coaching gives you a way to shift, so that others can produce the required results. Yes: Jessica a new CEO can focus on how to transform her organisation; Miguel can discover how differently to enrol his jaded leadership team; and Darren can get himself known as a creative leader, not just a cost-cutter
+The FT asked us ["Can coaching make the difference?"]({{ site.baseurl}}/documents/FTcoaching.pdf), and we said "yes". Coaching gives you a way to shift, so that others can produce the required results. Yes: Jessica a new CEO can focus on how to transform her organisation; Miguel can discover how differently to enrol his jaded leadership team; and Darren can get himself known as a creative leader, not just a cost-cutter
 
 Usually it is face to face, three or six sessions of 90 minutes, spaced by four weeks, with 'homework' in between. But we fit it to suit you.
 
