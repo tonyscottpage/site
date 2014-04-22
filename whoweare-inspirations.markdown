@@ -55,7 +55,7 @@ Here are some people and organisations who have inspired our ways of working...
   </tr>
   <tr>
     <td class="tg-031e">Etienne Wenger: <a href="Wengercommofpractice.pdf">Communities of Practice</a></td>
-    <td class="tg-031e"><a href=""></a></td>
+    <td class="tg-031e">Thomas Piketty: <a href="http://www.theguardian.com/books/2014/apr/13/occupy-right-capitalism-failed-world-french-economist-thomas-piketty">Capital in the 21st Century</a></td>
   </tr>
 
 </table>
