@@ -176,6 +176,13 @@ We give you access below to writings (a mix of published and unpublished) that r
 	<td class="tg-031e">Account of a brainstrust workshop with Chief Exec of Tavistock &amp; Portman NHS Trust.<br></td>
 </tr>
 <tr>  
+	<td class="tg-031e">Tony Page<br></td>
+	<td class="tg-031e"><a href="2yearson.pdf">Addendum to "Diary of a Change Agent"</a><br></td>
+	<td class="tg-031e">1998<br></td>
+	<td class="tg-031e">Change<br></td>
+	<td class="tg-031e">Addendum added to paperback edition - a brief account of what happened since publication of Diary of a Change Agent.<br></td>
+</tr>
+<tr>  
 	<td class="tg-031e">Mike Jeans &amp; Tony Page<br></td>
 	<td class="tg-031e"><a href="MCLargeCo1197.doc">Management Consultancy - Best Practice - Large Corporates</a><br></td>
 	<td class="tg-031e">1998<br></td>
