@@ -11,7 +11,7 @@ We notice leaders becoming less trusted. If today you say "I am a leader!", who 
 
 Founded 25 years ago by Tony Page ([CV here]({{ site.baseurl}}/documents/tonypagecv.pdf)) a father of two grown up children, and partner to [Helen]({{ site.baseurl}}/who-we-are/helen). In 80 organisations and 40 countries, we helped create the 'good bubble' that unlocks the power of the team. We 'radically' enable people to link, trust, be accountable, and 'shift the system'! 
 
-So what do we stand for? Both-and. You AND your team - giving place to both. For absent stakeholders. For words and music, art and science, clarity and tolerance. For 'decluttering' and joining dots. For 'open source' values (sharing, using and improving), and 'self-organising' as exemplified by Occupy Sandy, and Linux. For love, laughter and life.
+So what do we stand for? Both-and. You AND your team - giving place to both. For absent stakeholders. For words and music, art and science, clarity and tolerance. For 'decluttering' and joining dots. For 'open source' values (sharing, using and improving), and 'self-organising' as exemplified by Occupy Sandy, and Linux. And for love, laughter and life!
 
 Our 'living system' approach draws from clients and [colleagues]({{ site.baseurl}}/who-we-are/colleagues) and [inspiring people]({{ site.baseurl}}/documents/inspirations). Find out more in our [writing]({{ site.baseurl}}/documents/writings), and from the <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> leadership school with its pop-up events across four continents. <a href="mailto:info@pageconsulting.co.uk">Or drop us a line</a>. 
 
