@@ -9,7 +9,7 @@ permalink: /who-we-are/
 
 We notice leaders are less trusted. If today you say "I am a leader!", who is interested? But if instead you ask "What could be different round here?", people move into action... 
 
-Founded 25 years ago by Tony Page ([CV here]({{ site.baseurl}}/documents/tonypagecv.pdf)) a father of two grown up children, and partner to [Helen]({{ site.baseurl}}/who-we-are/helen). In 80 organisations and 40 countries, we helped create a 'good bubble' that unlocks the power of the team. We 'radically' enable people to link, trust, be accountable, and 'shift the system'! 
+Founded 25 years ago by Tony Page ([CV here]({{ site.baseurl}}/documents/tonypagecv.pdf)) a father of two, and partner to [Helen]({{ site.baseurl}}/who-we-are/helen). In 80 organisations and 40 countries, we helped create a 'good bubble' that unlocks the power of the team. We 'radically' enable people to link, trust, be accountable, and 'shift the system'! 
 
 So what do we stand for? Both-and. You AND your team - giving place to both. For lost voices. For words and music, art and science, clarity and tolerance. For 'decluttering' and joining dots. For 'open source' (sharing, using and improving), and 'self-organising' as in Occupy Sandy, and Linux. Not forgetting love, laughter and life!
 
