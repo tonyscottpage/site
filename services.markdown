@@ -21,7 +21,7 @@ Coaching gives you a way to shift yourself, for others to produce the required r
 
 <h2 id="stories">Stories</h2>
 
-Your team's story becomes a journey to purpose. The story began selfishly: each saying what you need. You tackled the 'relational' (who do you depend on?) and the 'personal' (what is frustrating?). Pennies dropped and eyes lit up. You clarified the direction and gave feedback to sharpen contributions. Action became tighter producing impacts and insights. Trust and reputation grew. You were shifting the system towards a better world. 
+Your team's story becomes a journey to purpose. The story began selfishly: each saying what you need. You tackled the 'relational' (who do you depend on?) and the 'personal' (what is frustrating?). Pennies dropped and eyes lit up. You gave feedback to sharpen contributions. Impacts and insights sprung from tighter action. Trust and reputation grew. You were shifting the system towards a better world. 
 
 Right now leaders we are working with - from Vienna to London, Scotland to South Africa, and Botswana to Bristol - are creating new stories. So what new story can light your people up?
 
