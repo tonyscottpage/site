@@ -9,7 +9,7 @@ index: 10
 
 Our services are [Facilitation](#facilitation) to your team, [Coaching](#coaching) to you as an individual, and programmes with <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC" target="_blank">CIPD</a>. Each can unlock a more powerful response to your challenge.
 
-How? We help you push the boundaries. We focus you from a different angle: more sharing the facts, better linking people. With a bigger picture that really means something to them, people's engage more of themselves. 
+How? We help you push the boundaries. We focus you from a different angle: more sharing the facts, better linking people. With a bigger picture that really means something to them, people engage more of themselves. 
 
 <h2 id="facilitation">Facilitation</h2>
 
