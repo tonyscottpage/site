@@ -3,4 +3,4 @@ markdown: redcarpet
 pygments: true
 baseurl: "http://tonyscottpage.github.io/site"
 exclude: [serve.sh, README.md, .gitignore]
-navigation: [ services, stories, clients, whoweare, contact ]
+navigation: [ services, journal, clients, whoweare, contact ]
