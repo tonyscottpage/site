@@ -1,6 +1,6 @@
 name: Page Consulting
 markdown: redcarpet
 pygments: true
-baseurl: "http://pageconsulting.co.uk"
+baseurl: "http://pageconsulting.co.uk/"
 exclude: [serve.sh, README.md, .gitignore]
 navigation: [ services, journal, clients, whoweare, contact ]
