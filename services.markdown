@@ -17,7 +17,7 @@ Since your leadership team's 'real work' is to impact the outside (eg. customers
 
 <h2 id="coaching">Coaching</h2>
 
-Coaching gives you a way to adjust yourself, so that others can better produce the results. Jessica a new CEO can focus on how to transform her organisation. Miguel can discover how differently to enrol his jaded team. And Darren can become the creative leader, not just the cost-cutter. Usually the coaching is face to face, six sessions of 90 minutes, with 'homework' in between. But we fit it to suit you.
+Coaching gives you a way to adjust yourself, so that others can better produce the results. Jessica a new CEO can focus on how to transform her organisation. Miguel can discover how differently to enrol his jaded team. And Darren can become the creative leader, not just the cost-cutter. Usually we coach face to face, six sessions of 90 minutes, with 'homework' in between. But we fit it to suit you.
 
 <h2 id="stories">Stories</h2>
 
