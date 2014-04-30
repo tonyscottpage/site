@@ -30,7 +30,7 @@ Here are some people and organisations who have inspired our ways of working...
     <td class="tg-031e">Otto Scharmer: <a href="https://www.presencing.com/executivesummary">Theory U</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">Marvin Weisbord: <a href="documents//marvin_weisbord_interview.htm">Future Search</a></td>
+    <td class="tg-031e">Marvin Weisbord: <a href="/documents//marvin_weisbord_interview.htm">Future Search</a></td>
     <td class="tg-031e">Timothy Gallwey: <a href="/documents/innergame.htm">The Inner Game of Work</td>
   </tr>
   <tr>

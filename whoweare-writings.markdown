@@ -22,21 +22,21 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>
 	 <td class="tg-031e">Philip Goodwin &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="Not Knowing.pdf">Leading Strategy as a Journey of Not Knowing</a><br></td>
+	<td class="tg-031e"><a href="documents/Not Knowing.pdf">Leading Strategy as a Journey of Not Knowing</a><br></td>
 	<td class="tg-031e">2011<br></td>
 	<td class="tg-031e">Leadership and strategy<br></td>
 	<td class="tg-031e">A CEO and a leadership consultant exchange ideas on how to enable organisations to find their way in complex and turbulent conditions. <br></td>
 </tr>
 <tr>
 	 <td class="tg-031e">Andy Harmon &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="Freeing Trapped Resources.pdf">Freeing Trapped Resources: Drama, Story and Leadership</a><br></td>
+	<td class="tg-031e"><a href="documents/Freeing Trapped Resources.pdf">Freeing Trapped Resources: Drama, Story and Leadership</a><br></td>
 	<td class="tg-031e">2011<br></td>
 	<td class="tg-031e">Leadership<br></td>
 		<td class="tg-031e">Meet Joe. He’s smart, resourceful and heads a business unit that faces a big staff cut. What can leaders learn from Joe about how to approach their challenges differently?<br></td>
 </tr>
 <tr>
 	 <td class="tg-031e">Chiara Vascotto &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="Adapting Awayday Rituals.pdf">Adapting Awayday Rituals to Deliver in Difficult Times</a><br></td>
+	<td class="tg-031e"><a href="documents/Adapting Awayday Rituals.pdf">Adapting Awayday Rituals to Deliver in Difficult Times</a><br></td>
 	<td class="tg-031e">2011<br></td>
 	<td class="tg-031e">Facilitation and change<br></td>
 		<td class="tg-031e">How can Developers run workshops with lasting benefit? We look at what anthropology has to teach us about transformations to make ‘after’ fundamentally different than ‘before’..<br></td>
@@ -44,7 +44,7 @@ We give you access below to writings (a mix of published and unpublished) that r
 
 <tr>
 	 <td class="tg-031e">Virginia Merritt & Tony Page<br></td>
-	<td class="tg-031e"><a href="Edexcel.pdf">Developing the Executive Team at Edexcel</a><br></td>
+	<td class="tg-031e"><a href="documents/Edexcel.pdf">Developing the Executive Team at Edexcel</a><br></td>
 	<td class="tg-031e">2008<br></td>
 	<td class="tg-031e">Facilitation<br></td>
 		<td class="tg-031e">How do you help a group of talented, senior executive directors in a top business become a world-class leadership team? The answer in this major assignment with Edexcel lies with a clear role and purpose, a watchful eye and practical tools to sharpen their decisionmaking – including a golden thread.<br></td>
@@ -59,14 +59,14 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>
 	 <td class="tg-031e">Tony Page & Annette Broerse-Nijsen<br></td>
-	<td class="tg-031e"><a href="breakout.pdf">Breakout Stories</a><br></td>
+	<td class="tg-031e"><a href="documents/breakout.pdf">Breakout Stories</a><br></td>
 	<td class="tg-031e">2006<br></td>
 	<td class="tg-031e">Storytelling<br></td>
 		<td class="tg-031e">A collection of 50 breakout stories by several authors. This completes a research project into the two-sided power of stories (both the sense-making effect of writing/telling one's own story and the inspiring effect of hearing another's story).<br></td>
 </tr>
 <tr>
 	 <td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="Voice%20Arising.htm">Voice Arising</a><br></td>
+	<td class="tg-031e"><a href="documents/Voice%20Arising.htm">Voice Arising</a><br></td>
 	<td class="tg-031e">2003<br></td>
 	<td class="tg-031e">Facilitation<br></td>
 		<td class="tg-031e">Three real cases show how “facilitator work” with voices, can transform the “big work” of institutions which suffer difficulty with change.<br></td>
