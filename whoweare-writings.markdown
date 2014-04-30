@@ -44,7 +44,7 @@ We give you access below to writings (a mix of published and unpublished) that r
 
 <tr>
 	 <td class="tg-031e">Virginia Merritt & Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Edexcel.pdf">Developing the Executive Team at Edexcel</a><br></td>
+	<td class="tg-031e"><a href="/documents/edexcel.pdf">Developing the Executive Team at Edexcel</a><br></td>
 	<td class="tg-031e">2008<br></td>
 	<td class="tg-031e">Facilitation<br></td>
 		<td class="tg-031e">How do you help a group of talented, senior executive directors in a top business become a world-class leadership team? The answer in this major assignment with Edexcel lies with a clear role and purpose, a watchful eye and practical tools to sharpen their decisionmaking – including a golden thread.<br></td>
@@ -66,7 +66,7 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>
 	 <td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Voice%20Arising.htm">Voice Arising</a><br></td>
+	<td class="tg-031e"><a href="/documents/voicearising.htm">Voice Arising</a><br></td>
 	<td class="tg-031e">2003<br></td>
 	<td class="tg-031e">Facilitation<br></td>
 		<td class="tg-031e">Three real cases show how “facilitator work” with voices, can transform the “big work” of institutions which suffer difficulty with change.<br></td>
