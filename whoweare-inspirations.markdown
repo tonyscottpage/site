@@ -19,10 +19,10 @@ Here are some people and organisations who have inspired our ways of working...
   </tr>
   <tr>
     <td class="tg-031e">John Whittington: <a href="/documents/johnwhittington.htm">Placemaking</a></td>
-    <td class="tg-031e">Jan Jacob Stam: <a href="/janjacobtrauma.htm">Trauma in Organizations</a></td>
+    <td class="tg-031e">Jan Jacob Stam: <a href="/documents/janjacobtrauma.htm">Trauma in Organizations</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">Dr Monica Sharma: <a href="/monicasharma.pdf">Conscious Leadership</td>
+    <td class="tg-031e">Dr Monica Sharma: <a href="documents/monicasharma.pdf">Conscious Leadership</td>
     <td class="tg-031e">David Cooperider: <a href="/davidcooperider.pdf">Appreciative Inqury (AI)</a></td>
   </tr>
   <tr>
