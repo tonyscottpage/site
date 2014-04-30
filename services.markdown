@@ -13,7 +13,7 @@ How? We help you push the boundaries. We focus you from a different angle: more 
 
 <h2 id="facilitation">Facilitation</h2>
 
-If your leadership team's 'real work' is to impact the outside (eg. customers) via those inside (eg. staff), we work 'live' with your team towards this. We bring real participation and re-include the lost voices. You grow clearer in purpose, connection and impact. Here are examples: the ([Edexcel Story]({{ site.baseurl}}/documents/edexcelcopy.pdf)) and the ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). 
+If your leadership team's 'real work' is to impact the outside (eg. customers) via those inside (eg. staff), we work 'live' with your team towards this. We bring real participation and re-include the lost voices. You grow clearer in purpose, connection and impact. Here are examples: the ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) and the ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). 
 
 <h2 id="coaching">Coaching</h2>
 
