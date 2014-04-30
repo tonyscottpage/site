@@ -39,19 +39,19 @@ Here are some people and organisations who have inspired our ways of working...
   </tr>
   <tr>
     <td class="tg-031e">Meg Wheatley: <a href="/margaretwheatley.pdf">Community is the answer</a></td>
-    <td class="tg-031e">Henry Mintzberg: <a href="/Managing%20Quietly.htm">Managing Quietly</a></td>
+    <td class="tg-031e">Henry Mintzberg: <a href="/managingquietly.htm">Managing Quietly</a></td>
   </tr>
   <tr>
     <td class="tg-031e">David Bohm et al: <a href="/davidbohm.htm">Dialogue - a Proposal</a></td>
-    <td class="tg-031e">Peter Senge: <a href="/Peter%20Senge.htm">Too Late to Wait</a></td>
+    <td class="tg-031e">Peter Senge: <a href="/petersenge.htm">Too Late to Wait</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">Harrison Owen: <a href="/Open%20Space%20Spirit.htm">Open Space and Spirit Shows up</a></td>
-    <td class="tg-031e">Carl Rogers: <a href="/RogersEssence.htm">The Essence of Therapy</a></td>
+    <td class="tg-031e">Harrison Owen: <a href="/openspacespirit.htm">Open Space and Spirit Shows up</a></td>
+    <td class="tg-031e">Carl Rogers: <a href="/rogersessence.htm">The Essence of Therapy</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">Amy and Arnie Mindell: <a href="/mindells%20deep%20democracy.htm">Deep Democracy</a></td>
-    <td class="tg-031e">United Nations: <a href="/Universal%20Declaration%20of%20Human%20Rights.htm">Universal Declaration of Human Rights</a></td>
+    <td class="tg-031e">Amy and Arnie Mindell: <a href="/mindells.htm">Deep Democracy</a></td>
+    <td class="tg-031e">United Nations: <a href="/unidechr.htm">Universal Declaration of Human Rights</a></td>
   </tr>
   <tr>
     <td class="tg-031e">Etienne Wenger: <a href="/wengercommofpractice.pdf">Communities of Practice</a></td>
