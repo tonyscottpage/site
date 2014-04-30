@@ -22,14 +22,14 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>
 	 <td class="tg-031e">Philip Goodwin &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="documents/Not Knowing.pdf">Leading Strategy as a Journey of Not Knowing</a><br></td>
+	<td class="tg-031e"><a href="/documents/notknowing.pdf">Leading Strategy as a Journey of Not Knowing</a><br></td>
 	<td class="tg-031e">2011<br></td>
 	<td class="tg-031e">Leadership and strategy<br></td>
 	<td class="tg-031e">A CEO and a leadership consultant exchange ideas on how to enable organisations to find their way in complex and turbulent conditions. <br></td>
 </tr>
 <tr>
 	 <td class="tg-031e">Andy Harmon &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="documents/Freeing Trapped Resources.pdf">Freeing Trapped Resources: Drama, Story and Leadership</a><br></td>
+	<td class="tg-031e"><a href="/documents/Freeing Trapped Resources.pdf">Freeing Trapped Resources: Drama, Story and Leadership</a><br></td>
 	<td class="tg-031e">2011<br></td>
 	<td class="tg-031e">Leadership<br></td>
 		<td class="tg-031e">Meet Joe. He’s smart, resourceful and heads a business unit that faces a big staff cut. What can leaders learn from Joe about how to approach their challenges differently?<br></td>
