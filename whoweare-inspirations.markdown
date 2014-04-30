@@ -18,7 +18,7 @@ Here are some people and organisations who have inspired our ways of working...
     <td class="tg-031e">BBC News: <a href="http://www.bbc.co.uk/news/technology-18419231">Why Linux succeeded</a></td>
   </tr>
   <tr>
-    <td class="tg-031e">John Whittington: <a href="/documents/inspirations/johnwhittington.htm">Placemaking</a></td>
+    <td class="tg-031e">John Whittington: <a href="/johnwhittington.htm">Placemaking</a></td>
     <td class="tg-031e">Jan Jacob Stam: <a href="/janjacobtrauma.htm">Trauma in Organizations</a></td>
   </tr>
   <tr>
