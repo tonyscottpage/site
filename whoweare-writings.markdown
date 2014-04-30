@@ -82,7 +82,7 @@ We give you access below to writings (a mix of published and unpublished) that r
 
 <tr>
 	 <td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/freeing our voices intro.htm">Freeing Our Voices - a Facilitator's Way of Leading</a><br></td>
+	<td class="tg-031e"><a href="/documents/freeing_our_voices-intro.htm">Freeing Our Voices - a Facilitator's Way of Leading</a><br></td>
 	<td class="tg-031e">2001<br></td>
 	<td class="tg-031e">Facilitation and Leadership<br></td>
 		<td class="tg-031e">Unpublished book draft.<br></td>
