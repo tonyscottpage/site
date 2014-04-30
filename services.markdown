@@ -9,11 +9,11 @@ index: 10
 
 Our services are [Facilitation](#facilitation) to your team, [Coaching](#coaching) to you as an individual, and programmes with <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC" target="_blank">CIPD</a>. Each can unlock a more powerful response to your challenge.
 
-How? We help you push the boundaries. We focus you from a different angle: more listening, sharing the facts, better linking people. With a bigger picture that matters to them, people engage more of themselves. 
+How? We help you push the boundaries. We focus you from a different angle: more listening, sharing the facts, better linking people. With a bigger picture that matters to them, people will commit more to one another. 
 
 <h2 id="facilitation">Facilitation</h2>
 
-Since your leadership team's 'real work' is to impact the outside (eg. customers) via those inside (eg. staff), we work 'live' with your team towards this. We bring real participation and re-include the lost voices. You grow clearer in purpose, connection and impact. Here are examples: the ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) and the ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). 
+If your leadership team's 'real work' is to impact the outside (eg. customers) via those inside (eg. staff), we work 'live' with your team towards this. We bring real participation and re-include the lost voices. You grow clearer in purpose, connection and impact. Here are examples: the ([Edexcel Story]({{ site.baseurl}}/documents/edexcel.pdf)) and the ([Dialogue Workshop]({{ site.baseurl}}/documents/dialogue.pdf)). 
 
 <h2 id="coaching">Coaching</h2>
 

@@ -4,9 +4,9 @@ layout: page
 title:  "Page Consulting"
 ---
 
-We call you a 'leader' when you work with a group or team that shares your challenge, and you make a difference. But are you a 'new leader'? 
+Since the year dot 'leaders' have enrolled people in challenges and made a difference to the world. But are you a 'new leader' who sees why it is more difficult today? 
 
-New Leaders notice that today people are more connected, and a tad more sceptical. This makes the leader's challenge more complex, and demands a different starting point. 
+New Leaders notice that today we are all more connected, but less aligned, and a tad more sceptical. This makes your challenge more complex, and demands a different starting point. 
 
 We can help you enrol people in your challenge. We find that once a goal means something to them, they help each other much more. Results come sooner and larger. 
 
