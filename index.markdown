@@ -27,7 +27,7 @@ Here you can find services new leaders are drawing on. Plus a bit about our clie
 	</tr>
 	<tr height="5"></tr>
 	<tr align="center">	
-		<td><img src="images/edexcel.svg" alt="Edexcel" height="30"></td>
+		<td><img src="images/edex.svg" alt="Edexcel" height="30"></td>
 		<td><img src="images/treeaid.jpg" alt="Tree Aid" height="50"></td>
 		<td><img src="/images/starbucks.svg" alt="Starbucks" height="60"></td>
 	</tr>	
