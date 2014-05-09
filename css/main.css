@@ -444,6 +444,12 @@ h1.page_title {
   /*font-style: italic;*/
   /*font-family: georgia;*/
 }
+.footer-logo {
+margin-bottom: 15px;
+float: right;
+margin-right: 28px;
+}
+
 /*  Client logo SECTIONS  
 ---------------------------------------------------------*/
 .section {

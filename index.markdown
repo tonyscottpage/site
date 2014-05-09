@@ -39,5 +39,4 @@ Here you can find services new leaders are drawing on. Plus a bit about our clie
 	<img src="/images/starbucks.svg" alt="Starbucks" height="60"></div>
 	<div class="col span_1_of_3">
 	<img src="/images/home-office.svg" alt="Home Office" height="50"></div>
-
 </div>
