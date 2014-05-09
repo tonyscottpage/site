@@ -124,7 +124,7 @@ img {
  * 1. .sidebar_contact height
  */
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 750px) {
   .site_sidebar > .inner {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -440,10 +440,72 @@ h1.page_title {
 .footer {
   color: #CCC;
   font-size: 14px;
+  margin-bottom: 28px;
   /*font-style: italic;*/
   /*font-family: georgia;*/
 }
-  
+/*  Client logo SECTIONS  
+---------------------------------------------------------*/
+.section {
+  clear: both;
+  padding: 0px;
+  margin: 0px;
+}
+
+/*  COLUMN SETUP  */
+.col {
+  display: block;
+  float:left;
+  margin: 1% 0 1% 1.6%;
+}
+.col:first-child { margin-left: 0; }
+
+
+/*  GROUPING  */
+.group:before,
+.group:after {
+  content:"";
+  display:table;
+}
+.group:after {
+  clear:both;
+}
+.group {
+    zoom:1; /* For IE 6/7 */
+}                                           
+
+/*  GRID OF THREE  */
+.span_3_of_3 {
+  width: 100%;
+}
+.span_2_of_3 {
+  width: 66.13%;
+}
+.span_1_of_3 {
+  width: 32.26%;
+}
+
+/*  GO FULL WIDTH AT LESS THAN 750 PIXELS */
+
+@media only screen and (max-width: 750px) {
+  .col { 
+    margin: 1% 0 1% 0%;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .span_3_of_3 {
+    width: 100%; 
+  }
+  .span_2_of_3 {
+    width: 100%; 
+  }
+  .span_1_of_3 {
+    width: 100%;
+  }
+}
+
+ 
 /** Footer Contact
  ---------------------------------------------------------*/
 
