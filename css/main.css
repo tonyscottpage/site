@@ -446,7 +446,9 @@ h1.page_title {
 }
 .footer-logo {
 margin-bottom: 15px;
-float: right;
+position: fixed;
+right: 0; 
+bottom: 0;
 margin-right: 15px;
 }
 
