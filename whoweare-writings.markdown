@@ -29,14 +29,14 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>
 	 <td class="tg-031e">Andy Harmon &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Freeing Trapped Resources.pdf">Freeing Trapped Resources: Drama, Story and Leadership</a><br></td>
+	<td class="tg-031e"><a href="/documents/freeing-trapped-resources.pdf">Freeing Trapped Resources: Drama, Story and Leadership</a><br></td>
 	<td class="tg-031e">2011<br></td>
 	<td class="tg-031e">Leadership<br></td>
 		<td class="tg-031e">Meet Joe. He’s smart, resourceful and heads a business unit that faces a big staff cut. What can leaders learn from Joe about how to approach their challenges differently?<br></td>
 </tr>
 <tr>
 	 <td class="tg-031e">Chiara Vascotto &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Adapting Awayday Rituals.pdf">Adapting Awayday Rituals to Deliver in Difficult Times</a><br></td>
+	<td class="tg-031e"><a href="/documents/adapting-awayday-rituals.pdf">Adapting Awayday Rituals to Deliver in Difficult Times</a><br></td>
 	<td class="tg-031e">2011<br></td>
 	<td class="tg-031e">Facilitation and change<br></td>
 		<td class="tg-031e">How can Developers run workshops with lasting benefit? We look at what anthropology has to teach us about transformations to make ‘after’ fundamentally different than ‘before’..<br></td>
@@ -98,14 +98,14 @@ We give you access below to writings (a mix of published and unpublished) that r
 
 <tr>      
     <td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Bloody%20Well.htm">Don't try to shut me up</a><br></td>
+	<td class="tg-031e"><a href="/documents/bloody-well.htm">Don't try to shut me up</a><br></td>
 	<td class="tg-031e">2001<br></td>
 	<td class="tg-031e">Organisation<br></td>
 	<td class="tg-031e">A surprising outburst of anger, almost a poem about leadership, overcoming oppression, recovery of voice, listening.<br></td>
 </tr>
 <tr>         
 	<td class="tg-031e">Fiona Coffey &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Beyondlll.htm">Beyond Leaders, Luddites and Lackeys - Creating Conditions for Spontaneous Change.</a><br></td>
+	<td class="tg-031e"><a href="/documents/beyondlll.htm">Beyond Leaders, Luddites and Lackeys - Creating Conditions for Spontaneous Change.</a><br></td>
 	<td class="tg-031e">2000<br></td>
 	<td class="tg-031e">Leadership<br></td>
 	<td class="tg-031e">This article, written at the start of a new millennium, sets out a new, different, humane and exciting, less mechanistic and confrontational approach to change.<br></td>
@@ -113,7 +113,7 @@ We give you access below to writings (a mix of published and unpublished) that r
 
 <tr>         
 	<td class="tg-031e">Eli Rana<br></td>
-	<td class="tg-031e"><a href="/documents/homeofficepm.pdf">Corridor of Empowerment.</a><br></td>
+	<td class="tg-031e"><a href="/documents/home-office-pm.pdf">Corridor of Empowerment.</a><br></td>
 	<td class="tg-031e">2000<br></td>
 	<td class="tg-031e">Organisaiton Development<br></td>
 	<td class="tg-031e">Article in People Management describing work by Fiona Coffey and Tony Page with Sue Street, Tony Williams and around 200 staff in the Home Office.<br></td>
@@ -128,49 +128,49 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>   
     <td class="tg-031e">Barry Curnow &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Article%20IMC.htm">Opening Our Minds for a Change</a><br></td>
+	<td class="tg-031e"><a href="/documents/article-imc.htm">Opening Our Minds for a Change</a><br></td>
 	<td class="tg-031e">1999<br></td>
 	<td class="tg-031e">Leadership and Change<br></td>
 	<td class="tg-031e">A story of initiating a change at the Institute of Management Consultancy. <br></td>
 </tr>
 <tr>
 	<td class="tg-031e">Larry Hirschhorn<br></td>
-	<td class="tg-031e"><a href="/documents/Hirschhorn99.htm">Psychodynamic Consulting Masterclass</a><br></td>
+	<td class="tg-031e"><a href="/documents/hirschhorn99.htm">Psychodynamic Consulting Masterclass</a><br></td>
 	<td class="tg-031e">1999<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">Current thinking on organisations, leadership, change, anxiety, passion and how to consult. <br></td>
 </tr>
 <tr> 
 	<td class="tg-031e">Sue Kurnaz, Tony Page &amp; John Wilson<br></td>
-	<td class="tg-031e"><a href="/documents/article%20ltsb.htm">Developing the team to lead the merger of two cultures</a><br></td>
+	<td class="tg-031e"><a href="/documents/article-ltsb.htm">Developing the team to lead the merger of two cultures</a><br></td>
 	<td class="tg-031e">1999<br></td>
 	<td class="tg-031e">Teams in mergers and change<br></td>
 	<td class="tg-031e">Case Study of Lloyds TSB merger.<br></td>
 </tr>
 <tr>
 	<td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/authenticityandmillennium.htm">Authenticity &amp; HRD for the New Millennium</a><br></td>
+	<td class="tg-031e"><a href="/documents/authenticity.htm">Authenticity &amp; HRD for the New Millennium</a><br></td>
 	<td class="tg-031e">1999<br></td>
 	<td class="tg-031e">Organisation<br></td>
 	<td class="tg-031e">Will authentic organisations become attractors of talent in the new millennium?<br></td>
 </tr>
 <tr>
 	<td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/SolePracDayinLife0499.htm">The Sole Practitioner - A Day in the Life</a><br></td>
+	<td class="tg-031e"><a href="/documents/sole-prac.htm">The Sole Practitioner - A Day in the Life</a><br></td>
 	<td class="tg-031e">1999<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">Published in Inside Careers, Management Consultants 1999.<br></td>
 </tr>
 <tr>
 	<td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Using%20Dialogue.htm">Using Dialogue</a><br></td>
+	<td class="tg-031e"><a href="/documents/using-dialogue.htm">Using Dialogue</a><br></td>
 	<td class="tg-031e">1999<br></td>
 	<td class="tg-031e">Dialogue<br></td>
 	<td class="tg-031e">This article is intended to capture what I have been learning over recent years about what Dialogue is and how to create the conditions for it to take place.<br></td>
 </tr>
 <tr>  
 	<td class="tg-031e">Anton Obholzer<br></td>
-	<td class="tg-031e"><a href="/documents/BrainstrustObholzer1198.htm">The Consultancy/Therapy Boundary</a><br></td>
+	<td class="tg-031e"><a href="/documents/brainstrust-obholzer.htm">The Consultancy/Therapy Boundary</a><br></td>
 	<td class="tg-031e">1998<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">Account of a brainstrust workshop with Chief Exec of Tavistock &amp; Portman NHS Trust.<br></td>
@@ -184,49 +184,49 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>  
 	<td class="tg-031e">Mike Jeans &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/MCLargeCo1197.doc">Management Consultancy - Best Practice - Large Corporates</a><br></td>
+	<td class="tg-031e"><a href="/documents/mc-largeco.doc">Management Consultancy - Best Practice - Large Corporates</a><br></td>
 	<td class="tg-031e">1998<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">When you are consulting with large corporates you may find yourself challenged in altogether different ways than with small and medium sized enterprises or public sector organisations.<br></td>
 </tr>
 <tr> 
 	<td class="tg-031e">Rosemary Harris &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/MCSME0298.doc">Management Consultancy - Best Practice - SME</a><br></td>
+	<td class="tg-031e"><a href="/documents/mc-sme.doc">Management Consultancy - Best Practice - SME</a><br></td>
 	<td class="tg-031e">1998<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">Small and medium size firms are highly important to the economy and require a distinctively different approach from consultants.<br></td>
 </tr>
 <tr>  
 	<td class="tg-031e">Lisa Kimball &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Chautauquaall0697.htm">Chautauqua</a><br></td>
+	<td class="tg-031e"><a href="/documents/chautauqua.htm">Chautauqua</a><br></td>
 	<td class="tg-031e">1997<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">Transcript of an online dialogue in The Meta Network following publication of Diary of a Change Agent.<br></td>
 </tr>
 <tr> 
 	<td class="tg-031e">Marshall Rosenberg<br></td>
-	<td class="tg-031e"><a href="/documents/MarshallRosenberg97.htm">Resolving Conflict through Non Violent Communication</a><br></td>
+	<td class="tg-031e"><a href="/documents/marshall-rosenberg97.htm">Resolving Conflict through Non Violent Communication</a><br></td>
 	<td class="tg-031e">1997<br></td>
 	<td class="tg-031e">Facilitation and conflict resolution<br></td>
 	<td class="tg-031e">An introduction to the method of non-violent communication.<br></td>
 </tr>
 <tr>  
 	<td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/ReviewsDiary.htm">Diary of a Change Agent</a><br></td>
+	<td class="tg-031e"><a href="/documents/reviews-diary.htm">Diary of a Change Agent</a><br></td>
 	<td class="tg-031e">1996<br></td>
 	<td class="tg-031e">Change<br></td>
 	<td class="tg-031e">Book published by Gower containing reflections over three years of work and life as a consultant, deepening through real life application the understanding of the process of change,  adding up to a journey of personal transformation.<br></td>
 </tr>
 <tr>  
 	<td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Dofcaworkbook.pdf">The Secret World of a Change Management Consultant</a><br></td>
+	<td class="tg-031e"><a href="/documents/dofca-workbook.pdf">The Secret World of a Change Management Consultant</a><br></td>
 	<td class="tg-031e">1996<br></td>
 	<td class="tg-031e">Change<br></td>
 	<td class="tg-031e">Just suppose there was a simple, practical, yet powerful method for continuous learning which individuals could adopt without fear, and embrace with pleasure.<br></td>
 </tr>
 <tr>     
 	<td class="tg-031e">Tony Coyle &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Flowpt1.pdf">Consulting with the Flow</a><br></td>
+	<td class="tg-031e"><a href="/documents/flowpt1.pdf">Consulting with the Flow</a><br></td>
 	<td class="tg-031e">1995<br></td>
 	<td class="tg-031e">Change<br></td>
 	<td class="tg-031e">Contrasting real experience of Change Management with theory, discovering limits of current mind-set, developing a new hypothesis called
@@ -234,14 +234,14 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>
 	<td class="tg-031e">Tony Coyle &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/Article%20SB%20Change%2094.doc">Learning to Change in SmithKline</a><br></td>
+	<td class="tg-031e"><a href="/documents/article-sb.doc">Learning to Change in SmithKline</a><br></td>
 	<td class="tg-031e">1994<br></td>
 	<td class="tg-031e">Change<br></td>
 	<td class="tg-031e">The purpose of the paper is to illuminate the human dimension to learning and change that accompanied a corporate change programme in SmithKline Beecham called ‘Simply Better’ Way.<br></td>
 </tr>
 <tr>
 	<td class="tg-031e">Ron Hyams &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/article%20faker%2092.htm">How to Spot a Faker</a><br></td>
+	<td class="tg-031e"><a href="/documents/article-faker.htm">How to Spot a Faker</a><br></td>
 	<td class="tg-031e">1992<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">Clearly many consultant qualities can help to create success and we will in this article focus on a particular one: "authenticity".<br></td>
