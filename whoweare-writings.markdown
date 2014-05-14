@@ -184,7 +184,7 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>  
 	<td class="tg-031e">Mike Jeans &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/mc-largeco.doc">Management Consultancy - Best Practice - Large Corporates</a><br></td>
+	<td class="tg-031e"><a href="/documents/mc-largeco.htm">Management Consultancy - Best Practice - Large Corporates</a><br></td>
 	<td class="tg-031e">1998<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">When you are consulting with large corporates you may find yourself challenged in altogether different ways than with small and medium sized enterprises or public sector organisations.<br></td>
