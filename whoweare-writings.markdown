@@ -66,7 +66,7 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>
 	 <td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/voicearising.htm">Voice Arising</a><br></td>
+	<td class="tg-031e"><a href="/documents/voice-arising.pdf">Voice Arising</a><br></td>
 	<td class="tg-031e">2003<br></td>
 	<td class="tg-031e">Facilitation<br></td>
 		<td class="tg-031e">Three real cases show how “facilitator work” with voices, can transform the “big work” of institutions which suffer difficulty with change.<br></td>
@@ -98,14 +98,14 @@ We give you access below to writings (a mix of published and unpublished) that r
 
 <tr>      
     <td class="tg-031e">Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/bloody-well.htm">Don't try to shut me up</a><br></td>
+	<td class="tg-031e"><a href="/documents/bwlisten.pdf">Don't try to shut me up</a><br></td>
 	<td class="tg-031e">2001<br></td>
 	<td class="tg-031e">Organisation<br></td>
 	<td class="tg-031e">A surprising outburst of anger, almost a poem about leadership, overcoming oppression, recovery of voice, listening.<br></td>
 </tr>
 <tr>         
 	<td class="tg-031e">Fiona Coffey &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/beyondlll.htm">Beyond Leaders, Luddites and Lackeys - Creating Conditions for Spontaneous Change.</a><br></td>
+	<td class="tg-031e"><a href="/documents/beyondlll.pdf">Beyond Leaders, Luddites and Lackeys - Creating Conditions for Spontaneous Change.</a><br></td>
 	<td class="tg-031e">2000<br></td>
 	<td class="tg-031e">Leadership<br></td>
 	<td class="tg-031e">This article, written at the start of a new millennium, sets out a new, different, humane and exciting, less mechanistic and confrontational approach to change.<br></td>
@@ -113,7 +113,7 @@ We give you access below to writings (a mix of published and unpublished) that r
 
 <tr>         
 	<td class="tg-031e">Eli Rana<br></td>
-	<td class="tg-031e"><a href="/documents/home-office-pm.pdf">Corridor of Empowerment.</a><br></td>
+	<td class="tg-031e"><a href="/documents/home-office.pdf">Corridor of Empowerment.</a><br></td>
 	<td class="tg-031e">2000<br></td>
 	<td class="tg-031e">Organisaiton Development<br></td>
 	<td class="tg-031e">Article in People Management describing work by Fiona Coffey and Tony Page with Sue Street, Tony Williams and around 200 staff in the Home Office.<br></td>
@@ -234,14 +234,14 @@ We give you access below to writings (a mix of published and unpublished) that r
 </tr>
 <tr>
 	<td class="tg-031e">Tony Coyle &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/article-sb.doc">Learning to Change in SmithKline</a><br></td>
+	<td class="tg-031e"><a href="/documents/article-sb.pdf">Learning to Change in SmithKline</a><br></td>
 	<td class="tg-031e">1994<br></td>
 	<td class="tg-031e">Change<br></td>
 	<td class="tg-031e">The purpose of the paper is to illuminate the human dimension to learning and change that accompanied a corporate change programme in SmithKline Beecham called ‘Simply Better’ Way.<br></td>
 </tr>
 <tr>
 	<td class="tg-031e">Ron Hyams &amp; Tony Page<br></td>
-	<td class="tg-031e"><a href="/documents/article-faker.htm">How to Spot a Faker</a><br></td>
+	<td class="tg-031e"><a href="/documents/faker.pdf">How to Spot a Faker</a><br></td>
 	<td class="tg-031e">1992<br></td>
 	<td class="tg-031e">Consultancy<br></td>
 	<td class="tg-031e">Clearly many consultant qualities can help to create success and we will in this article focus on a particular one: "authenticity".<br></td>
