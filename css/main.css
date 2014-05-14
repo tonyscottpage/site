@@ -487,10 +487,11 @@ margin-right: 15px;
   width: 100%;
 }
 .span_2_of_3 {
-  width: 66.13%;
+  width: 66%;
 }
 .span_1_of_3 {
-  width: 32.26%;
+  width: 25%;
+  padding-left: 25px;
 }
 
 /*  GO FULL WIDTH AT LESS THAN 750 PIXELS */

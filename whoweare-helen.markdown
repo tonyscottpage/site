@@ -2,10 +2,12 @@
 id: helen
 section: whoweare
 layout: page
-title:  "Helen"
+title:  "Helen Page"
 permalink: /who-we-are/helen/
 ---
 
 ... is an experienced management consultant formerly on quality programmes in Shell International. She has held board positions in the National Health Service and Surrey Probation. Also in Victim Support she has been a counsellor, trainer and trustee.
 
-Today her portfolio includes being company secretary of the Shell Pension Association, a property manager... and also being a sounding board/conscience and admin director in Page Consulting.
+<html><img src="/images/helen.jpg" alt="Helen Page" height="250"></html>
+
+Today Helen's portfolio includes being company secretary of the Shell Pension Association, a property manager... and also being admin director and sounding board/conscience in Page Consulting.

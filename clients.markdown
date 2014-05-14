@@ -11,4 +11,4 @@ Our clients are individuals and leadership teams, who are creating cross-system 
 
  You want to work 'across', influencing at the interfaces. New paths beckon because the old ways of controlling no longer work, or are too costly to sustain. You believe people can deliver extraordinary results together if they buy-in and you want them to mobilise, based on trust, transparency and accountability. 
 
-We are working with New Leaders in the British Council (cultural relations, East Africa), Borealis (petrochemicals, Vienna), and Tree Aid (forestry NGO, UK and West Africa). [Find out more]({{ site.baseurl}}/clients/org) about our impact and see the many organisations where we work.
+We are working with New Leaders in the British Council (cultural relations, East Africa), Borealis (petrochemicals, Vienna), and Tree Aid (forestry NGO, UK and West Africa). Find out more about our [impact]({{ site.baseurl}}/clients/org) on people and organisations.
