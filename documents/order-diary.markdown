@@ -11,7 +11,7 @@ Here you can read the reviews and order "Diary of a Change Agent".
 <div class="inside"> 
 	<div style="float: left; width: 45%"><em>Diary of a Change Agent.</em><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br></div>
 
-<div style="float: left; width: 25%"><img src="/documents/images/coverdiary.jpg" width="115"></div>
+<div style="float: left; width: 25%"><img src="/images/coverdiary.jpg" width="115"></div>
 
 <div style="float: left; width: 30%">To buy your copy at £14.99<br>please enter Shipping<br>then click Buy.<br><br>
 <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
