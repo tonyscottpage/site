@@ -26,7 +26,7 @@ Here you can read reviews and order "Diary of a Change Agent".
 <input type="hidden" name="item_name" value="Book: Diary of a Change Agent">
 <input type="hidden" name="amount" value="14.99">
 <br><br>
-<input type="image" src="/documents/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form></div>
 </div><br style="clear: both;"></div>
 
