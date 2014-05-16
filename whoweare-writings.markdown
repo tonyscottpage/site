@@ -8,7 +8,7 @@ permalink: /documents/writings/
 Here you can access writings (books and articles, published and unpublished) that reflect on work with leaders over the years.
 
 <div>
- <div style="float: left; width: 125px;"><a href="/documents/order-diary"><img src="//documents/images/coverdiary.jpg" width="115" height="140"></a></div>
+ <div style="float: left; width: 125px;"><a href="http://www.pageconsulting.co.uk/documents/order-diary"><img src="/documents/images/coverdiary.jpg" width="115" height="140"></a></div>
  <div><strong>Diary of a Change Agent</strong><br>
  Said to be a groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us with a new awareness of ourselves and those around us, towards a better integration, or in other words how to sieze opportunities while living our values.<br><br> 
 
