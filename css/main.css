@@ -295,6 +295,22 @@ img {
   }
 }
 
+/**
+ * position in divs
+ */
+
+.outside {
+    position: relative;
+    border-style: 0px;
+    margin: 0;
+}
+.inside {
+    position: relative;
+    bottom: 2px;
+    border-style: 0px;
+    margin: 0;
+}
+
 /** Page
  ---------------------------------------------------------*/
 

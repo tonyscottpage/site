@@ -8,17 +8,19 @@ permalink: /documents/writings/
 Here you can access writings (books and articles, published and unpublished) that reflect on work with leaders over the years.
 
 <div>
- <div style="float: left; width: 115px;"><a href="/documents/"><img src="/documents/images/coverdiary.jpg" width="115" height="140"><em>Diary of a Change Agent</em></a></div>
- <div>Said to be a groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us with a new awareness of ourselves and those around us, towards a better integration, or in other words how to sieze opportunities while living our values.<br><br> 
+ <div style="float: left; width: 125px;"><a href="/documents/order-diary"><img src="/documents/images/coverdiary.jpg" width="115" height="140"></a></div>
+ <div><strong>Diary of a Change Agent</strong><br>
+ Said to be a groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us with a new awareness of ourselves and those around us, towards a better integration, or in other words how to sieze opportunities while living our values.<br><br> 
 
- Read reviews and order the book <a href="http://www.pageconsulting.co.uk/documents/order-diary">here.</a></div>
+ Read reviews and order the book <a href="/documents/order-diary">here.</a></div>
 <br style="clear: left;"></div>
 
 <div>
- <div style="float: left; width: 115px"><a href="/documents/"><img src="/documents/images/coverhippo2.jpg" width="110" padding="10px"><em>From Hippos to Gazelles<em></a></div>
- <div>Co-authored with Philip Goodwin, CEO, is for anyone who needs to engage a large team to step up and lead a transformation. It recounts an inspiring story told through the voices of team members, of a difficult merger over three years, in a complex business spread across 11 different African countries. With it comes a fable in five clear phases to give the key learning points plus a comprehensive set of change leadership tools.<br><br> 
+ <div style="float: left; width: 125px"><a href="/documents/order-hippos"><img src="/documents/images/coverhippo.jpg" width="115" padding="10px"></a></div>
+ <div><strong>From Hippos to Gazelles</strong><br>
+ Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who over three years grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br> 
 
- Read reviews and order the book <a href="/documents/">here.</a></div>
+ Read reviews and order the book <a href="/documents/order-hippos">here.</a></div>
  <br style="clear: left;">
 </div>
 
