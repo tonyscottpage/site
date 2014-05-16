@@ -1,9 +1,8 @@
 ---
 id: helen
-section: whoweare
 layout: page
 title:  "Helen Page"
-permalink: /whoweare/helen/
+permalink: /whoweare-helen/
 ---
 
 ... is an experienced management consultant formerly on quality programmes in Shell International. She has held board positions in the National Health Service and Surrey Probation. Also in Victim Support she has been a counsellor, trainer and trustee.

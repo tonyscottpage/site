@@ -1,9 +1,8 @@
 ---
 id: colleagues
-section: whoweare
 layout: page
 title:  "Colleagues"
-permalink: /whoweare/colleagues/
+permalink: /whoweare-colleagues/
 ---
 
 Here are some colleagues with whom we created ideas, delivered exciting programmes, reflected or wrote:

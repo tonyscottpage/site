@@ -1,9 +1,8 @@
 ---
 id: order-diary
-section: documents
 layout: page
 title:  "To Get Your Copy"
-permalink: /documents/order-diary/
+permalink: /order-diary/
 ---
 
 Here you can read the reviews and order "Diary of a Change Agent".
