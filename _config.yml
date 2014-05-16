@@ -4,3 +4,4 @@ pygments: true
 baseurl: "http://pageconsulting.co.uk"
 exclude: [serve.sh, README.md, .gitignore]
 navigation: [ services, journal, clients, whoweare, contact ]
+relative_permalinks: true
