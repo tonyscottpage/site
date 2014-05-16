@@ -32,47 +32,47 @@ Here are some colleagues with whom we created ideas, delivered exciting programm
   </tr>
   <tr>
     <td class="tg-031e">Vicky Cosstick - ChangeAware</td>
-    <td class="tg-031e">Tritia Neeb - Djihn</td>
+    <td class="tg-031e">Bob MacKenzie - AMED Writers Group</td>
   </tr>
   <tr>
     <td class="tg-031e">Andrea Davy</td>
-    <td class="tg-031e">Ben Parker - MTI</td>
+    <td class="tg-031e">Tritia Neeb - Djihn</td>
   </tr>
   <tr>
     <td class="tg-031e">Steve Dilworth</td>
-    <td class="tg-031e">Annika Ratcliffe - CGI</td>
+    <td class="tg-031e">Ben Parker - MTI</td>
   </tr>
   <tr>
     <td class="tg-031e">Twalib Ebrahim - MiDDLEGROUND</td>
-    <td class="tg-031e">Kate Renshaw - Kate Renshaw Associates</td>
+    <td class="tg-031e">Annika Ratcliffe - CGI</td>
   </tr>
   <tr>
     <td class="tg-031e">Jill Fairbairns - Executive Coach and Supervisor</td>
-    <td class="tg-031e">Ben Smithies - Verismo Consulting</td>
+   <td class="tg-031e">Kate Renshaw - Kate Renshaw Associates</td>
   </tr>
   <tr>
     <td class="tg-031e">Elana Friedman - MiDDLEGROUND</td>
-    <td class="tg-031e">Tim Savage - T Solutions</td>
+    <td class="tg-031e">Ben Smithies - Verismo Consulting</td>
   </tr>
   <tr>
     <td class="tg-031e">Philip Goodwin - Tree Aid, British Council</td>
-    <td class="tg-031e">Malcolm Tulloch - BG Group<br></td>
+     <td class="tg-031e">Tim Savage - T Solutions</td>
   </tr>
   <tr>
     <td class="tg-031e">Andy Harmon - Actors Mind</td>
-    <td class="tg-031e">Chiara Vascotto - Insight Hunter<br></td>
+    <td class="tg-031e">Malcolm Tulloch - BG Group<br></td>
   </tr>
   <tr>
     <td class="tg-031e">Pattie Horrocks - Executive Coach</td>
-    <td class="tg-031e">David Webster - The Centre for Teams<br></td>
+      <td class="tg-031e">Chiara Vascotto - Insight Hunter<br></td>
   </tr>
   <tr>
     <td class="tg-031e">Myrna Roselind Jelman - Ashridge, Spring Film</td>
-    <td class="tg-031e">Philippa Williams - Practive</td>
+  <td class="tg-031e">David Webster - The Centre for Teams<br></td>
   </tr>
    <tr>
     <td class="tg-031e">Mary Joyce - Leading Minds Consulting</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e">Philippa Williams - Practive</td>
   </tr>
 
 </table>

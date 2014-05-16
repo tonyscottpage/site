@@ -1,8 +1,8 @@
 ---
-id: writings
+id: order-diary
 layout: page
-title:  "Writings"
-permalink: /documents/writings/
+title:  "Diary of a Change Agent - Reviews and Order"
+permalink: /documents/order-diary/
 ---
 
 Here you can access writings (books and articles, published and unpublished) that reflect on work with leaders over the years.
@@ -11,7 +11,7 @@ Here you can access writings (books and articles, published and unpublished) tha
  <div style="float: left; width: 115px;"><a href="/documents/"><img src="/documents/images/coverdiary.jpg" width="115" height="140"><em>Diary of a Change Agent</em></a></div>
  <div>Said to be a groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us with a new awareness of ourselves and those around us, towards a better integration, or in other words how to sieze opportunities while living our values.<br><br> 
 
- Read reviews and order the book <a href="http://www.pageconsulting.co.uk/documents/order-diary">here.</a></div>
+ Read reviews and order the book <a href="/documents/">here.</a></div>
 <br style="clear: left;"></div>
 
 <div>
