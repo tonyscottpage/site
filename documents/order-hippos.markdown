@@ -2,7 +2,7 @@
 id: order-diary
 layout: page
 title:  "To Get Your Copy"
-permalink: /order-hippos/
+permalink: documents/order-hippos/
 ---
 
 Here you can read the reviews and order "From Hippos to Gazelles: how leaders create leaders".
