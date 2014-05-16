@@ -1,5 +1,6 @@
 ---
 id: order-diary
+section: documents
 layout: page
 title:  "To Get Your Copy"
 permalink: /documents/order-diary/

@@ -1,8 +1,9 @@
 ---
 id: inspirations
+section: whoweare
 layout: page
 title:  "Inspirations"
-permalink: /documents/inspirations/
+permalink: /whoweare/inspirations/
 ---
 
 Here are some people and organisations who have inspired our ways of working...
