@@ -5,7 +5,7 @@ title:  "To Get Your Copy"
 permalink: /order-diary/
 ---
 
-Here you can read the reviews and order "Diary of a Change Agent".
+Here you can read reviews and order "Diary of a Change Agent".
 
 <div class="outside">
 <div class="inside"> 
