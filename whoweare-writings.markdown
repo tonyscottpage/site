@@ -17,7 +17,7 @@ Here you can access writings (books and articles, published and unpublished) tha
 <br style="clear: left;"></div>
 
 <div>
- <div style="float: left; width: 125px"><a href="/documents/order-hippos"><img src="/images/coverhippo.jpg" width="115" padding="10px"></a></div>
+ <div style="float: left; width: 125px"><a href="/documents/order-hippos"><img src="/documents/images/coverhippo.jpg" width="115" padding="10px"></a></div>
  <div><strong>From Hippos to Gazelles</strong><br>
  Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who over three years grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br> 
 
