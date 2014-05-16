@@ -7,6 +7,9 @@ permalink: /documents/writings/
 
 Here you can access writings (books and articles, published and unpublished) that reflect on work with leaders over the years.
 
+
+[inspiring people]({{ site.baseurl}}/documents/inspirations)
+
 <div>
  <div style="float: left; width: 125px;"><a href="/documents/order-diary"><img src="http://www.pageconsulting.co.uk/documents/images/coverdiary.jpg" width="115" height="140"></a></div>
  <div><strong>Diary of a Change Agent</strong><br>

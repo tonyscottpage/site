@@ -1,5 +1,5 @@
 ---
-id: order-diary
+id: order-hippos
 layout: page
 title:  "To Get Your Copy"
 permalink: documents/order-hippos/
