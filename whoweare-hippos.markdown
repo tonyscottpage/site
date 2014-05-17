@@ -1,8 +1,8 @@
 ---
-id: order-hippos
+id: hippos
 layout: page
 title:  "To Get Your Copy"
-permalink: /order-hippos/
+permalink: /whoweare-hippos/
 ---
 
 Here you can read the reviews and order "From Hippos to Gazelles: how leaders create leaders".
@@ -11,7 +11,7 @@ Here you can read the reviews and order "From Hippos to Gazelles: how leaders cr
 <div class="inside"> 
 	<div style="float: left; width: 45%">Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who over three years grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br></div>
 
-<div style="float: left; width: 25%"><img src="/documents/images/coverhippo.jpg" width="115"></a></div>
+<div style="float: left; width: 25%"><img src="/images/coverhippo.jpg" width="115"></a></div>
 
 <div style="float: left; width: 30%">To buy your copy at £12.99<br>please enter Shipping<br>then click Buy.<br><br>
 <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -90,7 +90,7 @@ I would not be surprised if, within a few years, this becomes a defining work fo
 <div class="inside"> 
 	<div style="float: left; width: 45%">Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who over three years grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br></div>
 
-<div style="float: left; width: 25%"><img src="/documents/images/coverhippo.jpg" width="115"></a></div>
+<div style="float: left; width: 25%"><img src="/images/coverhippo.jpg" width="115"></a></div>
 
 <div style="float: left; width: 30%">To buy your copy at £12.99<br>please enter Shipping<br>then click Buy.<br><br>
 <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
