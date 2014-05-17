@@ -1,9 +1,9 @@
 ---
-id: org
+id: impact
 section: clients
 layout: page
 title:  "Impact on People and Organisations"
-permalink: /clients/org/
+permalink: /clients-impact/
 ---
 
 What impact can you and your organisation gain? 

@@ -26,7 +26,7 @@ Here you can read the reviews and order "From Hippos to Gazelles: how leaders cr
 <input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
 <input type="hidden" name="amount" value="12.99">
 <br><br>
-<input type="image" src="/documents/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form></div>
 </div><br style="clear: both;"></div>
 
@@ -105,6 +105,6 @@ I would not be surprised if, within a few years, this becomes a defining work fo
 <input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
 <input type="hidden" name="amount" value="12.99">
 <br><br>
-<input type="image" src="/documents/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form></div>
-</div><br style="clear: both;"></div>
+<br style="clear: both;"></div>
