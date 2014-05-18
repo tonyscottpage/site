@@ -12,22 +12,13 @@ We can help you enrol people in your challenge. We find that once a goal means s
 
 Here you can find services new leaders are drawing on. Plus a bit about our clients, and our approach.
 
-
-<div class="section group">
-	<div class="col span_1_of_3">
-	<img src="images/bg-group.svg" alt="BG Group" height="60">
-	</div>
-	<div class="col span_1_of_3">
-	<img src="images/treeaid.jpg" alt="Tree Aid" height="50"></div>
-	<div class="col span_1_of_3">
-	<img src="/images/nhs.svg" alt="National Health Service" height="30"></div>
-</div>
-
-<div class="section group">
-		<div class="col span_1_of_3">
-	<img src="/images/hilton.svg" alt="Hilton Hotels" height="45"></div><div class="col span_1_of_3">
-	<img src="/images/bc.svg" alt="British Council" height="30">
-	</div>
-	<div class="col span_1_of_3">
-	<img vertical-align="middle" src="/images/wellcome.svg" alt="Wellcome" height="20"></div>
-</div>
+<div class="box-logo"><img src="images/bg-group.svg" alt="BG Group" height="60"></div>
+<div class="box-logo"><img src="images/treeaid.jpg" alt="Tree Aid" height="50"></div>
+<div class="box-logo"><img src="/images/nhs.svg" alt="National Health Service" height="30"></div>
+<div class="box-logo"><img src="/images/hilton.svg" alt="Hilton Hotels" height="45"></div>
+<div class="box-logo"><img src="/images/bc.svg" alt="British Council" height="30"></div>
+<div class="box-logo"><img src="/images/wellcome.svg" alt="Wellcome" height="18"></div>
+<div class="box-logo"><img src="/images/the-guardian.svg" alt="The Guardian" height="25"></div>
+<div class="box-logo"><img src="/images/edex.svg" alt="Edexcel" height="30"></div>
+<div class="box-logo"><img src="/images/starbucks.svg" alt="Starbucks" height="60"></div>
+<div></div>

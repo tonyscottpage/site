@@ -1,22 +1,20 @@
 ---
 id: hippos
 layout: page
-title:  "To Get Your Copy"
+title:  "Buy From Hippos to Gazelles"
 permalink: /whoweare-hippos/
 ---
 
-Here you can read the reviews and order "From Hippos to Gazelles: how leaders create leaders".
+Here you can read the reviews and order your book.
 
-<div class="outside">
-<div class="inside"> 
-	<div style="float: left; width: 45%">Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who over three years grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br></div>
-
-<div style="float: left; width: 25%"><img src="/images/coverhippo.jpg" width="115"></a></div>
-
-<div style="float: left; width: 30%">To buy your copy at £12.99<br>please enter Shipping<br>then click Buy.<br><br>
-<form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<div class="container clearfix">
+<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverhippo.jpg" width="115" padding="10px"></a></div>
+<div><strong>From Hippos to Gazelles</strong><br>
+ Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br> 
+To buy your copy at £12.99, first enter Shipping...<br><br>
+  <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <select name="shipping">
-<option value="1.50">Shipping UK £1.50</option>
+<option value="1.50">Ship to UK £1.50</option>
 <option value="2.50">EU £2.50</option>
 <option value="4.00">Rest of world £4.00</option>
 </select>
@@ -25,12 +23,12 @@ Here you can read the reviews and order "From Hippos to Gazelles: how leaders cr
 <input type="hidden" name="currency_code" value="GBP">
 <input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
 <input type="hidden" name="amount" value="12.99">
-<br><br>
+...then click to order.
 <input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form></div>
-</div><br style="clear: both;"></div>
+</div>
 
- <strong>Reviews</strong>
+<strong>Reviews</strong>
 
  Highly recommended. These vibrant stories emphasise engagement, weaving patterns and paths and vividly showing the courage of people transforming themselves into leaders. <strong>Dr Monica Sharma, Director of Leadership and Capacity Development, United Nations</strong>
 
@@ -86,25 +84,3 @@ Read and learn how it should be done! Illustrates that engagement - both intelle
 
 I would not be surprised if, within a few years, this becomes a defining work for building change leaders. It beautifully combines the simple magic of "Who moved my Cheese" with the intellectual property Darryl Connor's "Managing at the Speed of Change" adding the real experience of a true story of change.<strong>Jeremy Keeley, coach to change leaders</strong>
 
-<div class="outside">
-<div class="inside"> 
-	<div style="float: left; width: 45%">Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who over three years grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br></div>
-
-<div style="float: left; width: 25%"><img src="/images/coverhippo.jpg" width="115"></a></div>
-
-<div style="float: left; width: 30%">To buy your copy at £12.99<br>please enter Shipping<br>then click Buy.<br><br>
-<form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<select name="shipping">
-<option value="1.50">Shipping UK £1.50</option>
-<option value="2.50">EU £2.50</option>
-<option value="4.00">Rest of world £4.00</option>
-</select>
-<input type="hidden" name="cmd" value="_xclick">
-<input type="hidden" name="business" value="tony@pageconsulting.co.uk">
-<input type="hidden" name="currency_code" value="GBP">
-<input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
-<input type="hidden" name="amount" value="12.99">
-<br><br>
-<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
-</form></div>
-<br style="clear: both;"></div>

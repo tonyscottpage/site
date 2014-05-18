@@ -295,9 +295,93 @@ img {
   }
 }
 
+/** Writings book order columns
+ ---------------------------------------------------------*/
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.container {
+  overflow: auto;
+}
+.el-1, .el-2, .el-3 {
+  float: left;
+}
+ 
+.el-1 {
+  /* styles for .el-1 here */
+}
+ 
+.el-2 {
+  /* styles for .el-2 here */
+}
+
+.el-3 {
+  /* styles for .el-2 here */
+}
+ 
+.main {
+  /* styles for .main here */
+}
+
+.clear {
+  clear: both;
+}
+
+@media all and (max-width: 750px) {
+  .el-1, .el-2 {
+    float: none;
+    padding-top: 21px;
+    padding-right: 0;
+  }
+  }
+
+.outer-shell{
+    position: relative;
+    border-style: 0px;
+    margin: 0;background-color:#fff;
+    width:100%;
+    overflow: auto;
+}
+
+.column {
+    position: relative;
+    bottom: 2px;
+    border-style: 0px;
+    margin: 0;background-color: yellow;
+    float: left;
+}
+.after-column {
+    clear: left;
+}
+
+.clearfix {
+  overflow: auto;
+  }
+
+@media all and (max-width: 750px) {
+  .column {
+    float: none;
+    padding-top: 21px;
+    padding-right: 0;
+  }
+
+}
+
 /**
- * position in divs
+ * smallscreen
  */
+
+@media all and (max-width: 750px) {
+  .column1 .column2 .column3 {
+    float: none;
+    padding-top: 21px;
+    padding-right: 0;
+  }
+}
 
 .outside {
     position: relative;
@@ -468,68 +552,13 @@ bottom: 0;
 margin-right: 15px;
 }
 
-/*  Client logo SECTIONS  
+/*  Client logos layout  
 ---------------------------------------------------------*/
-.section {
-  clear: both;
-  padding: 0px;
-  margin: 0px;
+.box-logo {
+  display: inline-block;
+  width: 155px;
+  height: 100px;
 }
-
-/*  COLUMN SETUP  */
-.col {
-  display: block;
-  float:left;
-  margin: 1% 0 1% 1.6%;
-}
-.col:first-child { margin-left: 0; }
-
-
-/*  GROUPING  */
-.group:before,
-.group:after {
-  content:"";
-  display:table;
-}
-.group:after {
-  clear:both;
-}
-.group {
-    zoom:1; /* For IE 6/7 */
-}                                           
-
-/*  GRID OF THREE  */
-.span_3_of_3 {
-  width: 100%;
-}
-.span_2_of_3 {
-  width: 66%;
-}
-.span_1_of_3 {
-  width: 25%;
-  padding-left: 25px;
-}
-
-/*  GO FULL WIDTH AT LESS THAN 750 PIXELS */
-
-@media only screen and (max-width: 750px) {
-  .col { 
-    margin: 1% 0 1% 0%;
-  }
-}
-
-@media only screen and (max-width: 750px) {
-  .span_3_of_3 {
-    width: 100%; 
-  }
-  .span_2_of_3 {
-    width: 100%; 
-  }
-  .span_1_of_3 {
-    width: 100%;
-  }
-}
-
  
 /** Footer Contact
  ---------------------------------------------------------*/
