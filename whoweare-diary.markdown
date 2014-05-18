@@ -1,36 +1,33 @@
 ---
 id: diary
 layout: page
-title:  "To Get Your Copy"
+title:  "Buy Diary of a Change Agent"
 permalink: /whoweare-diary/
 ---
 
 Here you can read reviews and order "Diary of a Change Agent".
 
-<div class="outside">
-<div class="inside"> 
-	<div style="float: left; width: 45%"><em>Diary of a Change Agent.</em><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br></div>
-
-<div style="float: left; width: 25%"><img src="/images/coverdiary.jpg" width="115"></div>
-
-<div style="float: left; width: 30%">To buy your copy at £14.99<br>please enter Shipping<br>then click Buy.<br><br>
-<form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<div class="container clearfix">
+<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverdiary.jpg" width="115" padding="10px"></a></div>
+<div><strong>Diary of a Change Agent.</strong><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br> 
+To buy your copy at £14.99, first enter Shipping...<br><br>
+  <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <select name="shipping">
-<option value="2.50">Shipping UK £2.50</option>
-<option value="4.50">EU £4.50</option>
-<option value="7.50">Rest of world £7.50</option>
+<option value="1.50">Ship to UK £2.50</option>
+<option value="2.50">EU £4.50</option>
+<option value="4.00">Rest of world £7.50</option>
 </select>
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="tony@pageconsulting.co.uk">
 <input type="hidden" name="currency_code" value="GBP">
-<input type="hidden" name="item_name" value="Book: Diary of a Change Agent">
-<input type="hidden" name="amount" value="14.99">
-<br><br>
+<input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
+<input type="hidden" name="amount" value="12.99">
+...then click to order.
 <input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form></div>
-</div><br style="clear: both;"></div>
+</div>
 
- <strong>Reviews</strong>
+<strong>Reviews</strong>
 
  The biggest problem all of us are facing is to change our organisations fast enough to cope with the changing of the external environment.... the starting point is to change oneself. I am not aware of any other book which gives such insights into dealing with this problem. <strong>Sir John Harvey-Jones, MBE.</strong>
 
@@ -54,27 +51,22 @@ Page's reflections will be like gold dust for self-employed consultants...or tra
 
 As one reads these accounts, one gets a strong sense of being in the confidence of a true master of both the craft of consulting and the practice area of organisational change. <strong>TC, Executive Director, Merck.</strong>
 
-<div class="outside">
-<div class="inside"> 
-	<div style="float: left; width: 45%"><em>Diary of a Change Agent.</em><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br></div>
-
-<div style="float: left; width: 25%"><img src="/images/coverdiary.jpg" width="115"></div>
-
-<div style="float: left; width: 30%">To buy your copy at £14.99<br>please enter Shipping<br>then click Buy.<br><br>
-<form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<div class="container clearfix">
+<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverdiary.jpg" width="115" padding="10px"></a></div>
+<div><strong>Diary of a Change Agent.</strong><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br> 
+To buy your copy at £14.99, first enter Shipping...<br><br>
+  <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <select name="shipping">
-<option value="2.50">Shipping UK £2.50</option>
-<option value="4.50">EU £4.50</option>
-<option value="7.50">Rest of world £7.50</option>
+<option value="1.50">Ship to UK £2.50</option>
+<option value="2.50">EU £4.50</option>
+<option value="4.00">Rest of world £7.50</option>
 </select>
 <input type="hidden" name="cmd" value="_xclick">
 <input type="hidden" name="business" value="tony@pageconsulting.co.uk">
 <input type="hidden" name="currency_code" value="GBP">
-<input type="hidden" name="item_name" value="Book: Diary of a Change Agent">
-<input type="hidden" name="amount" value="14.99">
-<br><br>
+<input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
+<input type="hidden" name="amount" value="12.99">
+...then click to order.
 <input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
 </form></div>
-</div><br style="clear: both;"></div>
-
-
+</div>
