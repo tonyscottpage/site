@@ -5,7 +5,7 @@ title:  "Buy Diary of a Change Agent"
 permalink: /whoweare-diary/
 ---
 
-Here you can read reviews and order "Diary of a Change Agent".
+Here you can read the reviews and order your book.
 
 <div class="container clearfix">
 <div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverdiary.jpg" width="115" padding="10px"></a></div>
