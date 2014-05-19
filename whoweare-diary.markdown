@@ -9,7 +9,7 @@ Here you can read the reviews and order your book.
 
 <div class="container clearfix">
 <div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverdiary.jpg" width="115" padding="10px"></a></div>
-<div><strong>Diary of a Change Agent.</strong><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br> 
+<div><strong>Diary of a Change Agent</strong><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br> 
 To buy your copy at £14.99, first enter Shipping...<br><br>
   <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <select name="shipping">

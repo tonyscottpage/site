@@ -1,11 +1,11 @@
 ---
-id: writings
+id: resources
 layout: page
-title:  "Writings"
-permalink: /whoweare-writings/
+title:  "Resources"
+permalink: /whoweare-resources/
 ---
 
-Here you can access writings (books and articles, published and unpublished) that reflect on work with leaders over the years.
+Here you can access resources (books and articles, published and unpublished) that share what is being learned with leaders over the years.
 
 
 <div>
