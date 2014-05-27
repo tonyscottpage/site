@@ -13,6 +13,6 @@ Founded 25 years ago by Tony Page ([CV here]({{ site.baseurl}}/documents/tonypag
 
 So what do we stand for? Both-and. You AND your team - giving place to both. For lost voices. For words and music, art and science, clarity and tolerance. For 'decluttering' and joining dots. For 'open source' (sharing, using and improving), and 'self-organising' as in Occupy Sandy, and Linux. Not forgetting love, laughter and life!
 
-Our 'living system' approach draws from clients and [colleagues]({{ site.baseurl}}/whoweare-colleagues) and [inspiring people]({{ site.baseurl}}/whoweare-inspirations). Get it from our [resources]({{ site.baseurl}}/whoweare-resources), and from <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> leadership school with its pop-up events across four continents. <a href="mailto:info@pageconsulting.co.uk">Or drop us a line</a>. 
+Our 'living system' approach draws from clients and [colleagues]({{ site.baseurl}}/whoweare-colleagues) and [inspiring people]({{ site.baseurl}}/whoweare-inspirations). Get it from our [resources]({{ site.baseurl}}/whoweare-resources), and from <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> leadership school with its pop-up events across four continents. Or <a href="mailto:info@pageconsulting.co.uk">drop us a line</a>. 
 
 
