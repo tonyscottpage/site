@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %} {{ site.name }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html }} {% else %}{{ site.description | strip_html }}{% endif %}"/>
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <link rel="shortcut icon" href="/lib/favicon.ico">
+    <link rel="stylesheet" href="/lib/css/main.css">
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-36948462-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="site">
+      <div class="inner">
+        <div class="header">
+          <h2 class="site-title"><a href="/">Wilson Page</a></h2>
+        </div>
+        {{ content }}
+        {% include footer.html %}
+      </div>
+    </div>
+    <script>
+      (function() {
+        // var body = document.body;
+
+        // function debounce(fn) {
+        //   var timer;
+        //   return function() {
+        //     var args = arguments;
+        //     clearTimeout(timer);
+        //     timer = setTimeout(function() {
+        //       fn.apply(this, args);
+        //     }, 30);
+        //   }
+        // }
+
+
+        // window.addEventListener('scroll', debounce(function(e) {
+        //   var y = window.scrollY;
+        //   body.classList.toggle('scroll-gt60', y > 60);
+        // }));
+
+        // Click post title to go to top
+        var postMetaTitle = document.querySelector('.js-post-meta-title');
+        if (postMetaTitle) {
+          postMetaTitle.addEventListener('click', function() {
+            body.scrollTop = 0;
+          });
+        }
+      })();
+    </script>
+  </body>
+</html>

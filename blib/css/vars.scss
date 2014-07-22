@@ -1,0 +1,33 @@
+
+/** Dimensions
+ ---------------------------------------------------------*/
+
+$aside-width: 180px;
+
+/** Padding
+ ---------------------------------------------------------*/
+
+$padding: 24px;
+$padding-300: $padding * 3;
+$padding-200: $padding * 2;
+$padding-150: $padding * 1.5;
+$padding-75: $padding * 0.75;
+$padding-50: $padding * 0.50;
+$padding-25: $padding * 0.25;
+
+/** Borders
+ ---------------------------------------------------------*/
+
+$border-dotted: 1px dotted #DDD;
+
+/** Breakpoint
+ ---------------------------------------------------------*/
+
+$br-medium: 700px;
+$br-large: 880px;
+
+/** Colors
+ ---------------------------------------------------------*/
+
+$color-pink: red;
+$color-grey: #f8f8f8;

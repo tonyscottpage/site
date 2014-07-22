@@ -1,0 +1,64 @@
+
+/**
+ * Site
+ */
+
+.site {
+  position: relative;
+  min-height: 100%;
+  padding: $padding 0;
+  border-top: solid 4px rgba(255,0,0,0.1);
+  line-height: 1.5;
+
+  > .inner {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 $padding;
+  }
+
+
+
+  /**
+   * @large
+   */
+
+  @include large {
+    padding: $padding-200 0 200px;
+  }
+}
+
+a {
+  color: $color-pink;
+  opacity: 0.5;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+/** Title
+ ---------------------------------------------------------*/
+
+.site-title {
+  margin-bottom: 12px;
+  text-align: left;
+  border-bottom: 1px dotted #dddddd;
+  padding-bottom: 12px;
+  font-family: 'times new roman';
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 12px;
+  color: $color-pink;
+  font-size: 16px;
+
+  a {
+    color: inherit;
+  }
+
+  @include medium {
+    padding: $padding 0 $padding-200+4px;
+    border: 0;
+    margin: 0;
+    text-align: center;
+  }
+}

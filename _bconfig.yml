@@ -1,0 +1,15 @@
+name: Wilson Page
+description: "Wilson is a front-end developer working on Firefox OS at Mozilla."
+url: http://wilsonpage.co.uk
+permalink: /:title
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
+pygments: true
+exclude: [
+  'components',
+  'node_modules',
+  'GruntFile.js',
+  'package.json'
+]
+

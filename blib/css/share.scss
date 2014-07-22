@@ -1,0 +1,49 @@
+
+/**
+ * Share
+ */
+
+.share {
+  overflow: hidden;
+
+  @include medium {
+    overflow: visible;
+  }
+}
+
+.share li {
+  float: left;
+  margin-right: $padding;
+  margin-bottom: $padding-25;
+
+  // a {
+  //   color: #999;
+  // }
+
+  span {
+    @include transition(transform 140ms);
+    @include scale(1);
+    display: inline-block;
+    position: relative;
+    top: 2px;
+    margin-right: 0.5em;
+    color: $color-pink;
+  }
+
+  /**
+   * @hover
+   */
+
+  &:hover a {
+    color: $color-pink;
+
+    span {
+      @include scale(1.2);
+    }
+  }
+
+  @include medium {
+    float: none;
+    width: auto;
+  }
+}
