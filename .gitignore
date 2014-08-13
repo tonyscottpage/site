@@ -1,12 +1,6 @@
 _site
+node_modules
+components
+.jekyll
+.sass-cache
 .DS_Store
-
-*.scss
-
-blib/css/main.css
-
-*.png
-
-blib/fonts/icomoon.dev.svg
-
-blib/fonts/icomoon.eot
