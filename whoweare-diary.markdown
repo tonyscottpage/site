@@ -8,7 +8,7 @@ permalink: /whoweare-diary/
 Here you can read the reviews and order your book.
 
 <div class="container clearfix">
-<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverdiary.jpg" width="115" padding="10px"></a></div>
+<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/lib/images/coverdiary.jpg" width="115" padding="10px"></a></div>
 <div><strong>Diary of a Change Agent</strong><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br> 
 To buy your copy at £14.99, first enter Shipping...<br><br>
   <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -22,8 +22,7 @@ To buy your copy at £14.99, first enter Shipping...<br><br>
 <input type="hidden" name="currency_code" value="GBP">
 <input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
 <input type="hidden" name="amount" value="12.99">
-...then click to order.
-<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="...then click to order. With PayPal - it's fast, free and secure!">
 </form></div>
 </div>
 
@@ -52,7 +51,7 @@ Page's reflections will be like gold dust for self-employed consultants...or tra
 As one reads these accounts, one gets a strong sense of being in the confidence of a true master of both the craft of consulting and the practice area of organisational change. <strong>TC, Executive Director, Merck.</strong>
 
 <div class="container clearfix">
-<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverdiary.jpg" width="115" padding="10px"></a></div>
+<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/lib/images/coverdiary.jpg" width="115" padding="10px"></a></div>
 <div><strong>Diary of a Change Agent.</strong><br>A groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us towards a better integration of leading while living our values.<br><br> 
 To buy your copy at £14.99, first enter Shipping...<br><br>
   <form name="_xclick" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -66,7 +65,6 @@ To buy your copy at £14.99, first enter Shipping...<br><br>
 <input type="hidden" name="currency_code" value="GBP">
 <input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
 <input type="hidden" name="amount" value="12.99">
-...then click to order.
-<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="...then click to order. With PayPal - it's fast, free and secure!">
 </form></div>
 </div>

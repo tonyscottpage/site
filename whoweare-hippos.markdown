@@ -8,7 +8,7 @@ permalink: /whoweare-hippos/
 Here you can read the reviews and order your book.
 
 <div class="container clearfix">
-<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverhippo.jpg" width="115" padding="10px"></a></div>
+<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/lib/images/coverhippo.jpg" width="115" padding="10px"></a></div>
 <div><strong>From Hippos to Gazelles</strong><br>
  Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br> 
 To buy your copy at £12.99, first enter Shipping...<br><br>
@@ -23,8 +23,8 @@ To buy your copy at £12.99, first enter Shipping...<br><br>
 <input type="hidden" name="currency_code" value="GBP">
 <input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
 <input type="hidden" name="amount" value="12.99">
-...then click to order.
-<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+
+<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="...then click to order. With PayPal - it's fast, free and secure!">
 </form></div>
 </div>
 
@@ -85,7 +85,7 @@ Read and learn how it should be done! Illustrates that engagement - both intelle
 I would not be surprised if, within a few years, this becomes a defining work for building change leaders. It beautifully combines the simple magic of "Who moved my Cheese" with the intellectual property Darryl Connor's "Managing at the Speed of Change" adding the real experience of a true story of change.<strong>Jeremy Keeley, coach to change leaders</strong>
 
 <div class="container clearfix">
-<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverhippo.jpg" width="115" padding="10px"></a></div>
+<div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/lib/images/coverhippo.jpg" width="115" padding="10px"></a></div>
 <div><strong>From Hippos to Gazelles</strong><br>
  Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br> 
 To buy your copy at £12.99, first enter Shipping...<br><br>
@@ -100,8 +100,8 @@ To buy your copy at £12.99, first enter Shipping...<br><br>
 <input type="hidden" name="currency_code" value="GBP">
 <input type="hidden" name="item_name" value="Book: From Hippos to Gazelles: how leaders create leaders">
 <input type="hidden" name="amount" value="12.99">
-...then click to order.
-<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+
+<input type="image" src="/images/buynowbutton.gif" border="0" name="submit" alt="...then click to order. With PayPal - it's fast, free and secure!">
 </form></div>
 </div>
 

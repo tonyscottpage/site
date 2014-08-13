@@ -9,7 +9,7 @@ Here you can access resources (books and articles, published and unpublished) th
 
 
 <div>
- <div style="float: left; width: 125px;"><a href="/whoweare-diary/"><img src="/images/coverdiary.jpg" width="115" height="140"></a></div>
+ <div style="float: left; width: 125px;"><a href="/whoweare-diary/"><img src="/lib/images/coverdiary.jpg" width="115" height="140"></a></div>
  <div><strong>Diary of a Change Agent</strong><br>
  Said to be a groundbreaking book for all who want to transform the roles they are playing as consultants and leaders. This method of journalling or diary-writing refreshes us with a new awareness of ourselves and those around us, towards a better integration, or in other words how to sieze opportunities while living our values.<br><br> 
 
@@ -17,7 +17,7 @@ Here you can access resources (books and articles, published and unpublished) th
 <br style="clear: left;"></div>
 
 <div>
- <div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/images/coverhippo.jpg" width="115" padding="10px"></a></div>
+ <div style="float: left; width: 125px"><a href="/whoweare-hippos"><img src="/lib/images/coverhippo.jpg" width="115" padding="10px"></a></div>
  <div><strong>From Hippos to Gazelles</strong><br>
  Co-authored with CEO Philip Goodwin, for anyone who needs a large team to step up and lead a transformation. An inspiring story in the voices of team members who grow into leaders during a complex business merger across 11 African countries. Includes a fable in five clear phases with key learning points plus comprehensive tools.<br><br> 
 
