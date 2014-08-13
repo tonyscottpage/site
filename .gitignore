@@ -1,2 +1,12 @@
 _site
 .DS_Store
+
+*.scss
+
+blib/css/main.css
+
+*.png
+
+blib/fonts/icomoon.dev.svg
+
+blib/fonts/icomoon.eot
