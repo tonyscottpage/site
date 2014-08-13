@@ -1,7 +1,7 @@
 name: Page Consulting
 markdown: redcarpet
 pygments: true
-baseurl: "http://pageconsulting.co.uk"
+baseurl: http://pageconsulting.co.uk
 redcarpet:
   extensions: ["tables"]
   permalink: /:title
