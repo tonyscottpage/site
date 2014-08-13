@@ -8,22 +8,22 @@ permalink: /clients-impact/
 
 What impact can you and your organisation gain? 
 
-<html><img src="/images/edex.svg" alt="Edexcel" height="30"></html>
+<html><img src="/lib/images/edex.svg" alt="Edexcel" height="30"></html>
 <em><strong>“We are accelerating away from the competition....</strong> The impact of having gone through a structured development programme has been enormous, particularly in bringing purpose, focus and discipline to the way we work together as a senior leadership team. If I had to put a hard value on what it has helped us achieve, simply look at our 12-month growth, product innovation, customer engagement and staff impact. ”</em> Jerry Jarvis, Managing Director, Edexcel
 
-<html><img src="/images/home-office.svg" alt="Home Office" height="50"></html>
+<html><img src="/lib/images/home-office.svg" alt="Home Office" height="50"></html>
 <em><strong>"The whole project has been extremely positive.... </strong>My senior team has now experienced for themselves the contribution front-line practitioners can make to the policy process in the Criminal Justice System. Through very open discussions with stakeholders which you facilitated they identified how their work links with others across the directorate, and with the seven principal aims of the Home Office."</em> Sue Street, Director, Home Office, British government.
 
-<html><img src="/images/borealis.svg" alt="Borealis" height="25"></html>
-<em><strong>"In Japanese terms you are a true 'sensei'.... </strong>Yesterday with the executive board you topped your usual performance and showed me exactly what in our coaching session you titled 'jiu jitsu' deflection of energy. I saw you bring us a difficult topic, de-personalise it, make it relevant to the team and turn it into something positive. Very impressive!" </em> Dr Alfred Stern, Executive Vice President
+<html><img src="/lib/images/borealis.svg" alt="Borealis" height="25"></html>
+<em><strong>"In Japanese terms you are a true 'sensei'.... </strong>Yesterday with the executive board you topped your usual performance and showed me exactly what in our coaching session you titled 'jiu jitsu' deflection of energy. I saw you bring us a difficult topic, de-personalise it, make it relevant to the team and turn it into something positive. Very impressive!" </em> Dr Alfred Stern, Executive Vice President, Borealis
 
-<html><img src="/images/bc.svg" alt="British Council" height="30"></html>
+<html><img src="/lib/images/bc.svg" alt="British Council" height="30"></html>
 <em><strong>"There are 'facilitators' and facilitators.... </strong>You give support before and after as well. You transform our objectives into a tangible programme that is both enjoyable and challenging. You demonstrate enormous versatility in rethinking in response to the needs of the group. This takes a great load from my shoulders making this both developmental as well as instrumental towards tangible objectives. It really is a pleasure to work with you both."</em> Philip Goodwin, Regional Director, Sub-Saharan Africa, British Council
 
-<html><img src="/images/hilton.svg" alt="Edexcel" height="60"></html>
+<html><img src="/lib/images/hilton.svg" alt="Edexcel" height="60"></html>
 <em><strong>"You made us the architects.... </strong>Your unique facilitation style is understated and enabling, allowing the team to be in control but within a context you provided. After Hilton merged with Stakis plc, Tony helped the Executive Team articulate our vision and mission, and the creation of a clear business plan which we ourselves could cascade this throughout the business. He is also an excellent coach to some of our senior people, helping them add value and make the most of their talents."</em> Gordon Lyle, HR Director, Hilton plc
 
-<html><img src="/images/starbucks.svg" alt="Starbucks" height="60"></html>
+<html><img src="/lib/images/starbucks.svg" alt="Starbucks" height="60"></html>
 <em><strong>“Effortlessly you guided us to achieve the agreed objectives...</strong> Tony had a very personable approach getting close to the heart of our organization. The individuals were left with an aligned vision and a real belief in the team’s ability to deliver their goals”.</em> Cliff Burrows, President EMEA, Starbucks plc
 
 __________________________________________________

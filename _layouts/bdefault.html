@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="{% if page.description %}{{ page.description }}{% elsif page.excerpt %}{{ page.excerpt | strip_html }} {% else %}{{ site.description | strip_html }}{% endif %}"/>
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-    <link rel="shortcut icon" href="/lib/favicon.ico">
-    <link rel="stylesheet" href="/lib/css/main.css">
+    <link rel="shortcut icon" href="/libb/favicon.ico">
+    <link rel="stylesheet" href="/libb/css/main.css">
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-36948462-1']);
@@ -25,10 +25,10 @@
     <div class="site">
       <div class="inner">
         <div class="header">
-          <h2 class="site-title"><a href="/">Wilson Page</a></h2>
+          <h2 class="site-title">Jot</h2>
         </div>
         {{ content }}
-        {% include footer.html %}
+        {% include bfooter.html %}
       </div>
     </div>
     <script>

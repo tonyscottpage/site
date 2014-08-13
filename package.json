@@ -1,19 +1,19 @@
 {
   "name": "blog",
   "version": "0.0.0",
-  "description": "Wilson Page's blog",
+  "description": "Tony Page's blog",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/wilsonpage/blog"
+    "url": "http://github.com/tonyscottpage/site"
   },
-  "author": "Wilson Page",
+  "author": "Tony Page",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/wilsonpage/blog/issues"
+    "url": "https://github.com/tonyscottpage/site/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

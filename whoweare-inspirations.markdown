@@ -6,7 +6,7 @@ title:  "Inspirations"
 permalink: /whoweare-inspirations/
 ---
 
-Here are some people and organisations who have inspired our ways of working...
+Here are some people and projects that have inspired our ways of working...
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

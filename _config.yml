@@ -2,6 +2,12 @@ name: Page Consulting
 markdown: redcarpet
 pygments: true
 baseurl: "http://pageconsulting.co.uk"
-exclude: [serve.sh, README.md, .gitignore]
-navigation: [ services, journal, clients, whoweare, contact ]
+redcarpet:
+  extensions: ["tables"]
+  permalink: /:title
+exclude: [serve.sh, README.md, .gitignore, 'components',
+  'node_modules',
+  'GruntFile.js',
+  'package.json']
+navigation: [ services, whoweare, clients, blog ]
 relative_permalinks: true
