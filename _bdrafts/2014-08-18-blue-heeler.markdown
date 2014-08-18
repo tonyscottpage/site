@@ -12,8 +12,8 @@ image:
 
 Well what you did in the last recession surprised everyone not least you. You brought from people throughout the company wonderful ideas that made yours the only company in the sector to produce profit. So what happened next?
 
-To everyone's disbelief you announced a further programme towards survival and they asked why, aren't we OK now? You notice how quickly people forget unless you bite them on the leg, like one of those dogs they call a Blue Heeler, that keep cattle moving. 
+To everyone's disbelief you announced a further programme towards survival and they asked why, aren't we OK now? You notice how quickly people forget unless you bite them on the leg, like one of those dogs they call a Blue Heeler, whose bloody leg bites keep cattle moving. 
 
-When you talk about needing a Blue Heeler, I am reflecting on the impact. My head hears a truth, but in my heart I just feel bitten, battered, and I hang my head low like a cow lost in a herd. I am not lit up or inspired.
+When you talk about needing a Blue Heeler, I am reflecting on the impact. My head hears a possible truth, but in my heart I just feel bitten, battered, and I hang my head low like a cow lost in a herd. I am not lit up or inspired.
 
-This brings us to a powerful question: what will bring us the next round of wonderful ideas? 
+This brings us to a powerful question: what will take your people to the next round of wonderful ideas? 
