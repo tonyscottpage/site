@@ -10,8 +10,8 @@ image:
 
 ![](/libb/images/guy_garvey.png)
 
-This speaks about how modern life is for many of us, including people I talk to in the workplace. But this is August - my sacred time to reconnect with what matters most. I'm making lists of what lights me up ready to re-prioritise for the autumn., and this unexpected item keep coming up in the list: "today's workplace". 
+This line speaks about how modern life is, including many people I talk to in the workplace. But right now this is August - my sacred time to reconnect with what matters most. I'm making lists of what lights me up ready to re-prioritise for the autumn., and an unexpected topic keeps coming up in the list: "today's workplace". 
 
-Alongside the obvious differences of working hours, remote-working, is an emerging big new one: the sharing and collborating economy. Of course this would bring a quite different answer to the age-old question leaders have to ask: how do we bring the best from others?
+Alongside the obvious differences in working hours and remote-working, is an emerging big new one: the sharing and collborating economy. Of course this would bring a quite different answer to the age-old question leaders have to ask: how do we bring the best from others?
 
 I will be looking out for evidence and for answers.   
