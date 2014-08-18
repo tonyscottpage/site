@@ -3,10 +3,12 @@ layout: post
 title:  "Why Jot?"
 date:   2014-08-13 15:30
 tags: 
-image: /libb/images/jot_photo2.jpg
+image: 
 ---
 
 **Jot is a real book (with a sparkly cover!), written old style, pen on paper, without any machine. It is what pours, during an uncluttered half hour here or there, into the infinity of a blank white page.** 
+
+![](/libb/images/jot_photo2.jpg)
 
 Jot begins with what I notice others, people and groups in teams and organisations, are saying and doing that is really interesting or inspiring, sometimes also unexpected and quirky. It captures a lot of "is", a little "was" and "could be", hardly any "should". 
 
