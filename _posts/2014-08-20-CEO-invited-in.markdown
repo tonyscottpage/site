@@ -28,5 +28,5 @@ I invite CEOs to continue to share information and spread responsibility. Toward
 
 If you are someone who wants to influence the CEO, I invite you to show you are wearing a company hat at all times, telling not doctoring the truth, and spend more time coaching others, to have them acting across boundaries not only being in their own silo. 
 
-As for the trusted advisor, my view so far is I must treat each person I speak to almost as a CEO: trust them to declare and set aside their own interest, express the company position and redefine continually their best ways to contribute. Be honest, make each conversation confidential, and never tittle-tattle! 
+As for the trusted advisor, my view so far is I must treat each person I speak to almost as a CEO: trust them to declare and set aside their own interest, express the company position and redefine continually their best ways to contribute. Make each conversation confidential and never tittle-tattle. Don't be afraid to be honest, don't try to please, find a way to speak the truth although this might get you sacked.   
 
