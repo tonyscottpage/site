@@ -20,7 +20,7 @@ Yet for all their great powers no CEO is all seeing. They appreciate the unusual
 
 As advisors we are not objective. That we have been “let in” reaches others before we meet them, and shows up in how they deal with us. For example they easily find time to meet you, they listen well and seem to be sending messages and testing out an idea or proposal to see if it gains approval. You can easily feel like an imposter who is being manipulated.
 
-When the CEO asks us to work with their top team you sometimes catch a momentary look in the eye that says "my position is unspeakably exposed and vulnerable here, I'm in your hands so don't blow it for me! You look back to show you understand - it is impossible to put into words. The CEOs and the team often say afterwards how much they needed the session.
+When the CEO asks us to work with their top team you sometimes catch a momentary look in the eye that says "my position is unspeakably exposed and vulnerable here, I'm in your hands so don't blow it for me!" You look back to show you understand - it is impossible to put into words. The CEOs and the team often say afterwards how much they needed the session.
 
 So is hierarchy dead? Are politics dead? No, far from it, but if that is what we wish for, how can we move in that direction? 
 
