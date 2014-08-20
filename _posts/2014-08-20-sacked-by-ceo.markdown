@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Being Invited In by the CEO"
+title:  "Getting Yourself Sacked by the CEO"
 date:   2014-08-20 15:15
 tags: 
 image: 
