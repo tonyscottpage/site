@@ -6,7 +6,7 @@ tags:
 image: 
 ---
 
-**If you wake up one day and find yourself “let in” to what Americans call the C-Suite, that is the tight circle surrounding a CEO, how will you operate given that hierarchy and politics are said to be dead and buried? I have noticed I am "in" as a "trusted advisor" in several national and international organisations, (so not in a top job or nor a mammoth country-sized company). What lessons can this offer back to today's CEO and to those who seek to influence them?**
+**If you wake up one day and find yourself “let in” to what Americans call the C-Suite, that is the tight circle surrounding a CEO, how will you operate given that hierarchy and politics are said to be dead and buried? I have noticed I am "in" as a "trusted advisor" in several national and international organisations, (so not in a top job, nor a mammoth country-sized company). What lessons can this offer back to today's CEO and to those who seek to influence them?**
 
 As a source I chose five companies I am currently with. Their CEOs possess a remarkable array of awards including masters degrees, doctorates, a knighthood, a professorship plus experience at the highest levels of government and commerce. Their organisations span the sectors (government, charity, corporate-private, mixed public/private and trust). 
 
