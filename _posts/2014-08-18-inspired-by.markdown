@@ -6,7 +6,7 @@ tags:
 image: 
 ---
 
-**On listening recently to a Desert Island Discs interview with Guy Garvey a lyricist, collector of lines and retiring front-man of Elbow I was inspired to do something unusual for me: buy a new album. Soon after, relaxed and jogging by the river  a line from their songs strikes me forcefully: "Carrying commitments like cats in a sack". Why?**
+**On listening recently to a Desert Island Discs interview with Guy Garvey a lyricist, collector of lines and retiring front-man of Elbow I was inspired to do something unusual for me: buy a new album. Soon after, relaxed and jogging by the river  a line from their songs assaulted me: "Carrying commitments like cats in a sack". Why?**
 
 ![](/libb/images/guy_garvey.png)
 
