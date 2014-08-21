@@ -8,7 +8,9 @@ image:
 
 **A woman burst into tears before a bemused CEO saying I thought you were going to sack me. As a younger man I was on occasion paralysed by fear in the presence of power, but today being "in" as a "trusted advisor" at a handful of national and international organisations, I can offer a few lessons back to today's CEOs and to those who seek to influence them.** 
 
-If you wake up one day and find yourself “let in” to what Americans call the C-Suite (the tight circle surrounding a CEO), how will you operate? And if you are already a CEO how do you measure up to the challenge of being a human being behaving in a way that brings the best from others? Are hierarchy and politics really dead and buried, and how do we generate a better, more open workplace? 
+![](/libb/images/youre-fired.png)
+
+If you wake up one day like I did and find yourself “let in” to what Americans call the C-Suite, that tight circle surrounding a CEO, how will you operate? And if you are already a CEO how do you measure up to the challenge of being a human being behaving in a way that brings the best from others? Are hierarchy and politics really dead and buried, and how do we generate a better, more open workplace? 
 
 As a source I chose five companies I am currently with. Their CEOs possess a remarkable array of intimidating awards including masters degrees, doctorates, a knighthood, a professorship plus experience at the highest levels of government and commerce. Their organisations span the sectors (government, charity, corporate-private, mixed public/private and trust). 
 
