@@ -14,4 +14,6 @@ This line speaks about how modern life is, including many people I talk to in th
 
 Alongside the obvious differences in working hours and remote-working, is an emerging big new one: the sharing and collborating economy. Of course this would bring a quite different answer to the age-old question leaders have to ask: how do we bring the best from others?
 
-I will be looking out for evidence and for answers.   
+Now I am looking out for evidence and for answers, while also reflecting on all all those cats in my sack. 
+
+A couple of questions: what inspires you? What are you finding is inspiring for those you lead?

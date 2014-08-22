@@ -26,11 +26,13 @@ But I am also noticing as advisors we are never objective. That we have been “
 
 When the CEO asks you to work with their top team and catches your eye with the signal "my position is unspeakably exposed, I'm in your hands so don't blow it for me!", sometimes you can only give a look that says "I understand", because there are things that can't be said.
 
-So is hierarchy dead? Are politics dead? No, far from it, but if we wished them dead, how could we move in that direction? 
+So is hierarchy dead? Are politics dead? No, far from it, but if we wished them dead, how could we move in that direction? What are your ideas on this? 
 
-If you are a CEO I invite you to continue to share information and spread responsibility. Towards this spend more of your time listening to, appreciating and coaching others to imbue a shared understanding of the company and its external stakeholders as a joined-up "system". Bring your direct reports to behave as a team of CEOs. In all this find a way to be "you": an honest but imperfect person others can know and trust.
+Currently my advice is...
 
-If you are someone who wants to influence the CEO, I invite you to show you are wearing a company hat at all times, telling not doctoring the truth, and spend more time coaching others, to have them acting horizonatally across boundaries beyond their own silo. 
+1. If you are a CEO - I invite you to be radically enabling, inspired by "open source values" (eg. Linux - more on this elsewhere), sharing information and responsibility. Spend more time listening to, appreciating and coaching others to kindle a shared understanding of the company as a joined-up "system". Turn your direct reports into a team of CEOs. Always find a way to be "you": an honest but imperfect person others can know and trust.
+2. If you are someone who wants to influence the CEO - show you are "system-savyy" while wearing a company hat at all times, telling not doctoring the truth, and spend more time coaching others to have them acting horizonatally across boundaries beyond their own silos. 
+3. If you are a "trusted advisor" to anyone - treat each person you speak to as a CEO: have them declare and set aside their own interest, locate the exciting opportunities for their company and their best ways to contribute. Make each conversation confidential and never tittle-tattle. Don't be afraid to be honest, don't try to please, find a way to speak the truth. 
 
-As for the trusted advisor, my view so far is I must treat each person I speak to almost as a CEO: trust them to declare and set aside their own interest, locate the most exciting opportunities for their company and refresh continually their best ways to contribute. Make each conversation confidential and never tittle-tattle. Don't be afraid to be honest, don't try to please, find a way to speak the truth. Instead of getting you sacked a CEO and a team will often express surprise and delight at how much they gained from this!  
+Instead of getting you sacked others will often express surprise and delight at how much they gained from you!  
 
