@@ -252,8 +252,8 @@ img {
 .home li.home a,
 .services li.services a,
 .clients li.clients a,
+.journal li.journal a,
 .whoweare li.whoweare a,
-.blog li.blog a,
 .contact li.contact a {
   color: #ed1345;
   border-left: solid 4px #ed1345;

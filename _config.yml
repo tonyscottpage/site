@@ -9,5 +9,5 @@ exclude: [serve.sh, README.md, .gitignore, 'components',
   'node_modules',
   'GruntFile.js',
   'package.json']
-navigation: [ services, whoweare, clients, blog ]
+navigation: [ services, whoweare, clients, jot ]
 relative_permalinks: true

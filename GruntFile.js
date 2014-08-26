@@ -20,7 +20,7 @@ module.exports = function(grunt) {
           compass: true
         },
         files: {                         // Dictionary of files
-          'libb/css/main.css': 'libb/css/main.scss'
+          'lib/css/main.css': 'lib/css/main.scss'
         }
       },
       dist2: {                            // Target
@@ -29,7 +29,7 @@ module.exports = function(grunt) {
           compass: true
         },
         files: {                         // Dictionary of files
-          '_site/libb/css/main.css': 'libb/css/main.scss'
+          '_site/lib/css/main.css': 'lib/css/main.scss'
         }
       }
     },
@@ -41,7 +41,7 @@ module.exports = function(grunt) {
           name: 'main',
           //mainConfigFile: 'lib/js/main.js',
           insertRequire: ['main'],
-          out: '_site/libb/js/main.built.js',
+          out: '_site/lib/js/main.built.js',
           include: ["../../components/requirejs/require"]
         }
       }
@@ -71,7 +71,7 @@ module.exports = function(grunt) {
         },
       },
       css: {
-        files: 'libb/**/*.scss',
+        files: 'lib/**/*.scss',
         tasks: ['sass:dist2'],
         options: {
           livereload: true,

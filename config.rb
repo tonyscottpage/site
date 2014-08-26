@@ -1,2 +1,2 @@
-css_dir = 'libb/css'
-fonts_dir = 'libb/css/fonts'
+css_dir = 'lib/css'
+fonts_dir = 'lib/css/fonts'
