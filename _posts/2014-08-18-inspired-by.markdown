@@ -6,14 +6,14 @@ tags:
 image: 
 ---
 
-**On listening recently to a Desert Island Discs interview with Guy Garvey a lyricist, collector of lines and retiring front-man of Elbow I was inspired to do something unusual for me: buy a new album. Soon after, relaxed and jogging by the river  a line from their songs assaulted me: "Carrying commitments like cats in a sack". Why?**
+**On listening to a Desert Island Discs interview with Guy Garvey a lyricist, collector of lines and retiring front-man of Elbow I was inspired to do something unusual: buy a new album. Then listening while jogging by the river, a line assaulted me: "Carrying commitments like cats in a sack". Why?**
 
 ![](/libb/images/guy_garvey.png)
 
-This line speaks about how modern life is, including many people I talk to in the workplace. But right now this is August - my sacred time to reconnect with what matters most. I'm making lists of what lights me up ready to re-prioritise for the autumn, and an unexpected topic keeps coming up in the list: "today's workplace". 
+Well maybe because this is how my working life often feels! And not only me but also my clients. But right now this is August - my sacred time to refresh and reconnect. One thing I'm doing is making lists of what lights me up and an unexpected topic keeps coming up: "today's workplace". 
 
-Alongside the obvious differences in working hours and remote-working, is an emerging big new one: the sharing and collborating economy. Of course this would bring a quite different answer to the age-old question leaders have to ask: how do we bring the best from others?
+How is the workplace changing? Not just the working hours and the remote-working, but what about the new groundrules for this strange new open, sharing and collaborating economy? This brings a quite different answer to the leader's age-old question: how do we bring the best from others?
 
-Now I am looking out for evidence and for answers, while also reflecting on all all those cats in my sack. 
+I am looking out for evidence and for answers, while also reflecting on all those pesky cats in my sack. By the way not intending to drown any little kittens, but perhaps to find them some new homes. 
 
-A couple of questions: what inspires you? What are you finding is inspiring for those you lead?
+Leaving you now with a couple of questions: what inspires you? What are you finding is inspiring for those you lead?
