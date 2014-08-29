@@ -6,7 +6,7 @@ tags:
 image:
 ---
 
-Getting curious about creating the best workplace, my ears pricked up when I visited my son’s Mozilla office near to Trafalgar Square which has many of the hallmarks of cool, such as bicycles hanging on the wall, and notably a well-stocked kitchen.
+**Getting curious about creating the best workplace, my ears pricked up when I visited my son’s Mozilla office near to Trafalgar Square which has many of the hallmarks of cool, such as bicycles hanging on the wall, and notably a well-stocked kitchen.**
 
 ![](/libb/images/mozillateam.jpg)
 
