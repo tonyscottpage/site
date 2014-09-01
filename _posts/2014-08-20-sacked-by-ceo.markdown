@@ -18,7 +18,7 @@ Regardless of their marked differences in character, gender and cultural backgro
 
 People in their surrounding circle (including the COOs, top team and wider staff), have varying opinions on whether the CEO is inspiring, supporting their efforts or even noticing them. Yes you can find awe and appreciation for a CEO's achievements, but also grumbles and a sort of gaping disbelief at their bonkers, damaging or counter-productive behaviour.
 
-Each CEO has many faces and usually a chameleon-like capability to snap into the action required in different situations: at company conference, press conference, top team awayday, with top-level visitor or general public. I get direct evidence through their handling of various interruptions during our more personal chats.
+Each CEO has many faces and a chameleon-like capability to snap into the action required in different situations: at company conference, press conference, top team awayday, with top-level visitor or general public. I get direct evidence through their handling of various interruptions during our more personal chats.
 
 For all their great powers I see that no CEO is all seeing. They appreciate the unusual chance I give them to speak their thoughts out loud (sometimes at great length!), but rarely do they ask advice from their advisor! When they do  ask for feedback "from someone who sees things I can't see", it can feel strange and difficult to respond. Thankfully today I am hardly struck dumb by fear, and I am mentally prepared to tell some unpopular truths. I am learning to separate my own observations from the mixed feelings of frustration or over-confidence I may be picking up from the CEO. 
 
