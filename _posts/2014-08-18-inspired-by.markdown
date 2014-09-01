@@ -12,7 +12,7 @@ image:
 
 Well maybe because this is how my working life often feels! And not only me but also my clients. But right now this is August - my sacred time to refresh and reconnect. One thing I'm doing is making lists of what lights me up and an unexpected topic keeps coming up: "today's workplace". 
 
-How is the workplace changing? Not just the working hours and the remote-working, but what about the new groundrules for this strange new open, sharing and collaborating economy? This brings a quite different answer to the leader's age-old question: how do we bring the best from others?
+How is the workplace changing? Not just in the working hours and the remote-working, but in new groundrules for the "open source" world. My gut says leaders will source the best ideas by feeding not eating the souls of their people.
 
 I am looking out for evidence and for answers, while also reflecting on all those pesky cats in my sack. By the way not intending to drown any little kittens, but perhaps to find them some new homes. 
 

@@ -17,6 +17,6 @@ For three years they asked hundreds of executives in surveys and seminars around
 3. Magnify people's strengths - make everyone in the company even better by providing stretch assignments, networks, training, and 100 other ways.
 4. Stand for more than shareholder value - let people forge connections between personal values and company purpose to determine the way you do business
 5. Show how the daily work makes sense - bring people together into the same room and they will submerge their own egos into the collective, and you no longer need to lead them in the traditional sense: work becomes a "cause"
-6. Have rules people can beleive in - rules are needed but employees are ever more sceptical of hierarchy and charisma so give them powerful reasons for necessary structure. (Published in HBR, May 2013)
+6. Have rules people can believe in - rules are needed but employees are ever more sceptical of hierarchy and charisma so give them powerful reasons for necessary structure. (Published in HBR, May 2013)
 
 Two questions. How does your organisation measure up? What do you want to do about it?
