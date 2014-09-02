@@ -34,5 +34,5 @@ Currently my advice is...
 2. If you are someone who wants to influence the CEO - show you are "system-savvy" while wearing a company hat at all times, telling not doctoring the truth, and spend more time coaching others to have them acting horizonatally across boundaries beyond their own silos. 
 3. If you are a "trusted advisor" to anyone - treat each person you speak to as a CEO: have them declare and set aside their own interest, locate the exciting opportunities for their company and their best ways to contribute. Make each conversation confidential and never tittle-tattle. Don't be afraid to be honest, don't try to please, find a way to speak the truth. 
 
-Instead of getting you sacked others will often express surprise and delight at how much they gained from you!  
+What I hope and expect is that instead of getting you sacked these principles could bring surprise and delight to you for how much they gained!  
 
