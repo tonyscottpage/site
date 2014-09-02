@@ -16,6 +16,6 @@ From many random jottings in the handwritten book I am sharing just a few extrac
 
 Did you ever just want to "say" something, as a witness to what seems noteworthy? Beyond letting someone be heard or seen, could these examples open our windows to insight or change, might they feed the soul, or jog the universe (or "you-niverse"). Let's see what happens! 
 
-Having worked all round the world, this husband and father is noticing how the workplace is operating differently in our much more open, inter-connected and (sometimes) more sharing planet. I invite us to be curious about the assumptions and myths we are holding as leaders: how are we holding people back and what ius truly enabling people to venture foward?
+Having worked all round the world, this husband and father is noticing how the workplace is operating differently in our much more open, inter-connected and (sometimes) more sharing planet. I invite us to be curious about the assumptions and myths we are holding as leaders: how are we holding people back and what is truly enabling people to venture foward?
 
 If and when you feel a jog, you can use the comment space below, or the buttons provided left, right and below to share, follow and subscribe, then our jots and jogs can travel even further.
