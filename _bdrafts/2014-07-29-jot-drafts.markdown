@@ -14,6 +14,23 @@ Put a number in the title. Tweet it. Tidy up Tumblr. Delete Declan.
 
 _______________
 
+Torvald's Tit for Tat Tipping Point
+Working Wikipedia Speedier
+Bil's Behaviour Fundamentals
+Eve's Enabling Environments
+Blowing Good Bubbles
+Open Innovation at P&G
+Sci Fi Innovation at Google
+World's Shortest Poem
+Open Everything, or Just Open Working?
+Likes as Positive Feedback at Facebook
+Resourcing, Out-sourcing, In-sourcing, Open Sourcing
+Wikinomics
+Borealis Lockking-Unlocking Behaviour
+Monica Wants to Create a Millions Leaders
+Game Theory - Trust but Verify vs First Trust
+_______________
+
 Rwanda's gap between head and tail. Leadership for the head, or Capacity Building for the tail. Or Leadership for Capacity Building.
 A Leadership Gap. Summarising the conclusions of John Tusa at the BBC with a clip.
 In Vienna too. Gap between Head and Feet. 

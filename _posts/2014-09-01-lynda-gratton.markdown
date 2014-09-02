@@ -18,7 +18,7 @@ Far from being naive, Lynda actually notices what companies achieve, for example
 
 She pinpoints three things companies do better than anyone else (innovation, scaling and mobilising, building alliances) and asks why don't we harness these towards our two most complex global challenges: youth unemployment and climate change.
 
-Insipring stuff. Listen to Lynda Gratton with Peter Day on Radio 4 <a href="http://www.bbc.co.uk/programmes/p021d1kg"; target="_blank">here. </a>
+Inspiring stuff. Listen to Lynda Gratton with Peter Day on Radio 4 <a href="http://www.bbc.co.uk/programmes/p021d1kg"; target="_blank">here. </a>
 
 
 
