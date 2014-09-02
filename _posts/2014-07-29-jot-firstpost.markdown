@@ -18,4 +18,4 @@ Did you ever just want to "say" something, as a witness to what seems noteworthy
 
 Having worked all round the world, this husband and father is noticing how the workplace is operating differently in our much more open, inter-connected and (sometimes) more sharing planet. I invite us to be curious about the assumptions and myths we are holding as leaders: how are we holding people back and what is truly enabling people to venture foward?
 
-If and when you feel a jog, you can use the comment space below, or the buttons provided left, right and below to share, follow and subscribe, then our jots and jogs can travel even further.
+If and when you feel a jog, you can use the comment space at the foot of each posting, or the buttons provided left, right and below to share, follow and subscribe, then our jots and jogs can travel even further!
