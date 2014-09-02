@@ -31,7 +31,7 @@ So is hierarchy dead? Are politics dead? No, far from it, but if we wished them 
 Currently my advice is...
 
 1. If you are a CEO - I invite you to be radically enabling, inspired by "open source values" (eg. Linux - more on this elsewhere), sharing information and responsibility. Spend more time listening to, appreciating and coaching others to kindle a shared understanding of the company as a joined-up "system". Turn your direct reports into a team of CEOs. Always find a way to be "you": an honest but imperfect person others can know and trust.
-2. If you are someone who wants to influence the CEO - show you are "system-savyy" while wearing a company hat at all times, telling not doctoring the truth, and spend more time coaching others to have them acting horizonatally across boundaries beyond their own silos. 
+2. If you are someone who wants to influence the CEO - show you are "system-savvy" while wearing a company hat at all times, telling not doctoring the truth, and spend more time coaching others to have them acting horizonatally across boundaries beyond their own silos. 
 3. If you are a "trusted advisor" to anyone - treat each person you speak to as a CEO: have them declare and set aside their own interest, locate the exciting opportunities for their company and their best ways to contribute. Make each conversation confidential and never tittle-tattle. Don't be afraid to be honest, don't try to please, find a way to speak the truth. 
 
 Instead of getting you sacked others will often express surprise and delight at how much they gained from you!  
