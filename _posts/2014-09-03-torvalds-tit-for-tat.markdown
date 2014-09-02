@@ -6,7 +6,7 @@ tags:
 image:
 ---
 
-**The story of Linux is now a legend inspiring a global Open Source movement, alongside stories of Wikipedia and a handful of other collaborative global projects. How did the founder Linus Torvalds unlock the energy that has sustained the rise of Linux over the next 20 years? How could your workplace gain from adopting an Open Source Way?**
+**The story of Linux is now a legend inspiring a global Open Source movement, alongside stories of Wikipedia and a handful of other collaborative global projects. How did the founder Linus Torvalds unlock the energy that has sustained the rise of Linux over the last 20 years? How could your workplace gain from adopting an Open Source Way?**
 
 ![](/libb/images/linux.png)
 
