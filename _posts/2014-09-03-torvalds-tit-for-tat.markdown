@@ -21,21 +21,21 @@ The first public licence gave others the freedoms to use the Linux source code, 
 
 <em>The fundamental property of the licence is a very simple "tit-for-tat" model: I'll give you my improvements, if you promise to give your improvements back. It's a fundamentally fair licence, and you don't have to worry about somebody else coming along and taking advantage of your work. What seemed to surprise people, is that that notion of "fairness" actually scales very well.</em>
 
-### On being commercial
+### On commercial competition
 <em>Sure, a lot of companies were initially leery about a licence that they weren't used to, and doubly so because the free software camp had been  vocally anti-commercial and expected companies to turn everything into free software. But really, the whole "tit-for-tat" model isn't just fair on an individual scale, it's fair on a company scale, and on a global scale.</em>
 
 <em>Once people and companies got over their hang-ups - renaming it "open source" and just making it clear that this was not some kind of anti-commercial endeavour definitely helped - things just kind of exploded.</em>
 
 <em>If your competition doesn't put in the same kind of effort that you do, then they can't reap the same kinds of rewards you can: if they don't contribute, they don't get to control the direction of the project, and they won't have the same kind of knowledge and understanding of it that you do. So there really are big advantages to being actively involved - you can't just coast along on somebody else's work.</em>
 
-### On competition, collaboration and copyright
+### On collaboration and copyright
 <em>When I try to explain my choice of license, I use the term ‘Open Source’, and try to explain the licence not in terms of freedom, but in terms of how I want people to be able to improve on the source code - by discouraging hiding and controlling of the source code with a legal copyright license, everybody can build on the work of each other, and it basically encourages a model where people end up working together.</em>
 
 <em>People are encouraged to work on the things that they think matter for their needs.  But the licence is there to keep it from anarchy: it doesn't block competition and people working at opposite ends, but it does block people from trying to be anti-social and hurt each other.</em>
 
 <em>People need social rules. The same is true of projects. And you need some rules that can be enforced, so that people know up-front what they are getting themselves into. So I think that anarchy is certainly ‘more free’ than having rules, but it is also pretty certainly also less productive, and at least a certain class of programmers are going to be less interested in the project exactly because they don't see the rules in place to protect their work.</em>
 
-<em>So not everybody likes the GPL, but a lot of people like it exactly because it puts certain safeguards in place. Are they the safeguards you would want? That will have to be your personal choice before you join a project that uses that license, but we can certainly look back and say that they seem to be conducive to productivity and success of the project.</em>
+<em>So not everybody likes the public licence, but it puts certain safeguards in place. Are they the safeguards you would want? That will have to be your personal choice before you join a project that uses that license, but we can certainly look back and say that they seem to be conducive to productivity and success of the project.</em>
 
 ### On patents and innovation
 <em>The whole point (and the original idea) behind patents in the US legal sense was to encourage innovation. If you actually look at the state of patents in the US today, they do no such thing. Certainly not in software, and very arguably not in many other areas either.</em>
