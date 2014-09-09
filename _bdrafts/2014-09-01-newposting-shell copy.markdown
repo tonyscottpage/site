@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Working a Wikipedeia Way"
-date:   2014-09-03 12:24
+title:  "Four Principles to "Shake Your Windows and Rattle Your Walls""
+date:   2014-09-09 17:26
 tags: 
 image:
 ---
 
-**Larry Sanger was co-founder with Jimmy Wales of Wikpedia, and gives us advice about how to start new projects on similar lines.**
+**This line from Bob Dylan’s “Time’s Are A-Changing” is quoted in "Wikinomics", the 2006 bible for believers in the new open world. The authors have redefined using four priniples how companies compete and now you don't have to be a nerd or believer to see we firms struggling to move beyond their old ways as if pulled back by elastic. A good first step with any addiction is to notice what is happening.**
 
 ![](/libb/images/larry-sanger.jpg)
 
