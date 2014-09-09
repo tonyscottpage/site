@@ -6,7 +6,7 @@ tags:
 image:
 ---
 
-**This startling line from Bob Dylan’s “Times Are A-Changing” is quoted in "Wikinomics" (the bible for believers in the new open world). Using four principles, the authors have redefined how companies compete and as time ticks on it is no longer only nerds who can see the elastic stretching between what leaders claim and what is actually happening. A good first step with any addiction is to pay attention to what is happening.**
+**This startling line from Bob Dylan’s “Times Are A-Changing” is quoted in "Wikinomics" (the bible for believers in the new open world). Using four principles, the authors have redefined how companies compete and as time ticks on it is no longer only nerds who can see the elastic stretching between what leaders claim and their old habits. A good first step with any addiction is to pay attention to what is happening.**
 
 ![](/libb/images/wikinomics.png)
 
