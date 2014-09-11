@@ -701,11 +701,11 @@ pre code {
 
 @font-face {
   font-family: 'icomoon';
-  src:url('fonts/icomoon.eot?-1927c8');
-  src:url('fonts/icomoon.eot?#iefix-1927c8') format('embedded-opentype'),
-    url('fonts/icomoon.woff?-1927c8') format('woff'),
-    url('fonts/icomoon.ttf?-1927c8') format('truetype'),
-    url('fonts/icomoon.svg?-1927c8#icomoon') format('svg');
+  src:url('fonts/icomoon.eot?-opzoa7');
+  src:url('fonts/icomoon.eot?#iefix-opzoa7') format('embedded-opentype'),
+    url('fonts/icomoon.woff?-opzoa7') format('woff'),
+    url('fonts/icomoon.ttf?-opzoa7') format('truetype'),
+    url('fonts/icomoon.svg?-opzoa7#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -724,19 +724,24 @@ pre code {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-undo:before {
-  content: "\e800";
+.icon-phone2:before {
+  content: "\e600";
+}
+.icon-back:before {
+  content: "\e601";
+}
+.icon-mail:before {
+  content: "\e602";
 }
 .icon-facebook:before {
-  content: "\e801";
+  content: "\e603";
 }
 .icon-twitter:before {
-  content: "\e802";
+  content: "\e604";
 }
 .icon-linkedin:before {
-  content: "\e803";
+  content: "\e605";
 }
-
 /**
  * Follow
  */

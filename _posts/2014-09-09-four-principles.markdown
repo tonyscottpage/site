@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Four Principles to "Shake Your Windows and Rattle Your Walls"
+title:  Four Principles to Shake Your Windows and Rattle Your Walls!
 date:   2014-09-09 17:26
 tags: 
 image:
