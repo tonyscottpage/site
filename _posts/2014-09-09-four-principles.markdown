@@ -6,7 +6,7 @@ tags:
 image:
 ---
 
-**This startling line from Bob Dylan’s “Times Are A-Changing” is quoted in "Wikinomics" (the bible for believers in the new open world). Using four principles, the authors have redefined how companies compete and as time ticks on it is no longer only nerds who can see the elastic stretching between what leaders claim and their old habits. A good first step with any addiction is to pay attention to what is happening.**
+**You will find this startling line from Bob Dylan’s “Times Are A-Changing” in "Wikinomics", a bible for believers in the new open world that redefines how companies compete, using four principles. Now it is not only nerds or fashionistas who see the chasm between our old habits as leaders and our claims to be "with it". What happens when we invite colleagues to take a long hard look at what is happening?**
 
 ![](/libb/images/wikinomics.png)
 
@@ -16,9 +16,9 @@ The Wikinomics authors, Don Tapscott and Anthony Williams, make bold claims: "tw
 
  But has your organisation yet managed to shift into a new open mode? We can try a quick litmus test to find out. What happens at work when you raise a provocative idea? 
 
- I did this recently to help a client team think about their vision to 2020. The provocative example I gave them (actually of adopting the four principles above) generated a surprising range of reactions: this is really inspiring...this is a wild storm... giving me a headache... too big for us... we've got too much going on right now... have you any smaller more practical ideas? What a few loved and embraced, many others rejected.
+ I did this recently to help a client team think about their vision to 2020. The provocative example I gave them (actually of adopting the four principles above) generated a surprising range of reactions: this is really inspiring...this is a wild storm... I wish you had given us this earlier... giving me a headache... it's too big for us... we've got too much going on right now... have you any smaller more practical ideas? What a few loved and embraced, many others rejected.
 
- So unsurpisingly rattling doors provokes defensiveness, and we can predict switched-on leaders will be urgently learning the art of opening their firm's windows, exploring and co-creating with all partners (old and new) their entirely new economic eco-system. 
+Perhaps unsurprisingly rattling doors provokes defensiveness, but we can predict leaders will be urgently switching onto the art of opening their firm's windows, exploring and co-creating with all partners (old and new) their entirely new economic eco-system. 
 
 To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/"; target="_blank">blog. </a>
 
