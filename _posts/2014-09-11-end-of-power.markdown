@@ -25,7 +25,9 @@ To sample the huge range of examples and the full breadth of these ideas, you ca
 
 Naim is long on analysis and short on answers, so what do we do? He invites us to understand better what is going on inside each nation, movement or corporation; to make life difficult for the terrible simplifiers; to restore trust, to release our leaders from the checks and balances that paralyse the and give power back to those who govern us; to innovate in a way that increases participation. 
 
-So humanity is on the verge of a wave of innovations towards finding new ways of governing itself. We can see this in the last few days before the Scottish Referendum - whether it is a yes or no next week, there has been unprecedented engagement, and huge repercussions may follow across the UK and Europe. We can be sure the future will be messy - but the time is not over for leaders, and people are looking to appoint those to whom they can pass authority and who will restore confidence and mutual consent.
+So humanity is on the verge of a wave of innovations towards finding new ways of governing itself. We can see this in the last few days before the Scottish Referendum - whether it is a yes or no next week, there has been unprecedented engagement, and huge repercussions may follow across the UK and Europe. 
+
+What this adds up to is, we can be sure the future will be messy. The time is not over for leaders, and people are still looking to appoint leaders to whom they can pass authority and who know their real work is to restore confidence and secure mutual consent.
 
 End of Power reviewed in <a href="http://www.huffingtonpost.com/nathan-gardels/governance-after-the-end_b_3046164.html"; target="_blank">Huffington Post</a>.
 
