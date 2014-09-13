@@ -6,18 +6,28 @@ tags:
 image:
 ---
 
-**Power is decaying - events in Scotland, Europe or Middle East. What is happening to power in the world at large, is happening to leaders in organisations large and small. Three sorts of revolution are challenging surival. What to do? **
+**Power, is easier to lose and harder to use: you can see this wherever we look. The Pope resigns, President Morsi is toppled, Kodak closes. In business and in global geo-politics small players are finding a new kind of power and competing with the biggest. Does this matter? Yes. Three revolutions today bring us exhilarating opportunity, but also great danger and challenges for leaders. 
+What to do? **
 
 ![](/libb/images/larry-sanger.jpg)
 
-Author's credentials and 7 years of analysis.
+We tend to avoid speaking about power, but Moises Naim (an executive director the the World Bank, former Minister for Industry and Trade in Venezuala and editor of Foreign Policy magazine) has spent the last seven years analysing what is happening with power, and it is decaying. I went to see him last January at the RSA, to find out what this means: 
 
-Name the 3 Ms and how these re challenges to surival.
+Whether we find the power decay encouraging or worrying, many of us rush to "the internet" as the explanation, but Naim points to how as users we are undergoing three revolutions that are fundamentally changing our power, that is the capacity to get others to do things:
+1. The More Revolution - we live in a world of profusion. People are more numerous, living more fulfilled lives and as a result beomcing more difficult to regimnat and control. 
+2. The Mobility Revolution - people move around a lot more, so they are no longer a captive audience and have become harder to control. with costs of travel and information dropping, live is easier for challengers and harder for incumbents.
+3. The Mentality Revolution - people's expectations are expanding faster than the capacity of governments to satisfy them. Young people look at the world with differeny eyes than their parents. With emerging global values, and a rising aspiration level, they believe there is a better way.
 
-Narrowing mindsets and terrible simplifiers. 
-Governance after the end of power. An effective response from leaders of teams and institutions is meaningful participation to devolve power downwards and have authority delegates upwards to restore mutual consent. 
+The range of examples and the scope of these ideas is huge. You can read 300 pages nore about it in Naim's book, but to summarise:
+As the three revolutions tend to overwhelm us our minds can actually narrow, making us vulnerable to the "terrible simplifiers" who are the bad leaders and politicians who reduce the complexity of what is happening to appealing arguments polarising us and them
+Governance of large institutions has become increaisngly difficult as trust has eroded. The risks are disorder, the loss of deep skills and knowledge, disruptive social movements that fade quickly (like Occupy), alientation and these undermine democracy and our liberal societies. 
+Naim is long on analysis and short on answers, so what do we do? He invites us to understand better what is going on inside each nation, movement or corporation; to make life difficult for the terrible simplifiers; to restore trust, to release our leaders from the checks and balances that paralyse the and give power back to those who govern us; to innovate in a way that increases particpation. 
 
-Thanks to Larry Sanger and Slashdot. For a fuller description of why Wikipedia works. <a href="http://beta.slashdot.org/story/56499"; target="_blank">here. </a>
+So humanity is on the verge of a wave of innovations towards finding new ways of governing itself. We can see this in the last few days before the Scottish Referendum - whether it is a yes or now next week, there has been unprecedented engagement, and huge repercussions across the UK and Europe. We can be sure the future will be messy - but the time is not over for leaders, and people are looking to appoint those to whom they can pass authority and who will restore mutual consent.
+
+End of Power reviewed in <a href="http://www.huffingtonpost.com/nathan-gardels/governance-after-the-end_b_3046164.html"; target="_blank">Huffington Post</a>.
+
+See or listen to Moises Naim speaking at <a href="http://www.thersa.org/events/audio-and-past-events/2014/the-end-of-power"; target="_blank"> RSA</a>. 
 
 
 
