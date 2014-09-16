@@ -24,7 +24,7 @@ So Scotland has been part of a United Kingdom for just over 300 years and this T
 
 Both sides are leaving behind Scottish domination by Westminster. The old story is without doubt over, whichever way the vote goes on Thursday.      
 
-Building on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> Leading and Four Levels. </a>
+Building on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> Leading at Four Levels. </a>
 
 
 
