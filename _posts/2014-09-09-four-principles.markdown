@@ -6,7 +6,7 @@ tags:
 image:
 ---
 
-**You find the "Shake Your Windows" line from Bob Dylan’s “Times Are A-Changing” in "Wikinomics", a bible for believers in the new open world that redefines how companies compete, using four principles. Now it is not only nerds or fashionistas who see the chasm between our old habits as leaders and our claims to be "with it". What happens when we invite colleagues to take a long hard look at what is happening?**
+**You find the "Shake Your Windows" line from Bob Dylan’s “Times Are A-Changing” in "Wikinomics", a bible for believers in the new open world, in which four principles redefine how companies compete. What happens when we invite colleagues to take a long hard look at what is happening? They report being confused and held back by how we are leading them. **
 
 ![](/libb/images/wikinomics.png)
 
