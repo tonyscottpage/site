@@ -6,7 +6,7 @@ tags:
 image:
 ---
 
-**In a recent <a href="http://pageconsulting.co.uk/2014/09/16/leading-four-levels.html"; target="_blank"> posting </a>we introduced four levels of listening and a three part journey that allows a different future to happn when we are stuck in something difficult, painful or intractable. How might this help us with current difficulties in say Scotland or Middle East? We tried the Scotland example as a thought experiment into Theory U.**
+**In a recent <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> posting </a>we introduced four levels of listening and a three part journey that allows a different future to happn when we are stuck in something difficult, painful or intractable. How might this help us with current difficulties in say Scotland or Middle East? We tried the Scotland example as a thought experiment into Theory U.**
 
 ![](/libb/images/scotland-uk.jpg)
 
@@ -24,7 +24,7 @@ So Scotland has been part of a United Kingdom for just over 300 years and this T
 
 Both sides are leaving behind Scottish domination by Westminster. The old story is without doubt over, whichever way the vote goes on Thursday.      
 
-Building on previous posting: <a href="http://pageconsulting.co.uk/2014/09/16/leading-four-levels.html"; target="_blank"> Leading and Four Levels. </a>
+Building on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> Leading and Four Levels. </a>
 
 
 
