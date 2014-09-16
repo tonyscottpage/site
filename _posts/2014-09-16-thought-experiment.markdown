@@ -16,9 +16,9 @@ So Scotland has been part of a United Kingdom for just over 300 years and this T
 
 <b>Level two ("factual")</b> is open-minded listening, as a good scientst allows the data talk to them about how the world is, even when the facts contradict their own ideas. An example would be finding out from those who know about the reserves of oil, or the percentage of Scottish jobs that depend on trade links with the UK.  
 
-<b>Level three ("empathic")</b> is open hearted listening, when the listener tries to see reality from the perspective of others, such as the banks or supermarkets, or the EU, to a yes or a no vote. THe listener does not have to agree, but is able to recognise and respect another's perspective.
+<b>Level three ("empathic")</b> is open-hearted listening, when the listener tries to see reality from the perspective of others, such as those in the other camp, or key stakeholders like banks or supermarkets, the EU or the US. The listener does not have to agree, but is able to recognise and respect the different perspectives of others.
 
-<b>The ultimate listening at level four ("presencing")</b> is generative in that something new can be created when you listen to the whole, and attune your contribution to what is trying to emerge. There has not been much of this in the campaign but...
+<b>The ultimate listening at level four ("presencing")</b> is "generative" in that something new is created when you listen to the whole, and attune your contribution to what is trying to emerge. There has not been much of this in the campaign but...
 
 ... the fiery arrival last week of Gordon Brown gave everyone pause for thought. Brown remembered as a former UK Prime Minister exhausted by office, has found his mojo and taken centre stage. While firmly on the side of "no", he displays hallmarks of generative listening by embracing the whole: the facts of health service and economy, the hearts and heritage of the Scottish people. And Brown is finding a bright shiny new thing that is trying to emerge (an accelerated devolution of powers without losing mutually beneficial links to the UK). 
 
