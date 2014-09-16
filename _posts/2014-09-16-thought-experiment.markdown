@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A Thought Experiment
+title:  A Thought Experiment into U
 date:   2014-09-16 18:00
 tags: 
 image:
