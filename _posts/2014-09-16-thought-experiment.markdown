@@ -22,7 +22,7 @@ So Scotland has been part of a United Kingdom for just over 300 years and this T
 
 ... the fiery arrival last week of Gordon Brown gave everyone pause for thought. Brown remembered as a former UK Prime Minister exhausted by office, has found his mojo and taken centre stage. While firmly on the side of "no", he displays hallmarks of generative listening by embracing the whole: the facts of health service and economy, the hearts and heritage of the Scottish people. And Brown is finding a bright shiny new thing that is trying to emerge (an accelerated devolution of powers without losing mutually beneficial links to the UK). 
 
-Without doubt both sides are leaving behind an old story of domination by Westminster, whichever way the vote goes on Thursday. But the new story that starts on Friday depends above all on people throughout Scotland from all sides ramping up their listening to level four, and embarking together on a "Journey of U"!      
+Without doubt, both sides are leaving behind an old story of domination by Westminster, whichever way the vote goes on Thursday. But the new story that starts on Friday depends above all on people throughout Scotland, from all sides, ramping up their listening to level four, and embarking together on a "Journey of U"!      
 
 Building on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> Leading at Four Levels. </a>
 
