@@ -26,6 +26,8 @@ Without doubt, both sides are leaving behind an old story of domination by Westm
 
 Building on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> Leading at Four Levels. </a>
 
+Photo: personneltoday.com
+
 
 
 

@@ -6,9 +6,9 @@ tags:
 image:
 ---
 
-**You find the "Shake Your Windows" line from Bob Dylan’s “Times Are A-Changing” in "Wikinomics", a bible for believers in the new open world, in which four principles redefine how companies compete. What happens when we invite colleagues to take a long hard look at what is happening? They report being confused and held back by how we are leading them. **
+**You find the "Shake Your Windows" line from Bob Dylan’s “Times Are A-Changing” in "Wikinomics", a bible for believers in the new open world, in which four principles redefine how companies compete. What happens when we invite colleagues to take a long hard look at what is happening? They report being confused and held back by how we are leading them.**
 
-![](/libb/images/wikinomics.png)
+![](/libb/images/sharingeconomy_globe.jpg)
 
 The Wikinomics authors, Don Tapscott and Anthony Williams, make bold claims: "twenty years from now we will look back at this... as a critical tipping point in ecomomic and social history. We will understand that we entered an new age... based on new principles, worldviews and business models where the nature of the game changed." They go on to describe four principles - openness, peer-to-per working, sharing and acting globally - as defining how successful 21st century firms compete.
 
@@ -22,7 +22,7 @@ Perhaps unsurprisingly rattling doors provokes defensiveness, but we can predict
 
 To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/"; target="_blank">blog. </a>
 
-
+Photo: economyofhours.com
 
 
 

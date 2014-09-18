@@ -33,6 +33,8 @@ End of Power reviewed in <a href="http://www.huffingtonpost.com/nathan-gardels/g
 
 View Moises Naim speaking at <a href="http://www.thersa.org/events/audio-and-past-events/2014/the-end-of-power"; target="_blank"> RSA</a>.
 
+Photo: World Ecomonic Forum/Michael Wuertenberg
+
 
 
 
