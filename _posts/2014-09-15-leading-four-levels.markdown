@@ -28,7 +28,7 @@ In coming postings I want to explore a couple of examples to see what this journ
 
 For more on Otto Scharmer's Theory U go to <a href="https://www.presencing.com/executivesummary"; target="_blank"> Presencing Institute. </a>
 
-Phot: catholica.com.au
+Photo: catholica.com.au
 
 
 
