@@ -8,7 +8,7 @@ image:
 
 **Despite a desire to bring the best from people, a CEO continues to receive from subordinates mistakes, daft ideas, silence, bursting into tears, and all manner of irrational behaviour. Today as a "trusted advisor" in a handful of national and international organisations, I can dimly remember a former me, afraid of being fired, stuck in "polite" mode, unable to speak truth to power. This shapes my advice to the CEO and to those who must influence them.**
 
-![](/libb/images/youre-fired.png)
+![](/libb/images/youre-fired.jpg)
 
 If you wake up one day like I did and find yourself “let in” to what Americans call the C-Suite, that tight circle surrounding a CEO, how will you operate? And if you are already a CEO how do you measure up to the challenge of being a human being behaving in a way that brings the best from others? Are hierarchy and politics really dead and buried, and how do we generate a better, more open workplace? 
 
@@ -35,4 +35,11 @@ Currently my advice is...
 3. <b>If you are a "trusted advisor" to anyone</b> - treat each person you speak to as a CEO: have them declare and set aside their own interest, locate the exciting opportunities for their company and their best ways to contribute. Make each conversation confidential and never tittle-tattle. Don't be afraid to be honest, don't try to please, find a way to speak the truth. 
 
 Instead of getting you sacked, these principles will I hope bring insights to your clients and appreciation towards you for the great value unlocked!  
+
+__________________
+<b>Notes</b>
+
+* Image: leadershipdevelopmenttraininghowto.com
+
+__________________
 

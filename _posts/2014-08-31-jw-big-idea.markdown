@@ -36,8 +36,11 @@ Jim Whitehurst who moved from Delta to be CEO at Red Hat, a billion dollar "open
 
 <em>None of the things I'm saying are my ideas. I've had the privilege of being able to go from an incredibly hierarchical association, an airline, to Red Hat. </em>
 
-The full interview is <a href="http://opensource.com/business/12/10/jim-whitehurst-big-idea-leaders-as-catalysts"; target="_blank">here</a>
+__________________
+<b>Notes</b>
 
-![](/libb/images/redhat.png)
+* The full interview is <a href="http://opensource.com/business/12/10/jim-whitehurst-big-idea-leaders-as-catalysts"; target="_blank">here</a>
 
+* Image: zdnet.com
 
+__________________

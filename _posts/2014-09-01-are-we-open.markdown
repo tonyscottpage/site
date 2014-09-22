@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are We Open Yet?"
-date: 2014-09-02 14:39
+date: 2014-09-01 14:39
 tags: 
 image:
 ---
@@ -44,5 +44,9 @@ Many of us are uncomfortable about the distinction between gears 2 and 3. It’s
 
 Working closed, slow or overly cautious is a silent killer that saps momentum!
 
-Thanks to Mozilla for sharing. Read their report <a href="http://openmatt.wordpress.com/2011/04/06/how-to-work-open/"; target="_blank">here. </a>
+__________________
+<b>Notes</b>
 
+* Thanks to Mozilla for sharing including photo. Read their report <a href="http://openmatt.wordpress.com/2011/04/06/how-to-work-open/"; target="_blank">here. </a>
+
+__________________

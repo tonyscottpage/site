@@ -14,4 +14,9 @@ Walking into a large open kitchen area, I asked: "Do you have to pay?". No it’
 
 "But how does this work in practice - surely the beer would go?". Pause. Well people just don’t take it home. It is being provided for us, and we like that so no one wants to mess it up. I think it’s because we are being trusted. 
 
-More on my son Wilson's experience of joining Mozilla, a workplace inspired by the Open Source movement, <a href="http://wilsonpage.co.uk/my-journey-to-mozilla/"; target="_blank">here</a>
+__________________
+<b>Notes</b>
+
+* More on my son Wilson's experience of joining Mozilla, a workplace inspired by the Open Source movement, including photo <a href="http://wilsonpage.co.uk/my-journey-to-mozilla/"; target="_blank">here</a>.
+
+__________________

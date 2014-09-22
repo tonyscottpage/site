@@ -20,9 +20,15 @@ The Wikinomics authors, Don Tapscott and Anthony Williams, make bold claims: "tw
 
 Perhaps unsurprisingly rattling doors provokes defensiveness, but we can predict leaders will be urgently switching onto the art of opening their firm's windows, exploring and co-creating with all partners (old and new) their entirely new economic eco-system. 
 
-To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/"; target="_blank">blog. </a>
+__________________
+<b>Notes</b>
 
-Photo: economyofhours.com
+* To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/"; target="_blank">blog. </a>
+
+* Photo: economyofhours.com
+
+__________________
+
 
 
 

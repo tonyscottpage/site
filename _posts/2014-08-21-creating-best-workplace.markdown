@@ -20,3 +20,11 @@ For three years they asked hundreds of executives in surveys and seminars around
 6. Have rules people can believe in - rules are needed but employees are ever more sceptical of hierarchy and charisma so give them powerful reasons for necessary structure. (Published in HBR, May 2013)
 
 Two questions. How does your organisation measure up? What do you want to do about it?
+
+__________________
+<b>Notes</b>
+
+* Article and image: <a href="http://hbr.org/2013/05/creating-the-best-workplace-on-earth/ar/1"; target="_blank">here</a>.
+
+__________________
+

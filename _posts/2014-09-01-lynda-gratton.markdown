@@ -8,7 +8,7 @@ image:
 
 **In a former life I worked with a young business consultant who is today a renowned professor. Recently she surprised many of us by writing a love letter... to corporations.**
 
-![](/libb/images/lynda-gratton.png)
+![](/libb/images/lynda-gratton.jpg)
 
 Lynda and I have in common that we both gave up highly paid jobs in return for the freedom we needed to start our families. I became a freelance facilitator with corporate leadership teams, while Lynda took a higher profile in research and teaching at London Business School. From a distance I have admired her work, her belief in people and her insights into how leaders can make us much more creative, productive and fulfilled.
 
@@ -18,7 +18,17 @@ Far from being naive, Lynda actually notices what companies achieve, for example
 
 She pinpoints three things companies do better than anyone else (innovation, scaling and mobilising, building alliances) and asks why don't we harness these towards our two most complex global challenges: youth unemployment and climate change.
 
-Inspiring stuff. Listen to Lynda Gratton with Peter Day on Radio 4 <a href="http://www.bbc.co.uk/programmes/p021d1kg"; target="_blank">here. </a>
+Inspiring stuff! 
+
+__________________
+<b>Notes</b>
+
+* Listen to Lynda Gratton with Peter Day on Radio 4 <a href="http://www.bbc.co.uk/programmes/p021d1kg"; target="_blank">here. </a>
+
+* Image: google.com
+
+__________________
+
 
 
 
