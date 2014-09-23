@@ -19,8 +19,7 @@ Inspired at Sante Fe, Eve founded the Complexity Research Group at the LSE, and 
 So what plan came out of our meeting with the professor? Jointly with Eve and the LSE, we would develop and deliver a 3 day programme in which Eve teaches the core concepts behind her complexity methodology and Middleground teaches the leadership part. Now in its fourth year the programme is highly rated by participants and since 2014 offers a step on a pathway to a new leadership award from the British Council. 
 
 __________________
-<b>Notes</b>
-
-* To enrol or find out more go to <a href="http://www.middle-ground.co.uk/wp-content/uploads/2014/06/New-Brochure-London-2014-final.pdf"; target="_blank">here. </a>
+<b>Notes</b>  
+* To enrol or find out more go to <a href="http://www.middle-ground.co.uk/wp-content/uploads/2014/06/New-Brochure-London-2014-final.pdf"; target="_blank">here</a>.  
 
 __________________

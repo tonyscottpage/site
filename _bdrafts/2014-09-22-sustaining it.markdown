@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Four Principles to "Shake Your Windows and Rattle Your Walls""
+title:  "Sustaining a New Way of Working""
 date:   2014-09-09 17:26
 tags: 
 image:
 ---
 
-**This line from Bob Dylan’s “Time’s Are A-Changing” is quoted in "Wikinomics", the 2006 bible for believers in the new open world. The authors have redefined using four priniples how companies compete and now you don't have to be a nerd or believer to see we firms struggling to move beyond their old ways as if pulled back by elastic. A good first step with any addiction is to notice what is happening.**
+**Leadership team. Struggling. Blocking. Invested. Remarkable. Refused. How to sustain?**
 
 ![](/libb/images/larry-sanger.jpg)
 
@@ -31,6 +31,14 @@ Make the volunteer project management a **meritocracy**, not based on longevity 
 Radical and untried new ideas require **constant refinement and adaptation** in order to succeed; the first proposal is very rarely the best, and project designers must learn from their mistakes and constantly redesign better projects.
 
 Thanks to Larry Sanger and Slashdot. For a fuller description of why Wikipedia works. <a href="http://beta.slashdot.org/story/56499"; target="_blank">here. </a>
+
+__________________
+<b>Notes</b>
+
+* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> Leading at Four Levels. </a>
+* Photo: personneltoday.com
+
+__________________
 
 
 

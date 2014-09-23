@@ -27,9 +27,8 @@ When are problems are deep, painful and repeating this so-called "Journey of the
 In coming postings I want to explore a couple of examples to see what this journey might entail in practice.
 
 __________________
-<b>Notes</b>
-
-* For more on Otto Scharmer's Theory U go to <a href="https://www.presencing.com/executivesummary"; target="_blank"> Presencing Institute. </a>
+<b>Notes</b>  
+* For more on Otto Scharmer's Theory U go to <a href="https://www.presencing.com/executivesummary"; target="_blank"> Presencing Institute</a>.  
 * Photo: catholica.com.au
 
 __________________

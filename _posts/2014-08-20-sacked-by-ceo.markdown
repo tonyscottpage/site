@@ -37,8 +37,7 @@ Currently my advice is...
 Instead of getting you sacked, these principles will I hope bring insights to your clients and appreciation towards you for the great value unlocked!  
 
 __________________
-<b>Notes</b>
-
+<b>Notes</b>  
 * Image: leadershipdevelopmenttraininghowto.com
 
 __________________

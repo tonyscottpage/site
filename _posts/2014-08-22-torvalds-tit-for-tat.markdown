@@ -56,14 +56,11 @@ The first public licence gave others the freedoms to use the Linux source code, 
 <em>"Trust" is not about some kind of absolute neutrality, or anything like that, but it's about a certain level of predictability and about knowing that you won't be shafted.</em>
 
 __________________
-<b>Notes</b>
-
+<b>Notes</b>  
 * Quotes extracted from BBC News, July 2012, 
 <a href="http://www.bbc.co.uk/news/technology-18419231"; target="_blank">Linux succeeded thanks to selfishness and trust </a> and Simple Talk, Jul 2008, 
-<a href="https://www.simple-talk.com/opinion/geek-of-the-week/linus-torvalds,-geek-of-the-week/"; target="_blank">Geek of the Week</a>.
-
-* Check out the Linux 20 year Story <a href="https://www.youtube.com/watch?annotation_id=annotation_1408597455&feature=iv&src_vid=yVpbFMhOAwE&v=5ocq6_3-nEw"; target="_blank">here</a>.
-
+<a href="https://www.simple-talk.com/opinion/geek-of-the-week/linus-torvalds,-geek-of-the-week/"; target="_blank">Geek of the Week</a>.  
+* Check out the Linux 20 year Story <a href="https://www.youtube.com/watch?annotation_id=annotation_1408597455&feature=iv&src_vid=yVpbFMhOAwE&v=5ocq6_3-nEw"; target="_blank">here</a>.  
 * Image: businessweek.com
 
 __________________

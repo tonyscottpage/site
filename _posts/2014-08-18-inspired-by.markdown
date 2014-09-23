@@ -19,8 +19,7 @@ I am looking out for evidence and for answers, while also reflecting on all thos
 Leaving you now with a couple of questions: what inspires you? What are you finding is inspiring for those you lead?
 
 __________________
-<b>Notes</b>
-
+<b>Notes</b>  
 Image: Q Magazine qthemusic.com
 
 __________________

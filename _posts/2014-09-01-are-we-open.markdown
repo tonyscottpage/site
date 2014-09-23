@@ -45,8 +45,7 @@ Many of us are uncomfortable about the distinction between gears 2 and 3. It’s
 Working closed, slow or overly cautious is a silent killer that saps momentum!
 
 __________________
-<b>Notes</b>
-
-* Thanks to Mozilla for sharing including photo. Read their report <a href="http://openmatt.wordpress.com/2011/04/06/how-to-work-open/"; target="_blank">here. </a>
+<b>Notes</b>  
+* Thanks to Mozilla for sharing including photo. Read their report <a href="http://openmatt.wordpress.com/2011/04/06/how-to-work-open/"; target="_blank">here</a>.  
 
 __________________

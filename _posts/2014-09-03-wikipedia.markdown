@@ -31,10 +31,8 @@ image:
 * As any **disagreements are apt to be publicly visible** in a collaborative project, and undermine the (very important) moral authority of at least one manager, make sure management is on the same page from the beginning, preferably before launch. This requires a great deal of thinking through issues together.
 
 __________________
-<b>Notes</b>
-
-* Thanks to Larry Sanger and Slashdot. His fuller description of why Wikipedia works appears <a href="http://beta.slashdot.org/story/56499"; target="_blank">here. </a>
-
+<b>Notes</b>  
+* Thanks to Larry Sanger and Slashdot. His fuller description of why Wikipedia works appears <a href="http://beta.slashdot.org/story/56499"; target="_blank">here</a>.  
 * Photo <a href="http://commons.wikimedia.org/wiki/File%3ALarry_Sanger_02-2.jpg"; target="_blank"> commons.wikimedia.org</a>
 
 __________________
