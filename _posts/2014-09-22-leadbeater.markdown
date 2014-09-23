@@ -10,15 +10,15 @@ image:
 
 ![](/libb/images/charles_leadbeater.png)
 
-They key finding is that these leaders and their organisations see themselves differently: instead of being a hierarchy of power and position, they produce a community with a cause, that takes decisions by peer review, and produces profit as a by-product of implementing creative ideas that actually make things better for customers and society.
+They key finding is that these leaders and their organisations see themselves differently: instead of being a hierarchy of power and position, they produce a community with a cause, that takes decisions by peer review, and produces profit by implementing creative ideas that actually make things better for customers and society.
 
 The job of the visionary leader is not to have all the ideas, but to build a creative community and to provide a cause that ignites them. What then happens is not based on processes, targets or hierarchy, but on the rules of attraction: people with different skills become attracted to the cause and to one another.
 
-At Pixar for example, the creative community is not unlike a science lab in Cambridge: communication is fluid between the different specialists, informal seminars are convened at short notice around real world problems, so that people share ideas early and mutate the ideas together, without preparing in advance. People are curious, outward-looking, and able to self-organise.
+At Pixar for example, communication is fluid between the different specialists (artists, animators and storytellers), informal seminars are convened at short notice around real world problems, so that people share ideas early and mutate the ideas together, without preparing in advance. People are curious, outward-looking, and able to self-organise. The creative community is not unlike the science lab in Cambridge, or the other exceptional companies. 
 
-Companies like Apple and Unilever innovate like this and as customers we pay them to help us live better lives. It is a failure of capitalism when companies, like the UK banks, forget their social purpose.
+Companies like Apple and Unilever also innovate like this and as they know that we pay them to help us live better lives. It is a failure of capitalism when companies, like the UK banks, forget their social purpose.
 
-How can your company become like this? At Barcelona FC's academy, young players train hard for 10 years and gain "the work ethic of navvies and the geometric navigation of Da Vinci". You can build people's experience by making sure each gathering in your organisation invites them to be creative and openly collaborative towards the real world's abiguous challenges, instead of grabbing for "right answers" where none exist. 
+But how can your company become like this? At Barcelona FC's academy, young players train hard for 10 years and gain "the work ethic of navvies and the geometric navigation of Da Vinci". You can build people's experience by making sure each gathering in your organisation invites them to be creative and openly collaborative towards the real world's ambiguous challenges, instead of grabbing for "right answers" where none exist. 
 
 In Europe three big challenges that defy easy solution are: climate change, giving meaningful work to young people, and creating quality of life in older age. How can you generate a community with a cause, based around such a challenge, bringing people with diverse and relevant skills to coalesce around a common objective? 
 
