@@ -30,7 +30,7 @@ You walk the path with your team, you take them out in a "whole sytem exploratio
 __________________
 <b>Notes</b>
 
-* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a>
+* Builds on previous postings: <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a>, <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> End of Power</a>. 
 * More on <a href="http://en.wikipedia.org/wiki/Sharing_economy"; target="_blank"> Sharing Economy</a>. 
 * Image: J W Turner, public domain, wikiart.org
 
