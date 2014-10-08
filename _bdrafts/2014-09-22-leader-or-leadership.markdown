@@ -16,12 +16,14 @@ Our generation of small people has been drawn playfully into a giving and taking
 
 Despite a feeling that we are individuals, different in countless ways from one another, we have always been and we remain highly interconnected and interdependent on others who enable us to survive and to thrive.
 
-From hunter gatherers walk across Africa and spreading into the world, we settled in villages, from planting seeds in agriculture we saw the rise of great civilisations producing wealth, knowledge, finery of all descriptions. 
-We took to the seas in search of more lands and riches. We fought wars over land and religion, and built empires. Then 200 years ago an industrial revolution broke out that spawned factories, large-scale production, jobs and consumer products.
+From hunters spreading across Africa and into the world beyond, we settled in villages, from planting seeds in agriculture we saw the rise of great civilisations producing wealth, knowledge, finery of all descriptions. 
+We took to the seas in search of more lands and riches. We fought wars over land and religion, and built empires. 
+
+Then 200 years ago an industrial revolution changed everything bringing factories, jobs and consumer products.
 
 For many life got better, more comfortable, but many also paid a price in war, slavery, starvation, harsh condiitions.
 
-Last century was the bloodiest of them all with two world wars, and the founding of the United Nations promised "never again". Since then empires have shrunk and countries under domination have gained independence. Opening of borders, cross-regional then global trade and investment. 
+Last century was the bloodiest of them all with two world wars, and the founding of the United Nations promised "never again". As we realised our inter-depenedence, empires shrunk, borders opened to travel, trade and investment, and everything changed again: we became much more connected and somewhat over-whelmed.
 
 But as we connect through news media, football, cheap travel, and the internet, we have fueled mass migration, terrorism, renewed barbaric violence, and history repeating. 
 

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Four Principles to "Shake Your Windows and Rattle Your Walls""
+title:  Leadership is a tainted word
 date:   2014-09-09 17:26
 tags: 
 image:
 ---
 
-**This line from Bob Dylan’s “Time’s Are A-Changing” is quoted in "Wikinomics", the 2006 bible for believers in the new open world. The authors have redefined using four priniples how companies compete and now you don't have to be a nerd or believer to see we firms struggling to move beyond their old ways as if pulled back by elastic. A good first step with any addiction is to notice what is happening.**
+**The L word is often invoked when we have a complaint about the competence or character of a person "in charge". We hear "Obama is in the back seat again, not driving this" or "Brown is bitter and defeated" or "Now Tony Hayward wants his life back!". It's easy to complain about others, but how can we find and take up our own leadereship roles, alongside others, to actively influence topics that are big and beyond our direct control?**
 
 ![](/libb/images/larry-sanger.jpg)
 

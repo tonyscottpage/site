@@ -8,27 +8,31 @@ image:
 
 A blog of occasional observations and jottings to try to jog ("jot blog"!) the universe (or "you"-niverse) and see what, if anything, happens. I welcome your responses below, whether as questions, feedback, ideas or offers. 
 
+Occasional stocktakes - showing an emerging story from "new open organisations", via "exploring whole systems" onto "pathway to new leadership".
+
+Which gear do we want to be in: closed, opening, quietly open or shoutinf from rooftops?
+
 Disclaimer: these are personal views of the author.
 
 Put a number in the title. Tweet it. Tidy up Tumblr. Delete Declan.
 
 _______________
 
-Torvald's Tit for Tat Tipping Point
 Working Wikipedia Speedier
-Bil's Behaviour Fundamentals
-Eve's Enabling Environments
+Bill's Behaviour Fundamentals
 Blowing Good Bubbles
 Open Innovation at P&G
 Sci Fi Innovation at Google
-World's Shortest Poem
 Open Everything, or Just Open Working?
 Likes as Positive Feedback at Facebook
 Resourcing, Out-sourcing, In-sourcing, Open Sourcing
-Wikinomics
 Borealis Lockking-Unlocking Behaviour
-Monica Wants to Create a Millions Leaders
+Monica Wants to Create a Million Leaders
 Game Theory - Trust but Verify vs First Trust
+Blue Heeler
+Leader or leadership
+Something on Constellations
+Sustaining it - 3 minds and ripple dynamics
 _______________
 
 Rwanda's gap between head and tail. Leadership for the head, or Capacity Building for the tail. Or Leadership for Capacity Building.

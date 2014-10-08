@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Torvalds' Tipping Point"
+title: "Torvalds' Tit for Tat"
 date: 2014-08-22 09:00
 tags: 
 image:
@@ -12,7 +12,7 @@ image:
 
 Linus Torvalds, was just 21 when he changed the world by writing a new free operating system called Linux. Today Linux-based systems power much of the world's computing including servers, set-top boxes, smartphones, tablets, network routers, PCs and supercomputers. But when in 1991 Linus began this he asked for feedback and ideas, and never even expected people to volunteer help.
 
-What are the so-called "Open Source" freedoms, rules and principles that are evidently unlocking such extraordinary levels of participation from large communities of volunteers globally? 
+What are the so-called "Open Source" freedoms, rules and principles that are evidently unlocking such extraordinary levels of participation from large communities of Linux volunteers globally? 
 
 ###On freedoms, fairness, being selfish and tit-for-tat
 <em>I was not trying to get everybody to contribute to some common good, some big goody-goody "let's all sing kumbaya around the campfire and make the world a better place". No, Open Source only really works if everybody is contributing for their own selfish reasons... by no means about financial reward, though.</em>

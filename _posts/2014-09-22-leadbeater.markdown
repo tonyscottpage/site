@@ -22,11 +22,15 @@ But how can your company become like this? At Barcelona FC's academy, young play
 
 In Europe three big challenges that defy easy solution are: climate change, giving meaningful work to young people, and creating quality of life in older age. How can you generate a community with a cause, based around such a challenge, bringing people with diverse and relevant skills to coalesce around a common objective? 
 
-The new technologies are making it easier  gather, innovate together and govern one another... with a little help from someone like you to get the ball rolling.  
+The new technologies are making it easier to gather, innovate together and govern one another... with a little help from someone like you to get the ball rolling.  
 
 __________________
 <b>Notes</b>  
-* Published in RSA Journal Issue 2 2014: <a href="http://www.thersa.org/fellowship/journal/features/features/the-right-mix"; target="_blank"> The Right Mix </a>.  
+
+* Published in RSA Journal Issue 2 2014: <a href="http://www.thersa.org/fellowship/journal/features/features/the-right-mix"; target="_blank"> The Right Mix </a>.
+
+* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/02/eve-enabling-environment.html "; target="_blank"> Eve's Enabling Environments</a>. 
+
 * Image: redefineschool.com
 
 __________________

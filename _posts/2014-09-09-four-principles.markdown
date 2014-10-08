@@ -10,7 +10,7 @@ image:
 
 ![](/libb/images/sharingeconomy_globe.jpg)
 
-The Wikinomics authors, Don Tapscott and Anthony Williams, make bold claims: "twenty years from now we will look back at this... as a critical tipping point in ecomomic and social history. We will understand that we entered an new age... based on new principles, worldviews and business models where the nature of the game changed." They go on to describe four principles - openness, peer-to-per working, sharing and acting globally - as defining how successful 21st century firms compete.
+The Wikinomics authors, Don Tapscott and Anthony Williams, make bold claims: "twenty years from now we will look back at this... as a critical tipping point in ecomomic and social history. We will understand that we entered an new age... based on new principles, worldviews and business models where the nature of the game changed." They go on to describe four principles - <b>openness, peer-to-per working, sharing and acting globally</b> - as defining how successful 21st century firms compete.
 
  The new ways of competing were first shown in software (Linux) then spreading to publishing (Wikipedia) and music (iPod, iTunes) and now mass collaboration in all sectors (pharmaceuticals, manufacturing, aerospace, education, government), rapidly becoming mainstream and the new orthodoxy. Do you know any leader who boasts of their company being hierarchical, closed or secretive?
 
