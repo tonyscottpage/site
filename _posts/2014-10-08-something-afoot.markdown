@@ -6,9 +6,9 @@ tags: 	stocktake
 image:
 ---
 
-**After almost eight weeks of quietly curating Jot, we take stock. I have found and shared enough examples of “new organisations operating with greater openness" to be able to advise: watch out! The "openness" wave is sweeping across your organisations, transforming how you have to lead: both on the inside and on the outside. But we can see the start of a pathway to dry land...**
+**After almost eight weeks of quietly curating Jot, we take stock. I have shared enough examples of “new organisations operating with greater openness" to be able to advise: watch out! The "openness" wave is sweeping across your organisations, transforming how you have to lead: both on the inside and on the outside. But we also can see the start of a pathway to dry land...**
 
-![](/libb/images/turner-calais.jpg)
+![](/libb/images/sunrize-ivan.jpg)
 
 Today's zeitgeist is <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">"end of power"</a>, so vividly apparent right now in anti-authoritarian news stories: Scotland's referendum to leave the UK, Hong Kong’s “umbrella protests” for free democracy, Islamic State brutality in Iraq and Syria, Ukraine breaking away from the shadow of Russia. 
 
@@ -32,7 +32,7 @@ __________________
 
 * Builds on previous postings: <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a>, <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> End of Power</a>. 
 * More on <a href="http://en.wikipedia.org/wiki/Sharing_economy"; target="_blank"> Sharing Economy</a>. 
-* Image: J M W Turner, public domain, wikiart.org
+* Image: The Sunrize, Ivan Aivazovsky, public domain, wikiart.org
 
 __________________
 
