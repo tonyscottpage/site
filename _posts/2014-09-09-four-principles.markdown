@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Four Principles to Shake Your Windows and Rattle Your Walls!
+title:  Shaking Your Windows with Wikinomics! Four Principles.
 date:   2014-09-09 17:26
 tags: 
 image:
 ---
 
-**You find the "Shake Your Windows" line from Bob Dylan’s “Times Are A-Changing” in "Wikinomics", a bible for believers in the new open world, in which four principles redefine how companies compete. What happens when we invite colleagues to take a long hard look at what is happening? They report being confused and held back by how we are leading them.**
+**You find Bob Dylan's line "Shake Your Windows and Rattle Your Doors" in "Wikinomics" because this bible is radical and disruptive of our old certainties. Wikinomics gives us four principles that define how companies compete in a new open source world. Often leaders will find it confusing and difficult to consider adopting this. But why not take a peek?**
 
 ![](/libb/images/sharingeconomy_globe.jpg)
 
@@ -21,9 +21,10 @@ The Wikinomics authors, Don Tapscott and Anthony Williams, make bold claims: "tw
 Perhaps unsurprisingly rattling doors provokes defensiveness, but we can predict leaders will be urgently switching onto the art of opening their firm's windows, exploring and co-creating with all partners (old and new) their entirely new economic eco-system. 
 
 __________________
-<b>Notes</b>  
+<b>Notes</b> 
+
 * To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/"; target="_blank">blog</a>.  
-* Photo: economyofhours.com
+* Image: economyofhours.com
 
 __________________
 

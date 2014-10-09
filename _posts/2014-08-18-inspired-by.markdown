@@ -12,14 +12,17 @@ image:
 
 Well maybe because this is how my working life often feels! And not only me but also my clients. But right now this is August - my sacred time to refresh and reconnect. One thing I'm doing is making lists of what lights me up and an unexpected topic keeps coming up: "today's workplace". 
 
-How is the workplace changing? Not just in the working hours and the remote-working, but in new groundrules for the "open source" world. My gut says leaders will source the best ideas by feeding not eating the souls of their people.
+For example, it came up when I noticed the CEO wanted to keep biting people's heels but by contrast his number two fires up a new generation in a way that is less brutal and more inspiring. 
 
-I am looking out for evidence and for answers, while also reflecting on all those pesky cats in my sack. By the way not intending to drown any little kittens, but perhaps to find them some new homes. 
+How is the workplace changing? Not just in the working hours and the remote-working, but in new groundrules for today's "open source" world. My gut says leaders will source the best ideas by feeding not eating the souls of their people.
+
+I want to look for evidence, while also reflecting on all those pesky cats in my sack - not intending to drown any little kittens, but perhaps to find them some new homes. Am I the only one who feels burdened and separated from purpose?
 
 Leaving you now with a couple of questions: what inspires you? What are you finding is inspiring for those you lead?
 
 __________________
 <b>Notes</b>  
-Image: Q Magazine qthemusic.com
+
+* Image: Q Magazine qthemusic.com
 
 __________________

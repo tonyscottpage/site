@@ -18,6 +18,8 @@ Put a number in the title. Tweet it. Tidy up Tumblr. Delete Declan.
 
 _______________
 
+It was 20 years ago today - well 21 I discovered writing a diary makes things conscious and unleashed unconscious creative force...
+Changing gear on Jot - whether and when to open it up - not wanting random conversations... 
 Working Wikipedia Speedier
 Bill's Behaviour Fundamentals
 Blowing Good Bubbles

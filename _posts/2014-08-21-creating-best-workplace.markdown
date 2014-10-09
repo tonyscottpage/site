@@ -22,7 +22,8 @@ For three years they asked hundreds of executives in surveys and seminars around
 Two questions. How does your organisation measure up? What do you want to do about it?
 
 __________________
-<b>Notes</b>  
+<b>Notes</b> 
+ 
 * Article published in HBR, May 2013 including image: <a href="http://hbr.org/2013/05/creating-the-best-workplace-on-earth/ar/1"; target="_blank">here</a>.  
 
 __________________

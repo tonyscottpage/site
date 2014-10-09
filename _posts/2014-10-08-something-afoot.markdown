@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  Something’s Afoot in Your Organisation
-date:   2014-10-07 16:24
+date:   2014-10-08 16:24
 tags: 	stocktake
 image:
 ---
 
-**After almost eight weeks of quietly curating Jot, we take stock. A clear emerging theme is the “new organisation with greater openness". Watch out for this wave sweeping across all organisations, transforming how they function: both on the inside and on the outside. We show you a pathway to dry land!**
+**After almost eight weeks of quietly curating Jot, we take stock. I have found and shared enough examples of “new organisations operating with greater openness" to be able to advise: watch out! The "openness" wave is sweeping across your organisations, transforming how you have to lead: both on the inside and on the outside. But we can see the start of a pathway to dry land...**
 
 ![](/libb/images/turner-calais.jpg)
 
-Today's zeitgeist is <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> "end of power"</a>, so vividly apparent right now in anti-authoritarian news stories: Scotland's referendum to leave the UK, Hong Kong’s “umbrella protests” for free democracy, Islamic State brutality in Iraq and Syria, Ukraine breaking away from the shadow of Russia. 
+Today's zeitgeist is <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">"end of power"</a>, so vividly apparent right now in anti-authoritarian news stories: Scotland's referendum to leave the UK, Hong Kong’s “umbrella protests” for free democracy, Islamic State brutality in Iraq and Syria, Ukraine breaking away from the shadow of Russia. 
 
-Quieter but essentially similar tensions are festering in our organisations: old centralised power is being challenged by a new appetite to share information, ideas and decisions. Organisations becoming open include Mozilla, Virgin, Apple, Google, Netflix, Pixar, Barcelona FC, and all the <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a> examples. 
+Quieter but essentially similar tensions are festering in our organisations: old centralised power is being ousted by the new appetite for open sharing (of information, ideas and decisions). We saw this in Mozilla, Virgin, Apple, Google, Netflix, Pixar, Barcelona FC, and all the <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a> examples. 
 
-If you want to say “twas ever thus since the dawn of time”, or perhaps to argue the wealthiest 1% are taking it the other way, we would point you to the new certainty showing in teams and organisations that sharing decisions is actually much more efficient than the old ways of leading. This is a fundamental, once-in-a-lifetime shift.
+If you want to say “twas ever thus since the dawn of time”, or perhaps to argue the wealthiest 1% are taking power back, we will point you to the new certainty across teams and organisations that sharing decisions is actually much more efficient than the old ways of leading. We believe you are seeing a fundamental, once-in-a-lifetime shift here.
 
 Outside the organisation is where things are changing fastest. It is as if young people have all just received a message through their social media that says “6 billion of us share the same planet and wake up because we’re messing it up”.  With youthful optimism they start up <a href="http://economyofhours.com/"; target="_blank"> new inspired, technology-enabled and ethically-sourced businesses </a>
 new inspired, technology-enabled and ethically-sourced businesses (from coffee and juice to flip flops and van hire) and this young group buy as far as they can in the new sharing economy, while the so-called market leaders (Tesco, Coca Cola etc) try with mixed results to copy or acquire and win them back, but they fail to realise the hearts of their next generation are lost, forever.
@@ -32,7 +32,7 @@ __________________
 
 * Builds on previous postings: <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a>, <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> End of Power</a>. 
 * More on <a href="http://en.wikipedia.org/wiki/Sharing_economy"; target="_blank"> Sharing Economy</a>. 
-* Image: J W Turner, public domain, wikiart.org
+* Image: J M W Turner, public domain, wikiart.org
 
 __________________
 
