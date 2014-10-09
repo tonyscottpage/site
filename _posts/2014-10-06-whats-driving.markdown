@@ -50,9 +50,9 @@ What does this actually mean? That is what we are exploring through examples and
 
 * the leader's behaviour will be based less on force, on silos, competition, the metaphors of sport and winning, self-interest, hierarchy, power play, titles or positions.
 
-* everyone has a different part to play which is not apparent until they ask themselves: how can we build a better organisation? Leaders can make it easier or harder for them to step their new contributions. 
+* everyone has a different part to play which is not apparent until they ask themselves: how can we build a better organisation? Leaders can make it easier or harder for them to step into their new fuller contributions. 
 
-* a leader's primary tassk is to create an open enabling environment in which trust and confidence grows. A few simple rules and freedoms can unlock passion, build strength, spread responsibility, bringing innovation and a good form of accountability.
+* a leader's primary task is to create an open enabling environment in which trust and confidence grows. A few simple rules and freedoms can unlock passion, build strength, spread responsibility, bringing innovation and mutual accountability.
  
 How do you get started? Perhaps with a series of open discussions across your organisation, to explore "why and how do we want become a better, more open organistion?", and take it from there.
 
