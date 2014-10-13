@@ -31,7 +31,8 @@ __________________
 <b>Notes</b>
 
 * Builds on previous postings: <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a>, <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> End of Power</a>. 
-* More on <a href="http://en.wikipedia.org/wiki/Sharing_economy"; target="_blank"> Sharing Economy</a>. 
+* More on <a href="http://en.wikipedia.org/wiki/Sharing_economy"; target="_blank"> Sharing Economy</a>, <a href="http://www.collaborativeconsumption.com/2013/06/13/report-world-economic-forum-sharing-economy-position-paper/"; target="_blank"> Young Global Leaders on Collaborative Consumption</a>. 
+
 * Image: The Sunrize, Ivan Aivazovsky, public domain, wikiart.org
 
 __________________
