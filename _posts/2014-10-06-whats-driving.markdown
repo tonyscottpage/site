@@ -36,23 +36,23 @@ An idea is spreading that things do not need to be as they have always been - th
 
 The widespread dissatisfaction, plus the powerful idea that there is a better way, put all so-called leaders in a bad light. With people better educated and connected, leaders find it impossible to regiment and control as they used to. 
 
-An assumed model of power, proven for centuries, is itself toppling: big, centralised, coordinated, modern organisations can no longer assume their overwhelming resources, or crushing force, will clear the path. Four different means leaders had for directing the actions of people are now diluted: muscle, dogma, persuasion and reward. Muscle fails because people are less inclined to back down, dogma because universal values take precedence over a party line, persuasion fails because of widespread scepticism, and reward because their aspiration and values pull people more strongly than their loyalty. 
+An assumed model of power, proven for centuries, is itself toppling: big, centralised, coordinated, modern organisations can no longer assume their overwhelming resources, or crushing force, will clear the path. Four key ways leaders have for directing the actions of people are now diluted: muscle, dogma, persuasion and reward. "Muscle" fails because we are less inclined to back down, "dogma" because our universal values take precedence over a narrow doctrine or party line, "persuasion" fails because of our widespread scepticism, and "reward" because our aspirations and values pull so  strongly you can no longer buy our loyalty. 
 
-Big used to be efficient because of lower costs due to economies of scale, but today the cost of control is going up. Scare resources (commodities, information, talent, customers etc) are easier to source at a distance.
+"Big" used to be efficient because of economies of scale, but today the cost of control is going up. Scare resources (commodities, information, talent, customers etc) are easier to source at a distance.
 
-So do we still need leaders? Yes - even Open Source companies need CEOs, Boards, divisions, corporate plans and accountability to investors and society.
+So do we still need leaders? Yes - even Open Source companies need CEOs, Boards, divisions, corporate plans and must show accountability to investors and society.
 
 How do leaders then operate differently? They will start to organise people and tasks based on a fundamentally different set of assumptions about themselves and their role towards others in the firm, and in society. 
 
-What does this actually mean? That is what we are exploring through examples and practice here in Jot. We can summarise it all as "being open", but "open" has to be crafted to actually mean something specific in each setting. Some things we do know so far are:
+What does this actually mean? That is what we are exploring through examples and practice here in Jot. We can summarise it all as "being open", but "open" has to be crafted to actually mean something specific for each leader in each setting. Some things all leaders need to know so far are:
 
-* the leader will be credible and influential when they have embraced universal open values (such as fairness, aspiration, inclusion, breadth of view, team, peer-to-peer, collaboration, global, shared interest, one connected world, transparency and trust). 
+* you will be credible and influential when you have <b>embraced universal open values</b> (such as fairness, aspiration, inclusion, breadth of view, team, peer-to-peer, collaboration, global, shared interest, one connected world, transparency and trust). 
 
-* the leader's behaviour will be based less on force, on silos, competition, the metaphors of sport and winning, self-interest, hierarchy, power play, titles or positions.
+* your behaviour will be based less on force, silos, competition, sport, winning, self-interest, hierarchy, power play, titles or positions.
 
-* everyone has a different part to play which is not apparent until they ask themselves: how can we build a better organisation? Leaders can make it easier or harder for them to step into their new fuller contributions. 
+* everyone has a different part to play which is not apparent until we each ask ourselves: how can we build a better organisation? As leader, you can make it easier or harder for others to step into their new fuller contributions. 
 
-* a leader's primary task is to create an open enabling environment in which trust and confidence grows. A few simple rules and freedoms can unlock passion, build strength, spread responsibility, bringing innovation and mutual accountability.
+* as a leader wanting others to "step up", your primary task is to create an open enabling environment in which trust and confidence grows. A few simple rules and freedoms can unlock passion, build strength, spread responsibility, bringing innovation and mutual accountability.
  
 How do you get started? Perhaps with a series of open discussions across your organisation, to explore "why and how do we want become a better, more open organistion?", and take it from there.
 

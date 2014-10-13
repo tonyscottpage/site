@@ -31,7 +31,7 @@ Here is Patti McCord's <a href="http://www.slideshare.net/reed2001/culture-17986
 __________________
 <b>Notes</b>
 
-* Builds on previous posting: <a href="http://localhost:4000/2014/09/22/leadbeater.html"; target="_blank"> How To Become a Creative Community</a>.
+* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/22/leadbeater.html"; target="_blank"> How To Become a Creative Community</a>.
 * Image: youtube.com
 
 __________________
