@@ -12,7 +12,7 @@ image:
 
 A former me, dimly remembered still, was afraid of being fired, stuck in "polite" mode, unable to speak truth to power. One day I woke up in a different place, “let in” to what Americans call a C-Suite. Today as "trusted advisor" I see what happens surrounding a few CEOs, and I have some questions. 
 
-How does you square up as CEO, given the bizarre behaviour you receive, to the challenge of bringing the best from others? And how do we measure up in our dealings with a CEO? Are power and politics really dead and buried, and if not how do we keep moving towards a better, more open workplace? 
+How do you square up as CEO, given the bizarre behaviour you receive, to the challenge of bringing the best from others? And how do we measure up in our dealings with a CEO? Are power and politics really dead and buried, and if not how do we keep moving towards a better, more open workplace? 
 
 As a source I chose five companies I am currently with. Their CEOs possess a remarkable array of elevating awards including masters degrees, doctorates, a knighthood, a professorship plus experience at the highest levels of government and commerce. Their organisations span the sectors (government, charity, corporate-private, mixed public/private and trust). 
 
