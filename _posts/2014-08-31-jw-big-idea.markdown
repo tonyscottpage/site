@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "CEO's Big Idea: Be a Catalyst Leader!"
+title:  How Can A CEO Create an Open Company?
 date:   2014-08-31 12:24
 tags: 
 image:
 ---
 
-**<em>"Stated simply, for leaders to be truly effective, they're going to have to operate as catalysts. When you get into the details... it's incredibly important"</em>. Jim Whitehurst CEO Red Hat, former COO Delta Airlines.**
+**How can a CEO create an open company? Jim Whitehurst CEO of the billion dollar company Red Hat, and former COO Delta Airlines, shares his perspective on the different approach required. His big idea? Be a Catalyst Leader!**
 
-![](/libb/images/jim-whitehurst.jpg)
+![](/libb/images/red-hat-ceo.png)
 
-Jim Whitehurst who moved from Delta to be CEO at Red Hat, a billion dollar "open source" company, shows us the different approach of a leader in the new generation companies. Here are some extracts...
+Jim Whitehurst has described the different approach of a leader in the new generation companies. Here are some extracts...
+
+<em>Stated simply, for leaders to be truly effective, they're going to have to operate as catalysts. When you get into the details... it's incredibly important.</em>
 
 <em>Anyone who works at a decent size company, your paycheck is being driven by a system that is running on our software. Stated simply, like Windows, but it never crashes! We’re relatively ubiquitous in 90% of the Fortune 500 companies. We work with a vast network of tens of thousands of incredibly bright, accomplished people in academia or companies where they work. </em>
 
@@ -38,7 +40,8 @@ Jim Whitehurst who moved from Delta to be CEO at Red Hat, a billion dollar "open
 
 __________________
 <b>Notes</b>  
-* The full interview is <a href="http://opensource.com/business/12/10/jim-whitehurst-big-idea-leaders-as-catalysts"; target="_blank">here</a>.  
+
+* The interview took place at Marbles Big Idea Forum in October 2012. <a href="http://opensource.com/business/12/10/jim-whitehurst-big-idea-leaders-as-catalysts"; target="_blank">Transcript here</a>.  
 * Image: zdnet.com
 
 __________________

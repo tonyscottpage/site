@@ -6,13 +6,13 @@ tags:
 image:
 ---
 
-**The story of Linux is now a legend inspiring a global Open Source movement, alongside stories of Wikipedia and a handful of other collaborative global projects. How did the founder Linus Torvalds unlock the energy that has sustained the rise of Linux over the last 20 years? How could your workplace gain from adopting an Open Source Way?**
+**The story of Linux is now a legend, alongside stories of Wikipedia and a handful of other collaborative projects, inspiring a global Open Source movement. How did the founder Linus Torvalds unlock the energy that has sustained the rise of Linux over the last 20 years? How could your workplace gain from adopting an Open Source Way?**
 
 ![](/libb/images/linux.jpg)
 
 Linus Torvalds, was just 21 when he changed the world by writing a new free operating system called Linux. Today Linux-based systems power much of the world's computing including servers, set-top boxes, smartphones, tablets, network routers, PCs and supercomputers. But when in 1991 Linus began this he asked for feedback and ideas, and never even expected people to volunteer help.
 
-What are the so-called "Open Source" freedoms, rules and principles that are evidently unlocking such extraordinary levels of participation from large communities of Linux volunteers globally? 
+What are the so-called "Open Source" freedoms, rules and principles that are evidently unlocking such extraordinary levels of participation from large communities of Linux volunteers globally? Here Linus is letting us in on their secret.
 
 ###On freedoms, fairness, being selfish and tit-for-tat
 <em>I was not trying to get everybody to contribute to some common good, some big goody-goody "let's all sing kumbaya around the campfire and make the world a better place". No, Open Source only really works if everybody is contributing for their own selfish reasons... by no means about financial reward, though.</em>
@@ -55,8 +55,11 @@ The first public licence gave others the freedoms to use the Linux source code, 
 
 <em>"Trust" is not about some kind of absolute neutrality, or anything like that, but it's about a certain level of predictability and about knowing that you won't be shafted.</em>
 
+How could your organisdation gain from adopting an Open Source Way? How could you use the principles shared here to unlock energy in your workplace? 
+
 __________________
 <b>Notes</b>  
+
 * Quotes extracted from BBC News, July 2012, 
 <a href="http://www.bbc.co.uk/news/technology-18419231"; target="_blank">Linux succeeded thanks to selfishness and trust </a> and Simple Talk, Jul 2008, 
 <a href="https://www.simple-talk.com/opinion/geek-of-the-week/linus-torvalds,-geek-of-the-week/"; target="_blank">Geek of the Week</a>.  

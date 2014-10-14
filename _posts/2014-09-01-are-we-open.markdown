@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Are We Open Yet?"
+title: Are We Open Yet?
 date: 2014-09-01 14:39
 tags: 
 image:
 ---
 
-**Open Source companies, like Mozilla, are being asked what working "open" means, and how to take your team or company there. Is Open Source just a fashion or might it bring enduring benefits? Here we are asking why might your team want it, and, drawing from Mozilla, what is known about how. We invite you to measure where you are on a four point scale. So please try, copy the tips here and share your tactics for working in the open.**
+**We invite you to measure how close you are to being open, using a four point scale developed by Mozilla. We are asking: why might your team want to become open, and, drawing from Mozilla, what is known about how? So why not try it, copy the tips and share your tactics for getting there.**
 
 ![](/libb/images/mozilla-leap.png)
 

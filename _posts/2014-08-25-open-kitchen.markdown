@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Open Kitchen - Open Workplace"
+title:  Open Kitchen - Open Workplace
 date:   2014-08-25 18:45
 tags: 
 image:
 ---
 
-**Getting curious about how leaders can create the best workplaces, I felt inspired when I visited the Mozilla office near to Trafalgar Square. This has the hallmarks of "cool", with bicycles hanging on the wall, and a free, always open and well-stocked kitchen.**
+**The Mozilla office near to Trafalgar Square has the hallmarks of "cool", with bicycles hanging on the wall, and a free, always open and well-stocked kitchen. What can we learn from the Mozilla kitchen about how to create a better workplace?**
 
 ![](/libb/images/mozillateam.jpg)
 
@@ -16,6 +16,7 @@ Walking into a large open kitchen area, I asked: "Do you have to pay?". No it’
 
 __________________
 <b>Notes</b>  
-* More on Wilson Page's experience of joining Mozilla, a workplace inspired by the Open Source movement, including photo <a href="http://wilsonpage.co.uk/my-journey-to-mozilla/"; target="_blank">here</a>.  
+
+* More on Wilson Page's experience of joining Mozilla, a workplace inspired by the Open Source movement<a href="http://wilsonpage.co.uk/my-journey-to-mozilla/"; target="_blank">here</a>.  
 
 __________________

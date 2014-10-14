@@ -1,24 +1,26 @@
 ---
 layout: post
-title:  "Inspired by... Elbow"
+title:  What is Inspiring You? Why Elbow?
 date:   2014-08-18 16:03
 tags: 
 image: 
 ---
 
-**On listening to a Desert Island Discs interview with Guy Garvey a lyricist, collector of lines and retiring front-man of Elbow I was inspired to do something unusual: buy a new album. Then listening while jogging by the river, a line assaulted me: "Carrying commitments like cats in a sack". Why?**
+**This question came up recently when the CEO said you have to keep biting people's heels, but his number two said no, we must fire up a new generation in a way that is less brutal and much more inspiring. So I started listing what lights me up, and surprisingly...**
 
 ![](/libb/images/guy-garvey.jpg)
 
-Well maybe because this is how my working life often feels! And not only me but also my clients. But right now this is August - my sacred time to refresh and reconnect. One thing I'm doing is making lists of what lights me up and an unexpected topic keeps coming up: "today's workplace". 
+... I found myself being inspired to buy a new album by Elbow. And shortly after that a line on the album assaulted me: "Carrying commitments like cats in a sack". What is going on?
 
-For example, it came up when I noticed the CEO wanted to keep biting people's heels but by contrast his number two fires up a new generation in a way that is less brutal and more inspiring. 
+Well right now this is August, my sacred time to refresh and shed unwanted commitments. But while chilling, my inner geek brings me this unwanted topic to my light-up list: "today's workplace". 
 
-How is the workplace changing? Not just in the working hours and the remote-working, but in new groundrules for today's "open source" world. My gut says leaders will source the best ideas by feeding not eating the souls of their people.
+I don't really want to admit to such a mundane topic, particularly on holiday, but, to placate the geek, I ask: how <u>is</u> the workplace changing? Geek responds: it's not just in the working hours or the remote-working, but in the fundamentally different groundrules giving rise to today's "open source" world. 
 
-I want to look for evidence, while also reflecting on all those pesky cats in my sack - not intending to drown any little kittens, but perhaps to find them some new homes. Am I the only one who feels burdened and separated from purpose?
+OK so galloping willingly back to what lights me up, my gut says just make a note that it is the leaders who are feeding not eating the souls of their people: their firms will gain the best ideas. So when you get back, look for the evidence. And since this topic fires you up, best make some space in your sack. 
 
-Leaving you now with a couple of questions: what inspires you? What are you finding is inspiring for those you lead?
+Please understand I'm not intending to drown any sweet little kittens, but definitely to find them some new homes. And to close this short chapter, the light-me-up list never got much longer than that, but I will say that making it felt therapeutic, and opened a new path forward. 
+
+Now in case I am not the only one here who feels burdened and separated from purpose, please lighten your load and join me in this evidence gathering. Towards this I offer you a couple of questions: what inspires you? What are you finding is most inspiring for those you lead?
 
 __________________
 <b>Notes</b>  

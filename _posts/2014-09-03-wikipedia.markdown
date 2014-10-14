@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Working the Wikipedia Way"
+title:  How Can We Work the Wikipedia Way?
 date:   2014-09-03 12:24
 tags: 
 image:
 ---
 
-**There has been a lot of hype surrounding the wonderful volunteer culture at Wikpedia but how do they actually draw from people such high levels of participation and contribution. Larry Sanger, the co-founder with Jimmy Wales of Wikipedia, gives us advice about how to start new projects on similar lines.**
+**After all the hype surrounding the wonderful volunteer culture at Wikpedia, we are entitled to ask how do they actually draw from people such high levels of participation and contribution. Larry Sanger, the co-founder with Jimmy Wales of Wikipedia, advises us how to start new projects on similar lines.**
 
 ![](/libb/images/larry-sanger.jpg)
 
@@ -31,7 +31,8 @@ image:
 * As any **disagreements are apt to be publicly visible** in a collaborative project, and undermine the (very important) moral authority of at least one manager, make sure management is on the same page from the beginning, preferably before launch. This requires a great deal of thinking through issues together.
 
 __________________
-<b>Notes</b>  
+<b>Notes</b> 
+ 
 * Thanks to Larry Sanger and Slashdot. His fuller description of why Wikipedia works appears <a href="http://beta.slashdot.org/story/56499"; target="_blank">here</a>.  
 * Photo <a href="http://commons.wikimedia.org/wiki/File%3ALarry_Sanger_02-2.jpg"; target="_blank"> commons.wikimedia.org</a>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why Jot?"
+title:  Why Jot?
 date:   2014-08-13 15:30
 tags: 
 image: 
