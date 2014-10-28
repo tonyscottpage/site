@@ -24,7 +24,7 @@ The third phase explore the future by "doing": preferably something small, speed
 
 When are problems are deep, painful and repeating this so-called "Journey of the U" is a kind of inversion of the solution-based approach leaders usually bring, to pull instead on everyone's deeper resources to offer a different way forward. It lines up with an approach we have been exploring in the last couple of years with client teams to "shift the system". 
 
-In coming postings I want to explore a couple of examples to see what this journey might entail in practice.
+In coming postings I want to bring you a couple of examples to see what this journey might entail in practice.
 
 __________________
 <b>Notes</b>  

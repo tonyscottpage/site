@@ -55,7 +55,7 @@ The first public licence gave others the freedoms to use the Linux source code, 
 
 <em>"Trust" is not about some kind of absolute neutrality, or anything like that, but it's about a certain level of predictability and about knowing that you won't be shafted.</em>
 
-How could your organisdation gain from adopting an Open Source Way? How could you use the principles shared here to unlock energy in your workplace? 
+How could your organisation gain from adopting an Open Source Way? How could you use the principles shared here to unlock energy in your workplace? 
 
 __________________
 <b>Notes</b>  
