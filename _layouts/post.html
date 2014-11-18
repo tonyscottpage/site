@@ -4,20 +4,51 @@ layout: bdefault
 <div class="layout-b">
   <div class="layout-b_slot-1">
     <aside>
-      <div><a class="articles-button" href="{{ site.baseurl }}/jot.html"><i class="icon-back"></i> Back to Articles</a></div>
+      
       <div class="post_date">{{ page.date | date_to_long_string }}</div>
       <ul class="tags">
         {% for tag in page.tags %}
           <li>{{ tag }}</li>
         {% endfor %}
       </ul>
+
+      <div><a class="articles-button" href="{{ site.baseurl }}/jot.html"><i class="icon-back"></i> Back to Articles</a></div>
+
       {% include share.html %}
+
     </aside>
+
   </div>
   <div class="layout-b_slot-3">
     <aside>
       {% include byline.html %}
       {% include bio.html %}
+
+<!-- site search engine -->
+<script type="text/javascript">
+
+// Google Internal Site Search script- By JavaScriptKit.com (http://www.javascriptkit.com)
+// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/
+// This notice must stay intact for use
+
+//Enter domain of site to search.
+var domainroot="pageconsulting.co.uk"
+
+function Gsitesearch(curobj){
+curobj.q.value="site:"+domainroot+" "+curobj.qfront.value
+}
+
+</script>
+
+<div class="search_form">
+<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+<p>
+<input name="q" type="hidden" />
+<input class="search" name="qfront" id="txtSearch" type="text" placeholder="Search website" /> 
+</p>
+</form>
+</div>
+      
       {% include follow.html %}
     </aside>
   </div>
