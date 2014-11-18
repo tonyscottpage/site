@@ -136,7 +136,7 @@ img {
  ---------------------------------------------------------*/
 
 .sidebar_contact {
-  position: absolute;
+  position: relative;
   right: 0; bottom: 0;
   padding: 20px 24px;
   font-size: 13px;
@@ -704,3 +704,26 @@ margin-right: 15px;
 .icon-quote-left:before {
   content: "\f10d";
 }
+
+/** Search box
+ ---------------------------------------------------------*/
+
+.search_form input[type=text]
+{
+  position: absolute;
+  right: 0; bottom: 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+ 
+  width:175px;
+ 
+  min-height: 28px;
+  padding: 4px 20px 4px 4px;
+  font-size: 12px;
+
+  -moz-transition: all .2s linear;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+}
+

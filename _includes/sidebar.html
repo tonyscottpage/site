@@ -8,12 +8,39 @@
        <li class="jot"><a href="{{ site.baseurl }}/jot.html">Jot</a></li>
     </ul>
 
-    <ul class="sidebar_contact">
+<ul></ul>    
+  <!-- site search engine -->
+<script type="text/javascript">
+
+// Google Internal Site Search script- By JavaScriptKit.com (http://www.javascriptkit.com)
+// For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/
+// This notice must stay intact for use
+
+//Enter domain of site to search.
+var domainroot="pageconsulting.co.uk"
+
+function Gsitesearch(curobj){
+curobj.q.value="site:"+domainroot+" "+curobj.qfront.value
+}
+
+</script>
+
+<div class="search_form">
+<form action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+<p>
+<input name="q" type="hidden" />
+<input class="search" name="qfront" id="txtSearch" type="text" placeholder="Search website" text-align="right" /> 
+</p>
+</form>
+</div>
+
+<ul class="sidebar_contact">
       <li><a href="tel:+442089431690"><span class="text">+44(0) 208 943 1690</span></a></li>
       <li><a href="mailto:info@pageconsulting.co.uk"><span class="text">info@pageconsulting.co.uk</span></a>
       <li><a href="https://www.linkedin.com/in/tonypage"><span><img align="right" src="{{ site.baseurl }}/lib/images/in.jpg" width="20" height="20"></span></a></li>
 
-      </ul>
+      </ul>   
 
   </div>
+
 </div>
