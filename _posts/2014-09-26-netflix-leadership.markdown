@@ -26,7 +26,7 @@ Yet the approach derives from common sense.
 
 Here is <a href="http://youtu.be/o3e1lnixKBM"; target="_blank">Patti McCord telling the story. </a>Patti McCord teeling the story
 
-Here is Patti McCord's <a href="http://www.slideshare.net/reed2001/culture-1798664"; target="_blank">deck of 124 slides</a> that has been described by Sheryl Sandberg, COO of Facebook, as one of the most important documents to come out of Silicon Valley. It has been viewed five millions times on line.
+Here is Patti McCord's <a href="http://www.slideshare.net/reed2001/culture-1798664"; target="_blank">deck of 124 slides</a> that has been described by Sheryl Sandberg, COO of Facebook, as "one of the most important documents to come out of Silicon Valley". It has been viewed five millions times on line.
 
 __________________
 <b>Notes</b>
