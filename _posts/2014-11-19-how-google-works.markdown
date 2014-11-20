@@ -6,7 +6,7 @@ tags:
 image:
 ---
 
-**How much of what we've learned about managing businesses is no longer useful? At Google, Eric Schmidt and Jonathon Gosling asked themselves a powerful question: "what's different now?"**
+**How much of what we've learned about managing businesses is no longer useful? At Google, Eric Schmidt and Jonathan Rosenberg asked themselves a powerful question: "what's different now?"**
 
 <a href="http://www.slideshare.net/ericschmidt/how-google-works-final-1"; target="_blank">![](/libb/images/google.jpg)</a>
 
