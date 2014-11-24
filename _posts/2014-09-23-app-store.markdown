@@ -12,14 +12,12 @@ image:
 
 In 2007, Apple Computer launched the iPhone, without any third-party software: the CEO Steve Jobs believed most users did not need it. Soon after its release, however, developers managed to "jailbreak" the iPhone and begin coding third-party apps for the device.
 
-But in July 2008, Apple launched the App Store; officially introducing new third-party apps for users to purchase and download. All apps are subject to a review by Apple staff when submitted and can be rejected if they do not pass Apple's guidelines. And Apple takes a 30% commission on revenues for apps sold through the store. 
+But in July 2008, Apple launched the App Store, officially introducing new third-party apps for users to purchase and download. All apps are subject to a review by Apple staff when submitted and can be rejected if they do not pass Apple's guidelines. And Apple takes a 30% commission on revenues for apps sold through the store. 
 
-While Apple has been criticized for how it operates the App Store, it has been a major financial success for the company: reaching over 40 billion app downloads as of 2013, with a library of over 800,000 apps available. Competitors have followed: the Android Market launchedin September 2008 and BlackBerry's App World launched in April 2009. 
+While Apple has been criticized for how it operates the App Store, it has been a major financial success for the company: reaching over 40 billion app downloads as of 2013, with a library of over 800,000 apps available. Competitors have followed: the Android Market launched in September 2008 and BlackBerry's App World launched in April 2009. 
 
-Having seen "open source" spread so quickly from its origina in software, to music, education, science, pharma, consumer products, noe even involving big manufacturers including BMW, P&G and Novartis, it is clear this is a competitive issue, and the way of the world is changing. 
-
+Having seen "open source" spread so quickly from its origins in software, to music, education, science, pharma, consumer products, now even involving big manufacturers including BMW, P&G and Novartis, it is clear this is a competitive issue, and the way of the world is changing. 
 Isn't it time for you to ask: how can we make our company more open? 
-
 __________________
 <b>Notes</b>
   
