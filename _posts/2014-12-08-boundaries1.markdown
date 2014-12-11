@@ -14,13 +14,15 @@ Big fortress companies (like Boeing, BMW, IBM, Merck, P&G… see <a href="http:/
 
 If our skin is the "boundary" that divides us from outside, then through this boundary we are nourished with food, information, conversation, opportunities and learning; and our patterns of boundary-crossing transactions are what defines our identity, life and character. So it is with every living thing: team, organisation, community or society. 
 
-But what happens when we are swamped with information from all those new sources. Opportunities seem to be arising and disappearing before we can get to them, so like gold prospectors eager not to miss the sparkly stuff, we are reaching out sooner. What happens next follows the law of reciprocity, punishing those who withhold, and rewarding those who share their information, learning and ideas.  
+But what happens when we cab't keep up, and opportunities arise and disappear before we can get to them? Like gold prospectors eager not to miss the sparkly stuff, we try to reach out sooner and further. What happens next follows the law of reciprocity, punishing those who withhold, and rewarding those who share their information, learning and ideas.  
 
-As a company changes its boundary to its customers, suppliers, partners and competitors, it becomes a different place to work: less monolithic, siloed and controlled, and more like a living entity comprised of smaller, ad-hoc, cross-functional, self-organising teams, enabled to connect, learn and implement, continuously moving forwards, with much less friction or intertia.
+As a company changes its boundary to its customers, suppliers, partners and competitors, it becomes a different place to work: less monolithic, siloed and controlled, and more like a living entity comprised of smaller, ad-hoc, cross-functional, self-organising teams, enabled to connect, learn and implement, continuously moving forwards, with much less friction or intertia. 
+
+How can we learn to operate in a workplace that is far from normal, scary for some, and refreshing for others?
 __________________
 <b>Notes</b>
 
-* This is the first of three Jots looking at how our boundaries are changing. The second goes into how this new order has come about, and the third, how we can evolve ourselves and our teams to survive and thrive in this.
+* This is the first of three Jots looking at how our boundaries are changing. The second on what is shaping this new order, and the third, how we can evolve ourselves and our teams to survive and thrive in this.
 
 * Image: <a href="http://commons.wikimedia.org/wiki/User:Julmin"; target="_blank">Минеева Ю. (Julmin)</a> (retouched by <a href="http://commons.wikimedia.org/wiki/User:Surendil"; target="_blank">Surendil</a>) - Own work. <a href="http://en.wikipedia.org/wiki/Creative_Commons"; target="_blank">Creative Commons</a>. <a href="http://creativecommons.org/licenses/by-sa/1.0/deed.en"; target="_blank">Attribution-Share Alike 1.0 Generic license</a>.
 
