@@ -14,7 +14,7 @@ Big fortress companies (like Boeing, BMW, IBM, Merck, P&G… see <a href="http:/
 
 If our skin is the "boundary" that divides us from outside, then through this boundary we are nourished with food, information, conversation, opportunities and learning; and our patterns of boundary-crossing transactions are what defines our identity, life and character. So it is with every living thing: team, organisation, community or society. 
 
-But what happens when we are swamped with information from all those new sources. Opportunities seem to be arising and disappearing before we can get to them, so like gold prospectors eager not to miss the sparkly stuff we are reaching out, and it works that you only get valuable information, learning and ideas, when you yourself share it more generously.  
+But what happens when we are swamped with information from all those new sources. Opportunities seem to be arising and disappearing before we can get to them, so like gold prospectors eager not to miss the sparkly stuff, we are reaching out sooner. What happens next follows the law of reciprocity, punishing those who withhold, and rewarding those who share their information, learning and ideas.  
 
 As a company changes its boundary to its customers, suppliers, partners and competitors, it becomes a different place to work: less monolithic, siloed and controlled, and more like a living entity comprised of smaller, ad-hoc, cross-functional, self-organising teams, enabled to connect, learn and implement, continuously moving forwards, with much less friction or intertia.
 __________________
