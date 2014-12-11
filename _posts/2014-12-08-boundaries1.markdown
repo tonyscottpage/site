@@ -12,7 +12,7 @@ image:
 
 Let’s begin with why. Opportunities are arising and disappearing ever faster as more information flows across the world, via social media and information systems. Like gold prospectors with the odds against us we are pooling information, learning and ideas, to get to the sparkly stuff. 
 
-Even big fortress companies (like Boeing, BMW, IBM, Merck, P&G… see <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank">Wikinomics</a>) are finding new ways to harness ideas from customers, suppliers, competitors and workforces. They are hooking into their eco-system, not shutting it out. They even share their valuable IP to be able to innovate. 
+Even big fortress companies (like Boeing, BMW, IBM, Merck, P&G…see Wikinomics) are finding new ways to harness ideas from customers, suppliers, competitors and workforces.  It makes to hook into their eco-system not shut it out. They will even share their valuable IP to be able to innovate. 
 
 If our skin is the "boundary" that divides us from outside, then through this boundary we are nourished with food, information, conversation, opportunities and learning; and our patterns of boundary-crossing transactions are what defines our identity, life and character. So it is with every living thing: team, organisation, community or society. 
 
