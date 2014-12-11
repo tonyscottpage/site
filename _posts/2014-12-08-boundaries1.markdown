@@ -6,7 +6,7 @@ tags:
 image:
 ---
 
-**My sceptical questioner answered it himself. Are you saying completely open? No! That is not a natural state, we’d be overwhelmed by “too much information, and in more ways than one!". So how are "open" organisations managing their boundaries differently?**
+**My sceptical questioner answered it himself. Are you saying completely open? "No! That is not a natural state, we’d be overwhelmed by too much information... and in more ways than one!". So how are "open" organisations managing their boundaries differently?**
 
 ![](/libb/images/kremlin.jpg)
 
