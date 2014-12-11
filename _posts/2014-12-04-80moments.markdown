@@ -6,11 +6,11 @@ tags:
 image:
 ---
 
-**Were you ever inspired by something big happening in the world, then crushed by yet another catastrophy striking? When wrong-footed like this, these 80 moments from 10,000 diverse voices worldwide, are a source of greater stability, wisdom and insight.**
+**Were you ever inspired by something big happening, then crushed by yet another catastrophe striking? When wrong-footed like this, these 80 moments that shaped our world from 10,000 diverse voices worldwide, are a source of greater stability, wisdom and insight.**
 
 ![](/libb/images/80moments.png)
 
-80 Moments tells a story, with a ranking drawn from 10,000 diverse people across 10 diverse countries, who voted on the biggest events that shaped their world. 
+80 Moments tells a story, with a ranking drawn from 10,000 diverse people across 10 diverse countries, who voted on the biggest events that shaped our world. 
 
 The story captures not only some of our biggest collective breakthroughs (number one being the invention of the World Wide Web, and amongst them the global popularity of football, low cost air travel, social media, Michael Jackson)... but also some of our greatest challenges (the holocaust in Europe, terrorist attacks, 2006 tsunami, the atomic bomb etc) and our response to them (Live Aid concerts, United Nations Declaration of Human Rights, greater equality for women, environmentalism, decolonisation, and many more).
 
@@ -21,7 +21,7 @@ Thanks to the <a href="http://www.britishcouncil.org"; target="_blank">British C
 __________________
 <b>Notes</b>
 
-* Report: <a href="http://www.britishcouncil.org/80moments/"; target="_blank">80 Moments that Shaped The World</a>.
+* The list: <a href="http://www.britishcouncil.org/80moments/"; target="_blank">80 Moments that Shaped The World</a>. The full report: <a href="http://www.britishcouncil.org/sites/britishcouncil.uk2/files/80-moments-report.pdf"; target="_blank">80 Moments that Shaped The World</a>. 
 
 * Image: word cloud from the British Council report.
 
