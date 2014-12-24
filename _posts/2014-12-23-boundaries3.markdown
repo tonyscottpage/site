@@ -6,13 +6,13 @@ tags:
 image:
 ---
 
-**When the penny drops that success flows less from our own business decisions, and more from the culture we create as leaderswe may ask what sort of culture do we want, and how can we create it. Here we try to go beyond the oft quoted stories of great sports teams to find the conditions in which people truly work at their best.**
+**When the penny drops that success flows less from our own business decisions, and more from the culture we create as leaders, we may ask what sort of culture do we want, and how can we create it. Here we try to go beyond the oft quoted stories of great sports teams to find the conditions in which people truly work at their best.**
 
 ![](/libb/images/give.jpg)
 
 Right now it’s almost Christmas at home and making a dessert for Boxing Day lunch using plums from our homemade plum vodka, I feel safe and happy, in the mode of giving, in contrast with previous years when I have often felt rushed and out of balance. Why might this be relevant to the workplace?
 
-Simon Sinek (author of <a href="http://www.amazon.co.uk/Leaders-Eat-Last-Together-Others/dp/1480542571"; target="_blank">Leaders Eat Last</a>) points out that our real work because it contains risk will release in us "selfish" chemicals (endorphin, cortisol and dopamine) to have us deliver results in the short-term, but this isolates us in fear, stress, cynicism, paranoia and self-interest. 
+Simon Sinek (author of <a href="http://www.amazon.co.uk/Leaders-Eat-Last-Together-Others/dp/1480542571"; target="_blank">Leaders Eat Last</a>) points out that our real work, because it contains risk, will release in us "selfish" chemicals (endorphin, cortisol and dopamine) to have us deliver results in the short-term, but this isolates us in fear, stress, cynicism, paranoia and self-interest. 
 
 When leaders are able to create a "circle of safety" they release a different bio-chemical response that, over time, can produce much higher performance. How a leader achieves this is to sacrifice their short-term interest to empower us, then "selfless" chemicals (serotonin and oxytocin) are released in us that will reward the leader with our love, loyalty, cooperation and trust. 
 
