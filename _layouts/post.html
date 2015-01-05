@@ -57,6 +57,25 @@ curobj.q.value="site:"+domainroot+" "+curobj.qfront.value
       <h2 class="post_title">{{ page.title }}</h2>
       {% if page.image %}<img class="post_image" src="{{ page.image }}" />{% endif %}
       <div class="post_content">{{ content }}</div>
+
+<!-- Read More/Less Toggle-->
+<script type="text/javascript">
+
+function showMoreOrLess(thisObj,bonusContent){
+    var caption = thisObj.innerHTML;
+    //alert(caption);
+    if ( caption == "Click to see more..." ) {
+        document.getElementById(bonusContent).style.display = "inline";
+        thisObj.innerHTML = "Click to see less...";
+    } else {
+        document.getElementById(bonusContent).style.display = "none";
+        thisObj.innerHTML = "Click to see more...";
+    }
+}
+
+</script>
+
+
     <!-- <div id="disqus_thread"></div> 
     <script type="text/javascript">
        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
