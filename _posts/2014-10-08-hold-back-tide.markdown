@@ -17,20 +17,17 @@ Similar forces lurk inside our organisations: old centralised power undermined b
 <div id="restOfArticle" style="display:none">
 If you want to say “twas ever thus since the dawn of time”, or to argue the wealthiest 1% are taking power back, we point you to a new certainty taking hold that sharing decisions is faster and more efficient than the old ways of leading. We believe you are seeing a fundamental, once-in-a-lifetime shift here.<br><br>
 
-Outside the organisation is where things are changing fastest. It is as if young people have all just received a message through their social media that says “6 billion of us share the same planet and let's wake up because we’ve been messing it up”.  With youthful optimism they start up <a href="http://economyofhours.com/"; target="_blank"> new inspired, technology-enabled and ethically-sourced businesses </a>
-(from coffee and juice to flip flops and van hire) and this young group buy as far as they can in the new sharing economy, while the so-called market leaders (Tesco, Coca Cola etc) try with mixed results to copy or acquire and win them back, but they fail to realise the hearts of their next generation are lost, forever.<br><br>
+Outside the organisation is where things are changing fastest. It is as if young people have all just received a message that says “6 billion of us share the same planet and let's wake up because we’ve been messing it up”.  With youthful optimism they start up <a href="http://economyofhours.com/"; target="_blank"> new inspired, technology-enabled and ethically-sourced businesses </a>
+(from coffee and juice to flip flops and van hire) and this young group buy their stuff, as far as they can, in the new sharing economy, while the so-called market leaders (Tesco, Coca Cola etc) try with mixed results to win them back. The giants fail to realise they have lost the hearts of their next generation, forever.<br><br>
 
-On the inside it is easy enough to keep things steady but dull: be one of the leaders who just says the usual daft things to the astounded silence of your people as you burn your credibility, and sack them if they fail to deliver. But if you want to be part of the future, be the rarer one who opens up a noisier, messier and more creative brilliance. Have your HR departments redefine the talents to invest in, and make sure “open” and “collaborative” are top of the shopping list.<br><br> 
+Inside the company it is easy enough to keep things steady but dull: be a leader who just says the usual daft things to the astounded silence of your people as you burn your credibility, and sack the ones who fail to deliver. But if you want to be part of the future, be the rarer leader who opens up a noisier, messier and more creative brilliance. Have your HR department redefine the talents to invest in, and make sure “open” and “collaborative” are top of the shopping list.<br><br> 
 
 Then you can enjoy the dictators toppling.<br><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-If you keep quietly coming back to Jot you can stay ahead of the wave. What we already know is there is no single safe path you can take, because the particulars vary for each leader in each organisation and keep changing. 
-
-You walk the path with your team, you take them out into a "whole sytem exploration", and arising from of those dialogues, you get clarity about how to take up your leadership, while also holding the space open for everyone in their own ways to make a whole better organisation.  
-
+If you keep quietly coming back to Jot you can stay ahead of the wave. We know is there is no universal path, because the particulars vary, but we can suggest you choose a path towards a "whole sytem exploration" <u>with</u> your team, showing how each team member can take up their leadership to keep making yours a better organisation.  
 __________________
 <b>Notes</b>
 

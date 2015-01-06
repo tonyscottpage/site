@@ -10,22 +10,31 @@ image:
 
 ![](/libb/images/moises-naim.png)
 
-We tend to avoid speaking about power, but Moises Naim (an executive director at the World Bank, former Minister for Industry and Trade in Venezuela and editor of Foreign Policy magazine) has spent the last seven years analysing what is happening with power, and it is decaying. I went to see him last January at the RSA, to find out what this means: 
+We tend to avoid speaking about power, but Moises Naim (an executive director at the World Bank, former Minister for Industry and Trade in Venezuela and editor of Foreign Policy magazine) has spent the last seven years analysing what is happening with power, and it is decaying. I went to see him talk last January at the RSA, to find out what this means. 
 
-Whether we find the power decay encouraging or worrying, many of us rush to "the internet" as the explanation, but Naim points to how as users we are undergoing three revolutions that are fundamentally changing our power, that is the capacity to get others to do things:
+<div id="restOfArticle" style="display:none">
 
-1. <b>The More Revolution</b> - we live in a world of profusion. People are more numerous, living more fulfilled lives and as a result becoming more difficult to regiment and control. 
-2. <b>The Mobility Revolution</b> - people move around a lot more, so they are no longer a captive audience and have become harder to control. With costs of travel and information dropping, life is easier for challengers and harder for incumbents.
-3. <b>The Mentality Revolution</b> - people's expectations are expanding faster than the capacity of governments to satisfy them. Young people look at the world with different eyes than their parents. With emerging global values, and a rising aspiration level, they believe there is a better way.
+Whether we find the power decay encouraging or worrying, many of us rush to "the internet" as the explanation, but Naim points to how as users we are undergoing three revolutions that are fundamentally changing our power, that is the capacity to get others to do things:<br><br>
+<ol>
 
-To sample the huge range of examples and the full breadth of these ideas, you can read the 300 pages of Naim's book, but to summarise:
+<li><b>The More Revolution</b> - we live in a world of profusion. People are more numerous, living more fulfilled lives and as a result becoming more difficult to regiment and control. </li>
+<li><b>The Mobility Revolution</b> - people move around a lot more, so they are no longer a captive audience and have become harder to control. With costs of travel and information dropping, life is easier for challengers and harder for incumbents.</li>
+<li><b>The Mentality Revolution</b> - people's expectations are expanding faster than the capacity of governments to satisfy them. Young people look at the world with different eyes than their parents. With emerging global values, and a rising aspiration level, they believe there is a better way.</li>
+</ol><br><br>
 
-* As the three revolutions tend to overwhelm us our minds can actually narrow, making us vulnerable to the "terrible simplifiers" who are the bad leaders and politicians who reduce the complexity of what is happening to appealing arguments polarising us and them
-* Governance of large institutions has become increasingly difficult, as trust has eroded. The risks are disorder, the loss of deep skills and knowledge; disruptive social movements that fade quickly (like Occupy), alienation and these undermine democracy and our liberal societies. 
+To sample the huge range of examples and the full breadth of these ideas, you can read the 300 pages of Naim's book, but to summarise:<br><br>
 
-Naim is long on analysis and short on answers, so what do we do? He invites us to understand better what is going on inside each nation, movement or corporation; to make life difficult for the terrible simplifiers; to restore trust, to release our leaders from the checks and balances that paralyse the and give power back to those who govern us; to innovate in a way that increases participation. 
+<ul>
+<li>As the three revolutions tend to overwhelm us our minds can actually narrow, making us vulnerable to the "terrible simplifiers" who are the bad leaders and politicians who reduce the complexity of what is happening to appealing arguments polarising us and them</li>
+<li>Governance of large institutions has become increasingly difficult, as trust has eroded. The risks are disorder, the loss of deep skills and knowledge; disruptive social movements that fade quickly (like Occupy), alienation and these undermine democracy and our liberal societies. </li></ul>
+<br><br>
+
+Naim is long on analysis and short on answers, so what do we do? He invites us to understand better what is going on inside each nation, movement or corporation; to make life difficult for the terrible simplifiers; to restore trust, to release our leaders from the checks and balances that paralyse the and give power back to those who govern us; to innovate in a way that increases participation. <br><br>
 
 So humanity is on the verge of a wave of innovations towards finding new ways of governing itself. We can see this in the last few days before the Scottish Referendum - whether it is a yes or no next week, there has been unprecedented engagement, and huge repercussions may follow across the UK and Europe. 
+
+</div>
+<a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
 What this adds up to is, we can be sure the future will be messy. The time is not over for leaders, and people are still looking to appoint leaders to whom they can pass authority and who know their real work is to restore confidence and secure mutual consent.
 
@@ -36,7 +45,7 @@ __________________
 
 * View Moises Naim speaking at <a href="http://www.thersa.org/events/audio-and-past-events/2014/the-end-of-power"; target="_blank"> RSA</a>. 
  
-* Photo: World Ecomonic Forum/Michael Wuertenberg
+* Image: Copyright World Economic Forum (www.weforum.org) / Photo by Alexandre Campbell. <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons"; target="_blank">Creative Commons</a>. <a href="http://creativecommons.org/licenses/by-sa/1.0/deed.en"; target="_blank">Attribution-Share Alike 1.0 Generic license</a>.
 
 __________________
 
