@@ -10,7 +10,7 @@ image:
 
 ![](/libb/images/kremlin.jpg)
 
-Most of my work is with top teams who are figuring out how as leaders to engage their people differently. What is driving them? Big fortress companies (like Boeing, BMW, IBM, Merck, P&G… see <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank">Wikinomics</a>) are learning that "closed" is not a viable state today, and are hooking into ideas from their eco-systems (of customers, suppliers, competitors and workforce). They will even share valuable IP to help them innovate. 
+Much of my work is with top teams who are figuring out how as leaders to engage their people differently. What is driving them? Big fortress companies (like Boeing, BMW, IBM, Merck, P&G… see <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank">Wikinomics</a>) are learning that "closed" is not a viable state today, and are hooking into ideas from their eco-systems (of customers, suppliers, competitors and workforce). They will even share valuable IP to help them innovate. 
 
 <div id="restOfArticle" style="display:none">
 If my skin is a "boundary" that divides "me" from "not me", that is, from "outside", then through this boundary I am nourished with food, information, conversation, opportunities and learning; and my patterns of boundary-crossing transactions are what defines my identity, life and character. So it is with every living thing: team, organisation, community or society, and why are we seeing the boundaries between "me" and "you", and "us" and "them" being re-drawn?<br><br>
