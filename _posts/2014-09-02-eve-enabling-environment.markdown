@@ -21,6 +21,6 @@ How are we taking this forward? Jointly with Eve and the LSE, we have developed 
 __________________
 <b>Notes</b> 
 
-* To enrol or find out more go to <a href="http://www.middle-ground.co.uk/wp-content/uploads/2014/06/New-Brochure-London-2014-final.pdf"; target="_blank">here</a>.  
+* To enrol or find out more go <a href="http://www.middle-ground.co.uk/wp-content/uploads/2014/06/New-Brochure-London-2014-final.pdf"; target="_blank">here</a>.  
 
 __________________

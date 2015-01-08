@@ -6,7 +6,7 @@ tags:
 image: 
 ---
 
-**Jot is a real book (with a sparkly cover!), written old style, pen on paper, without any machine. It is what pours, during an uncluttered half hour here or there, into the infinity of a blank white page.** 
+**Jot is a real book (with a sparkly cover!), written old style, pen on paper, without any machine. It is what pours, during an uncluttered half hour here or there, from the infinity of the mind onto a blank white page.** 
 
 ![](/libb/images/jot_photo2.jpg)
 
