@@ -10,7 +10,6 @@ image:
 
 ![](/libb/images/berlin-wall.jpg)
 
-
 Top teams I am working with are starting to lead their people differently. What examples are they looking at? Symbolically the fall of the Berlin Wall ended our attachment to creakingly inefficient command and control. This is just one of <a href="http://pageconsulting.co.uk/2014/12/04/80moments.html"; target="_blank">80 Moments</a> illustrating how our world is opening up to give more people access to information, health, education, travel, medicine and technology. 
 
 <div id="restOfArticle" style="display:none">
