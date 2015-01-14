@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Boundaries - How Can We Evolve to Survive? (3 of 3)
+title:  Boundaries - How Can We Evolve? (3 of 3)
 date:   2014-12-23 17:24
 tags: 
 image:
