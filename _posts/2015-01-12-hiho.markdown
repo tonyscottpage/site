@@ -1,0 +1,92 @@
+---
+layout: post
+title:  A Little History of Human Organisation
+date:   2015-01-12 11:54
+tags: 
+image:
+---
+
+**So as usual we start another new year full of bright ideas for getting healthy, changing our jobs and our lives, and going green! What can we draw from a brief trawl through human history towards the kinds of living and working arrangements that will put us at our best? Read on.**
+
+![](/libb/images/african-cave-painting.jpg)
+
+Let's check back through the great waves of change from hunter-gatherers to the present day, and see what we might draw from.
+
+<div id="restOfArticle" style="display:none">
+<b>Imagine living in a world...</b><br>
+ ...with no internet, no phone, no TV, newspaper or post, just rumours. You till the land and makes efforts to scare your neighbours: raiding their cattle, setting fire to their farmsteads, stealing, feuding and fighting. When a big army turns up there is little you can do, you sign up or get killed, so the armies grow bigger. Between unending brutality and wars, tyou did enjoy occasional great advances, such as the Greeks, and the Enlightenment.<br><br>
+
+That we are not asking ourselves a modest question is confirmed by "A Little History of the World" by Ernst Gombrich (published 1936): we have continually re-organised ourselves through countless wars, armies, conquerors, slavery, the Greeks, monastries, crusades, knights, religions, roads, cities, merchants, guilds, life at court, revolutions, enlightenment, industry, machines, communism and commerce.<br><br>
+
+Helpfully others (eg. Alvin Toffler, Robin Wood) identify three big waves that each brought a new and different approach. <br><br>
+
+<b>200,000 years ago: Egalitarian life as Hunter-gatherers</b><br>
+In the vast majority of our existence as <b>nomadic hunter-gatherers</b> we are an "immediate-return" community, meaning our food is consumed as soon as it arrives. Our life is egalitarian with women roughly as influential and powerful as men. Unlike today, pressure is not put on anyone to “produce", but instead to “share" whatever we have produced. We do not force force, or assert their wishes, or brag are mercilessly teased, fought, avoided, and, even exiled. Unlike apes we have no "alpha male" or permanent leader. Our early language encourages the hunting skills, the tribes and the rituals to develop.<br><br>
+
+<b>10,000 years ago - The First Wave: Agricultural Settlements</b><br>
+As the ice melts, we settle and an <b>agricultural revolution</b> brings a different way of life, called "delayed return", in which food is grown and stored for later, to feed a denser population in larger communities. Trade develops in secondary products such as hides and skins and wool. Food surpluses produce an elite who are not directly engaged in work, and a hierarchy dominates our community and monopolises decision-making. We develop specialise into diverse jobs with new tools. There is growing inequality between the sexes and the trades. The church establishes a hierarchical bureaucracy with written rules and protocols.<br><br>
+
+<b>250 years ago - The Second Wave: Factories and Social Change</b><br>
+In the 1700s, the <b>"industrial revolution"</b> comes after an explosion of new knowledge produced by the printing press. Factories located by rivers spawn new communities of workers who, often in poor conditions, produce cheaper goods at higher levels of efficiency with the help of machines. Out of this came profit for the owners, and engineering advances that would drive the ships and cars and aeroplanes that have so expanded our horizons in the last 100 years.<br><br>
+
+But new machines cast huge numbers out of work producing social upheaval with the "luddites" fighting the advances. Poor living conditions give rise to the search for better forms of governance, and social movements in the form of communism and trades unions. Workers became more literate and more mobile.<br><br> 
+
+By the middle of the 20th century the obvious answer to how to organise is "get big: small people can no longer hold their own against centralised hierarchical organisations such as General Motors, the Catholic Church or the Red Army. Big organisations based on the "rational bureaucracy" of Max Weber offer: specific jobs with defined rights and obligations, authority levels, supervision and subordination, lots of communication and documents, recruitment based on competence and experience ( – not on family or personal connections), rules applying to everyone regardless of social status, family or religious or political links. (See <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">The End of Power</a>).<br><br>
+
+<b>50 years ago - The Third Wave: Shifting Information and Power</b><br>
+In today’s highly inter-connected <b>"information age"</b> in which technology is changing our world with high speed information (from telegraph, to telephone, radio, TV, mobile phone and internet), more of us are for the first time seeing how humans are living globally, while our lives are being rocked by the consequent social, political and economic forces. <br><br>
+
+</div>
+<a onclick="showMoreOrLess(this,'restOfArticle');">Imagine... from being egalitarian 200,000 years ago living through three great waves of change.</a>
+
+**Our conclusion?** 
+
+Our canter through 200,000 years of history shows no sign of change to certain underlying human needs that cause all people to need people (eg. we need to belong, to feel in control and safely attached to a few significant close friends). 
+
+Through the four eras we can see that the "egalitarian" phase continued only as long as we were living by "immediate-returns". Clearly we would not ditch the advances in agriculture, industry and information... that made us specialised, but these also made us hierarchical and increasingly less equal. As the new information flow reveals this, many of us experience volatility, injustice and inequality. Big no longer seems better. 
+
+This brings both questions and opportunities. We are more numerous so more difficult to regiment, with aspirations that are difficult to satisfy. The upheaval can overwhelm us, polarise us and fuel violence (as in the Je Suis Charlie story) that may be hardwired after 200,000 years of hostility. 
+
+But there are alternatives. For example, <a href="http://www.goodcountry.org/"; target="_blank">Simon Anholt</a> has named the most pressing issue of our times as "the question of how the human race finally organises itself to work together", and launched a revolutionary new political party producing an internet sensation. <a href="http://www.theguardian.com/environment/2014/dec/28/how-can-i-go-green-in-2015-lucy-siegle"; target="_blank">Lucy Siegle</a> invites us to set out in 2015 to avoid a monocultural existence and claim back ownership for aspects of our food, entertainment or technology that we thoughtlessly delegate to corporate brands. For example do we want to find alternatives to Amazon, or Tesco?
+
+**So what?**
+
+Is it really true that young people no longer want to work for big organisations, because size no longer makes sense, and "empowered by information" they can find better ways of doing things? Are they more aware than their parents the need to share resources, and to conduct our lives differently in a shrinking planet? 
+
+Either way, the time is not over for leaders, it is just harder to keep leading well without losing it. Perhaps our real work is to restore confidence. We can begin by understanding better what is going on inside our institutions, and in the minds of those we lead; to be able to innovate in a way that increases participation and rebuilds trust. 
+
+I leave you with a thought experiment: how might you speak and behave differently towards a new more connected generation if you take the following assumptions to be true? 
+
+* The World Wide Web has always existed
+
+* We can message or invite anyone across the globe to anything
+
+* Individualism and nationalism are <u>so</u> dead in the water: every person is part of one world
+
+* If we share differently we can make more of our world's resources
+ 
+* I feel loyal to the people who contribute something and who help tackle our most difficult challenges (such as climate change, unemployment, conflict etc).
+
+__________________
+
+<b>Notes</b>
+
+* Jerome Lewis on <a href="https://libcom.org/history/humans-lived-anarchist-communist-hunter-gatherers-100000-years-how-did-primitive-communi"; target="_blank">hunter-gatherers</a>.
+
+* Ernst Gombrich: <a href="http://www.amazon.co.uk/Little-History-World-Ernst-Gombrich/dp/030014332X"; target="_blank">A Little History of the World</a>.
+
+* Wikipedia: <a href="http://en.wikipedia.org/wiki/Neolithic_Revolution"; target="_blank">Neolithic Revolution</a>.
+
+* Dr Robin Wood on: <a href="http://www.amazon.co.uk/Managing-Complexity-Economist-Books-Robin/dp/1861971125"; target="_blank">Managing Complexity: how businesses can adapt and propser in the new economy</a>. Economist Books.
+
+* Alvin Toffler on: <a href="http://en.wikipedia.org/wiki/The_Third_Wave_%28Toffler%29"; target="_blank">The Third Wave</a>.
+
+* Previous posting on: <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">The End of Power</a>.
+
+* Simon Anholt: <a href="http://www.goodcountry.org/"; target="_blank">The Good Country Party</a>.
+
+* The Observer/Guardian: <a href="http://www.theguardian.com/environment/2014/dec/28/how-can-i-go-green-in-2015-lucy-siegle"; target="_blank">Ethical Living</a> by Lucy Siegle.
+
+* Image: <a href="http://commons.wikimedia.org/wiki/File:African_cave_paintings.jpg"; target="_blank">Neolithic cave painting</a> found in Tassil-n-Ajjer (Plateau of the Chasms) region of the Sahara. Public domain.
+
+__________________
