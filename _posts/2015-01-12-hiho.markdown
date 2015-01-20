@@ -10,15 +10,15 @@ image:
 
 ![](/libb/images/african-cave-painting.jpg)
 
-Let's check back through the great waves of change we lived through from being hunter-gatherers to the present day, and see what to bring from this.
+Let's check back through the great waves of change, from when we were hunter-gatherers, to find what we still want to hang onto.
 
 <div id="restOfArticle" style="display:none">
 <b>Imagine living in a world...</b><br>
- ...with no internet, no phone, no TV, newspaper or post, just rumours. You till the land and try to scare off your neighbours: raiding their cattle, setting fire to their farms, stealing, feuding and fighting. When a big army turns up there is little you can do, just sign up or get killed, so the armies grow bigger. What else beyond brutality and wars? The occasional great advance, such as the Greeks, and the Enlightenment.<br><br>
+...with no internet, no phone, no TV, newspaper or post, just rumours. You till the land and try to scare off your neighbours: raiding their cattle, setting fire to their farms, stealing, feuding and fighting. When a big army turns up there is little you can do, just sign up or get killed, so the armies grow bigger. What else beyond brutality and wars? The occasional great advance, such as the Greeks, and the Enlightenment.<br><br>
 
-That ours is not a modest question is confirmed by "A Little History of the World" by Ernst Gombrich (published 1936): we are constantly re-organising ourselves through countless wars, armies, conquerors, slavery, the Greeks, monastries, crusades, knights, religions, roads, cities, merchants, guilds, life at court, revolutions, enlightenment, industry, machines, communism and commerce.<br><br>
+That we are not asking a modest question is confirmed by "A Little History of the World" by Ernst Gombrich (published 1936): we have been constantly re-organising ourselves through countless wars, armies, conquerors, slavery, the Greeks, monastries, crusades, knights, religions, roads, cities, merchants, guilds, life at court, revolutions, enlightenment, industry, machines, communism and commerce. Each represents a different way to work together.<br><br>
 
-Helpfully others (eg. Alvin Toffler, Robin Wood) have boiled this down to  three big waves each bringing a new and different way to organise. <br><br>
+Helpfully others (eg. Alvin Toffler, Robin Wood) have boiled this unwieldy heap of examples down to three big waves each bringing a new and different way to organise. <br><br>
 
 <b>200,000 years ago: Egalitarian life as Hunter-gatherers</b><br>
 For the vast majority of our existence we are being <b>nomadic hunter-gatherers</b> in an "immediate-return" community, meaning our food is consumed as soon as it arrives. We are quite egalitarian with women roughly as influential and powerful as men. Unlike today, pressure is not put on anyone to “produce", but instead to “share" what is produced. If we force, or assert our wishes, or brag we are mercilessly teased, fought, avoided, and, even exiled. Unlike apes we have no "alpha male" or permanent leader. Our early language encourages the hunting skills, the tribes and the rituals to develop.<br><br>
@@ -34,7 +34,7 @@ But the new machines also cast huge numbers out of work, producing social upheav
 By the middle of the 20th century the obvious answer to how to organise is "get big: small people can no longer hold their own against centralised hierarchical organisations such as General Motors, the Catholic Church or the Red Army. Big organisations based on the "rational bureaucracy" of Max Weber offer: specific jobs with defined rights and obligations, authority levels, supervision and subordination, lots of communication and documents, recruitment based on competence and experience ( – not on family or personal connections), rules applying to everyone regardless of social status, family or religious or political links. (See <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">The End of Power</a>).<br><br>
 
 <b>50 years ago - The Third Wave: Shifting Information and Power</b><br>
-In today’s highly inter-connected <b>"information age"</b> in which technology is changing our world with high speed information (from telegraph, to telephone, radio, TV, mobile phone and internet), more of us are for the first time seeing how humans are living globally, while our lives are being rocked by seismic social, political and economic forces. Apple, Amazon, Microsoft and Facebook are just a few of the huge global  organisations providing our new connections. <br><br>
+In today’s highly inter-connected <b>"information age"</b> where technology is changing our world with high speed information (from telegraph, to telephone, radio, TV, mobile phone and internet), more of us are for the first time seeing how humans are living globally, while our lives are being rocked by seismic social, political and economic forces. Apple, Amazon, Microsoft and Facebook are just a few of the huge global  organisations providing our new connections. <br><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Imagine... from being egalitarian 200,000 years ago living through three great waves of change.</a>
