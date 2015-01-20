@@ -35,7 +35,7 @@ For the <a href="http://www.globaltolerance.com/thought-leadership/the-values-re
 
 In summary people expect all aspects of their lives - from their purchasing decisions to their careers ans their spare time - to have a positive impact on the world. This is not a trend. It’s a profound societal shift and it’s happening everywhere.
 
-Clearly, many organisations have work to do to embrace these values across all areas of their operations, srtrategy and communications. This is an opportunity for savvy organisations to get ahead: to do good and as a result do well.
+Clearly, many organisations have work to do to embrace these values across all areas of their operations, srtrategy and communications. This is an opportunity for savvy organisations to get ahead: to do well by doing good.
 
 This is <em>“… an organisational wakeup call and pointer to how important it is that values, mission, governance and impact are aligned. We will all be increasingly held to account for our virtuous promises. The good news is, it is good for business too.”</em> <b>Dr Neil Stott, Executive Director, Judge Business School, University of Cambridge</b>
 
