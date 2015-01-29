@@ -39,7 +39,7 @@ __________________
 
 * Draws from <a href="https://hbr.org/2014/11/what-airbnb-gets-about-culture-that-uber-doesnt"; target="_blank">HBR: What Airbnb gets About Culture </a>by Arun Sundararajan. 
  
-* Image: Public domain via Public domain images via <a href="http://www.flickr.com/commons"; target="_blank">Flickr Commons</a>.
+* Image: Public domain images via <a href="http://www.flickr.com/commons"; target="_blank">Flickr Commons</a>.
 
 __________________
 
