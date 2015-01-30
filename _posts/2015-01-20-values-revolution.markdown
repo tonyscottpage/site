@@ -6,12 +6,11 @@ tags:
 image:
 ---
 
-**Great to have a survey picking up on a revolution in values we have for several months been describing here in Jot! Now you can see what is and will be driving the new behaviours in your workplace and customer base.**
 **Great to have a survey picking up on a revolution in values we have for several months been describing here in Jot! This hard-hitting research report (from Global Tolerance) exposes what is and will be driving new behaviour in your workplace and customer base.**
 
 ![](/libb/images/values-rev.png)
 
-Is this an “organisational wake-up call"? Dr Neil Stott (Executive Director, Judge Business School, University of Cambridge) thinks so. It points to "how important it is that values, mission, governance and impact are aligned. We will all be increasingly held to account for our virtuous promises. The good news is, it is good for business too."
+Is this an organisational wake-up call? Dr Neil Stott (Executive Director, Judge Business School, University of Cambridge) says this points to: "how important it is that values, mission, governance and impact are aligned. We will all be increasingly held to account for our virtuous promises. The good news is, it is good for business too."
 
 How do we know? 
 <div id="restOfArticle" style="display:none">The research exposes the values that are now driving the behaviour of customers, employees and investors, including:<br>
