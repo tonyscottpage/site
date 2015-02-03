@@ -10,7 +10,7 @@ image:
 
 ![](/libb/images/millennials.jpg)
 
-First, what are some of the facts? "Millennial" is not just a date of birth (between 1981 and 1997): it's a mindset said to be quite different from their Baby Boomer parents (born 1946-1964, now aged 50-68). As the first group increases its youthful presence while the second is reducing, how different might the workplace become?   
+First, what are some of the facts? "Millennial" is not just a date of birth (between 1981 and 1997): it's a mindset said to be quite different from their Baby Boomer parents (born 1946-1964, now aged 50-68). Who are they and where do you find them? The cool <a href="http://www.buzzfeed.com/lukelewis/types-of-hipster-you-encounter-in-london#.poZw05Xnd"; target="_blank">easy to parody hipster people</a> in East London, or the edgy side of any capital city: they are a subset of the Millennials. As the first group of 18-34s increases its youthful presence, while the second is reducing, how different might the workplace become?   
 
 <div id="restOfArticle" style="display:none">
 
@@ -42,12 +42,14 @@ Having seen a lasting shift underway in the US, how do other countries compare? 
 
 The misgivings of the Millennial generation, all the more so in developed countries, make it hard to know how they would change the world or the workplace. These sometimes cynical, and often voracious, consumers of social media, may presume after so many scandals that "power corrupts", but if they opt out of the leader positions and the democratic process, these may be hijacked by mad people at the extremes. 
 
-We find little room to doubt that Millennials "get" the interconnected world, and in a fundamental way that their parents never did. Without this we're probably all doomed. But being less comfortable with power, "being in power" and "being under the power of others", would they try to create a world without leaders? 
+Having explored the evidence, we find little room to doubt that Millennials "get" the interconnected world, and in a fundamental way that their parents never did. Without this we're probably all doomed. But being less comfortable with power, "being in power" and "being under the power of others", would they try to create a world without leaders? 
 
 Perhaps their real challenge will be how to <u>really</u> bring people together whether that is in big or small organisations, via social media, or through a democratic process, to harness our greater collective power to improve our workplace and our world.
 __________________
 
 <b>Notes</b>
+
+* <a href="http://www.buzzfeed.com/lukelewis/types-of-hipster-you-encounter-in-london#.poZw05Xnd"; target="_blank">The 21 Types of Hipster You Encounter in London - A Spotter's Guide</a>. Buzzfeed, April 2013.
 
 * <a href="http://www.npr.org/2014/10/06/352613333/why-you-should-start-taking-millennials-seriously"; target="_blank">Why You Should Start Taking Millennials Seriously</a>. NPR, Oct 2014.
 
