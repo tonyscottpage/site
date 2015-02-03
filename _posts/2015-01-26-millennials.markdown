@@ -35,7 +35,7 @@ Having seen a lasting shift underway in the US, how do other countries compare? 
 <li>Neither is starting their own businesses particularly appealing (11 percent in developed-markets or 22 percent in emerging). So what ambition can we find?</li>
 <li>Despite their misgivings, 65 percent in emerging markets want to become the top leader in their organisation, but a much weaker 38% of those in developed markets. 
 </li>
-<li>With so few (28 percent) feeling that their current organization is making full use of their skills, we get the picture of even tmorrow's leaders bein somewhat disillusioned, unappreciated or even ignored.</li></ul>
+<li>With so few (28 percent) feeling that their current organization is making full use of their skills, we get the picture of even tmorrow's leaders being somewhat disillusioned, unappreciated or even ignored.</li></ul>
  
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
