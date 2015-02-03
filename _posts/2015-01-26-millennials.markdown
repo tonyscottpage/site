@@ -10,11 +10,11 @@ image:
 
 ![](/libb/images/millennials.jpg)
 
-First, what are some of the facts? "Millennial" is not just a date of birth (between 1981 and 1997): it's a mindset said to be quite different from their Baby Boomer parents (born 1946-1964, now aged 50-68). Who are they and where do you find them? The cool <a href="http://www.buzzfeed.com/lukelewis/types-of-hipster-you-encounter-in-london#.poZw05Xnd"; target="_blank">easy to parody hipster people</a> in East London, or the edgy side of any capital city: they are a subset of the Millennials. As the first group of 18-34s increases its youthful presence, while the second is reducing, how different might the workplace become?   
+First, what are some of the facts? "Millennial" is not just a date of birth (between 1981 and 1997): it's a mindset said to be quite different from their Baby Boomer parents (born 1946-1964, now aged 50-68). Who are they and where do you find them? The cool <a href="http://www.buzzfeed.com/lukelewis/types-of-hipster-you-encounter-in-london#.poZw05Xnd"; target="_blank">easy to parody hipster people</a> you can find in East London, or on the edgy arty side of any capital city: they are a subset of the Millennials. As this group of 18-34s increases its youthful presence, while the over 50 Boomers are reducing, how different might the workplace become?   
 
 <div id="restOfArticle" style="display:none">
 
-Not at all different, is the view of one of my clients today, who bets that Millennials are just "immature" and will "grew out of it" (as soon as they start paying for their own food and housing). However Jot is coming down on the other side: we <U>are</u> seeing early signs of a revolution and the evidence is mounting. <br><br>
+"Not at all different", is the view of one of my clients today, who bets that Millennials are just "immature" and will "grew out of it" (as soon as they start paying for their own food and housing). However Jot is coming down on the other side: we <U>are</u> seeing early signs of a revolution and the evidence is mounting. <br><br>
 
 For instance, the <a href="http://pageconsulting.co.uk/2015/0/20/values-revolution.html"; target="_blank">Values Revolution</a> we brought you reports today's young people having a greater wish to improve the world, and to work for a company that makes a positive difference. This attitude is already spreading wider, with a surprising 68% of all age groups now thinking that businesses, governments and nonprofits need to deliver <b>more social and environmental change</b>. And nearly three quarters of all ages want to see more <b>transparency</b>, and 81% more <b>accountability</b>.<br><br>
 
