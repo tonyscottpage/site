@@ -42,9 +42,9 @@ Having seen a lasting shift underway in the US, how do other countries compare? 
 
 The misgivings of the Millennial generation, all the more so in developed countries, make it hard to know how they would change the world or the workplace. These sometimes cynical, and often voracious, consumers of social media, may presume after so many scandals that "power corrupts", but if they opt out of the leader positions and the democratic process, these may be hijacked by mad people at the extremes. 
 
-Having explored the evidence, we find little room to doubt that Millennials "get" the interconnected world, and in a fundamental way that their parents never did. Without this we're probably all doomed. But being less comfortable with power, "being in power" and "being under the power of others", would they try to create a world without leaders? 
+Having explored the evidence, we find little room to doubt that Millennials "get" the interconnected world, and in a fundamental way that their parents never did. Without this we're probably all doomed. But being less comfortable with power, "being in power" or "being under the power of others", would they try to create a world without leaders? 
 
-Perhaps their real challenge will be how to <u>really</u> bring people together whether that is in big or small organisations, via social media, or through a democratic process, to harness our greater collective power to improve our workplace and our world.
+Perhaps their real challenge will be how to <u>really</u> bring people together, whether that is in big or small organisations, via social media, or through a democratic process, to harness our greater collective power to improve our workplace and our world.
 __________________
 
 <b>Notes</b>
