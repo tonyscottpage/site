@@ -16,7 +16,7 @@ Otto Scharmer and Katrin Kaufer at MIT have set out a journey to bring leaders t
 
 They call the first level of listening "downloading". This is centred on your own habit: listening for confirmation of what you already agree with, trapping you in your existing views and behaviours.<br><br>
 
-The ultimate listening at level four is called "presencing". In this you attention moves from "me" to "we" and time seems to slow down as you become connected to a wider sphere. This happens in a sports team in the zone or jazz ensemble finding its groove. From here a new reality can come into being. <br><br>
+The ultimate listening at level four is called "presencing". In this your attention moves from "me" to "we" and time seems to slow down as you become connected to a wider sphere. This happens in a sports team in the zone or jazz ensemble finding its groove. From here a new reality can come into being. <br><br>
 
 Level two is factual listening, and level three empathic listening.<br><br>  
 
