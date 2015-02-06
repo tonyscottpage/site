@@ -14,13 +14,13 @@ image:
 
 Well right now this is August, my sacred time to refresh and shed unwanted commitments. But while chilling, my inner geek brings me this unwanted topic to my light-up list: "today's workplace". 
 
-I don't really want to admit to such a mundane topic, particularly on holiday, but, to placate the geek, I ask: how <u>is</u> the workplace changing? Geek responds: it's not just in the working hours or the remote-working, but in the fundamentally different groundrules giving rise to today's "open source" world. 
+I don't really want to admit to such a mundane topic, particularly on holiday, but, to placate the geek, I ask: how <u>is</u> the workplace changing? Geek responds: it's not just in the working hours or the remote-working, but in the fundamentally different groundrules that drive today's "open source" world. 
 
-OK so galloping willingly back to what lights me up, my gut says just make a note that it is the leaders who are feeding not eating the souls of their people: their firms will gain the best ideas. So when you get back, look for the evidence. And since this topic fires you up, best make some space in your sack. 
+OK so galloping willingly back to what lights me up, my gut says just make a note that it is the leaders who are feeding not eating the souls of their people. So when you get back, look for the evidence that their firms are winning through gaining the best ideas. And since this topic fires you up, best make some space in your sack. 
 
-Please understand I'm not intending to drown any sweet little kittens, but definitely to find them some new homes. And to close this short chapter, the light-me-up list never got much longer than that, but I will say that making it felt therapeutic, and opened a new path forward. 
+Please don't think I'm intending to drown any sweet little kittens: I want to find them some new homes. And to close this short chapter, the light-me-up list never got much longer than that, but I will say that making it felt therapeutic, and opened a new path forward. 
 
-Now in case I am not the only one here who feels burdened and separated from purpose, please lighten your load and join me in this evidence gathering. Towards this I offer you a couple of questions: what inspires you? What are you finding is most inspiring for those you lead?
+Now in case I am not the only one here who feels burdened and separated from purpose, I offer you a couple of questions: what inspires you? What are you finding is most inspiring for those you lead?
 
 __________________
 <b>Notes</b>  
