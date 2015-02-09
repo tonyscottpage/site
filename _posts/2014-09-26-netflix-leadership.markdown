@@ -37,12 +37,3 @@ __________________
 
 * Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/22/leadbeater.html"; target="_blank"> How To Become a Creative Community</a>.
 * Image: youtube.com
-
-__________________
-
-
-
-
-
-
-

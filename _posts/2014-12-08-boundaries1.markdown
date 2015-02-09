@@ -29,11 +29,3 @@ __________________
 * This is the first of three Jots looking at why our boundaries have been changing. The second notices how the leader's role is changing, and a third considers how we can evolve to survive and thrive.
 
 * Image: <a href="http://commons.wikimedia.org/wiki/User:Julmin"; target="_blank">Минеева Ю. (Julmin)</a> (retouched by <a href="http://commons.wikimedia.org/wiki/User:Surendil"; target="_blank">Surendil</a>). <a href="http://en.wikipedia.org/wiki/Creative_Commons"; target="_blank">Creative Commons</a>. <a href="http://creativecommons.org/licenses/by-sa/1.0/deed.en"; target="_blank">Attribution-Share Alike 1.0 Generic license</a>.
-__________________
-
-
-
-
-
-
-

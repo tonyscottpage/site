@@ -36,4 +36,3 @@ __________________
 
 * Image: Getty Images, with permission.
 
-__________________

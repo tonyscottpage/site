@@ -29,18 +29,9 @@ So Scotland has been part of a United Kingdom for just over 300 years and this T
 
 Without doubt, both sides are leaving behind an old story of domination by Westminster, whichever way the vote goes on Thursday. But the new story that starts on Friday depends above all on people throughout Scotland, from all sides, ramping up their listening to level four, and embarking together on a "Journey of U"!      
 __________________
-<b>Notes</b>  
+<b>Notes</b> 
+
 * Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> Leading at Four Levels. </a>  
 * Image: by <a href="https://www.flickr.com/photos/ssoosay/"; target="_blank">Surian Soosay</a>, under Flickr licence <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons"; target="_blank">Creative Commons</a>
 </a>.
-
-__________________
-
-
-
-
-
-
-
-
 

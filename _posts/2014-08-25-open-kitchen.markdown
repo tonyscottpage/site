@@ -19,4 +19,3 @@ __________________
 
 * More on Wilson Page's experience of joining Mozilla, a workplace inspired by the Open Source movement<a href="http://wilsonpage.co.uk/my-journey-to-mozilla/"; target="_blank">here</a>.  
 
-__________________

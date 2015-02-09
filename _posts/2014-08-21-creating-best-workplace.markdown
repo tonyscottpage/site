@@ -25,6 +25,3 @@ __________________
 <b>Notes</b> 
  
 * Article published in HBR, May 2013 including image: <a href="http://hbr.org/2013/05/creating-the-best-workplace-on-earth/ar/1"; target="_blank">here</a>.  
-
-__________________
-

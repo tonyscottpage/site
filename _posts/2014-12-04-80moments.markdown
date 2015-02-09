@@ -24,12 +24,3 @@ __________________
 * The list: <a href="http://www.britishcouncil.org/80moments/"; target="_blank">80 Moments that Shaped The World</a>. The full report: <a href="http://www.britishcouncil.org/sites/britishcouncil.uk2/files/80-moments-report.pdf"; target="_blank">80 Moments that Shaped The World</a>. 
 
 * Image: word cloud from the British Council report.
-
-__________________
-
-
-
-
-
-
-

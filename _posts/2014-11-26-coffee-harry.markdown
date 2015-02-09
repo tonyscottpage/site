@@ -57,4 +57,3 @@ __________________
 
 * Image: <a href="http://www.public-domain-image.com">public-domain-image.com</a>, with permission.
 
-__________________

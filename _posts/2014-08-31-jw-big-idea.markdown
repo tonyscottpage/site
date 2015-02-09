@@ -48,5 +48,3 @@ __________________
 
 * The interview took place at Marbles Big Idea Forum in October 2012. <a href="http://opensource.com/business/12/10/jim-whitehurst-big-idea-leaders-as-catalysts"; target="_blank">Transcript here</a>.  
 * Image: zdnet.com
-
-__________________

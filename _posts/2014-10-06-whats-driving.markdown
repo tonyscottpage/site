@@ -66,12 +66,3 @@ __________________
 
 * Draws extensively from Moise Naim's: <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> The End of Power</a>.
 * Image: by Chappette at globecartoon.com
-
-__________________
-
-
-
-
-
-
-

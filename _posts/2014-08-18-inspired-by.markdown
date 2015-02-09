@@ -27,4 +27,3 @@ __________________
 
 * Image: Q Magazine qthemusic.com
 
-__________________

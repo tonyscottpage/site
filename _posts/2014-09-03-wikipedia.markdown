@@ -42,15 +42,3 @@ __________________
  
 * Thanks to Larry Sanger and Slashdot. His fuller description of why Wikipedia works appears <a href="http://beta.slashdot.org/story/56499"; target="_blank">here</a>.  
 * Photo <a href="http://commons.wikimedia.org/wiki/File%3ALarry_Sanger_02-2.jpg"; target="_blank"> commons.wikimedia.org</a>
-
-__________________
-
-
-
-
-
-
-
-
-
-

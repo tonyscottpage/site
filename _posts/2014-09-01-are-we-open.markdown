@@ -58,5 +58,3 @@ __________________
 
 
 * Developed in subsequent posting: <a href="http://pageconsulting.co.uk/2014/09/23/10-ways.html"; target="_blank">10 Ways to Open Up Your Company</a>. 
-
-__________________

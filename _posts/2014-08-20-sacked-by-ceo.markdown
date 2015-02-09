@@ -52,7 +52,5 @@ __________________
 * Image: leadershipdevelopmenttraininghowto.com
 * Link to subsequent postings on <a href="http://pageconsulting.co.uk/2014/08/22/torvalds-tit-for-tat.html"; target="_blank">Open Source</a>, and<a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> The End of Power</a>. 
 
- 
 
-__________________
 

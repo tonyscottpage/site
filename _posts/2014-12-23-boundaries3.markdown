@@ -33,6 +33,7 @@ If it makes sense to you as a leader to create a "giving-dominant" workplace, wh
 1. Get the right people on the bus - most people are "Matchers" who will become "Givers" in a "giving-dominant" culture, so screen out the "Takers" before you hire them, and then you tip the balance
 2. Redefine "giving" as regular small favours, and get known as a great connector 
 3. Ask for help - and show colleagues how to draw support from one another.
+
 __________________
 
 <b>Notes</b>
@@ -47,6 +48,3 @@ __________________
 
 * Image: by <a href="http://bit.ly/1B0PPw7"; target="_blank">Julie - your secret admiral</a>, under Flickr licence <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons"; target="_blank">Creative Commons</a>
 </a>.
-
-__________________
-

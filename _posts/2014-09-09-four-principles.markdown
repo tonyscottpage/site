@@ -30,13 +30,3 @@ __________________
 
 * To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/"; target="_blank">blog</a>.  
 * * Image: <a href="https://www.flickr.com/photos/planeta/"; target="_blank">Creative Commons</a>. Flickr. <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons"; target="_blank">Creative Commons</a>. <a href="https://creativecommons.org/licenses/by-sa/2.0/"; target="_blank">Attribution-Share Alike 2.0 Generic license</a>.
-
-__________________
-
-
-
-
-
-
-
-

@@ -38,13 +38,3 @@ __________________
 * For more on Otto Scharmer's Theory U go to <a href="https://www.presencing.com/executivesummary"; target="_blank"> Presencing Institute</a>.  
 * Photo: catholica.com.au
 
-__________________
-
-
-
-
-
-
-
-
-

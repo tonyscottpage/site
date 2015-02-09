@@ -38,5 +38,3 @@ __________________
 * Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/02/eve-enabling-environment.html "; target="_blank"> Eve's Enabling Environments</a>. 
 
 * Image: redefineschool.com
-
-__________________

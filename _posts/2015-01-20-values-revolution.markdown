@@ -41,5 +41,3 @@ __________________
 <b>Notes</b>
 
 * Download a copy of The Values Revolution <a href="http://www.globaltolerance.com/thought-leadership/the-values-revolution/#more-59"; target="_blank">here</a>.
-
-__________________

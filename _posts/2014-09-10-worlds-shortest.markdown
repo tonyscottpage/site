@@ -32,5 +32,3 @@ __________________
 * Philip Chircop <a href="http://www.philipchircop.com/post/5049173602/me-we-me-we-is-supposedly-the-shortest-poem"; target="_blank">here</a>. 
  
 * Richard Moss <a href="http://blog.physicaleducationupdate.com/?p=119 "; target="_blank">here</a>.
-
-__________________
