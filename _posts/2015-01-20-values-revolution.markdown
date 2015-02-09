@@ -3,7 +3,7 @@ layout: post
 title:  Welcome to the Values Revolution
 date:   2015-01-20 08:54
 tags: 
-image:
+image: libb/images/values-rev.png
 ---
 
 **Great to have a survey picking up on a revolution in values we have for several months been describing here in Jot! This hard-hitting research report (from Global Tolerance) exposes what is and will be driving new behaviour in your workplace and customer base.**

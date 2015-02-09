@@ -3,7 +3,7 @@ layout: post
 title:  Boundaries - How is a Leader's Role Changing? (2 of 3)
 date:   2014-12-12 16:24
 tags: 
-image:
+image: libb/images/berlin-wall.jpg
 --- 
 
 **A <a href="http://pageconsulting.co.uk/2014/12/08/boundaries1.html"; target="_blank">previous piece</a> on boundaries highlighted why our workplace has tilted far from its previous monolithic normal. This second describes how the role of the leader goes from decision-maker to culture-shaper.** 

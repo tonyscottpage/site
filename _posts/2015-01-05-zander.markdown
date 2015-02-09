@@ -3,7 +3,7 @@ layout: post
 title:  Test - Are their Eyes Shining?
 date:   2015-01-05 16:54
 tags: 
-image:
+image: /libb/images/zander.jpg
 ---
 
 **Colleagues in my learning set recommended I watch Benjamin Zander's TED talk. Its almost seven million previous views testify to how infectious and inspiring you might find this, and at the end Zander offers us a simple and surprising test we can all use to find out our impact as leaders.**

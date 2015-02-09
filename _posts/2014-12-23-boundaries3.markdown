@@ -3,7 +3,7 @@ layout: post
 title:  Boundaries - How Can We Evolve? (3 of 3)
 date:   2014-12-23 17:24
 tags: 
-image:
+image: libb/images/give.jpg
 ---
 
 **When the penny drops that success flows from the culture we create as leaders, we naturally ask what sort of culture we want, and how can we create it. Here instead of the the misty eyed story of a great sports team, we want to name the specific conditions in which we truly work at our best.**

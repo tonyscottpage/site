@@ -3,7 +3,7 @@ layout: post
 title:  A Little History of Human Organisation
 date:   2015-01-12 11:54
 tags: 
-image:
+image: libb/images/african-cave-painting.jpg
 ---
 
 **So as usual we start another new year full of bright ideas for getting healthy, changing our jobs and our lives, and going green! What can we draw from a brief trawl through human history towards the kinds of living and working arrangements that will put us at our best? Read on.**

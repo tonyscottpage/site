@@ -3,7 +3,7 @@ layout: post
 title:  Je suis...?
 date:   2015-01-21 11:38
 tags: 
-image:
+image: libb/images/je-suis.jpg
 ---
 
 **Kicked off by the Paris killings, "Je Suis Charlie" and the pencil protests were symbols of solidarity with the cartoonists. Quickly others, shocked and angry at the latest Charlie cover, were protesting, and demanding limits to free speech. Here Jot explores both sides and asks who am I in this, and who are you?**

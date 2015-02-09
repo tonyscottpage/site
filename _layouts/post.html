@@ -12,7 +12,12 @@ layout: bdefault
         {% endfor %}
       </ul>
 
-      <div><a class="articles-button" href="{{ site.baseurl }}/jot.html"><i class="icon-back"></i> Back to Articles</a></div>
+     <div class="span9 column">
+          <p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-arrow-left"></i> Previous..</a> 
+          {% endif %} {% if page.next.url %} <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">..Next <i class="icon-arrow-right"></i></a> {% endif %} </p>
+      </div> 
+
+       <div><a class="articles-button" href="{{ site.baseurl }}/jot.html"><i class="icon-back"></i> Back to Jot list</a></div>
 
       {% include share.html %}
 
@@ -55,7 +60,6 @@ curobj.q.value="site:"+domainroot+" "+curobj.qfront.value
   <div class="layout-b_slot-2">
     <div class="post">
       <h2 class="post_title">{{ page.title }}</h2>
-      {% if page.image %}<img class="post_image" src="{{ page.image }}" />{% endif %}
       <div class="post_content">{{ content }}</div>
 
 <!-- Read More/Less Toggle-->

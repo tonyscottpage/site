@@ -2,8 +2,8 @@
 layout: post
 title:  How will Millennials Beat the Boomers?
 date:   2015-01-26 21:38
-tags: 
-image:
+tags:  
+image: libb/images/millennials.jpg
 ---
 
 **Today two clients were arguing about whether so-called "Millennials" are actually different, and this on the same day this group is mooted to outnumber, in the US, its “Baby-Boomer” parents. But is this thing just puff, or can we expect real changes as a new group begins to dominate our workplaces?**
