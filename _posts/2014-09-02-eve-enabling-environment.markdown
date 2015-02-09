@@ -3,7 +3,7 @@ layout: post
 title: How do You Create an Enabling Environment?
 date: 2014-09-02 10:38
 tags: 
-image:
+image: libb/images/eve.jpg
 ---
 
 **We, as colleagues in MiDDLEGROUND, had learned something about stubborn problems while working to develop leaders in Africa. Five years ago, with my colleague Elana Friedman, we found Professor Eve Mitleton-Kelly whose work on "complexity" at the London School of Economics, we learned a good deal more, and came up with a joint plan.**

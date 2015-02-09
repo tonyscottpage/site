@@ -3,7 +3,7 @@ layout: post
 title:  How Not to Get Sacked by the CEO!
 date:   2014-08-20 15:15
 tags: 
-image: 
+image: libb/images/youre-fired.jpg
 ---
 
 **I work with CEOs on the receiving end of all kinds of madness including mistakes, impractical ideas, daft decisions, sullen silences and floods of tears. Such madness seems to emerge in all of us, particularly in the presence of power, just when it most matters to be sane. This shapes my advice to CEOs, and to those who must influence them.**

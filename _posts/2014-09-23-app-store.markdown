@@ -3,7 +3,7 @@ layout: post
 title:  Open An App Store
 date:   2014-09-23 12:24
 tags: 
-image:
+image: libb/images/iphone-unlock.jpg
 ---
 
 **Apple may be highly innovative but is not known as an open company. However its App Store opened a door to an unexpected win:win, with others incentivised to delight the Apple customer. How could your company offer more by opening up to "outsiders", be they customers, competitors or suppliers, perhaps on a revenue sharing basis?**

@@ -3,7 +3,7 @@ layout: post
 title:  Has the Workplace Failed Us?
 date:   2014-11-24 16:24
 tags: 
-image:
+image: libb/images/tired.jpg
 ---
 
 **More and more the kind of work we do fails to respond to the kind of human beings we have become. A new generation is demanding work that makes them feel more alive, rather than battered. Stirring stuff from Oxford historian and philosopher Theodore Zeldin. How can companies respond?**

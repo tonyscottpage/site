@@ -3,7 +3,7 @@ layout: post
 title:  Sonny shows the shift in attitudes
 date:   2014-08-19 13:55
 tags: 
-image:
+image: libb/images/beanie.jpg
 ---
 
 **During an assignment overseas I awoke to a challenge with the new generation of young people entering the workplace, that may be happening more widely across the globe. Here we set out what it is, asking if it matters and what this might mean for leaders.**

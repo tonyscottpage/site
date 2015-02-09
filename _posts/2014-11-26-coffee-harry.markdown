@@ -3,7 +3,7 @@ layout: post
 title: Coffee with Harry - Finding The Thread
 date:  2014-11-26 16:51
 tags: 
-image:
+image: libb/images/cup-of-coffee.jpg
 ---
 
 **I introduced Harry to Trude. Trude is a psychologist from "down under" currently working in high tech, and interested in leadership and organisation development. Harry is a Brit with over 30 years experience in this field. This is the first in a series of such conversations.**

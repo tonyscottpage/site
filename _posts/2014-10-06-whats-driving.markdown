@@ -3,7 +3,7 @@ layout: post
 title:  What is Driving Our Organisations to Become Open? 
 date:   2014-10-06 17:24
 tags: 
-image:
+image: libb/images/toppling-dictators.jpg
 ---
 
 **A new collective mentality adopted by customers, suppliers and staff is driving organisations to become open. Why are mindsets changing? What are these new mindsets? What are the implications for leaders?**

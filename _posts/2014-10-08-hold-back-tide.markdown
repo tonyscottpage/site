@@ -3,7 +3,7 @@ layout: post
 title:  Why Try to Hold Back the Tide?
 date:   2014-10-08 16:24
 tags: 	stocktake
-image:
+image: libb/images/canute.png
 ---
 
 **After almost eight weeks of quietly curating Jot, we take stock. We have found enough examples of “new organisations operating with greater openness" to be able to say: watch out! The "openness" wave is sweeping across our organisations, transforming how we have to lead: both on the inside and on the outside. The good news is we can see ways to swim with it...**

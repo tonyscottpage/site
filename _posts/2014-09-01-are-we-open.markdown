@@ -3,7 +3,7 @@ layout: post
 title: Are We Open Yet?
 date: 2014-09-01 14:39
 tags: 
-image:
+image: libb/images/mozilla-leap.png
 ---
 
 **We invite you to measure how close you are to being open, using a four point scale developed by Mozilla. We are asking: why might your team want to become open, and, drawing from Mozilla, what is known about how? So why not try it, copy the tips and share your tactics for getting there.**

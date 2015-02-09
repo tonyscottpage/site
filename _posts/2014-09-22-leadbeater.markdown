@@ -3,7 +3,7 @@ layout: post
 title: How to Become a Creative Community
 date:   2014-09-22 17:26
 tags: 
-image:
+image: libb/images/charles-lead-thumb.png
 ---
 
 **How do the organisations with exceptional track records for creativity, innovation and excellence operate? Charles Leadbeater looked into how they do it at Barcelona FC, Pixar, and front-runners in education, science and the social sector. Yes they often have visionary leaders, but it is something different these leaders do that makes them stand out. Find out more...**

@@ -3,7 +3,7 @@ layout: post
 title: "Torvalds' Tit for Tat"
 date: 2014-08-22 09:00
 tags: 
-image:
+image: libb/images/linux.jpg
 ---
 
 **The story of Linux is now a legend, alongside stories of Wikipedia and a handful of other collaborative projects, inspiring a global Open Source movement. How did the founder Linus Torvalds unlock the energy that has sustained the rise of Linux over the last 20 years? How could your workplace gain from adopting an Open Source Way?**

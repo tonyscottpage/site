@@ -3,7 +3,7 @@ layout: post
 title:  How Can We Work the Wikipedia Way?
 date:   2014-09-03 12:24
 tags: 
-image:
+image: libb/images/larry-sanger.jpg
 ---
 
 **After all the hype surrounding the wonderful volunteer culture at Wikpedia, we are entitled to ask how do they actually draw from people such high levels of participation and contribution. Larry Sanger, the co-founder with Jimmy Wales of Wikipedia, advises us how to start new projects on similar lines.**

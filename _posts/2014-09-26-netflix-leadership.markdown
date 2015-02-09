@@ -3,14 +3,14 @@ layout: post
 title:  Netflix Sharing the Leadership 
 date:   2014-09-26 17:00
 tags: 
-image:
+image: libb/images/patti-mccord.png
 ---
 
-**Here's a story of a lift-off moment at Netflix, some crazy freedoms and the lack of rules that made scaling up possible...**
+**Here's a story of a lift-off moment at Netflix, some crazy freedoms and the lack of rules that made scaling up possible. When Patti McCord's boss hired her to move to Netflix he said let's make the company we always dreamed of. She said no. He said what if...**
 
 ![](/libb/images/patti-mccord.png)
 
-When Patti McCord's boss hired her to move to Netflix he said let's make the company we always dreamed of. She said no. He said what if we wrote down all the mistakes we ever made and we promised we would never make them again? She still said no but then she moved to be Chief Talent Officer shaping the culture of Netflix. 
+... we wrote down all the mistakes we ever made and we promised we would never make them again? She still said no but then she moved to be Chief Talent Officer shaping the culture of Netflix. 
 
 <div id="restOfArticle" style="display:none">
 After 9/11, anthrax and related business crises Netflix was on its knees and shedding staff, then suddenly there was lift-off and the opposite problem of hiring, opening new offices and scaling up. <br><br>

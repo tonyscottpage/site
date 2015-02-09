@@ -3,7 +3,7 @@ layout: post
 title:  The Art of Shaking Our Windows with Wikinomics!
 date:   2014-09-09 17:26
 tags: 
-image:
+image: libb/images/sharing-economy1.jpg
 ---
 
 **Interesting though it is that we may all be working more the "open" way , what does it mean? The authors of "Wikinomics" give four principles that re-define how companies compete in a new open source, sharing world. What might it be like to go that way? Find out how people react to it.**

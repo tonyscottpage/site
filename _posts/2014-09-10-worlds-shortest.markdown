@@ -3,7 +3,7 @@ layout: post
 title:  "The World's Shortest Poem"
 date:   2014-09-10 10:54
 tags: 
-image:
+image: libb/images/ali-ambrosino.jpg
 ---
 
 **One sunny July day in a fine building on Carlton House Terrace overlooking The Mall, a senior manager, Paul from Portugal, told me about the world's shortest poem, because he felt it encapsulated in a nutshell our exploration of how collaboration actually works. So here it is!** 

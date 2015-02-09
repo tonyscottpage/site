@@ -3,7 +3,7 @@ layout: post
 title:  How Can You Create the Best Workplace on Earth?
 date:   2014-08-21 12:24
 tags: 
-image:
+image: libb/images/best-workplace.png
 ---
 
 **See if you admire like I did this piece of work by Rob Goffee and Gareth Jones showing us the six main things employees require to be most productive! Two questions. How does your organisation measure up? What do you want to do about it?**

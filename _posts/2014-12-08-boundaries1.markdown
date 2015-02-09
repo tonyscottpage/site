@@ -3,7 +3,7 @@ layout: post
 title:  Boundaries - Why Are We Opening Up? (1 of 3)
 date:   2014-12-08 17:24
 tags: 
-image:
+image: libb/images/kremlin.jpg
 ---
 
 **The sceptical questioner answered his own question: "are you saying completely open? No! That's not a natural state, we’d be overwhelmed by too much information... and in more ways than one!". So why are "open" organisations managing their boundaries differently?**

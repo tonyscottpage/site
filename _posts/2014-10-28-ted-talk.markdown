@@ -3,7 +3,7 @@ layout: post
 title: Ever Thought of Doing a TED Talk? 
 date:   2014-10-28 11:04
 tags: 
-image:
+image: libb/images/ted2.jpg
 ---
 
 **Well I hadn’t until someone asked me that just over a year ago. What made this question so powerful, what was the gripping idea it produced, and where could this powerful question take you?**

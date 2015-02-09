@@ -3,7 +3,7 @@ layout: post
 title:  How Can A CEO Create an Open Company?
 date:   2014-08-31 12:24
 tags: 
-image:
+image: libb/images/red-hat-ceo.png
 ---
 
 **How can a CEO create an open company? Jim Whitehurst CEO of the billion dollar company Red Hat, and former COO Delta Airlines, shares his perspective on the different approach required. His big idea? Be a Catalyst Leader!**

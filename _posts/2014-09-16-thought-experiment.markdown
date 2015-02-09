@@ -3,7 +3,7 @@ layout: post
 title:  A Thought Experiment into U
 date:   2014-09-16 18:00
 tags: 
-image:
+image: libb/images/scot-referendum.jpg
 ---
 
 **In a recent <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> posting </a>we introduced four levels of listening and a three part journey that allows a different future to happen when we are stuck in something difficult, painful or intractable. How might this help us with current difficulties in say Scotland or Middle East? We tried the Scotland example as a thought experiment into Theory U.**

@@ -3,7 +3,7 @@ layout: post
 title:  80 Moments
 date:   2014-12-04 12:24
 tags: 
-image:
+image: libb/images/80moments.png
 ---
 
 **Were you ever inspired by something big happening, then crushed by yet another catastrophe striking? When wrong-footed like this, these 80 moments that shaped our world from 10,000 diverse voices worldwide, are a source of greater stability, wisdom and insight.**

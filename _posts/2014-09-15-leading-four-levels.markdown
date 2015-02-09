@@ -3,7 +3,7 @@ layout: post
 title:  Leading at Four Levels
 date:   2014-09-15 16:10
 tags: 
-image:
+image: libb/images/scharmer-kaufer.jpg
 ---
 
 **Look at terrorism, climate change, financial crunch or any of our biggest, least tractable problems, and we can ask why is it that we collectively create results that no one wants?**

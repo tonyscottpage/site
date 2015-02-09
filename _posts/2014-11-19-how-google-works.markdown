@@ -3,7 +3,7 @@ layout: post
 title:  How Google Works
 date:   2014-11-19 17:48
 tags: 
-image:
+image: libb/images/google.jpg
 ---
 
 **How much of what we've learned about managing businesses is no longer useful? At Google, Eric Schmidt and Jonathan Rosenberg asked themselves a powerful question: "what's different now?"**

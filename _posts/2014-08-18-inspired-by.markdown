@@ -3,7 +3,7 @@ layout: post
 title:  What is Inspiring You? Why Elbow?
 date:   2014-08-18 16:03
 tags: 
-image: 
+image: libb/images/guy-garvey.jpg
 ---
 
 **This question came up recently when the CEO said you have to keep biting people's heels, but his number two said no, we must fire up a new generation in a way that is less brutal and much more inspiring. So I started listing what lights me up, and surprisingly...**

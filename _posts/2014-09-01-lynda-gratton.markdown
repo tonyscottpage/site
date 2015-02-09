@@ -3,7 +3,7 @@ layout: post
 title:  Why Write a Love Letter to Corporations?
 date:   2014-09-01 12:24
 tags: 
-image:
+image: libb/images/lynda-gratton.jpg
 ---
 
 **In a former life I worked with a young business consultant who is today a renowned professor. Recently she surprised those suffering scepticism and doubts, by writing a love letter... to corporations, pinpointing what companies can do better than anyone else.**

@@ -3,7 +3,7 @@ layout: post
 title:  Why Jot?
 date:   2014-08-13 15:30
 tags: 
-image: 
+image: libb/images/jot_photo2.jpg
 ---
 
 **Jot is a real book (with a sparkly cover!), written old style, pen on paper, without any machine. It is what pours, during an uncluttered half hour here or there, from the infinity of the mind onto a blank white page.** 

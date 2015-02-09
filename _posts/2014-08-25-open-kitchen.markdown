@@ -3,7 +3,7 @@ layout: post
 title:  Open Kitchen - Open Workplace
 date:   2014-08-25 18:45
 tags: 
-image:
+image: libb/images/mozillateam.jpg
 ---
 
 **The Mozilla office near to Trafalgar Square has the hallmarks of "cool", with bicycles hanging on the wall, and a free, always open and well-stocked kitchen. What can we learn from the Mozilla kitchen about how to create a better workplace?**
