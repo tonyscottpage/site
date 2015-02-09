@@ -1,5 +1,5 @@
 ---
-layout: bdefault
+layout: bdefault-post
 ---
 <div class="layout-b">
   <div class="layout-b_slot-1">
@@ -12,12 +12,12 @@ layout: bdefault
         {% endfor %}
       </ul>
 
-     <div class="span9 column">
+      <div>
           <p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-arrow-left"></i> Previous..</a> 
           {% endif %} {% if page.next.url %} <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">..Next <i class="icon-arrow-right"></i></a> {% endif %} </p>
       </div> 
 
-       <div><a class="articles-button" href="{{ site.baseurl }}/jot.html"><i class="icon-back"></i> Back to Jot list</a></div>
+       <div><a class="articles-button" href="{{ site.baseurl }}/jot.html"><i class="icon-arrow-left"></i> Back to Jot list</a></div>
 
       {% include share.html %}
 

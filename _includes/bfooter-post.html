@@ -1,0 +1,12 @@
+<div class="bfooter">
+  <div class="bfooter_name">&copy; 2014 Tony Page</div>
+    
+    <ul class="footer_nav">
+
+	<li class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-arrow-left"></i> Previous..</a> 
+    {% endif %} {% if page.next.url %} <a href="{{page.next.url}}" title="Next Post: {{page.next.title}}">..Next <i class="icon-arrow-right"></i></a> {% endif %} </li>
+    <li><a class="articles-button" href="{{ site.baseurl }}/jot.html"><i class="icon-arrow-left"></i> Back to Jot list</a></li>
+    <li><a class="articles-button" href="/"><i class="icon-arrow-left"></i> Back to Page Consulting</a></li>
+
+  </ul>
+</div>

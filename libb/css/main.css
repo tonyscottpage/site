@@ -913,8 +913,26 @@ pre code {
 }
 
 /**
- * Footer
+ * Bfooter
  */
+
+
+.bfooter_nav {
+  display: none;
+  font-size: 15px;
+  /*padding-bottom: 20px;*/
+  /*border-bottom: solid 1px #eee;*/
+}
+
+.bfooter_nav a {
+  /*color: #F03E55;*/
+}
+
+.bfooter a:hover {
+  color: #F03E55;
+  /*text-decoration: underline;*/
+}
+
 .bfooter {
   padding-top: 48px;
   text-align: center;

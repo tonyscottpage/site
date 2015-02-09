@@ -38,6 +38,7 @@
 
 .bfooter_share {
   text-align: center;
+  font-style: italic;
 
   li {
     @include transition(transform 160ms);
