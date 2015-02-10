@@ -10,12 +10,8 @@ image: libb/images/jot_photo2.jpg
 
 ![](/libb/images/jot_photo2.jpg)
 
-Jot begins with what I notice others, people and groups in teams and organisations, are saying and doing that is really interesting or inspiring, sometimes also unexpected and quirky. It captures a lot of "is", a little "was" and "could be", hardly any "should". 
+Jot begins with what I notice others, people and groups in teams and organisations, are saying - leave out the boring stuff, and catch what seems interesting, unexpected or just not quite right. You will find a lot of "is", a little "was" and "could be", hardly any "should". 
 
-From many random jottings in the handwritten book I am sharing just a few extracts. But why? 
+From random jottings in the handwritten book I am sharing just a few extracts. But why?  Did you ever just want to "say" something, as a witness to what seems noteworthy? Could these examples somehow feed the soul, of the writer, and a reader, inspire others to want to share? 
 
-Did you ever just want to "say" something, as a witness to what seems noteworthy? Beyond letting someone be heard or seen, could these examples open our windows to insight or change, might they feed the soul, or jog the universe (or "you-niverse"). Let's see what happens! 
-
-Having worked all round the world, this husband and father is noticing how the workplace is operating differently in our much more open, inter-connected and (sometimes) more sharing planet. I invite us to be curious about the assumptions and myths we are holding as leaders: how are we holding people back and what is truly enabling people to venture foward?
-
-If and when you feel a jog, let us know and we will start a discussion. At any time you can share, or follow. In these ways our jots and jogs can travel even further!
+Let's jog the universe and wake ourselves up to what's missing! 

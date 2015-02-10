@@ -6,7 +6,7 @@ tags:
 image: libb/images/larry-sanger.jpg
 ---
 
-**After all the hype surrounding the wonderful volunteer culture at Wikpedia, we are entitled to ask how do they actually draw from people such high levels of participation and contribution. Larry Sanger, the co-founder with Jimmy Wales of Wikipedia, advises us how to start new projects on similar lines.**
+**After all the hype surrounding the wonderful volunteer culture at Wikpedia, we are entitled to ask how do they actually draw from people such high levels of participation and contribution. Larry Sanger, the co-founder with Jimmy Wales of Wikipedia, advises us how to start new projects on similar lines: "It was our willingness to exercise our creativity..."**
 
 ![](/libb/images/larry-sanger.jpg)
 
