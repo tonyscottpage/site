@@ -17,5 +17,5 @@ Walking into a large open kitchen area, I asked: "Do you have to pay?". No it’
 __________________
 <b>Notes</b>  
 
-* More on Wilson Page's experience of joining Mozilla, a workplace inspired by the Open Source movement<a href="http://wilsonpage.co.uk/my-journey-to-mozilla/"; target="_blank">here</a>.  
+* More on Wilson Page's experience of joining Mozilla, a workplace inspired by the Open Source movement <a href="http://wilsonpage.co.uk/my-journey-to-mozilla/"; target="_blank">here</a>.  
 

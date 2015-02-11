@@ -1,25 +1,27 @@
 ---
 layout: post
-title:  How Can You Create the Best Workplace on Earth?
+title:  How Can You Create the Best Workplace?
 date:   2014-08-21 12:24
 tags: 
 image: libb/images/best-workplace.jpg
 ---
 
-**See if you admire like I did this piece of work by Rob Goffee and Gareth Jones showing us the six main things employees require to be most productive! Two questions. How does your organisation measure up? What do you want to do about it?**
+**Here is a great piece of work by Rob Goffee and Gareth Jones showing us six main things employees require to be most productive! Two questions: How does your organisation measure up? And What do you want to do about it?**
 
 ![](/libb/images/best-workplace.jpg)
 
-For three years they asked hundreds of executives in surveys and seminars around the globe to describe the organisation of their dreams. Let's not beat around the bush, here are the six common factors:
+For three years Goffee and Jones asked hundreds of executives in surveys and seminars around the globe to describe the organisation of their dreams. Let's not beat around the bush. Here are the six common factors:
 
 1. <b>Let people be themselves</b> - they need to be able to say what they truly think to be able to do a good job
-2. <b>Unleash the flow of information</b> - don't spin, distort or hold back. Radical honesty is difficult but it makes sense today when trust levels are so low and background noise so high. 
-3. <b>Magnify people's strengths</b> - make everyone in the company even better by providing stretch assignments, networks, training, and 100 other ways.
+2. <b>Unleash the flow of information</b> - don't spin, distort or hold back. Radical honesty is difficult but it makes sense today when trust levels are so low and background noise so high 
+3. <b>Magnify people's strengths</b> - make everyone in the company even better by providing stretch assignments, networks, training.. and 100 other ways
 4. <b>Stand for more than shareholder value</b> - let people forge connections between personal values and company purpose to determine the way you do business
-5. <b>Show how the daily work makes sense</b> - bring people together into the same room and they will submerge their own egos into the collective, and you no longer need to lead them in the traditional sense: work becomes a "cause"
+5. <b>Show how the daily work makes sense</b> - bring people together into the same room and they will submerge their own egos into the collective, and you no longer need to lead them in a traditional sense: work becomes a "cause"
 6. <b>Have rules people can believe in</b> - rules are needed but employees are ever more sceptical of hierarchy and charisma so give them powerful reasons for necessary structure.
 
-Two questions. How does your organisation measure up? What do you want to do about it?
+Seems like the kind of workplace a generation with attitudes like <a href="http://pageconsulting.co.uk/2014/08/19/sonny.html"; target="_blank">Sonny</a> could respond to. 
+
+Two questions. How does your organisation measure up? And what do you want to do about it?
 
 __________________
 <b>Notes</b> 

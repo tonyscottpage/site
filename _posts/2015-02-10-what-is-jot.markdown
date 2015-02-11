@@ -12,7 +12,7 @@ image: libb/images/jot_photo2.jpg
 
 Jot is like a blog but a different, quieter form, in that it does not aim to sell services, or to go viral. It still serves a purpose whether the number of readers is 1 million, 1 or zero.
 
-The broad topic of Jot is "leadership": it is aimed at leaders and those who work with them, that is, those who are interested in how to lead, or affected by how leadership is spreading (or not) across teams in a workplace that is going through significant change.
+The broad topic of Jot is "leadership": it is aimed at leaders and those who work with them, that is, those who are interested in how to lead, or affected by how leadership is spreading (or not) across teams in a workplace that is going through significant change. The writer is interested in the greater potential realised when a person connects with others towards a common purpose.
 
 <div id="restOfArticle" style="display:none">
 Who is it really for? The writer, partly yes, but the benefits (of release and understanding and connection) are achieved more powerfully by putting it out there publicly. Imagine you are standing in the hallway of your happy home, and opening the front door you are blinded by the light, but compelled all the same to cross that threshold into the unknown: that is a transition, and Jot, at its core, is a support to those in transition. In my case I advance into the obscurity of semi-retirement: needing to decide which work matters most.
