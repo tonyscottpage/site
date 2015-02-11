@@ -6,7 +6,7 @@ tags:
 image: libb/images/lynda-gratton.jpg
 ---
 
-**In a former life I worked with a young business consultant who is today a renowned professor. Recently she surprised those suffering scepticism and doubts, by writing a love letter... to corporations, pinpointing what companies can do better than anyone else.**
+**In a former life I worked with a young business consultant who is today a renowned professor. Recently Lynda Gratton surprised those sceptical about corporations... by writing them a love letter, pointing out what companies can do better than anyone else.**
 
 ![](/libb/images/lynda-gratton.jpg)
 
@@ -23,7 +23,7 @@ Far from being naive, Lynda actually notices what companies achieve, for example
 
 Lynda pinpoints three things companies do better than anyone else (innovation, scaling and mobilising, building alliances) and asks why don't we harness these towards our two most complex global challenges: youth unemployment and climate change.
 
-Inspiring stuff! 
+As someone concerned by those two challenges, and impressed with what corporations have achieved, I think Lynda has a point! Why don't we? 
 
 __________________
 <b>Notes</b>

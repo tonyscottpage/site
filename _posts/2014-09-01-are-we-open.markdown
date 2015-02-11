@@ -44,12 +44,17 @@ Working open is more of a slider or dial than an “on/off” switch. At a given
 <li>Gear 2. Open:** We work in public spaces, blogs and social media, instead of closed email threads.  We share signposts, drafts, prototypes and roadmaps to surface what’s needed to enable smart co-building. If we don’t, our communities will have no idea how to get involved nor will our immediate peers and colleagues be able to help as effectively. Comment: this gear is like speaking out loud in a normal voice, not shouting or using a megaphone. </li>
 
 <li>Gear 3. Shout it from the rooftops:** We are issuing a press release, getting our picture on the cover of Rolling Stone. Taking it up a notch to a higher order of magnitude, like: “Holy crap we’re releasing Firefox 4!”. Comment: this enables participation at scale with co-builders, mainstream participants or consumers. </li></ul><br>
-
-<h1>Why is agreeing on what gear you’re in useful?</h1> 
-Many of us are uncomfortable about the distinction between gears 2 and 3. It’s easy to confuse “working open” with: “let’s tell the whole world about it”.  We worry that saying something in a blog post will commit us to things in public before they’re ready. When in fact, those fears rarely, if ever, materialize. And the benefits far outweigh the imagined risk. <br><br> 
+ 
+Many of us are uncomfortable about the distinction between gears 2 and 3.
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
+
+It’s easy to confuse “working open” with: “let’s tell the whole world about it”.  We worry that saying something in a blog post will commit us to things in public before they’re ready. When in fact, those fears rarely, if ever, materialize. 
+
+And the benefits far outweigh the imagined risk.  
+
+
 
 __________________
 <b>Notes</b> 
