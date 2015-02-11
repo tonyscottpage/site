@@ -6,18 +6,18 @@ tags:
 image: libb/images/iphone-unlock.jpg
 ---
 
-**Apple may be highly innovative but is not known as an open company. However its App Store opened a door to an unexpected win:win, with others incentivised to delight the Apple customer. How could your company offer more by opening up to "outsiders", be they customers, competitors or suppliers, perhaps on a revenue sharing basis?**
+**Apple may be highly innovative but is not known as an "open" company. However its App Store did open a door to an unexpected win:win, with outside developers incentivised to delight the Apple customer. How could your company offer more by opening up to "outsiders", be they customers, competitors or suppliers, perhaps on a revenue sharing basis?**
 
 ![](/libb/images/iphone-unlock.jpg)
 
 In 2007, Apple Computer launched the iPhone, without any third-party software: the CEO Steve Jobs believed most users did not need it. Soon after its release, however, developers managed to "jailbreak" the iPhone and begin coding third-party apps for the device.
 
-But in July 2008, Apple launched the App Store, officially introducing new third-party apps for users to purchase and download. All apps are subject to a review by Apple staff when submitted and can be rejected if they do not pass Apple's guidelines. And Apple takes a 30% commission on revenues for apps sold through the store. 
+In July 2008, Apple surprised us all by launching the App Store, offering new apps from outside developers for users to purchase and download. While appearing to open up Apple also retains control because apps are subject to a review by their staff and can be rejected if they do not pass the guidelines. Apple benefits from a hefty 30% cut of all revenues flowing through the store. 
+While Apple has been criticized it's controlling way of operating the store, this has been a another major financial success for the company: reaching over 40 billion app downloads in 2013, with a library of over 800,000 apps available. Competitors have followed: the Android Market launched in September 2008 and BlackBerry's App World launched in April 2009. 
 
-While Apple has been criticized for how it operates the App Store, it has been a major financial success for the company: reaching over 40 billion app downloads as of 2013, with a library of over 800,000 apps available. Competitors have followed: the Android Market launched in September 2008 and BlackBerry's App World launched in April 2009. 
+From application development we are now seeing "open source" spread into entirely new areas including music, education, science, pharma, consumer products, even to the big manufacturers BMW, P&G and Novartis. The way oto operate at large scale seems to be changing. 
 
-Having seen "open source" spread so quickly from its origins in software, to music, education, science, pharma, consumer products, now even involving big manufacturers including BMW, P&G and Novartis, it is clear this is a competitive issue, and the way of the world is changing. 
-Isn't it time for you to ask: how can we make our company more open? 
+Isn't it time for you to consider: how could a more open business model let us move towards our greater ambitions? 
 __________________
 <b>Notes</b>
   

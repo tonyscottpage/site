@@ -6,7 +6,7 @@ tags:
 image: libb/images/moises-naim.png
 ---
 
-**Power, is easier to lose and harder to use: you can see this wherever you look. The Pope resigns, President Morsi is toppled, Kodak closes. In business and in global geo-politics small players are finding a new kind of power and competing with the biggest. Does this matter? Yes. Three revolutions today bring us exhilarating opportunity, but also great danger and challenges for leaders. What to do?**
+**Power, is easier to lose and harder to use. The Pope resigns, President Morsi is toppled, Kodak closes. In business and in global geo-politics small players are finding a new kind of power and competing with the biggest. Does this matter? Yes. Three revolutions today bring us exhilarating opportunity, but also great danger and challenges for leaders. What to do?**
 
 ![](/libb/images/moises-naim.png)
 

@@ -10,7 +10,7 @@ image: libb/images/scot-referendum.jpg
 
 ![](/libb/images/scot-referendum.jpg)
 
-So Scotland has been part of a United Kingdom for just over 300 years and this Thursday brings a vote of the Scottish people to decide whether they wish to continue. In the last few days leaders of the three main UK parties have left Westminster and taken to the road in Scotland to try to persuade people of Scotland to vote no to independence.
+So Scotland has been part of a United Kingdom for just over 300 years and this Thursday brings a vote of the Scottish people to decide whether they wish to continue. In the last few days, leaders of the three main UK parties have left Westminster and taken to the road in Scotland, to try to persuade people of Scotland to vote no to independence.
 
 <div id="restOfArticle" style="display:none">
 

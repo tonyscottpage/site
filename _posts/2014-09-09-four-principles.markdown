@@ -1,32 +1,34 @@
 ---
 layout: post
-title:  The Art of Shaking Our Windows with Wikinomics!
+title:  Shaking Our Windows with Wikinomics!
 date:   2014-09-09 17:26
 tags: 
-image: libb/images/sharing-economy1.jpg
+image: libb/images/shareeconcommons.jpg
 ---
 
-**Interesting though it is that we may all be working more the "open" way , what does it mean? The authors of "Wikinomics" give four principles that re-define how companies compete in a new open source, sharing world. What might it be like to go that way? Find out how people react to it.**
+**The authors of "Wikinomics" make bold claims, and offer four provative principles that re-define how companies are competing in today's increasingly collaborative world. What might it be like to go that way? Find out how people may react.**
 
-![](/libb/images/sharing-economy1.jpg)
+![](/libb/images/shareeconcommons.jpg)
 
-The Wikinomics authors, Don Tapscott and Anthony Williams, make bold claims: "twenty years from now we will look back at this... as a critical tipping point in ecomomic and social history. We will understand that we entered an new age... based on new principles, worldviews and business models where the nature of the game changed." They go on to describe four principles - <b>openness, peer-to-per working, sharing and acting globally</b> - as defining how successful 21st century firms compete.
+The Wikinomics authors, Don Tapscott and Anthony Williams, assert: "twenty years from now we will look back at this... as a critical tipping point in ecomomic and social history. We entered a new age... based on new business models where the nature of the game changed." They go on to describe four principles - <b>openness, peer-to-per working, sharing, and acting globally</b> - as defining how successful 21st century firms will compete.
 
 <div id="restOfArticle" style="display:none">
 
-The new ways of competing were first shown in software (Linux) then spreading to publishing (Wikipedia) and music (iPod, iTunes) and now mass collaboration in all sectors (pharmaceuticals, manufacturing, aerospace, education, government), rapidly becoming mainstream and the new orthodoxy. Do you know any leader who boasts of their company being hierarchical, closed or secretive?<br><br>
+The new ways of competing were first demonstrated in software (Linux) then spread into publishing (Wikipedia) and music (iPod, iTunes) and now we can see mass collaboration in many sectors (pharmaceuticals, manufacturing, aerospace, education, government) becoming mainstream and a new orthodoxy. <br><br>
 
-But has your organisation yet managed to shift in that direction? Tapscott and Williams quote Bob Dylan and say this will... "shake your windows and rattle your doors". You can try a quick litmus test to find out. What happens when you raise a provocative idea?<br><br> 
+Do you know any leader who still boasts of their company being hierarchical, closed or secretive? But has your organisation yet managed to shift in that direction? Tapscott and Williams quote Bob Dylan and say this will... "shake your windows and rattle your doors". You can try a quick litmus test to find out. Notice what happens when you raise the Wikinomics idea!<br><br> 
 
-I did this recently to help a client team think about their vision to 2020. The provocative example I gave them (actually of adopting the four principles above) generated a surprising range of reactions: this is really inspiring...this is a wild storm... I wish you had given us this earlier... giving me a headache... it's too big for us... we've got too much going on right now... have you any smaller more practical ideas? What a few loved and embraced, many others rejected.<br><br>
+I did this recently to help a client team think about their vision to 2020. I invited them to consider adopting the four Wikinomics principles, and generated a surprising range of reactions: "this is really inspiring"..."this was a wild storm"... "I wish you had given this earlier"... "you are giving me a headache"... "it's too big for us"... "we've got too much going on right now"... "have you any smaller more practical ideas?" 
+
+In summary, aspect that a few of them most loved and embraced, many others rejected!<br><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-Perhaps unsurprisingly rattling doors provokes defensiveness, but despite this leaders will be throwing open their windows and doors, to co-create entirely new economic eco-systems. 
+Perhaps unsurprisingly shaking windows provokes defensiveness, but despite this we can expect leaders to continuing throwing open their doors, to co-create entirely new economic eco-systems. 
 
 __________________
 <b>Notes</b> 
 
 * To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/"; target="_blank">blog</a>.  
-* * Image: <a href="https://www.flickr.com/photos/planeta/"; target="_blank">Creative Commons</a>. Flickr. <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons"; target="_blank">Creative Commons</a>. <a href="https://creativecommons.org/licenses/by-sa/2.0/"; target="_blank">Attribution-Share Alike 2.0 Generic license</a>.
+* Image: <a href="http://forums.techsoup.org/cs/community/b/tsblog/archive/2014/05/14/nonprofits-imagine-a-better-sharing-economy.aspx"; target="_blank">TechSoup Global Forums</a>. <a href="https://creativecommons.org/licenses/by/4.0/"; target="_blank">Creative Commons 4.0</a>.
