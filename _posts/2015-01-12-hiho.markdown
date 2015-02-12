@@ -6,54 +6,48 @@ tags:
 image: libb/images/african-cave-painting.jpg
 ---
 
-**So as usual we start another new year full of bright ideas for getting healthy, changing our jobs and our lives, and going green! What can we draw from a brief trawl through human history towards the kinds of living and working arrangements that will put us at our best? Read on.**
+**We begin another new year seeking better health or jobs or greener lives! What can a brief trawl through human history give us towards becoming our best? What might we still want to hang onto from 200,000 years of learning how to live?**
 
 ![](/libb/images/african-cave-painting.jpg)
 
-Let's check back through the great waves of change, from when we were hunter-gatherers, to find what we still want to hang onto.
+That we are not asking a modest question is confirmed by "A Little History of the World" by Ernst Gombrich (published 1936). Imagine... having no internet, no phone, no TV, newspaper or post, just rumours. You hunt or till the land and try to scare off your neighbours. Since then we have been constantly re-organising ourselves with wars, armies, conquerors, slavery, the Greeks, monastries, revolutions. Each represents a different way to work together.
+
+Helpfully others (eg. Alvin Toffler, Robin Wood) have boiled this unwieldy heap of experiences down to <b>three big waves</b> each with new ways to organise. 
 
 <div id="restOfArticle" style="display:none">
-<b>Imagine living in a world...</b><br>
-...with no internet, no phone, no TV, newspaper or post, just rumours. You till the land and try to scare off your neighbours: raiding their cattle, setting fire to their farms, stealing, feuding and fighting. When a big army turns up there is little you can do, just sign up or get killed, so the armies grow bigger. What else beyond brutality and wars? The occasional great advance, such as the Greeks, and the Enlightenment.<br><br>
-
-That we are not asking a modest question is confirmed by "A Little History of the World" by Ernst Gombrich (published 1936): we have been constantly re-organising ourselves through countless wars, armies, conquerors, slavery, the Greeks, monastries, crusades, knights, religions, roads, cities, merchants, guilds, life at court, revolutions, enlightenment, industry, machines, communism and commerce. Each represents a different way to work together.<br><br>
-
-Helpfully others (eg. Alvin Toffler, Robin Wood) have boiled this unwieldy heap of examples down to three big waves each bringing a new and different way to organise. <br><br>
 
 <b>200,000 years ago: Egalitarian life as Hunter-gatherers</b><br>
-For the vast majority of our existence we are being <b>nomadic hunter-gatherers</b> in an "immediate-return" community, meaning our food is consumed as soon as it arrives. We are quite egalitarian with women roughly as influential and powerful as men. Unlike today, pressure is not put on anyone to “produce", but instead to “share" what is produced. If we force, or assert our wishes, or brag we are mercilessly teased, fought, avoided, and, even exiled. Unlike apes we have no "alpha male" or permanent leader. Our early language encourages the hunting skills, the tribes and the rituals to develop.<br><br>
+For the vast majority of our existence we are being <b>nomadic hunter-gatherers</b> in an "immediate-return" community: our food is consumed as soon as it arrives. We are egalitarian with women roughly as influential and powerful as men. Rather than putting pressure on anyone to “produce", we must “share" what is produced. If we force, or assert our wishes, or brag we are mercilessly teased, fought, or even exiled. Unlike apes we have no "alpha male" or permanent leader. Our early language encourages our hunting skills,  tribes and rituals to develop.<br><br>
 
 <b>10,000 years ago - The First Wave: Agricultural Settlements</b><br>
-As the ice melts, we settle and an <b>agricultural revolution</b> brings a different way of life, called "delayed return", meaning food is grown and stored for later, to feed a denser population in a large community. Trade is created in secondary products such as hides and wool. Food surpluses throw up an elite who are not directly engaged in work, and a hierarchy dominates our community's decision-making. As we specialise into diverse jobs there is growing inequality between the trades, and the sexes. The church establishes a hierarchical bureaucracy with written rules and protocols.<br><br>
+As the ice melts, we settle and an <b>agricultural revolution</b> brings a  way of life called "delayed return": food is grown and stored to feed a denser population in a large community. Trade grows up in secondary products such as hides and wool. Food surpluses throw up an elite who are not directly engaged in work, and a hierarchy dominates our community's decision-making. As we specialise into diverse jobs, inequality grows up between the trades, and the sexes. The church establishes a hierarchical bureaucracy with written rules and protocols.<br><br>
 
 <b>250 years ago - The Second Wave: Factories and Social Change</b><br>
-In the mid-1700s, the <b>"industrial revolution"</b> occurs after an explosion of new knowledge spread by the new printing press. Factories located by rivers spawn communities of workers who, often in poor conditions, produce cheap goods at high levels of efficiency using machines. Profit flows to the owners, fuelling further engineering advances that will drive the ships and cars and aeroplanes that have so expanded our horizons in the last 100 years.<br><br>
+In the mid-1700s, the <b>"industrial revolution"</b> arises from an explosion of new knowledge after the new printing press. Factories by rivers spawn communities of workers who, often in poor conditions, produce cheap goods efficiently using machines. Profit flows to the owners, fuelling engineering advances that will drive the ships and cars and aeroplanes that have since expanded our horizons.<br><br>
 
-But the new machines also cast huge numbers out of work, producing social upheaval with "luddites" fighting the advances. Poor living conditions give rise to a search for better forms of governance, and new social movements in the form of communism and trades unions. Workers became more literate and more mobile.<br><br> 
+But the new machines also cast huge numbers out of work, producing social upheaval with "luddites" fighting the advances. Poor living conditions new social movements towards better governance in the form of communism and trades unions. Workers become more literate and mobile.<br><br> 
 
-By the middle of the 20th century the obvious answer to how to organise is "get big: small people can no longer hold their own against centralised hierarchical organisations such as General Motors, the Catholic Church or the Red Army. Big organisations based on the "rational bureaucracy" of Max Weber offer: specific jobs with defined rights and obligations, authority levels, supervision and subordination, lots of communication and documents, recruitment based on competence and experience ( – not on family or personal connections), rules applying to everyone regardless of social status, family or religious or political links. (See <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">The End of Power</a>).<br><br>
+By the middle of the 20th century the answer to how to organise is "get big: small people no longer hold their own against big centralised organisations like General Motors, the Catholic Church or the Red Army. The "rational bureaucracy" of Max Weber offers: specific jobs with defined rights and obligations, authority levels, supervision and subordination, lots of communication and documents, recruitment based on competence. The rules apply to everyone regardless of social status, family or religious or political links. (See <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">The End of Power</a>).<br><br>
 
 <b>50 years ago - The Third Wave: Shifting Information and Power</b><br>
-In today’s highly inter-connected <b>"information age"</b> where technology is changing our world with high speed information (from telegraph, to telephone, radio, TV, mobile phone and internet), more of us are for the first time seeing how humans are living globally, while our lives are being rocked by seismic social, political and economic forces. Apple, Amazon, Microsoft and Facebook are just a few of the huge global  organisations providing our new connections. <br><br>
+In today’s highly inter-connected <b>"information age"</b> technology has transformed our world with high speed information (from telegraph, to telephone, radio, TV, mobile phone and internet). More of us can now see how humans are living globally, while we being rocked by seismic social, political and economic forces. Apple, Amazon, Microsoft and Facebook are just a few of the huge global organisations connecting us. <br><br>
+
+What might we want to hang onto? Perhaps the great advances in agriculture, industry and information... and the chance to specialise. <br><br>
+
+Through all the years are we not seeing a pattern, of polarising into a violence (as in the Je Suis Charlie story), that is almost hardwired after 200,000 years of hostility? Yet behind this could we not also find the strong but benign needs that bring people together (to belong, feel in control and safely attached)?<br><br>
+
+Young people able to see more than we ever did can justifiably say: "we do not trust you, and we can find better ways to share resources, and live differently in a shrinking planet". So are we reconsidering the need to be controlling or hierarchical? To be big? And the inequality? And the loss of a simpler "egalitarian" life we once enjoyed? <br><br> 
+
+<a href="http://www.goodcountry.org/"; target="_blank">Simon Anholt</a> has named the most pressing issue of our times as "the question of how the human race finally organises itself to work together", and launched a revolutionary new political party producing an internet sensation. <a href="http://www.theguardian.com/environment/2014/dec/28/how-can-i-go-green-in-2015-lucy-siegle"; target="_blank">Lucy Siegle</a> invites us to set out in 2015 to avoid a monocultural existence and claim back ownership for aspects of our food (from Tesco etc?), entertainment (from Amazon etc?) or technology (from Apple etc?) that we thoughtlessly delegate to corporate brands.<br><br>
+
+So what do we take away?
 
 </div>
-<a onclick="showMoreOrLess(this,'restOfArticle');">Imagine... from being egalitarian 200,000 years ago living through three great waves of change.</a>
+<a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-**Our conclusion?** 
+Having examined this evidence we can take a creative leap to say: let's hold onto a way of leading that can engage across factions and generations, including young people who do not vote, towards rebuilding confidence and trust, so enabling our old institutions to innovate and serve us well. 
 
-This canter through 200,000 years of history has shown no sign of change to those underlying human needs that cause all of us to need other people: our need to belong, to feel in control and to be safely attached to a some close friend(s). 
-
-We might not wish to lose the great advances in agriculture, industry or information... or the chance to specialise, but many of us seem to be questioning the need to remain controlling and hierarchical. Big no longer seems better. Those who do not directly experience gut-wrenching instability, injustice or inequality, find it harder to ignore the evidence in their news feeds. Have the three waves severed us from the simpler "egalitarian" enjoyments of "immediate-returns"?  
-
-We face both questions and opportunities. Is it really true that young people no longer want to work for big organisations, because size no longer makes sense, and "empowered by information" they can find better ways of doing things? Are they both craving wealth, and more aware than their parents of the need to share resources, and to live differently in a shrinking planet? Do we detect a tendency, as our previously sealed worlds collide, to overwhelm one another, and polarise into the sort of violence (as in the Je Suis Charlie story), that may be hardwired after 200,000 years of hostility.
-
-What opportunities? For example, <a href="http://www.goodcountry.org/"; target="_blank">Simon Anholt</a> has named the most pressing issue of our times as "the question of how the human race finally organises itself to work together", and launched a revolutionary new political party producing an internet sensation. <a href="http://www.theguardian.com/environment/2014/dec/28/how-can-i-go-green-in-2015-lucy-siegle"; target="_blank">Lucy Siegle</a> invites us to set out in 2015 to avoid a monocultural existence and claim back ownership for aspects of our food, entertainment or technology that we thoughtlessly delegate to corporate brands. For example do we want to find alternatives to Amazon, or Tesco?
-
-**So what?**
-
-It becomes clear that the time is not over for leaders, it is just harder to keep leading well without "losing it". Perhaps our real work is to restore confidence. We can begin by understanding better what is going on inside our institutions, and in the minds of those we lead, to be able to innovate in a way that increases participation and rebuilds trust. 
-
-I leave you with a thought experiment: how might you speak and behave differently towards a new more connected generation if you take the following assumptions to be true? 
+You can take away a thought experiment: how might our lives be improved if we all lived by these assumptions: 
 
 * The World Wide Web has always existed
 
@@ -63,7 +57,7 @@ I leave you with a thought experiment: how might you speak and behave differentl
 
 * If we share differently we can make more of our world's resources
  
-* I feel loyal to the people who contribute something and who help tackle the most difficult challenges we share (such as climate change, unemployment, conflict etc).
+* I can make a difference by being loyal to those who contribute to tackling the most difficult challenges we share (such as climate change, unemployment, conflict etc)?
 
 __________________
 
