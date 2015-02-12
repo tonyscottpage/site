@@ -21,6 +21,6 @@ Thanks to the <a href="http://www.britishcouncil.org"; target="_blank">British C
 __________________
 <b>Notes</b>
 
-* The list: <a href="http://www.britishcouncil.org/80moments/"; target="_blank">80 Moments that Shaped The World</a>. The full report: <a href="http://www.britishcouncil.org/sites/britishcouncil.uk2/files/80-moments-report.pdf"; target="_blank">80 Moments that Shaped The World</a>. 
+* 80 Moments that Shaped The World: <a href="http://www.britishcouncil.org/80moments/"; target="_blank">the list</a> and <a href="http://www.britishcouncil.org/sites/britishcouncil.uk2/files/80-moments-report.pdf"; target="_blank">the full report</a>. 
 
 * Image: word cloud from the British Council report.

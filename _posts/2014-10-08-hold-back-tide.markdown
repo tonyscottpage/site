@@ -12,22 +12,21 @@ image: libb/images/canute.png
 
 Today's zeitgeist is <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">"end of power"</a>, vividly apparent right now in anti-authoritarian news stories: Scotland's referendum to leave the UK, Hong Kong’s “umbrella protests” for free democracy, Islamic State brutality in Iraq and Syria, Ukraine breaking away from the shadow of Russia. 
 
-Similar forces lurk inside our organisations: old centralised power undermined by a new appetite for open sharing (of information, ideas and decisions). We saw this in Mozilla, Virgin, Apple, Google, Netflix, Pixar, Barcelona FC, and all the <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a> examples. Just as King Canute illustrated, leaders cannot stop the tide. 
+Similar forces lurk inside our organisations: old centralised power, undermined by a new appetite for open sharing (of information, ideas and decisions). We saw this in Mozilla, Virgin, Apple, Google, Netflix, Pixar, Barcelona FC, and all the <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank"> Wikinomics</a> examples. Just as King Canute illustrated, leaders cannot stop the tide. 
 
 <div id="restOfArticle" style="display:none">
-If you want to say “twas ever thus since the dawn of time”, or to argue the wealthiest 1% are taking power back, we point you to a new certainty taking hold that sharing decisions is faster and more efficient than the old ways of leading. We believe you are seeing a fundamental, once-in-a-lifetime shift here.<br><br>
+If you want to say “twas ever thus...”, or to argue the wealthiest 1% are taking power back, we point you to a new certainty taking hold, that sharing decisions is faster and more efficient than the old ways of leading. We believe you are seeing a fundamental, generational, once-in-a-lifetime shift.<br><br>
 
-Outside the organisation is where things are changing fastest. It is as if young people have all just received a message that says “6 billion of us share the same planet and let's wake up because we’ve been messing it up”.  With youthful optimism they start up <a href="http://economyofhours.com/"; target="_blank"> new inspired, technology-enabled and ethically-sourced businesses </a>
-(from coffee and juice to flip flops and van hire) and this young group buy their stuff, as far as they can, in the new sharing economy, while the so-called market leaders (Tesco, Coca Cola etc) try with mixed results to win them back. The giants fail to realise they have lost the hearts of their next generation, forever.<br><br>
+Outside the organisation is where things are changing fastest. It is as if young people have all just received a Twitter message that says “6 billion of us share the same planet and let's wake up because we’ve been messing it up”. With youthful optimism they start up <a href="http://economyofhours.com/"; target="_blank"> new inspired, technology-enabled and ethically-sourced businesses </a> (from coffee and juice to flip flops and van hire) and this young group buy their stuff, as far as they can, through a new sharing economy, while so-called market leaders (Tesco, Coca Cola etc) thrash around with mixed results to recover. We thinkg the giants may have lost the hearts of their next generation, forever.<br><br>
 
-Inside the company it is easy enough to keep things steady but dull: be a leader who just says the usual daft things to the astounded silence of your people as you burn your credibility, and sack the ones who fail to deliver. But if you want to be part of the future, be the rarer leader who opens up a noisier, messier and more creative brilliance. Have your HR department redefine the talents to invest in, and make sure “open” and “collaborative” are top of the shopping list.<br><br> 
+Inside the company we mostly keep things steady, but dull: be an old school leader who just says the usual daft things to the astounded silence of your people as you burn your credibility, and you can of course sack the ones who fail to deliver. But to be part of the future, why not be the rarer leader who opens up a noisier, messier and more creative brilliance? Why not have your HR department redefine the talents to invest in, and put “open” and “collaborative” are top of the shopping list.<br><br> 
 
 Then you can enjoy the dictators toppling.<br><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-If you keep quietly coming back to Jot you can stay ahead of the wave. We know is there is no universal path, because the particulars vary, but we can suggest you choose a path towards a "whole sytem exploration" <u>with</u> your team, showing how each team member can take up their leadership to keep making yours a better organisation.  
+Jot is watching and helping you stay with the wave. We know there is no one way to swim, and your goals vary, but to get everyone aligned we recommend a "whole sytem exploration" <u>with</u> your team, showing how each team member can take up their leadership towards building a better organisation.  
 __________________
 <b>Notes</b>
 

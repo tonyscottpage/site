@@ -6,7 +6,7 @@ tags:
 image: libb/images/patti-mccord.png
 ---
 
-**Here's a story of a lift-off moment at Netflix, some crazy freedoms and the lack of rules that made scaling up possible. When Patti McCord's boss hired her to move to Netflix he said let's make the company we always dreamed of. She said no. He said what if...**
+**Here's a story of a lift-off moment at Netflix, some crazy freedoms and a lack of rules that made scaling up possible. When Patti McCord's boss hired her to move to Netflix he said let's make the company we always dreamed of. She said no. He said what if...**
 
 ![](/libb/images/patti-mccord.png)
 
@@ -19,13 +19,11 @@ They looked at three bad options: stay small, get bureaucratic or have chaos, bu
 
 To support this fourth option they developed a framework for hiring smarter people who need very few rules, because they themselves handle ever increasing complexity, by treating the business as their own.<br><br>
 
-Some of the talent management ideas they pioneered, such as the concept that workers should be allowed to take whatever vacation time they feel is appropriate, were considered a little crazy. When other companies copied this one, as <a href="http://www.theguardian.com/business/2014/sep/24/virgin-staff-take-as-much-holiday-as-like-richard-branson"; target="_blank">Virgin's Richard Branson did recently</a>, the press will lay into them. <br><br>
+Some of the talent management ideas they pioneered, such as allowing workers to take whatever vacation time they feel is appropriate, were considered a little crazy. When other companies copied this one, as <a href="http://www.theguardian.com/business/2014/sep/24/virgin-staff-take-as-much-holiday-as-like-richard-branson"; target="_blank">Virgin's Richard Branson did recently</a>, the press laid into them. <br><br>
 
-People find the Netflix approach compelling not only because it seems slightly mad, but because Netflix has been really successful: during 2013 alone its stock more than tripled, it won three Emmy awards, and its U.S. subscriber base grew to nearly 29 million. <br><br>
+People find the Netflix approach compelling, not only because it seems slightly mad, but because Netflix has been really successful: during 2013 alone its stock more than tripled, it won three Emmy awards, and its U.S. subscriber base grew to nearly 29 million. <br><br>
 
-Yet the approach derives from common sense.<br><br> 
-
-Here is <a href="http://youtu.be/o3e1lnixKBM"; target="_blank">Patti McCord telling the story. </a>Patti McCord telling the story. <br><br>
+Yet the approach derives from common sense. Here is <a href="http://youtu.be/o3e1lnixKBM"; target="_blank">Patti McCord telling the story</a>. <br><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>

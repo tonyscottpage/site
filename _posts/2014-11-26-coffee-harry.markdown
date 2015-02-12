@@ -43,7 +43,7 @@ Trude: Can you give an example?<br><br>
 Harry: Take the simple example of the chef and a waiter both in service of a customer – when it works well, as it did for me last night in the canteen at the National Theatre, it's smiles all round, but how often do we see even that basic system working well? Most often we lose the thread, but our larger organisations can go on for years without noticing, and then it becomes very difficult to recover. The work of a leader is to bring people to find the threads early, and to create a different environment where people are well aligned to the purpose and to each other, with the feedback loops in place to keep it all evolving.<br><br>
 
 </div>
-<a onclick="showMoreOrLess(this,'restOfArticle');">Click for the full interview...</a>
+<a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
 Tony: So “losing the thread”, this nice short phrase you’re using describes a flaw in how we operate, not just in graduate recruitment, or in restaurants, but it points to what we forget to take care of across public services, in health or education, and our most important industries. Harry, can you share with Trude some ways you address this with your clients?
 
