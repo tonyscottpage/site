@@ -33,7 +33,7 @@ For the <a href="http://www.globaltolerance.com/thought-leadership/the-values-re
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-In summary people expect all aspects of their lives - from their purchasing decisions to their careers and their spare time - to have a positive impact on the world. The authors assert that this is not a trend: it’s a profound societal shift and it’s happening everywhere!
+In summary, people expect all aspects of their lives - from their purchasing decisions to their careers and their spare time - to have a positive impact on the world. The authors assert that this is not a trend: it’s a profound societal shift and it’s happening everywhere!
 
 Clearly, many organisations have work to do to embrace these values across all their operations, strategy and communications. This is an opportunity for savvy organisations to get ahead: to do well by doing good.
 __________________
