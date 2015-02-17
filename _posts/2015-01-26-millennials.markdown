@@ -23,9 +23,9 @@ An unprecedented demographic shift in the US is adding strength to the Millenial
 
 Further afield across 29 countries and 7800 of tomorrow's leaders, we find only 28 percent are feeling their  organization is making full use of their skills. Perhaps it does matter if tomorrow's leaders are feeling disillusioned, unappreciated and ignored. <br><br>
 
-It is hard to predict how Millennials will change the world or the workplace. Those voracious consumers of social media could justifiably conclude after so many scandals, that because "power corrupts", there is no point in voting or taking up leader positions. But that will leave open the field for mad people at the extremes. 
+It is hard to predict how Millennials will change the world or the workplace. Those voracious consumers of social media could justifiably conclude after so many scandals, that because "power corrupts", there is no point in voting or taking up leader positions. But that will leave open the field for mad people at the extremes. <br><br>
 
-Being less comfortable with power, "being in power" or "being under the power of others", will Millennials try to create a world without leaders?
+Being less comfortable with power, "being in power" or "being under the power of others", will Millennials try to create a world without leaders?<br><br>
 
 Perhaps our real challenge is how to bring them together, whether through social media, or a democratic and meritocratic process, that can harness their greater collective power to improve the workplace and the world around it. This equates to offering them a new way to be leaders who can build trust and unlock contributions from others.
 
