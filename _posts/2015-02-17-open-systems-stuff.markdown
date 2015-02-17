@@ -54,13 +54,13 @@ We do not have "the answer", but we can dip into our bag and offer the auditor f
 
 Clearly an auditor can get a fuller assessment of the risks than might be possible simply from looking at the finances or the adherence to process.
 
-But our work is not usually to conduct an audit - in fact it never is - rather to support our clients in bringing about change. In our experience real change never arises from recommendations or speeches, only from special and interactions between the different parts of a whole system. 
+But our work is not usually to conduct an audit - in fact it never is - rather to support our clients in bringing about change. In our experience real change never arises from recommendations or speeches, only from special interactions between the different parts of a whole system. 
 
 Whether we are working with a bank, a hospital or a school, we bring together people from different parts of the institution to meet one another, and see "what the system is" currently. Then they might find the five questions useful. We bring them back later to take a second glance at what might be needed to continue strongly into the future.
 
 Notice how this intervention can build and leave behind an entity that is in good hands and functioning well, rather than still needing the consultant.
 
-By the way, the meaning of the word "cybernetics" is something like governance.
+By the way, I found out today that the meaning of the word "cybernetics" is something like "governance".
 
 __________________
 
