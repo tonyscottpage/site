@@ -6,7 +6,7 @@ tags:
 image: libb/images/millennial.jpg
 ---
 
-**So-called "Millennials", born 1982- 1997, are our first generation of young people entering the workplace in the new millennium, whose internet-enabled lives have given them "always-on" access to everything. Does it matter? As in 2015 they begin to out-number Baby-Boomers, how might leaders want to respond?**
+**So-called "Millennials", born after 1982, are our first generation of young people entering the workplace in the new millennium, whose internet-enabled lives have given them "always-on" access to everything. Does it matter? As in 2015 they begin to out-number Baby-Boomers, how might leaders want to respond?**
 
 ![](/libb/images/millennial.jpg)
 
