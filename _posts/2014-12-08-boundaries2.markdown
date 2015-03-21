@@ -6,7 +6,7 @@ tags:
 image: libb/images/berlin-wall.jpg
 --- 
 
-**A <a href="http://pageconsulting.co.uk/2014/12/08/boundaries1.html"; target="_blank">previous piece</a> on boundaries highlighted why our workplace has tilted from its monolithic normal. This second describes how the role of the leader goes from decision-maker to culture-shaper.** 
+**A <a href="http://pageconsulting.co.uk/2014/12/08/boundaries1.html"; target="_blank">previous piece</a> on boundaries highlighted why our workplace are tilting from fortress-style, to much more open. This second describes how the leader's role is moving from "decision-maker" to "culture-shaper".** 
 
 ![](/libb/images/berlin-wall.jpg)
 

@@ -6,7 +6,7 @@ tags:
 image: libb/images/kremlin.jpg
 ---
 
-**A sceptical questioner answered his own question: "are you saying completely open? No! That's not a natural state, we’d be overwhelmed by 'too much information'... in more ways than one!". So why are organisations opening their boundaries?**
+**A sceptical questioner answered his own question: "Are you saying we should always be completely open? No! That's not a natural state, we’d be overwhelmed by 'too much information'... in more ways than one!". So why are organisations opening their boundaries?**
 
 ![](/libb/images/kremlin.jpg)
 

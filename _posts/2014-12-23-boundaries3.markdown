@@ -6,7 +6,7 @@ tags:
 image: libb/images/give.jpg
 ---
 
-**When the penny drops that success flows from the culture we create as leaders, we naturally ask what sort of culture we want, and how to create it. Here instead of misty-eyed stories of sports teams, we will name some specific ways to work at our best.**
+**As organisations are becoming more open, leaders are asking what sort of culture we actually want, and how to create it. Here instead of misty-eyed stories of sports teams, we find out specifically how creating "circles of safety", and a "giving culture" can create ripples that spread benefits.**
 
 ![](/libb/images/give.jpg)
 
