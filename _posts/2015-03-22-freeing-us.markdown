@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Freeing Us From the Tyranny of “Open”
+title:  How To Free Us From the Tyranny of “Open”?
 date:   2015-03-22 23:57
 tags:  
 image: libb/images/save-me.jpg
@@ -56,7 +56,7 @@ Our earlier Jot (<a href="http://pageconsulting.co.uk/2014/12/23/boundaries3.htm
 
 We can conclude that while good fences still make good neighbours, a good fence is something different today: still a boundary marker, but generally more "see-through", and with much to be negotiated in each case, with each person, and in each moment? 
 
-This topic might merit further exploration in a later Jot... but until then let's lpay attention to how our fences are working: how open are they, and where does our need for begin to privacy kick in? 
+This topic might merit further exploration in a later Jot... but until then let's pay attention to how well our fences are serving us: where do we benefit from being open, and where does our need for begin to privacy kick in? 
 __________________
 
 <b>Notes</b>
