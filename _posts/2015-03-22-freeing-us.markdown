@@ -50,9 +50,13 @@ Now we might ask, is this story a good wake-up call to dilemmas we face today? W
 
 Curiously the wheel (if not The Circle!) might finally be turning. According to Susan Pinker face to face contact is now demonstrably crucial for our happiness and health. When WhatsApp, an application that convenes friends and colleagues, is suddenly worth $22bn to Facebook, we can be sure real people may be finally outfacing the trolls. 
 
-So what about does this mean for leaders? Leaders in switched-on companies are seeking a form of participation that makes the company different, agile, joyful and life-affirming. Our earlier Jot (<a href="http://pageconsulting.co.uk/2014/12/23/boundaries3.html"; target="_blank">How We Can Evolve</a>) reported on two ways leaders can help us adapt to the open world: "circles of safety" and "bias towards giving". 
+So what about does this mean for leaders? In switched-on companies they are seeking a form of participation that makes the company different, more agile, efficent and also life-affirming. 
 
-Perhaps this little exploration has only reconfirmed that total information is not desirable because we also need freedom and privacy, respect and empathy. In the end perhaps good fences still make good neighbours!
+Our earlier Jot (<a href="http://pageconsulting.co.uk/2014/12/23/boundaries3.html"; target="_blank">How We Can Evolve</a>) reported on two ways leaders take us forwards: "circles of safety" and "bias towards giving". And this latest exploration has reconfirmed that total transparency is not desirable because we also need freedom and privacy, respect and empathy. 
+
+We can conclude that while good fences still make good neighbours, a good fence is something different today: still a boundary marker, but generally more "see-through", and how much remains to be agreed in each case, with each person, and in each moment? 
+
+This might merit further exploration in a later Jot... but until then let's look at how our fences are working: how open, and where does out need for privacy kick in? 
 __________________
 
 <b>Notes</b>
