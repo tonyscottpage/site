@@ -54,9 +54,9 @@ So what about does this mean for leaders? In switched-on companies they are seek
 
 Our earlier Jot (<a href="http://pageconsulting.co.uk/2014/12/23/boundaries3.html"; target="_blank">How We Can Evolve</a>) reported on two ways leaders take us forwards: "circles of safety" and "bias towards giving". And this latest exploration has reconfirmed that total transparency is not desirable because we also need freedom and privacy, respect and empathy. 
 
-We can conclude that while good fences still make good neighbours, a good fence is something different today: still a boundary marker, but generally more "see-through", and how much remains to be agreed in each case, with each person, and in each moment? 
+We can conclude that while good fences still make good neighbours, a good fence is something different today: still a boundary marker, but generally more "see-through", and with much to be negotiated in each case, with each person, and in each moment? 
 
-This might merit further exploration in a later Jot... but until then let's look at how our fences are working: how open, and where does out need for privacy kick in? 
+This topic might merit further exploration in a later Jot... but until then let's lpay attention to how our fences are working: how open are they, and where does our need for begin to privacy kick in? 
 __________________
 
 <b>Notes</b>
