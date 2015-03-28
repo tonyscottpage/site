@@ -6,7 +6,7 @@ tags:
 image: libb/images/berlin-wall.jpg
 --- 
 
-**A <a href="http://pageconsulting.co.uk/2014/12/08/boundaries1.html"; target="_blank">previous piece</a> on boundaries highlighted why our workplace are tilting from fortress-style, to much more open. This second describes how the leader's role is moving from "decision-maker" to "culture-shaper".** 
+**A <a href="http://pageconsulting.co.uk/2014/12/08/boundaries1.html"; target="_blank">previous piece</a> on boundaries highlighted why our workplaces are tilting from fortress-style, to much more open. This second describes how the leader's role is moving from "decision-maker" to "culture-shaper".** 
 
 ![](/libb/images/berlin-wall.jpg)
 
@@ -30,7 +30,7 @@ How can Tesco rebuild trust? Yes price-match its new competitors, and will leade
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-There is little doubt that today's open access is affecting our choices as consumers and workers. When people are the face of their brand, senior leaders are beginning to realise their success flows less from their business decisions, and more from the culture they create. 
+There is little doubt that today's more open access is affecting our choices as consumers and workers. When people are the face of their brand, senior leaders are beginning to realise their success flows less from their business decisions, and more from the culture they create. 
 
 When that penny truly drops, what different kind of lleader might you become? 
 
