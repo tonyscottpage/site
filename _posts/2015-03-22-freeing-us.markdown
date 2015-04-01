@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How Being More Open Can Make Us More Closed
+title:  How "Open" Can Make Us More Closed
 date:   2015-03-22 23:57
 tags:  
 image: libb/images/save-me.jpg
