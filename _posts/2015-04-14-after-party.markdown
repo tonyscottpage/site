@@ -3,12 +3,12 @@ layout: post
 title:  After The Party
 date:   2015-04-14 17:00
 tags:  
-image: libb/images/party.png
+image: libb/images/party.jpg
 ---
 
 **What is it like to be inside the bubble of a "radical movement"? We all know because the "radical movement" is just an extreme but recogniseable case of the kind of bubble we spend our lives in. What happens when our bubbles burst, and how can we keep our radical  bubbles healthy?**
 
-![](/libb/images/party.png)
+![](/libb/images/party.jpg)
 
 Unlike being in an average family or job, being inside a radical movement becomes an exceptionally intense party, rather like this... 
 
