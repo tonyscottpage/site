@@ -1,0 +1,37 @@
+---
+layout: post
+title:  Triggers, Ripples and Rules
+date:   2015-04-16 14:39
+tags:  
+image: libb/images/rules.jpg
+---
+
+**A play called "Rules For Living" at the National Theatre made us howl with recognition! Might the frustrations that "block us" with family members also crop up in leadership teams? When you know what triggers a stuck conversation how can the team get free, and back to the real work?**
+
+![](/libb/images/rules.jpg)
+
+The play shows us how the characters in a family behave by certain unconscious rules, and one person's pattern triggers the next to  create madness in the room. In a play this can be quite funny but in real life wouldn't it drive you mad? 
+
+<div id="restOfArticle" style="display:none">
+
+For example, one character always agrees with you until she has a drink then she argues until she gets the last word. Another mocks others until he deflects the blame, one lies whenever he is sitting down, another cleans compulsively to stay calm. <br><br>
+
+Once stuck in repeating present, that occasionally explodes, what is needed to release people? One person needed to win, another to get a compliment, or a reassurance, a successful deflection of responsibility, or just a laugh.<br><br>
+
+In a leadership team, we typically find members who got to where they are by being in control, and who get triggered by the slightest sense that others (instead of them) are in control. How do they behave when triggered? What releases them? This varies. <br><br>
+
+Perhaps this is why I enjoyed the question recently from a top team of five that had hugely improved its effectiveness: "How can we maintain this new level?". <br><br>
+
+This question caused them to notice that the five members behave quite differently: each person's "good behaviour" can bring the best sort of contribution from others, but they still have "less good meetings", in which the team locks up, or explodes! We then summoned up the courage to plot the team's "ripple dynamics" by asking each member to record what behaviour from the others most frustrates them, and what behaviour can restore them. <br><br>
+ 
+</div>
+<a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
+
+You might have noticed that the challenge in many teams is not the frustration itself, but the inability to speak openly about it without making it worse. A good facilitator will encourage team members to be curious about how they trigger one another, and how they can also release each other, and once the ripple effect is named and understood, you can all choose in countless small ways to be more in the "good ripples".
+
+Naming without blaming seems to be the key. 
+__________________
+
+<b>Notes</b>
+
+* National Theatre: <a href="http://www.nationaltheatre.org.uk/shows/rules-for-living"; target="_blank">Rules for Living</a>.
