@@ -1,0 +1,46 @@
+---
+layout: post
+title:  That's Wicked!
+date:   2015-04-29 15:36
+tags:  
+image: libb/images/wicked.jpg
+---
+
+**By morphing from "evil" to mean "playful or mischievous", the word "Wicked" enjoys a new popularity, so now that leaders are talking about "Wicked" problems, do they mean something different again?**
+
+![](/libb/images/wicked.jpg)
+
+So-called "Wicked Problems" have been called many things before from complex, to stubborn or intractable. Despite effort these problems persist and defy all attempts to solve them. Common examples are Poverty, Climate Change, Mass Migration, Terrorism and HIV/Aids. In every company there are Wicked Problems and we contrast them with the "Tame Problems" that do not resist our  "Business As Usual" methods to solve them.
+
+What has the "Wicked Problem" to do with the leader, the facilitator operating in today's more "open" workplace?
+
+<div id="restOfArticle" style="display:none">
+
+Next week I am with an organisation that tackles the Wicked Problems associated with poverty, through its programmes across Asia and Africa. In each unbique setting it employs a distinctively "participatory" approach: they bring people together, create common purpose, then find doable actions everyone can take immediately, and, by learning from what happens in practice, they create rising confidence and a desire to embark on ever more powerful actions.<br><br>
+
+Curiously I am starting to realise something: that what many of us facilitators do inside organisations is not unlike that. In other words we use a "participatory" approach to unlock energy and get things moving. The only really tricky part is when the leaders are unprepared for what they see starting to happen: people-having-ideas-and-energy can look scarily like things-getting-out-of-control.<br><br>
+
+But here comes a bit of a twist: perhaps, when leaders get scared like this, the organisation itself tends to become a "Wicked Problem"? <br><br>
+
+</div>
+<a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
+
+When the leaders control so tightly, sticking so rigidly to "Business As Usual" methods won't the intelligent ones they control become stifled and frustrated with one another? Do we then see the same-old-same-old struggle against loss of share, morale, staff etc. That's the Wicked Problem rearing its head again!
+
+But who hasn't felt stifled like this? And what is it like to depend on a colleague who feels stifled? Frustrating! They kill your energy! Perhaps it is this kind of early experience of stifling and frustration that "radicalised" me, and set me on my present path. 
+
+What path is it? I walk with a mission where possible to "radically enable" people inside organisations. This means encouraging you to be much more open and explicit at your boundaries: to name the "freedoms" you offer to colleagues, and to clearly state the "expectations" they ask of you, and taking both of these in the direction of behaving more like adults: stronger, ready to act creatively, and to be entrepreneurial. This way people can become more inspiring, their organisations become more adaptive, and bigger in their contributions to customers and society. 
+
+That's the ambition. And it works for many of the stifled ones, and for their colleagues who found them so lacking in verve, but for sure it gives a different role to the leaders, and not everyone wants to behave like an adult!
+
+__________________
+
+<b>Notes</b>
+
+* <a href="http://webcache.googleusercontent.com/search?q=cache:bgKzkACMDsoJ:www.alnap.org/pool/files/document-10.pdf+&cd=1&hl=en&ct=clnk&gl=uk&client=ubuntu"; target="_blank">Problems, problems, problems - the social construction of leadership</a>. Keith Grint, Human Relations, 2005 Volume 58(11): 1467-1494
+
+* <a href="https://hbr.org/2008/05/strategy-as-a-wicked-problem/ar/1"; target="_blank">Strategy as a Wicked Problem</a>, John C Comillus, HBR, 2008 
+
+* <a href="http://pageconsulting.co.uk/lib/documents/notknowing.pdf"; target="_blank">Leading strategy as a Journey of Not Knowing</a>. Philip Goodwin and Tony Page, 2011.
+
+* Image: "<a href="http://commons.wikimedia.org/wiki/File:Villainc.svg#/media/File:Villainc.svg">Villainc</a>" by Caricature by <a href="//en.wikipedia.org/wiki/User:J.J." class="extiw" title="en:User:J.J.">J.J.</a>, SVG file by <a href="//en.wikipedia.org/wiki/User:Gustavb" class="extiw" title="en:User:Gustavb">Gustavb</a>. Licensed under <a title="Creative Commons Attribution-Share Alike 3.0" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> via <a href="//commons.wikimedia.org/wiki/">Wikimedia Commons</a>.
