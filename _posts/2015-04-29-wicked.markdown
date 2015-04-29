@@ -12,7 +12,7 @@ image: libb/images/wicked.jpg
 
 So-called "Wicked Problems" have been called many things before from complex, to stubborn or intractable. Despite effort these problems persist and defy all attempts to solve them. Common examples are Poverty, Climate Change, Mass Migration, Terrorism and HIV/Aids. In every company there are Wicked Problems and we contrast them with the "Tame Problems" that do not resist our  "Business As Usual" methods to solve them.
 
-What has the "Wicked Problem" to do with the leader, the facilitator operating in today's more "open" workplace?
+What has the "Wicked Problem" to do with the leader and the facilitator operating in today's more "open" workplace?
 
 <div id="restOfArticle" style="display:none">
 
@@ -31,7 +31,7 @@ What path is it? I walk with a mission where possible to "radically enable" peop
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-You are encouraged to be much more open and explicit at your boundaries: to name the "freedoms" you offer to colleagues, and to clearly state the "expectations" they ask of you, and taking both of these in the direction of behaving more like adults: stronger, ready to act creatively, and to be entrepreneurial. This way people can become more inspiring, their organisations become more adaptive, and bigger in their contributions to customers and society. 
+You are encouraged to be much more open and explicit at your boundaries: to name the "freedoms" you offer to colleagues, and to discover their "expectations" of you. You take both of these towards behaving more like adults: stronger, ready to act creatively, and to be entrepreneurial. This way people can become more inspiring, their organisations become more adaptive, and bigger in their contributions to customers and society. 
 
 That's the ambition. And it so fundamentally shifts the context for the stifled ones, and for their colleagues who found them so lacking in verve, that the Wicked Problem is at least managed more actively, by many more hands, let's say somewhat "tamed" since it cannot be "solved". And for sure it gives a different role to the leaders, But not everyone wants to behave like an adult!
 
