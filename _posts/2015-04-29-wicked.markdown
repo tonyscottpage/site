@@ -6,7 +6,7 @@ tags:
 image: libb/images/wicked.jpg
 ---
 
-**By morphing from meaning "evil" to "playful or mischievous", the word "Wicked" enjoys a new popularity, but now that leaders are also talking about "Wicked" problems, do they mean something different again?**
+**By morphing from "evil" to "playful or mischievous", the word "Wicked" enjoys a new popularity, but now that leaders are also talking about "Wicked" problems, do they mean something different again?**
 
 ![](/libb/images/wicked.jpg)
 
