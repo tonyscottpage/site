@@ -16,6 +16,6 @@ What might it be like? Enjoyably intense. Highly participative. You are asked to
 
 Here is a link to the [brochure]({{ site.baseurl}}/libb/events/al-rome.pdf) giving further details. 
 
-Interested? Please drop a line to Reka or Mary (rekaczegledi@yahool.co.uk or maryjoyce@leadingmindsconsulting.com)
+Interested? Please drop a line to <a href="mailto:rekaczegledi@yahool.co.uk">Reka</a> or <a href="mailto:maryjoyce@leadingmindsconsulting.com">Mary</a>.
 
 __________________
