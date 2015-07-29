@@ -20,9 +20,9 @@ Despite finding this quite frustrating, they persisted over a three-month trial 
 
 How had such a simple change produced the ripple outwards? Instead of constantly launching new “projects” to be implemented by others, SMT had begun to acknowledge that each colleague, whatever their job, is a smart and capable person. When asked for their ideas (whether about purpose, performance or challenges), s/he tends to discover greater clarity and energy, and feels part of the larger team. <br><br> 
 
-In other words, when top leaders widens their circle, each colleague they treat as a “leader” starts to play a greater role beyond their job, and this spread quite fast.<br><br>
+In other words, when top leaders widen their circle, each colleague they treat as a “leader” starts to play a greater role, beyond their job, and this spread quite fast.<br><br>
 
-Ways of "sharing leadership" are now popping up more widely across different organisations we know. The assumption that a “leadership team” is the "brain" giving instructions is almost becoming toxic. As Lynda Gratton, Professor at LBS points out, when people are connected, why does a leader need to stand at the front, or try to micro-manage? And from an employee point of view "getting my voice heard" is today a much stronger priority. But how easy is this to respond to?<br><br>
+Ways of "sharing leadership" are now popping up more widely across different organisations we know. The assumption that a “leadership team” is the "brain" giving instructions is becoming toxic. As Lynda Gratton, Professor at LBS points out, when people are connected, why does a leader need to stand at the front, or try to micro-manage? And from an employee point of view "getting my voice heard" is today a much stronger priority. But how easy is this to respond to?<br><br>
 
 Our recent work with VSO (<a href="http://www.middle-ground.co.uk/?p=11202"; target="_blank">Middleground Blog, July 2015</a>) illustrates the need to be more agile, and the challenge of gathering 43 leaders who will engage their 800 staff in 30 different countries to come together as leaders towards one agile organisation.<br><br>
 
@@ -31,7 +31,7 @@ A recent article by Brian J Robertson (<a href="http://businesslife.ba.com/Ideas
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-The implicit rules about how we do things are being challenged, but in each organisation not only are the rules different, but so are the needed adjustments. May the trials continue - and through good conversations about what really works let's unlock the best of what we already have.
+There is no doubt that the implicit rules about how we do things are being challenged. In each organisation not only are the rules different, but so are the needed adjustments. May the trials continue - and through good conversations about what really works let's unlock the best of what we already have!
 
 __________________
 
