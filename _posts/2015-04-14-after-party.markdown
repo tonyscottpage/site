@@ -37,11 +37,11 @@ Perhaps the real jewels were buried before the havoc. What options were grabbed 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-Once we know what happens to such movements, we can find a form of foolishness here. Would not the real radical break this mould, and actually achieve something.
+Once we know what happens to such movements, we can find a form of foolishness here. Would not the "real radical" break this mould, in order to achieve something much greater?
 
 So why not pull up a chair... and let's tell our real stories of radicalism. Let's distinguish the bad "bubble", from the better "circle of trust" that is safely attached to outside reality. As real radicals quietly in touch with our values, let's learn to tend our gardens so that we can help to manifest, through thousands of small actions, something lasting and beautiful: a public park, a school, a hospital. 
 
-And just occasionally shall we turn up the volume just a notch, to show others it is a “quiet radical” that we are really being?
+And just occasionally let's turn up the volume a notch, to show others it is a “quiet radical” that we are really being!
 __________________
 
 <b>Notes</b>

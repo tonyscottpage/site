@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  How can CEOs manage the madness?
+title:  How can CEOs Manage the Madness?
 date:   2014-08-20 15:15
 tags: 
 image: libb/images/youre-fired.jpg
