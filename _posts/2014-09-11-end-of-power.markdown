@@ -20,14 +20,14 @@ Whether we find the power decay encouraging or worrying, many of us rush to "the
 <li><b>The More Revolution</b> - we live in a world of profusion. People are more numerous, living more fulfilled lives and as a result becoming more difficult to regiment and control. </li>
 <li><b>The Mobility Revolution</b> - people move around a lot more, so they are no longer a captive audience and have become harder to control. With costs of travel and information dropping, life is easier for challengers and harder for incumbents.</li>
 <li><b>The Mentality Revolution</b> - people's expectations are expanding faster than the capacity of governments to satisfy them. Young people look at the world with different eyes than their parents. With emerging global values, and a rising aspiration level, they believe there is a better way.</li>
-</ol><br><br>
+</ol><br>
 
 To sample the huge range of examples and the full breadth of these ideas, you can read the 300 pages of Naim's book, but to summarise:<br><br>
 
 <ul>
 <li>As the three revolutions tend to overwhelm us our minds can actually narrow, making us vulnerable to the "terrible simplifiers" who are the bad leaders and politicians who reduce the complexity of what is happening to appealing arguments polarising us and them</li>
 <li>Governance of large institutions has become increasingly difficult, as trust has eroded. The risks are disorder, the loss of deep skills and knowledge; disruptive social movements that fade quickly (like Occupy), alienation and these undermine democracy and our liberal societies. </li></ul>
-<br><br>
+<br>
 
 Naim is long on analysis and short on answers, so what do we do? He invites us to understand better what is going on inside each nation, movement or corporation; to make life difficult for the terrible simplifiers; to restore trust, to release our leaders from the checks and balances that paralyse the and give power back to those who govern us; to innovate in a way that increases participation. <br><br>
 
