@@ -8,7 +8,7 @@ image: libb/images/magna-carta.jpg
 
 **Last month's High Life Magazine (from BA) marked the Magna Carta moment 800 years ago when the king ruled that no one is above the law. In this stimulating article, several influential people offered one radical rule to improve life. Here we ask which new rules might improve how we lead our organisations.**
 
-![](/libb/images/pyramid.jpg)
+![](/libb/images/magna-carta.jpg)
 
 The Magna Carta gave people in my country a revolutionary moment 800 years ago, in which surprisingly a king limited his own powers, and agreed to govern by a set of rules, including the right of every free man to a fair trial.
 
