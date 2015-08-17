@@ -10,7 +10,7 @@ image: libb/images/three-minds.jpg
 
 ![](/libb/images/three-minds.jpg)
 
-Last month a man died unnecessarily, falling down a staircase at work in a plant in Linz. Despite instructions, he failed to hold the handrail, then tumbled and fatally cracked his head. Michael Kruger, Health and Safety Manager there, has been looking into how the human mind functions in such circumstances. He draws from Dr Rob Long's <a href="https://vimeo.com/106770292"; target="_blank">One Brain Three Minds Video</a>. 
+Last month a man died unnecessarily, falling down a staircase at work in a plant in Linz. Despite instructions, he failed to hold the handrail, then tumbled and fatally cracked his head. Michael Kruger, Health and Safety Manager there, has been looking into how the human mind functions in such circumstances. He draws from Dr Rob Long's <a href="https://vimeo.com/106770292"; target="_blank">theory of the three minds</a>. 
 
 Most of us do not deliberately have accidents, eat unhealthy foods, fall into arguments, or lose money. So when this happens what is going on?
 
@@ -28,16 +28,16 @@ At Linz they introduced a programme called "Take 2" that primes front-line leade
 
 They are also inspired by Dr John Bargh who shows the unconscious (Mind 3) keeps us tied (on the whole safely, not getting eaten by tigers) to the present, freeing the conscious Mind 1 to do time travel, going back to learn from the past, and forward to plan for the future. <br><br>
 
-Bargh's interesting work on "priming" confirms that cues such as the presence or food or cigarettes do influence consumption, but raises the problem that even anti-smoking images will increase the behaviour of smoking. Our behaviour is always unconsciously being influenced by a greater range of environmental stimuli than we realise, including a lot of triggers that are visual, also temperature, metaphor, and the behaviour of others. <br><br>
+Bargh's interesting work on "priming" confirms that cues such as the presence or food or cigarettes do influence consumption, but raises the problem that even anti-smoking images will increase the behaviour of smoking. Our behaviour is always unconsciously being influenced by a greater range of environmental stimuli than we realise, including a laege visual component, also temperature, metaphor, and the behaviour of others. <br><br>
 
 We do not yet know which of the hundreds of "primes" in any single moment will win or dominate, nor whether the behaviour will be to copy what we see, or compensate and do the opposite. <br><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-Coming back to the "irrestistible" word and the sounds of bubbling Prosecco, a multi-media delivery will most likely raise greater interest. But without checking we do not know whether more product was actually sold and consumed. 
+Coming back to the "irrestistible" word and the sounds of bubbling Prosecco, a multi-media delivery will most likely raise greater interest. But without checking we do not know if sales will actually rise. 
 
-In the more serious challenge at Linz, if we are to change behaviour and operate more safely, how might we harness these new insights to introduce a new micro-rule that points Mind 3 to a hazard? How can we slows Mind 3 down for Minds 1 and 2 to deal safely with it?
+In the more serious challenge at Linz, if we are to change behaviour and operate more safely, how might we harness these new insights? Is it possible to install a new micro-rule that alerts Mind 3 to a hazard, and brings Minds 1 and 2 to deal safely with it?
 
 We still have lots to learn! 
 
