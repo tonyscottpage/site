@@ -1,0 +1,50 @@
+---
+layout: post
+title:  Irresistible Chocolate Brownies!
+date:   2015-08-16 11:42
+tags:  
+image: libb/images/three-minds.jpg
+---
+
+**What is the effect of adding "irresistible" to the line above? Why on EasyJet do we hear gurgling water and happy voices during in-flight marketing? How much of our behaviour is automatic? We look at some ways that our unconscious behaviour can be influenced towards better choices.**
+
+![](/libb/images/three-minds.jpg)
+
+Last month a man died unnecessarily, falling down a staircase at work in a plant in Linz. Despite instructions, he failed to hold the handrail, then tumbled and fatally cracked his head. Michael Kruger, Health and Safety Manager there, has been looking into how the human mind functions in such circumstances. He draws from Dr Rob Long's <a href="https://vimeo.com/106770292"; target="_blank">One Brain Three Minds Video</a>. 
+
+Most of us do not deliberately have accidents, eat unhealthy foods, fall into arguments, or lose money. So when this happens what is going on?
+
+<div id="restOfArticle" style="display:none">
+
+Over the last 100 years since Freud, we have learned much more about the huge capacity and speed of the unconscious mind. This auto-pilot, sees and decides unconsciously in each split second how to get efficiently (and usually safely) to our goals. Dr Long calls this Mind 3; it operates lightening fast at 100 billion bits per second. <br><br>
+
+By contrast our conscious mind, called Mind 1, is a snail: small and slow at only 40-50 bits per second. It can deal with one thing at once, and is logical, rational and systematic at analysing, for example what went wrong.<br><br>
+
+Since we are being bombarded by more information (11 million bits per second) arriving through our senses (eyes, skin, ears, taste and smell) much faster than Mind 1 can process.Mind 1 is just too slow!<br><br>
+
+After a non-fatal accident we can slow down to piece together what went wrong, then we can use Mind 2 steadily to build up a new way of operating, practising new micro-rules like learning to drive a car, until we are fast enough to hand control over to the auto-pilot of Mind 3. <br><br>
+
+At Linz they introduced a programme called "Take 2" that primes front-line leaders to spot hazards, then switch to conscious thinking when there is a risk. The front-liners are talking in a way that draws attention to which Minds (1, 2 or 3) they are using at particular crucial moments.<br><br>
+
+They are also inspired by Dr John Bargh who shows the unconscious (Mind 3) keeps us tied (on the whole safely, not getting eaten by tigers) to the present, freeing the conscious Mind 1 to do time travel, going back to learn from the past, and forward to plan for the future. <br><br>
+
+Bargh's interesting work on "priming" confirms that cues such as the presence or food or cigarettes do influence consumption, but raises the problem that even anti-smoking images will increase the behaviour of smoking. Our behaviour is always unconsciously being influenced by a greater range of environmental stimuli than we realise, including a lot of triggers that are visual, also temperature, metaphor, and the behaviour of others. <br><br>
+
+We do not yet know which of the hundreds of "primes" in any single moment will win or dominate, nor whether the behaviour will be to copy what we see, or compensate and do the opposite. <br><br>
+
+</div>
+<a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
+
+Coming back to the "irrestistible" word and the sounds of bubbling Prosecco, a multi-media delivery will most likely raise greater interest. But without checking we do not know whether more product was actually sold and consumed. 
+
+In the more serious challenge at Linz, if we are to change behaviour and operate more safely, how might we harness these new insights to introduce a new micro-rule that points Mind 3 to a hazard? How can we slows Mind 3 down for Minds 1 and 2 to deal safely with it?
+
+We still have lots to learn! 
+
+__________________
+
+<b>Notes</b>
+
+* Dr John Bargh, Yale University talk: <a href="https://www.youtube.com/watch?v=pWSC48EUg-8"; target="_blank">Unconscious Behavioural Guidance Systems</a>
+
+* Dr Rob Long, ACU video: <a href="https://vimeo.com/106770292"; target="_blank">One Brain Three Minds</a>
