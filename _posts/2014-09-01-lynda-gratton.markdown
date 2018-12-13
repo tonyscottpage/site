@@ -28,7 +28,7 @@ As someone concerned by those two challenges, and impressed with what corporatio
 __________________
 <b>Notes</b>
   
-* Listen to Lynda Gratton with Peter Day on Radio 4 <a href="http://www.bbc.co.uk/programmes/p021d1kg"; target="_blank">here</a>.  
+* Listen to Lynda Gratton with Peter Day on Radio 4 <a href="http://www.bbc.co.uk/programmes/p021d1kg" target="_blank">here</a>.  
 * Image: google.com
 
 

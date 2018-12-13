@@ -27,7 +27,7 @@ In the mid-1700s, the <b>"industrial revolution"</b> arises from an explosion of
 
 But the new machines also cast huge numbers out of work, producing social upheaval with "luddites" fighting the advances. Poor living conditions new social movements towards better governance in the form of communism and trades unions. Workers become more literate and mobile.<br><br> 
 
-By the middle of the 20th century the answer to how to organise is "get big: small people no longer hold their own against big centralised organisations like General Motors, the Catholic Church or the Red Army. The "rational bureaucracy" of Max Weber offers: specific jobs with defined rights and obligations, authority levels, supervision and subordination, lots of communication and documents, recruitment based on competence. The rules apply to everyone regardless of social status, family or religious or political links. (See <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">The End of Power</a>).<br><br>
+By the middle of the 20th century the answer to how to organise is "get big: small people no longer hold their own against big centralised organisations like General Motors, the Catholic Church or the Red Army. The "rational bureaucracy" of Max Weber offers: specific jobs with defined rights and obligations, authority levels, supervision and subordination, lots of communication and documents, recruitment based on competence. The rules apply to everyone regardless of social status, family or religious or political links. (See <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html" target="_blank">The End of Power</a>).<br><br>
 
 <b>50 years ago - The Third Wave: Shifting Information and Power</b><br>
 In today’s highly inter-connected <b>"information age"</b> technology has transformed our world with high speed information (from telegraph, to telephone, radio, TV, mobile phone and internet). More of us can now see how humans are living globally, while we being rocked by seismic social, political and economic forces. Apple, Amazon, Microsoft and Facebook are just a few of the huge global organisations connecting us. <br><br>
@@ -38,7 +38,7 @@ Through all the years are we not seeing a pattern, of polarising into a violence
 
 Young people able to see more than we ever did can justifiably say: "we do not trust you, and we can find better ways to share resources, and live differently in a shrinking planet". So are we reconsidering the need to be controlling or hierarchical? To be big? And the inequality? And the loss of a simpler "egalitarian" life we once enjoyed? <br><br> 
 
-<a href="http://www.goodcountry.org/"; target="_blank">Simon Anholt</a> has named the most pressing issue of our times as "the question of how the human race finally organises itself to work together", and launched a revolutionary new political party producing an internet sensation. <a href="http://www.theguardian.com/environment/2014/dec/28/how-can-i-go-green-in-2015-lucy-siegle"; target="_blank">Lucy Siegle</a> invites us to set out in 2015 to avoid a monocultural existence and claim back ownership for aspects of our food (from Tesco etc?), entertainment (from Amazon etc?) or technology (from Apple etc?) that we thoughtlessly delegate to corporate brands.<br><br>
+<a href="http://www.goodcountry.org/" target="_blank">Simon Anholt</a> has named the most pressing issue of our times as "the question of how the human race finally organises itself to work together", and launched a revolutionary new political party producing an internet sensation. <a href="http://www.theguardian.com/environment/2014/dec/28/how-can-i-go-green-in-2015-lucy-siegle" target="_blank">Lucy Siegle</a> invites us to set out in 2015 to avoid a monocultural existence and claim back ownership for aspects of our food (from Tesco etc?), entertainment (from Amazon etc?) or technology (from Apple etc?) that we thoughtlessly delegate to corporate brands.<br><br>
 
 So what do we take away?
 
@@ -63,21 +63,21 @@ __________________
 
 <b>Notes</b>
 
-* Jerome Lewis on <a href="https://libcom.org/history/humans-lived-anarchist-communist-hunter-gatherers-100000-years-how-did-primitive-communi"; target="_blank">hunter-gatherers</a>.
+* Jerome Lewis on <a href="https://libcom.org/history/humans-lived-anarchist-communist-hunter-gatherers-100000-years-how-did-primitive-communi" target="_blank">hunter-gatherers</a>.
 
-* Ernst Gombrich: <a href="http://www.amazon.co.uk/Little-History-World-Ernst-Gombrich/dp/030014332X"; target="_blank">A Little History of the World</a>.
+* Ernst Gombrich: <a href="http://www.amazon.co.uk/Little-History-World-Ernst-Gombrich/dp/030014332X" target="_blank">A Little History of the World</a>.
 
-* Wikipedia: <a href="http://en.wikipedia.org/wiki/Neolithic_Revolution"; target="_blank">Neolithic Revolution</a>.
+* Wikipedia: <a href="http://en.wikipedia.org/wiki/Neolithic_Revolution" target="_blank">Neolithic Revolution</a>.
 
-* Dr Robin Wood on: <a href="http://www.amazon.co.uk/Managing-Complexity-Economist-Books-Robin/dp/1861971125"; target="_blank">Managing Complexity: how businesses can adapt and propser in the new economy</a>. Economist Books.
+* Dr Robin Wood on: <a href="http://www.amazon.co.uk/Managing-Complexity-Economist-Books-Robin/dp/1861971125" target="_blank">Managing Complexity: how businesses can adapt and propser in the new economy</a>. Economist Books.
 
-* Alvin Toffler on: <a href="http://en.wikipedia.org/wiki/The_Third_Wave_%28Toffler%29"; target="_blank">The Third Wave</a>.
+* Alvin Toffler on: <a href="http://en.wikipedia.org/wiki/The_Third_Wave_%28Toffler%29" target="_blank">The Third Wave</a>.
 
-* Previous posting on: <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">The End of Power</a>.
+* Previous posting on: <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html" target="_blank">The End of Power</a>.
 
-* Simon Anholt: <a href="http://www.goodcountry.org/"; target="_blank">The Good Country Party</a>.
+* Simon Anholt: <a href="http://www.goodcountry.org/" target="_blank">The Good Country Party</a>.
 
-* The Observer/Guardian: <a href="http://www.theguardian.com/environment/2014/dec/28/how-can-i-go-green-in-2015-lucy-siegle"; target="_blank">Ethical Living</a> by Lucy Siegle.
+* The Observer/Guardian: <a href="http://www.theguardian.com/environment/2014/dec/28/how-can-i-go-green-in-2015-lucy-siegle" target="_blank">Ethical Living</a> by Lucy Siegle.
 
-* Image: <a href="http://commons.wikimedia.org/wiki/File:African_cave_paintings.jpg"; target="_blank">Neolithic cave painting</a> found in Tassil-n-Ajjer (Plateau of the Chasms) region of the Sahara. Public domain.
+* Image: <a href="http://commons.wikimedia.org/wiki/File:African_cave_paintings.jpg" target="_blank">Neolithic cave painting</a> found in Tassil-n-Ajjer (Plateau of the Chasms) region of the Sahara. Public domain.
 

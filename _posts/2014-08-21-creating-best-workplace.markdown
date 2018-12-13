@@ -19,11 +19,11 @@ For three years Goffee and Jones asked hundreds of executives in surveys and sem
 5. <b>Show how the daily work makes sense</b> - bring people together into the same room and they will submerge their own egos into the collective, and you no longer need to lead them in a traditional sense: work becomes a "cause"
 6. <b>Have rules people can believe in</b> - rules are needed but employees are ever more sceptical of hierarchy and charisma so give them powerful reasons for necessary structure.
 
-Seems like the kind of workplace a generation with attitudes like <a href="http://pageconsulting.co.uk/2014/08/19/sonny.html"; target="_blank">Sonny</a> could respond to. 
+Seems like the kind of workplace a generation with attitudes like <a href="http://pageconsulting.co.uk/2014/08/19/sonny.html" target="_blank">Sonny</a> could respond to. 
 
 Two questions. How does your organisation measure up? And what do you want to do about it?
 
 __________________
 <b>Notes</b> 
  
-* Article published in HBR, May 2013 including image: <a href="http://hbr.org/2013/05/creating-the-best-workplace-on-earth/ar/1"; target="_blank">here</a>.  
+* Article published in HBR, May 2013 including image: <a href="http://hbr.org/2013/05/creating-the-best-workplace-on-earth/ar/1" target="_blank">here</a>.  

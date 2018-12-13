@@ -25,10 +25,10 @@ __________________
 
 * Thanks Paul.  
 
-* Thanks also to Dewey Ambosino whose other images can be found <a href="http://deweya.com/ME-WE"; target="_blank">here</a>. 
+* Thanks also to Dewey Ambosino whose other images can be found <a href="http://deweya.com/ME-WE" target="_blank">here</a>. 
 
-* Forbes Magazine article <a href="http://www.forbes.com/asap/1999/1004/070_print.html"; target="_blank">here</a>.   
+* Forbes Magazine article <a href="http://www.forbes.com/asap/1999/1004/070_print.html" target="_blank">here</a>.   
 
-* Philip Chircop <a href="http://www.philipchircop.com/post/5049173602/me-we-me-we-is-supposedly-the-shortest-poem"; target="_blank">here</a>. 
+* Philip Chircop <a href="http://www.philipchircop.com/post/5049173602/me-we-me-we-is-supposedly-the-shortest-poem" target="_blank">here</a>. 
  
-* Richard Moss <a href="http://blog.physicaleducationupdate.com/?p=119 "; target="_blank">here</a>.
+* Richard Moss <a href="http://blog.physicaleducationupdate.com/?p=119 " target="_blank">here</a>.

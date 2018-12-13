@@ -10,16 +10,16 @@ image: libb/images/millennial.jpg
 
 ![](/libb/images/millennial.jpg)
 
-While some say the Millennials are just "immature" and will "grow out of it", we are seeing a different, cool or crazy looking group (<a href="http://www.buzzfeed.com/lukelewis/types-of-hipster-you-encounter-in-london#.poZw05Xnd"; target="_blank">here are some of its easy to parody hipsters</a>).
+While some say the Millennials are just "immature" and will "grow out of it", we are seeing a different, cool or crazy looking group (<a href="http://www.buzzfeed.com/lukelewis/types-of-hipster-you-encounter-in-london#.poZw05Xnd" target="_blank">here are some of its easy to parody hipsters</a>).
 
-In recent months Jot has been tripping across their different mindset (see <a href="http://pageconsulting.co.uk/2014/08/19/sonny.html"; target="_blank">Sonny</a>, <a href="http://pageconsulting.co.uk/2014/10/06/whats-driving.html"; target="_blank">new mentality</a>, <a href="http://pageconsulting.co.uk/2015/01/20/values-revolution.html"; target="_blank">Values Revolution</a> etc) in a workplace that is fundamentally changing (see <a href="http://pageconsulting.co.uk/2014/08/21/creating-best-workplace.html"; target="_blank">better workplace</a>, <a href="http://pageconsulting.co.uk/2014/08/22/torvalds-tit-for-tat.html"; target="_blank">open source</a>, <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html"; target="_blank">wikinomics</a>) through people having greater access to one another, to technology, and to power (see <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank">end of power</a>). 
+In recent months Jot has been tripping across their different mindset (see <a href="http://pageconsulting.co.uk/2014/08/19/sonny.html" target="_blank">Sonny</a>, <a href="http://pageconsulting.co.uk/2014/10/06/whats-driving.html" target="_blank">new mentality</a>, <a href="http://pageconsulting.co.uk/2015/01/20/values-revolution.html" target="_blank">Values Revolution</a> etc) in a workplace that is fundamentally changing (see <a href="http://pageconsulting.co.uk/2014/08/21/creating-best-workplace.html" target="_blank">better workplace</a>, <a href="http://pageconsulting.co.uk/2014/08/22/torvalds-tit-for-tat.html" target="_blank">open source</a>, <a href="http://pageconsulting.co.uk/2014/09/09/four-principles.html" target="_blank">wikinomics</a>) through people having greater access to one another, to technology, and to power (see <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html" target="_blank">end of power</a>). 
 
 Having been exposed to seismic events (9/11, global financial crunch, and some to the falling Berlin Wall) at a formative age, why would they not notice the flaws and vulnerabilities? Could this be adding to their extra-ordinary confidence and reluctance to compromise their values? 
 
 Perhaps this really does matter now...
 
 <div id="restOfArticle" style="display:none">
-... this will become the largest group in the workplace, and it cannot function well until it is given greater flexibility, appreciation and collaboration than is currently available (<a href="http://www.pwc.com/gx/en/hr-management-services/publications/assets/pwc-engaging-and-empowering-millennials.pdf"; target="_blank">PWC, Follow up to NextGen, Jan 2015</a> ). And all the more since 75% of this now dominant group believe businesses are too fixated on their own agendas and not focused enough on helping to improve society (<a href="http://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-wef-2015-millennial-survey-executivesummary.pdf"; target="_blank">Deloitte Millennial Survey 2015</a>). <br><br> 
+... this will become the largest group in the workplace, and it cannot function well until it is given greater flexibility, appreciation and collaboration than is currently available (<a href="http://www.pwc.com/gx/en/hr-management-services/publications/assets/pwc-engaging-and-empowering-millennials.pdf" target="_blank">PWC, Follow up to NextGen, Jan 2015</a> ). And all the more since 75% of this now dominant group believe businesses are too fixated on their own agendas and not focused enough on helping to improve society (<a href="http://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-wef-2015-millennial-survey-executivesummary.pdf" target="_blank">Deloitte Millennial Survey 2015</a>). <br><br> 
  
 Adding challenge to those currently in charge in the US, is the unprecedented demographic shift from their own "white, entrepreneurial, God-fearing, American" mindset, to a "non-patriotic, economically conservative, atheist, less likely to vote, unlikely to watch TV or pay for music, happy to legalise marijuana and same sex marriage, 43% of us non-white" Millennial mindset.<br><br>
 
@@ -51,20 +51,21 @@ Understand this generation: how are their desires different from older workers? 
 Without our Millennials we're probably doomed - because they are the ones who "get" how the world now is, roughly that: we're broken, economically and socially and morally, between haves and have nots, we're all interdependent, and we can be so much better when we share! 
 
 So encourage your Millennials to be who they are, and hold onto them. "Shine on you crazy diamonds!" 
+
 __________________
 
 <b>Notes</b>
 
-* Quiz: <a href="http://www.pewresearch.org/quiz/how-millennial-are-you/"; target="_blank">How Millennial Are You?</a>. Pew Research Centre.
+* Quiz: <a href="http://www.pewresearch.org/quiz/how-millennial-are-you/" target="_blank">How Millennial Are You?</a>. Pew Research Centre.
 
-* Buzzfeed, April 2013, article and image: <a href="http://www.buzzfeed.com/lukelewis/types-of-hipster-you-encounter-in-london#.poZw05Xnd"; target="_blank">The 21 Types of Hipster You Encounter in London - A Spotter's Guide</a>. .
+* Buzzfeed, April 2013, article and image: <a href="http://www.buzzfeed.com/lukelewis/types-of-hipster-you-encounter-in-london#.poZw05Xnd" target="_blank">The 21 Types of Hipster You Encounter in London - A Spotter's Guide</a>. .
 
-* NPR, Oct 2014: <a href="http://www.npr.org/2014/10/06/352613333/why-you-should-start-taking-millennials-seriously"; target="_blank">Why You Should Start Taking Millennials Seriously</a>. 
+* NPR, Oct 2014: <a href="http://www.npr.org/2014/10/06/352613333/why-you-should-start-taking-millennials-seriously" target="_blank">Why You Should Start Taking Millennials Seriously</a>. 
 
-* Deloittes: <a href="http://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-wef-2015-millennial-survey-executivesummary.pdf"; target="_blank">Millennial Survey 2015</a>.
+* Deloittes: <a href="http://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-wef-2015-millennial-survey-executivesummary.pdf" target="_blank">Millennial Survey 2015</a>.
 
-* PWC, 2011: <a href="http://www.pwc.com/gx/en/managing-tomorrows-people/future-of-work/assets/reshaping-the-workplace.pdf"; target="_blank">Reshaping the Workplace</a>.
+* PWC, 2011: <a href="http://www.pwc.com/gx/en/managing-tomorrows-people/future-of-work/assets/reshaping-the-workplace.pdf" target="_blank">Reshaping the Workplace</a>.
 
-* Ryan Jenkins' blog: <a href="http://ryan-jenkins.com/2013/09/16/22-shocking-stats-about-millennials-to-help-you-chart-tomorrows-change/"; target="_blank">22 Shocking Stats about Millennials</a>.
+* Ryan Jenkins' blog: <a href="http://ryan-jenkins.com/2013/09/16/22-shocking-stats-about-millennials-to-help-you-chart-tomorrows-change/" target="_blank">22 Shocking Stats about Millennials</a>.
 
-* William Frey, Brookings Institute, 2014: <a href="http://www.brookings.edu/research/reports2/2014/11/diversity-explosion"; target="_blank">Diversity Explosion</a>. 
+* William Frey, Brookings Institute, 2014: <a href="http://www.brookings.edu/research/reports2/2014/11/diversity-explosion" target="_blank">Diversity Explosion</a>. 

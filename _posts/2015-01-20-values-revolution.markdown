@@ -28,7 +28,7 @@ Of the millennials (those born between 1981-1996):
 
 (Results were compiled from primary and secondary data sources including literature search, in-depth interviews with leaders across sectors and polling more than 2000 individuals across the UK).<br><br>
 
-For the <a href="http://www.globaltolerance.com/thought-leadership/the-values-revolution/#more-59"; target="_blank">full report... </a>.<br><br>
+For the <a href="http://www.globaltolerance.com/thought-leadership/the-values-revolution/#more-59" target="_blank">full report... </a>.<br><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
@@ -36,8 +36,9 @@ For the <a href="http://www.globaltolerance.com/thought-leadership/the-values-re
 In summary, people expect all aspects of their lives - from their purchasing decisions to their careers and their spare time - to have a positive impact on the world. The authors assert that this is not a trend: it’s a profound societal shift and it’s happening everywhere!
 
 Clearly, many organisations have work to do to embrace these values across all their operations, strategy and communications. This is an opportunity for savvy organisations to get ahead: to do well by doing good.
+
 __________________
 
 <b>Notes</b>
 
-* Download a copy of The Values Revolution <a href="http://www.globaltolerance.com/thought-leadership/the-values-revolution/#more-59"; target="_blank">here</a>.
+* Download a copy of The Values Revolution <a href="http://www.globaltolerance.com/thought-leadership/the-values-revolution/#more-59" target="_blank">here</a>.

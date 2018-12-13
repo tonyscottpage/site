@@ -43,7 +43,7 @@ __________________
 
 <b>Notes</b>
 
-* <a href="http://www.respectfulworkplace.com/2010/01/13/gen-u-%E2%80%93-generation-unretired-%E2%80%93-humanizes-the-workplace/"; target="_blank">Generation Unretired Humanizes the Workplace</a>.
+* <a href="http://www.respectfulworkplace.com/2010/01/13/gen-u-%E2%80%93-generation-unretired-%E2%80%93-humanizes-the-workplace/" target="_blank">Generation Unretired Humanizes the Workplace</a>.
 
 * image: google.com labelled for reuse.
 

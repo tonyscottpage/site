@@ -8,7 +8,7 @@ image: /libb/images/zander.jpg
 
 **Colleagues in my learning set recommended I watch Benjamin Zander's TED talk. Its almost seven million previous views testify to how infectious and inspiring you might find this, and at the end Zander offers us a simple and surprising test we can all use to find out our impact as leaders.**
 
-<a href="http://www.ted.com/talks/benjamin_zander_on_music_and_passion#t-71139"; target="_blank">![](/libb/images/zander.jpg)</a>
+<a href="http://www.ted.com/talks/benjamin_zander_on_music_and_passion#t-71139" target="_blank">![](/libb/images/zander.jpg)</a>
 
 My colleague Annika watching this told us how she remembered when Benjamin Zander came to her company conference and offered a very simple and motivating way to release the happy potential in his students. It went like this...
 
@@ -22,6 +22,6 @@ __________________
 
 <b>Notes</b>
 
-* Benjamin Zander's TED talk on <a href="http://www.ted.com/talks/benjamin_zander_on_music_and_passion#t-71139"; target="_blank">The Transformative Power of Classical Music</a>.
+* Benjamin Zander's TED talk on <a href="http://www.ted.com/talks/benjamin_zander_on_music_and_passion#t-71139" target="_blank">The Transformative Power of Classical Music</a>.
 
 * Thanks to Annika Ratcliffe and Gordon Lyle for bringing Benjamin Zander to us!

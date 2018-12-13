@@ -12,7 +12,7 @@ image: libb/images/magna-carta.jpg
 
 The Magna Carta gave people in my country a revolutionary moment 800 years ago, in which surprisingly a king limited his own powers, and agreed to govern by a set of rules, including the right of every free man to a fair trial.
 
-High Life Magazine (<a href="http://highlife.ba.com/articles/the-mega-carta"; target="_blank">The Mega Carta</a>) shares "one new rule to improve life" from interviewees ranging from Tim Berner-Lee (inventor of the world wide web) to John Cooper Clarke (a punk poet). Their lluminating and radical ideas included ending the monarchy, and giving the Magna Carta rights to animals.
+High Life Magazine (<a href="http://highlife.ba.com/articles/the-mega-carta" target="_blank">The Mega Carta</a>) shares "one new rule to improve life" from interviewees ranging from Tim Berner-Lee (inventor of the world wide web) to John Cooper Clarke (a punk poet). Their lluminating and radical ideas included ending the monarchy, and giving the Magna Carta rights to animals.
 
 Here are a few "what if's" for those leading organisations, that jump out from the article:
 
@@ -31,6 +31,6 @@ __________________
 
 <b>Notes</b>
 
-* BA High Life Magazine May 2015 <a href="http://highlife.ba.com/articles/the-mega-carta"; target="_blank">The Mega Carta</a>
+* BA High Life Magazine May 2015 <a href="http://highlife.ba.com/articles/the-mega-carta" target="_blank">The Mega Carta</a>
 
-* Image: Wkipedia Commons, public domain <a href="http://commons.wikimedia.org/wiki/File:A_Chronicle_of_England_-_Page_226_-_John_Signs_the_Great_Charter.jpg"; target="_blank">King John Signs the Great Charter</a> 
+* Image: Wkipedia Commons, public domain <a href="http://commons.wikimedia.org/wiki/File:A_Chronicle_of_England_-_Page_226_-_John_Signs_the_Great_Charter.jpg" target="_blank">King John Signs the Great Charter</a> 

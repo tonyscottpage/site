@@ -54,7 +54,7 @@ __________________
 <b>Notes</b>  
 
 * Quotes extracted from BBC News, July 2012, 
-<a href="http://www.bbc.co.uk/news/technology-18419231"; target="_blank">Linux succeeded thanks to selfishness and trust </a> and Simple Talk, Jul 2008, 
-<a href="https://www.simple-talk.com/opinion/geek-of-the-week/linus-torvalds,-geek-of-the-week/"; target="_blank">Geek of the Week</a>.  
-* Check out the Linux 20 year Story <a href="https://www.youtube.com/watch?annotation_id=annotation_1408597455&feature=iv&src_vid=yVpbFMhOAwE&v=5ocq6_3-nEw"; target="_blank">here</a>.  
-* Image: by <a href="https://www.flickr.com/photos/methodshop/5654683066/">methodshop.com</a> under <a href="http://creativecommons.org/licenses/by/2.0/"; target="_blank">Creative Commons</a>.
+<a href="http://www.bbc.co.uk/news/technology-18419231" target="_blank">Linux succeeded thanks to selfishness and trust </a> and Simple Talk, Jul 2008, 
+<a href="https://www.simple-talk.com/opinion/geek-of-the-week/linus-torvalds,-geek-of-the-week/" target="_blank">Geek of the Week</a>.  
+* Check out the Linux 20 year Story <a href="https://www.youtube.com/watch?annotation_id=annotation_1408597455&feature=iv&src_vid=yVpbFMhOAwE&v=5ocq6_3-nEw" target="_blank">here</a>.  
+* Image: by <a href="https://www.flickr.com/photos/methodshop/5654683066/">methodshop.com</a> under <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons</a>.

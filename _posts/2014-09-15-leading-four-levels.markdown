@@ -36,6 +36,6 @@ In coming postings I want to bring you a couple of examples to see what this jou
 __________________
 <b>Notes</b>  
 
-* For more on Otto Scharmer's Theory U go to <a href="https://www.presencing.com/executivesummary"; target="_blank"> Presencing Institute</a>.  
+* For more on Otto Scharmer's Theory U go to <a href="https://www.presencing.com/executivesummary" target="_blank"> Presencing Institute</a>.  
 * Photo: catholica.com.au
 

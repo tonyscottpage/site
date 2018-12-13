@@ -30,5 +30,5 @@ Perhaps unsurprisingly shaking windows provokes defensiveness, but despite this 
 __________________
 <b>Notes</b> 
 
-* To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/"; target="_blank">blog</a>.  
-* Image: <a href="http://forums.techsoup.org/cs/community/b/tsblog/archive/2014/05/14/nonprofits-imagine-a-better-sharing-economy.aspx"; target="_blank">TechSoup Global Forums</a>. <a href="https://creativecommons.org/licenses/by/4.0/"; target="_blank">Creative Commons 4.0</a>.
+* To find out more about Wikinomics go to the <a href="http://www.wikinomics.com/blog/" target="_blank">blog</a>.  
+* Image: <a href="http://forums.techsoup.org/cs/community/b/tsblog/archive/2014/05/14/nonprofits-imagine-a-better-sharing-economy.aspx" target="_blank">TechSoup Global Forums</a>. <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons 4.0</a>.

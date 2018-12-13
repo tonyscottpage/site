@@ -24,9 +24,9 @@ Despite differences in character, gender and culture, here are five characterist
 <li><b>an ambition that borders on impatience</b>: as if time is running out, they are driven to scale up and deliver ever more impact and at faster pace </li>
 <li><b>a chameleon-like range</b>: to wear the exact face or clothes required at different moments: the company conference, press conference, top team awayday, or with top-level visitor or general public. They will pounce on those who attempt to lie or evade the truth.</li>
 <li><b>trying to spread responsibility</b>: taking the spotlight off them, towards getting more done collectively</li>
-<ll><b>admitting to their limitations</b>:(thankfully) realising they are not all-seeing, all-knowing or omnipotent</li> 
+<li><b>admitting to their limitations</b>:(thankfully) realising they are not all-seeing, all-knowing or omnipotent</li> 
 <li><b>attracting a court of colleagues</b> (including COOs, top team and wider staff) continually chewing over the question: is the CEO inspiring, supporting their efforts or noticing them</li>
-</ul>
+</ul><br>
 
 What is their impact? These CEOs can produce applause, awe, quiet appreciation, a tear in the eye, also grumbles and gaping disbelief at their "mad", "damaging" and "counter-productive" behaviour. But how does it feel in their shoes? 
 
@@ -51,7 +51,7 @@ __________________
 <b>Notes</b>  
 
 * Image: leadershipdevelopmenttraininghowto.com
-* Link to subsequent postings on <a href="http://pageconsulting.co.uk/2014/08/22/torvalds-tit-for-tat.html"; target="_blank">Open Source</a>, and<a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> The End of Power</a>. 
+* Link to subsequent postings on <a href="http://pageconsulting.co.uk/2014/08/22/torvalds-tit-for-tat.html" target="_blank">Open Source</a>, and<a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html" target="_blank"> The End of Power</a>. 
 
 
 

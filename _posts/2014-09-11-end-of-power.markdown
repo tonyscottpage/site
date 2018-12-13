@@ -41,8 +41,8 @@ What this adds up to is, we can be sure the future will be messy. The time is no
 __________________
 <b>Notes</b> 
 
-* End of Power reviewed in <a href="http://www.huffingtonpost.com/nathan-gardels/governance-after-the-end_b_3046164.html"; target="_blank">Huffington Post</a>.
+* End of Power reviewed in <a href="http://www.huffingtonpost.com/nathan-gardels/governance-after-the-end_b_3046164.html" target="_blank">Huffington Post</a>.
 
-* View Moises Naim speaking at <a href="http://www.thersa.org/events/audio-and-past-events/2014/the-end-of-power"; target="_blank"> RSA</a>. 
+* View Moises Naim speaking at <a href="http://www.thersa.org/events/audio-and-past-events/2014/the-end-of-power" target="_blank"> RSA</a>. 
  
-* Image: Copyright World Economic Forum (www.weforum.org) / Photo by Alexandre Campbell. <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons"; target="_blank">Creative Commons</a>. <a href="http://creativecommons.org/licenses/by-sa/1.0/deed.en"; target="_blank">Attribution-Share Alike 1.0 Generic license</a>.
+* Image: Copyright World Economic Forum (www.weforum.org) / Photo by Alexandre Campbell. <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons" target="_blank">Creative Commons</a>. <a href="http://creativecommons.org/licenses/by-sa/1.0/deed.en" target="_blank">Attribution-Share Alike 1.0 Generic license</a>.

@@ -32,7 +32,7 @@ Open Working does not happen because someone stamps their feet and says be open!
 <li>“People can be mean”. Opening our work to criticism from others is often scary. </li>  
 <li>“We’re not ready”.  It doesn’t make sense yet to open up our project to participation before we have the tools in place to meaningfully absorb that participation and public attention. This can be valid. But while you may not be ready for participation at scale, you probably are ready for some early testing, prototyping, and smart co-building from colleagues.  </li> </ul><br> 
 
-<p>Which takes us to…<br><br>
+<p>Which takes us to…</p>
 
 <h1>Tip: Start by finding what gear you’re in already.</h1>
 Working open is more of a slider or dial than an “on/off” switch. At a given point in time on a given project, you might find colleagues working in a range of different gears or levels of open:<br>
@@ -59,7 +59,7 @@ And the benefits far outweigh the imagined risk.
 __________________
 <b>Notes</b> 
 
-* Thanks to Mozilla for sharing including photo. Read their report <a href="http://openmatt.wordpress.com/2011/04/06/how-to-work-open/"; target="_blank">here</a>. 
+* Thanks to Mozilla for sharing including photo. Read their report <a href="http://openmatt.wordpress.com/2011/04/06/how-to-work-open/" target="_blank">here</a>. 
 
 
-* Developed in subsequent posting: <a href="http://pageconsulting.co.uk/2014/09/23/10-ways.html"; target="_blank">10 Ways to Open Up Your Company</a>. 
+* Developed in subsequent posting: <a href="http://pageconsulting.co.uk/2014/09/23/10-ways.html" target="_blank">10 Ways to Open Up Your Company</a>. 

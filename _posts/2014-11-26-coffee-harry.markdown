@@ -52,6 +52,7 @@ Harry: Here are a couple of practical things I have landed on. A few years back,
 Trude: I'm sure I will, and I'd love to learn more about constellations.
 
 Tony: Let’s get together for another coffee soon!   
+
 __________________
 <b>Notes</b>
 

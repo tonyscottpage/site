@@ -46,5 +46,5 @@ How could you move, from relying on hierarchy, to catalysing a community across 
 __________________
 <b>Notes</b>  
 
-* The interview took place at Marbles Big Idea Forum in October 2012. <a href="http://opensource.com/business/12/10/jim-whitehurst-big-idea-leaders-as-catalysts"; target="_blank">Transcript here</a>.  
+* The interview took place at Marbles Big Idea Forum in October 2012. <a href="http://opensource.com/business/12/10/jim-whitehurst-big-idea-leaders-as-catalysts" target="_blank">Transcript here</a>.  
 * Image: zdnet.com

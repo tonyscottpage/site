@@ -10,7 +10,7 @@ image: libb/images/toppling-dictators.jpg
 
 ![](/libb/images/toppling-dictators.jpg)
  
-<a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> Three fundamental revolutions</a> have thrown up a new set of challenges for leaders. Here we dive into one, the so-called "Mentality" Revolution, to find out the implications for leaders.
+<a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html" target="_blank"> Three fundamental revolutions</a> have thrown up a new set of challenges for leaders. Here we dive into one, the so-called "Mentality" Revolution, to find out the implications for leaders.
 
 <div id="restOfArticle" style="display:none">
  
@@ -64,5 +64,5 @@ How do you get started? Perhaps with a series of open discussions across your or
 __________________
 <b>Notes</b>
 
-* Draws extensively from Moise Naim's: <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html"; target="_blank"> The End of Power</a>.
+* Draws extensively from Moise Naim's: <a href="http://pageconsulting.co.uk/2014/09/11/end-of-power.html" target="_blank"> The End of Power</a>.
 * Image: by Chappette at globecartoon.com

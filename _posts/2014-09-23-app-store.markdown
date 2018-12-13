@@ -18,11 +18,13 @@ While Apple has been criticized it's controlling way of operating the store, thi
 From application development we are now seeing "open source" spread into entirely new areas including music, education, science, pharma, consumer products, even to the big manufacturers BMW, P&G and Novartis. The way oto operate at large scale seems to be changing. 
 
 Isn't it time for you to consider: how could a more open business model let us move towards our greater ambitions? 
+
 __________________
+
 <b>Notes</b>
   
-* Wikipedia: <a href="http://en.wikipedia.org/wiki/App_Store_%28iOS%29"; target="_blank"> App Store.</a>
+* Wikipedia: <a href="http://en.wikipedia.org/wiki/App_Store_%28iOS%29" target="_blank"> App Store.</a>
 
-* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/01/are-we-open.html"; target="_blank"> Are We Open Yet?</a>
+* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/01/are-we-open.html" target="_blank"> Are We Open Yet?</a>
 
 * Image: komplettie.wordpress.com

@@ -60,17 +60,18 @@ Curiously the wheel (if not The Circle!) might finally be turning. Is the gloss 
 
 According to Susan Pinker, face to face contact is now demonstrably vital to our happiness and health. Even Facebook is moving on when it buys for $22bn a company called WhatsApp, that convenes real friends and colleagues. Humans might finally be outfacing the trolls! 
 
-But what could all this mean for leaders? In switched-on companies they seek to be different, and ever more agile and efficent. Technology is a tool, but the core challenge is to build a workplace culture where people really share. Our earlier Jot (<a href="http://pageconsulting.co.uk/2014/12/23/boundaries3.html"; target="_blank">"How We Can Evolve"</a>) reported two ways leaders are getting to grips with this: "circles of trust" and "bias towards giving". 
+But what could all this mean for leaders? In switched-on companies they seek to be different, and ever more agile and efficent. Technology is a tool, but the core challenge is to build a workplace culture where people really share. Our earlier Jot (<a href="http://pageconsulting.co.uk/2014/12/23/boundaries3.html" target="_blank">"How We Can Evolve"</a>) reported two ways leaders are getting to grips with this: "circles of trust" and "bias towards giving". 
 
 In summary, transparency without freedom and privacy, or information without face to face relationship, fast becomes overload: an invasion, and a tyranny. A total lack of boundaries makes for madness, and good fences always made good neighbours. But today might a good fence need to be more "see-through" for all concerned to respect it? How will we each learn to build the needed trust with each person, and in each moment, to function well? 
 
 Until we return to this, why not try a bit of action research? If we observe and check how well our fences are serving us, we might find out how we can be open and accountable, and what can keep us from becoming overwhelmed.
+
 __________________
 
 <b>Notes</b>
 
-* <a href="http://www.theguardian.com/books/2013/oct/09/circle-dave-eggers-review"; target="_blank">The Circle</a> by David Eggars
+* <a href="http://www.theguardian.com/books/2013/oct/09/circle-dave-eggers-review" target="_blank">The Circle</a> by David Eggars
 
-* <a href="http://www.susanpinker.com/the-village-effect/"; target="_blank">The Village Effect</a> by Susan Pinker
+* <a href="http://www.susanpinker.com/the-village-effect/" target="_blank">The Village Effect</a> by Susan Pinker
 
-* Image: © 2014 <a href="http://www.sketchport.com/user/5109490747703296/sara"; target="_blank">sara. </a> Licensed under <a href="http://creativecommons.org/licenses/by/4.0/"; target="_blank">CC-BY</a>.
+* Image: © 2014 <a href="http://www.sketchport.com/user/5109490747703296/sara" target="_blank">sara. </a> Licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY</a>.

@@ -33,8 +33,8 @@ The new technologies are making it easier to gather, innovate together and gover
 __________________
 <b>Notes</b>  
 
-* Published in RSA Journal Issue 2 2014: <a href="http://www.thersa.org/fellowship/journal/features/features/the-right-mix"; target="_blank"> The Right Mix </a>.
+* Published in RSA Journal Issue 2 2014: <a href="http://www.thersa.org/fellowship/journal/features/features/the-right-mix" target="_blank"> The Right Mix </a>.
 
-* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/02/eve-enabling-environment.html "; target="_blank"> Eve's Enabling Environments</a>. 
+* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/02/eve-enabling-environment.html " target="_blank"> Eve's Enabling Environments</a>. 
 
 * Image: redefineschool.com

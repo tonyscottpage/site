@@ -21,5 +21,6 @@ Please don't think I'm intending to drown any sweet little kittens: rather to fi
 __________________
 <b>Notes</b>  
 
-* Image: Q Magazine qthemusic.com
+* Image: <a href="https://www.qthemusic.com/" target="_blank"> Q Magazine. </a>  
+
 

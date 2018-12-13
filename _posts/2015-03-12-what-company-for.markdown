@@ -10,7 +10,7 @@ image: libb/images/passion.jpg
 
 ![](/libb/images/passion.jpg)
 
-How I came to this question goes back to an evening in 1996 almost 20 years ago in Grosvenor House Hotel, when one Mark Goyder, the founder of think tank Tomorrow's Company, attended a talk by an eager young man who was launching a book called <a href="http://pageconsulting.co.uk/whoweare-diary/"; target="_blank">Diary of a Change Agent</a>.  Afterwards Mark invited the young man to meet and find out more about Tomorrow’s Company. 
+How I came to this question goes back to an evening in 1996 almost 20 years ago in Grosvenor House Hotel, when one Mark Goyder, the founder of think tank Tomorrow's Company, attended a talk by an eager young man who was launching a book called <a href="http://pageconsulting.co.uk/whoweare-diary/" target="_blank">Diary of a Change Agent</a>.  Afterwards Mark invited the young man to meet and find out more about Tomorrow’s Company. 
 
 One thing this no-longer-quite-so-young man still remembers from that time is discovering that a substantial and respected think tank can grow from someone called Charles Handy asking a simple but powerful question: “What is a company for?”.   
 
@@ -35,12 +35,13 @@ As facilitators, we put ourselves in confusing and conflicted situations, and wh
 Which work generates most warmth? While warmth does occur when I work at the petrochemical company, it happens more so with organisations that serve a common good (the education systems, the health research, the auditor securing value from public money, the international cultural relations agency, and the volunteering charity that tackles poverty).
 
 So let's remember the facilitator's secret question “what is our purpose”, that can be so powerful anywhere towards unlocking choices, passions and resources: both our own and those in the people around us.
+
 __________________
 
 <b>Notes</b>
 
-* <a href="http://tomorrowscompany.com/tomorrows-company-the-role-of-business-in-a-changing-world"; target="_blank">Tomorrow's Company</a>.
+* <a href="http://tomorrowscompany.com/tomorrows-company-the-role-of-business-in-a-changing-world" target="_blank">Tomorrow's Company</a>.
 
-* <a href="http://pageconsulting.co.uk/whoweare-diary/"; target="_blank">Diary of a Change Agent</a>.
+* <a href="http://pageconsulting.co.uk/whoweare-diary/" target="_blank">Diary of a Change Agent</a>.
 
-* Image: <a href="https://www.flickr.com/photos/gostalgia/4689564456/"; target="_blank">Gostalgia. </a> Licensed under <a href="http://creativecommons.org/licenses/by/2.0/"; target="_blank">CC-BY</a>.
+* Image: <a href="https://www.flickr.com/photos/gostalgia/4689564456/" target="_blank">Gostalgia. </a> Licensed under <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">CC-BY</a>.

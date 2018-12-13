@@ -19,19 +19,19 @@ They looked at three bad options: stay small, get bureaucratic or have chaos, bu
 
 To support this fourth option they developed a framework for hiring smarter people who need very few rules, because they themselves handle ever increasing complexity, by treating the business as their own.<br><br>
 
-Some of the talent management ideas they pioneered, such as allowing workers to take whatever vacation time they feel is appropriate, were considered a little crazy. When other companies copied this one, as <a href="http://www.theguardian.com/business/2014/sep/24/virgin-staff-take-as-much-holiday-as-like-richard-branson"; target="_blank">Virgin's Richard Branson did recently</a>, the press laid into them. <br><br>
+Some of the talent management ideas they pioneered, such as allowing workers to take whatever vacation time they feel is appropriate, were considered a little crazy. When other companies copied this one, as <a href="http://www.theguardian.com/business/2014/sep/24/virgin-staff-take-as-much-holiday-as-like-richard-branson" target="_blank">Virgin's Richard Branson did recently</a>, the press laid into them. <br><br>
 
 People find the Netflix approach compelling, not only because it seems slightly mad, but because Netflix has been really successful: during 2013 alone its stock more than tripled, it won three Emmy awards, and its U.S. subscriber base grew to nearly 29 million. <br><br>
 
-Yet the approach derives from common sense. Here is <a href="http://youtu.be/o3e1lnixKBM"; target="_blank">Patti McCord telling the story</a>. <br><br>
+Yet the approach derives from common sense. Here is <a href="http://youtu.be/o3e1lnixKBM" target="_blank">Patti McCord telling the story</a>. <br><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
-Here is Patti McCord's <a href="http://www.slideshare.net/reed2001/culture-1798664"; target="_blank">deck of 124 slides</a> that has been described by Sheryl Sandberg, COO of Facebook, as "one of the most important documents to come out of Silicon Valley". It has been viewed five millions times on line.
+Here is Patti McCord's <a href="http://www.slideshare.net/reed2001/culture-1798664" target="_blank">deck of 124 slides</a> that has been described by Sheryl Sandberg, COO of Facebook, as "one of the most important documents to come out of Silicon Valley". It has been viewed five millions times on line.
 
 __________________
 <b>Notes</b>
 
-* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/22/leadbeater.html"; target="_blank"> How To Become a Creative Community</a>.
+* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/22/leadbeater.html" target="_blank"> How To Become a Creative Community</a>.
 * Image: youtube.com

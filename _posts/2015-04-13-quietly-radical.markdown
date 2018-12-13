@@ -28,8 +28,9 @@ One problem is that radical movements are quite unstable, and often become viole
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
 I prefer to be the "Quiet Radical" and even if this appears sometimes weak, or compromised, because it might have more impact in the long run. As an example, a bird-loving friend speaks up to protect the Marsh Harrier, instead of letting it be shot to support the grouse hunting industry. To him such a stand is political: "for" birds and I believe towards social justice. Through such statements his radical values are actually transmitted to me and others.
+
 __________________
 
 <b>Notes</b>
 
-* Image: Raised fist available at <a href="https://openclipart.org/detail/1088/raised-fist"; target="_blank">openclipart</a>.
+* Image: Raised fist available at <a href="https://openclipart.org/detail/1088/raised-fist" target="_blank">openclipart</a>.

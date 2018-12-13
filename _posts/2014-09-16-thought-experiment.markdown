@@ -6,7 +6,7 @@ tags:
 image: libb/images/scot-referendum.jpg
 ---
 
-**In a recent <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> posting </a>we introduced four levels of listening and a three part journey that allows a different future to happen when we are stuck in something difficult, painful or intractable. How might this help us with current difficulties in say Scotland or Middle East? We tried the Scotland example as a thought experiment into Theory U.**
+**In a recent <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html" target="_blank"> posting </a>we introduced four levels of listening and a three part journey that allows a different future to happen when we are stuck in something difficult, painful or intractable. How might this help us with current difficulties in say Scotland or Middle East? We tried the Scotland example as a thought experiment into Theory U.**
 
 ![](/libb/images/scot-referendum.jpg)
 
@@ -28,10 +28,11 @@ So Scotland has been part of a United Kingdom for just over 300 years and this T
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
 
 Without doubt, both sides are leaving behind an old story of domination by Westminster, whichever way the vote goes on Thursday. But the new story that starts on Friday depends above all on people throughout Scotland, from all sides, ramping up their listening to level four, and embarking together on a "Journey of U"!      
+
 __________________
+
 <b>Notes</b> 
 
-* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html"; target="_blank"> Leading at Four Levels. </a>  
-* Image: by <a href="https://www.flickr.com/photos/ssoosay/"; target="_blank">Surian Soosay</a>, under Flickr licence <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons"; target="_blank">Creative Commons</a>
-</a>.
+* Builds on previous posting: <a href="http://pageconsulting.co.uk/2014/09/15/leading-four-levels.html" target="_blank"> Leading at Four Levels. </a>  
+* Image: by <a href="https://www.flickr.com/photos/ssoosay/" target="_blank">Surian Soosay</a>, under Flickr licence <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/Creative Commons" target="_blank">Creative Commons</a>.
 

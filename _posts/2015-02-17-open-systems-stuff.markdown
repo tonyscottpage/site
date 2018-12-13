@@ -18,7 +18,8 @@ We have recently been asked by an audit firm how they might spot whether a schoo
 
 We do not have "the answer", but we can offer the auditor five powerful questions, and a hint of what lies behind them. Taken together these give an idea of what an Open System is, and how (and how not) to make an intervention.
 
-<div id="restOfArticle" style="display:none"> 
+<div id="restOfArticle" style="display:none">
+
 <b>Question 1</b>. What are the signs this entity is a <b>“flexible and adaptive organism"</b>, as opposed to a "fixed and unresponsive mechanism" ?
 <ul>
 <li><b>Example</b>: in the 1970s an almost-monopoly state car industry was churning out and selling unreliable vehicles, that were quick to break down and rust away. What if they had had Trip Advisor or Twitter to wake them up?</li>
@@ -45,7 +46,7 @@ We do not have "the answer", but we can offer the auditor five powerful question
 <b>Question 5</b>. How adequate are the entity’s <b>governance arrangements</b> to maintain hereafter an honest and “open system” (as in 1-4 above)?
 <ul>
 <li><b>Example</b>: Since the banking bailouts, taxpayers have been questioning how honest or open the banking system is, and how well it is serving society. </li>
-<li><b>Proposition</b>: Instead of a closed fortress, an “open system” makes itself accountable by being transparent and directly involving others, and as a result it grows with those it serves in relevance, confidence, permission, trust and reputation.</li><br>
+<li><b>Proposition</b>: Instead of a closed fortress, an “open system” makes itself accountable by being transparent and directly involving others, and as a result it grows with those it serves in relevance, confidence, permission, trust and reputation.</li></ul><br>
 
 </div>
 <a onclick="showMoreOrLess(this,'restOfArticle');">Click to see more...</a>
@@ -66,9 +67,9 @@ __________________
 
 <b>Notes</b>
 
-* Wikipedia: <a href="http://en.wikipedia.org/wiki/Cybernetics"; target="_blank">Cybernetics</a>.
+* Wikipedia: <a href="http://en.wikipedia.org/wiki/Cybernetics" target="_blank">Cybernetics</a>.
 
-* Image: by <a href="https://www.flickr.com/photos/fabricio/"; target="_blank">Fabricio Zuardi</a> under <a href="http://creativecommons.org/licenses/by/2.0/"; target="_blank">Creative Commons</a>.
+* Image: by <a href="https://www.flickr.com/photos/fabricio/" target="_blank">Fabricio Zuardi</a> under <a href="http://creativecommons.org/licenses/by/2.0/" target="_blank">Creative Commons</a>.
 
 
 
