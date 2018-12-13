@@ -14,8 +14,8 @@ Here are some colleagues with whom we created ideas, delivered exciting programm
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-031e">Alan Addison - British Council</th>
-    <td class="tg-031e">Umar Kawu - MiDDLEGROUND</th>
+    <td class="tg-031e">Alan Addison - British Council</td>
+    <td class="tg-031e">Umar Kawu - MiDDLEGROUND</td>
   </tr>
   <tr>
     <td class="tg-031e">Lindy Bossenger</td>
