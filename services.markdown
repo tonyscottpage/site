@@ -7,7 +7,7 @@ permalink: /services/
 index: 10
 ---
 
-Our services are Facilitation to your team, Coaching to individuals, and Programmes with <a href="http://www.middle-ground.co.uk"; target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC" target="_blank">CIPD</a>. Each unlocks a powerful response to your challenge and writes a new Story.
+Our services are Facilitation to your team, Coaching to individuals, and Programmes with <a href="http://www.middle-ground.co.uk" target="_blank">MiDDLEGROUND</a> or <a href="http://www.cipd.co.uk/training/ORDDTC" target="_blank">CIPD</a>. Each unlocks a powerful response to your challenge and writes a new Story.
 
 How? We help you push the boundaries. We focus you from a different angle: more listening, sharing the facts, better linking people. With a bigger picture that matters to them, people will commit more to one another. 
 
