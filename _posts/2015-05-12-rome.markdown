@@ -6,7 +6,7 @@ tags:
 image: libb/images/mary-reka.jpg
 ---
 
-**My friend Mary Joyce (of <a href="http://www.leadingmindsconsulting.com"; target="_blank">Leading Minds Consulting</a>), and her colleague Reka are inviting you to a workshop on Adaptive Leadership 8- 9 June, sponsored by ISPSO in Rome. It is relatively inexpensive, and we can expect high quality, drawing from Ron Heifetz and Marty Linsky's work at the JFK School of Government at Harvard.**
+**My friend Mary Joyce (of <a href="http://www.leadingmindsconsulting.com" target="_blank">Leading Minds Consulting</a>), and her colleague Reka are inviting you to a workshop on Adaptive Leadership 8- 9 June, sponsored by ISPSO in Rome. It is relatively inexpensive, and we can expect high quality, drawing from Ron Heifetz and Marty Linsky's work at the JFK School of Government at Harvard.**
 
 ![](/libb/images/mary-reka.jpg)
 
