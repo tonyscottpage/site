@@ -32,8 +32,7 @@ Here are some people and projects that have inspired our ways of working...
   </tr>
   <tr>
     <td class="tg-031e">Marvin Weisbord: <a href="/documents//marvin_weisbord_interview.htm">Future Search</a></td>
-    <td class="tg-031e">Timothy Gallwey: <a href="/lib/documents/innergame.htm">The Inner Game of Work</td>
-  </tr>
+    <td class="tg-031e">Timothy Gallwey: <a href="/lib/documents/innergame.htm">The Inner Game of Work</a></td>
   <tr>
     <td class="tg-031e">Peter Block: <a href="/lib/documents/block6.htm">Six Conversations</a><br></td>
     <td class="tg-031e">Nancy Kline: <a href="/lib/documents/nancyk.htm">Time to Think</a></td>
@@ -57,6 +56,4 @@ Here are some people and projects that have inspired our ways of working...
   <tr>
     <td class="tg-031e">Etienne Wenger: <a href="/lib/documents/wengercommofpractice.pdf">Communities of Practice</a></td>
     <td class="tg-031e">Thomas Piketty: <a href="http://www.theguardian.com/books/2014/apr/13/occupy-right-capitalism-failed-world-french-economist-thomas-piketty">Capital in the 21st Century</a></td>
-  </tr>
-
-</table>
+</tr></table>
